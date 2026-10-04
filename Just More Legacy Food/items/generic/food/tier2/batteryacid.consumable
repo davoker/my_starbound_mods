@@ -1,0 +1,35 @@
+{
+  "itemName" : "batteryacid",
+  "rarity" : "uncommon",
+  "price" : 240,
+  "category" : "drink",
+  "inventoryIcon" : "batteryacid.png",
+  "description" : "Luckily, not actual battery acid!",
+  "shortdescription" : "Battery Acid",
+  "learnBlueprintsOnPickup" : [ "dirtea" ],
+  "collectablesOnPickup" : { "cooking" : "batteryacid"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+	{
+		"effect" : "runboostfood",
+		"duration" : 180
+	}
+  ] ],
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

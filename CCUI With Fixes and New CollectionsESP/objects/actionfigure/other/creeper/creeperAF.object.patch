@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Dato curioso: Los Creepers fueron considerados una vez para ser añadidos a Starbound\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Creeper"
+  }
+]

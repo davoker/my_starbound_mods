@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una abeja extinta y de gran tamaño, alguna vez nativa de los bosques de flores gigantes\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Abeja gigante"
+  }
+]

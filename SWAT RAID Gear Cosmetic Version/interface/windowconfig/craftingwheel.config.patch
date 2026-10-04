@@ -1,0 +1,10 @@
+[
+	{
+		"op": "add",
+		"path": "/modTab/-",
+		"value": {
+			"file": "/interface/crafting/tabicon_swatraid.png",
+			"filter": ["swatraid"]
+		}
+	}
+]

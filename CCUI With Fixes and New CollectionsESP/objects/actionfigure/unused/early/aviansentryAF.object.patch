@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una antigua máquina de guerra Avian perdida en el tiempo\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Centinela Avian"
+  }
+]

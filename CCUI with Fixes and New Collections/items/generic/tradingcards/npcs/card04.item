@@ -1,0 +1,13 @@
+{
+  "itemName" : "card04",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card04" },
+  "inventoryIcon" : "card04.png",
+  "description" : "A Hylotl scholar who requires occasional rescuing!",
+  "shortdescription" : "#04 Koichi",
+  "largeImage" : "card04.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card04.png"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Un amargado habitante de los árboles y un optimista de cuello largo forman un dúo bastante icónico\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Koala y Jirafa espacial"
+  }
+]

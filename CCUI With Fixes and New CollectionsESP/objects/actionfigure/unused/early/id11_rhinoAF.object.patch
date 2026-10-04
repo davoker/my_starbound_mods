@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una criatura rinoceronte enojada que lleva una máscara\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Rhinox"
+  }
+]

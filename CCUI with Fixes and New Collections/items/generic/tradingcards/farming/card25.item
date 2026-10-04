@@ -1,0 +1,13 @@
+{
+  "itemName" : "card25",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card25" },
+  "inventoryIcon" : "card25.png",
+  "description" : "A good source of venom samples .",
+  "shortdescription" : "#25 Poison Fluffalo",
+  "largeImage" : "card25.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card25.png"
+}

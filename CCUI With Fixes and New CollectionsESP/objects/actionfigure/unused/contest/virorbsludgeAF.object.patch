@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una variedad venenosa de Virorb que se encuentra alrededor de pozos de alquitrán\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb de lodo"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "objectName" : "cardchest",
+  "colonyTags" : ["storage"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 115,
+  "description" : "A hi-tech container for cards.\n^red;Only collectible cards of 'monsters and npcs'.^white;",
+  "shortdescription" : "Card Chest 1",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : " ",
+  "avianDescription" : " ",
+  "floranDescription" : " ",
+  "glitchDescription" : " ",
+  "humanDescription" : " ",
+  "hylotlDescription" : " ",
+  "novakidDescription" : " ",
+
+  "inventoryIcon" : "cardchesticon.png",
+  "lightColor" : [40, 48, 24],
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "cardchest.png:<color>.<key>", "fullbright" : true }, { "image" : "cardchestlit.png:<color>.<key>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [-1, 0], [0, 0], [-1, 1], [0, 1], [-1, 2], [0, 2], [-1, 3], [0, 3] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "cardchest.png:<color>.<key>", "fullbright" : true }, { "image" : "cardchestlit.png:<color>.<key>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaces" : [ [-1, 0], [0, 0], [-1, 1], [0, 1], [-1, 2], [0, 2], [-1, 3], [0, 3] ],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/cropshipper_box_lock1.ogg" ],
+  "closeSounds" : [ "/sfx/objects/cropshipper_box_lock2.ogg" ],
+  "frameCount" : 5,
+  "slotCount" : 91,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

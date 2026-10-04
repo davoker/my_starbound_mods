@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Un Fluffalo de veneno. Su pelaje gotea veneno, esperando a ser recolectado\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fluffalo de veneno"
+  }
+]

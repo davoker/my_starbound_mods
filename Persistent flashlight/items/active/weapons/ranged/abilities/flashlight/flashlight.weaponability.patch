@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/ability/scripts",
+    "value": [
+      "/items/active/weapons/ranged/abilities/flashlight/flashlight.lua",
+      "/items/active/weapons/ranged/abilities/flashlight/flashlight_persist.lua"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/ability/class",
+    "value": "FlashlightPersist"
+  }
+]

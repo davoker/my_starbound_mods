@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbbombaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbbombaf" },
+  "shortdescription" : "Bomb Virorb Figurine",
+  "description" : "The label reads, \"Anyone unable to get one of these off their head in time ends up resulting in quite a violent death.\"",
+
+  "inventoryIcon" : "contest.png:virorbbomb",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbbomb",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

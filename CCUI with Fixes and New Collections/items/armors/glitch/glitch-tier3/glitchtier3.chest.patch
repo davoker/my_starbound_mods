@@ -1,0 +1,8 @@
+[{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {
+			"basics_armor": "glitchtier3chest"
+		}
+	}
+]

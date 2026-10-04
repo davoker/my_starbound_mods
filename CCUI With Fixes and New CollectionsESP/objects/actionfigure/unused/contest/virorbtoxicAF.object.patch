@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"El pegajoso pelaje de este Virorb es tan corrosivo que incluso él mismo ha sido digerido por él\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb tóxico"
+  }
+]

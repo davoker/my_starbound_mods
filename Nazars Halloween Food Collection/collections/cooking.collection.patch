@@ -1,0 +1,274 @@
+[
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinbutter",
+    "value": {
+      "order": 1,
+      "item": "nzrpumpkinbutter"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincreampie",
+    "value": {
+      "order": 2,
+      "item": "nzrpumpkincreampie"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincupcake",
+    "value": {
+      "order": 3,
+      "item": "nzrpumpkincupcake"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkindonut",
+    "value": {
+      "order": 4,
+      "item": "nzrpumpkindonut"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinicecream",
+    "value": {
+      "order": 5,
+      "item": "nzrpumpkinicecream"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinminidonuts",
+    "value": {
+      "order": 6,
+      "item": "nzrpumpkinminidonuts"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinmochi",
+    "value": {
+      "order": 7,
+      "item": "nzrpumpkinmochi"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinparfait",
+    "value": {
+      "order": 8,
+      "item": "nzrpumpkinparfait"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinpie",
+    "value": {
+      "order": 9,
+      "item": "nzrpumpkinpie"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinpudding",
+    "value": {
+      "order": 10,
+      "item": "nzrpumpkinpudding"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinringcake",
+    "value": {
+      "order": 11,
+      "item": "nzrpumpkinringcake"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinroll",
+    "value": {
+      "order": 12,
+      "item": "nzrpumpkinroll"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincaramelcocktail",
+    "value": {
+      "order": 13,
+      "item": "nzrpumpkincaramelcocktail"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinfruitpunch",
+    "value": {
+      "order": 14,
+      "item": "nzrpumpkinfruitpunch"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinspicelatte",
+    "value": {
+      "order": 15,
+      "item": "nzrpumpkinspicelatte"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincheeserisotto",
+    "value": {
+      "order": 16,
+      "item": "nzrpumpkincheeserisotto"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinchili",
+    "value": {
+      "order": 17,
+      "item": "nzrpumpkinchili"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkindumpling",
+    "value": {
+      "order": 18,
+      "item": "nzrpumpkindumpling"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinhummus",
+    "value": {
+      "order": 19,
+      "item": "nzrpumpkinhummus"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinpasta",
+    "value": {
+      "order": 20,
+      "item": "nzrpumpkinpasta"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinsoup",
+    "value": {
+      "order": 21,
+      "item": "nzrpumpkinsoup"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinsushi",
+    "value": {
+      "order": 22,
+      "item": "nzrpumpkinsushi"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinbagel",
+    "value": {
+      "order": 23,
+      "item": "nzrpumpkinbagel"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinbread",
+    "value": {
+      "order": 24,
+      "item": "nzrpumpkinbread"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinfrenchtoast",
+    "value": {
+      "order": 25,
+      "item": "nzrpumpkinfrenchtoast"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinpancake",
+    "value": {
+      "order": 26,
+      "item": "nzrpumpkinpancake"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinscone",
+    "value": {
+      "order": 27,
+      "item": "nzrpumpkinscone"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinwaffle",
+    "value": {
+      "order": 28,
+      "item": "nzrpumpkinwaffle"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrcandycorn",
+    "value": {
+      "order": 29,
+      "item": "nzrcandycorn"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincandy",
+    "value": {
+      "order": 30,
+      "item": "nzrpumpkincandy"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinchocolates",
+    "value": {
+      "order": 31,
+      "item": "nzrpumpkinchocolates"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkincookie",
+    "value": {
+      "order": 32,
+      "item": "nzrpumpkincookie"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrpumpkinmuffin",
+    "value": {
+      "order": 33,
+      "item": "nzrpumpkinmuffin"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collectables/nzrspicedpumpkinseed",
+    "value": {
+      "order": 34,
+      "item": "nzrspicedpumpkinseed"
+    }
+  }
+]

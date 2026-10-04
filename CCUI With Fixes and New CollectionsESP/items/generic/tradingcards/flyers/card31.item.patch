@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Al saborear las partículas del aire, puede sentir lo que tiene delante."
+  }
+]

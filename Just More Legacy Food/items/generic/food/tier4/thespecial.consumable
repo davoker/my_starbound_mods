@@ -1,0 +1,29 @@
+{
+  "itemName" : "thespecial",
+  "rarity" : "common",
+  "price" : 90,
+  "category" : "preparedFood",
+  "inventoryIcon" : "thespecial.png",
+  "description" : "You're better off not knowing what's in it.",
+  "shortdescription" : "The Special",
+  "collectablesOnPickup" : { "cooking" : "thespecial" },
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 220
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 220
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

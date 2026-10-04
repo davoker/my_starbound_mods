@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc029",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc029" },
+  "inventoryIcon" : "mtc029.png",
+  "description" : "Takes down foes from afar, with extreme prejudice.",
+  "shortdescription" : "#29 Callox Phasesnipe",
+  "largeImage" : "mtc029.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc029.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc007",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc007" },
+  "inventoryIcon" : "mtc007.png",
+  "description" : "Ah, the Hellblast. Blasting stuff into hell since 2084.",
+  "shortdescription" : "#7 Manticon Hellblast",
+  "largeImage" : "mtc007.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc007.png"
+}

@@ -1,0 +1,16 @@
+{
+
+  "frameGrid" : {
+    "size" : [16, 16],
+    "dimensions" : [8, 7],
+    "names" : [
+      [ "chucklefish", "fennix", "gleap", "kasumi", "snowbun", "spookydoll", "RM01", "RM03" ],
+      [ "boncey", "slugfrog", "redpanda", "workchick", "RM26", "RM29", "RM31", "RM75" ],
+      [ "glooby", "wormonch", "guardiandroid", "grimfang", "RM78", "RMe2", "RM10", "RM46" ],
+      [ "minoclo", "zoria", "msteddy", "erchiusghost", "orinathi", "umbrathi", "reinathi", "myaonori" ],
+      [ "RM39", "drillbutt", "RM33", "murasame", "mugglob", "waffles", "smoglin", "petricub" ],
+      [ "ignome", "snuffish", "capricoat", "snaunt", "snugget", "snoogle", "symbiote", "nautileech" ],
+      [ "octuko", null, null, null, null, null, null, null ]
+    ]
+  }
+}

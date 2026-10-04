@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc020",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc020" },
+  "inventoryIcon" : "mtc020.png",
+  "description" : "'I bought this thing expecting it to produce tombstones. What it really does is far cooler!' -Satisfied customer",
+  "shortdescription" : "#20 Necrolix Tombmaker",
+  "largeImage" : "mtc020.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc020.png"
+}

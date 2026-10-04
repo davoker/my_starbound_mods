@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_nautileechaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "nautileechaf" },
+  "shortdescription" : "Nautileech Figurine",
+  "description" : "The label reads, \"They suck. Literally.\"",
+
+  "inventoryIcon" : "unused.png:nautileech",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:nautileech",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "itemName" : "vanillaicecream",
+  "rarity" : "Common",
+  "price" : 180,
+  "category" : "preparedFood",
+  "inventoryIcon" : "vanillaicecream.png",
+  "description" : "I scream, you scream, we all scream for- oh... you get the point.",
+  "collectablesOnPickup" : { "cooking" : "vanillaicecream"},
+  "shortdescription" : "Vanilla Ice Cream",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 240
+    },
+	{
+        "effect" : "regeneration2",
+        "duration" : 30
+    },
+	{
+        "effect" : "runboostfood",
+        "duration" : 60
+    },
+	{
+        "effect" : "jumpboostfood",
+        "duration" : 60
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

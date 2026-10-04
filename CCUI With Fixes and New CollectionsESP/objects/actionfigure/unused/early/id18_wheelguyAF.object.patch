@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una pequeña defensa de primera línea, de una sola rueda, armada con un guante de boxeo y un láser\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Droide de rueda"
+  }
+]

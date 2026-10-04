@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_gloobyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "gloobyaf" },
+  "shortdescription" : "Glooby Figurine",
+  "description" : "The label reads, \"Some kinda bear-like thing.\"",
+
+  "inventoryIcon" : "superearly.png:6_fluffybear",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:6_fluffybear",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_fluffaloelectricaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffaloelectricaf" },
+  "shortdescription" : "Electric Fluffalo Figurine",
+  "description" : "The label reads, \"Electric Fluffalo coats amass so much static electricity that the charge within can be harvested.\"",
+  "inventoryIcon" : "fluffaloelectricAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffaloelectricAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

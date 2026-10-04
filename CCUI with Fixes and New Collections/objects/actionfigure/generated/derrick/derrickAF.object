@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_derrickaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "derrickaf" },
+  "shortdescription" : "Derrick Figurine",
+  "description" : "The label reads, \"Does such a creature exist?\"",
+// Heh, nah. Derrick's head has been removed since at least release 1.0.
+// So... I'm not even gonna bother trying to find the rest of the parts.
+
+  "inventoryIcon" : "derrickAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "derrickAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

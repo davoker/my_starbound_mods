@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "poisonfluffaloegg", "count" : 1 },
+	{ "item" : "milk", "count" : 1 },
+	{ "item" : "cocoa", "count" : 1 },
+	{ "item" : "sugar", "count" : 3 }
+  ],
+  "output" : { "item" : "poisoncake", "count" : 3 },
+  "groups" : [ "craftingfood", "desserts" ]
+}

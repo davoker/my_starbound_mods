@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Es conocido por robar en los huertos de verduras."
+  }
+]

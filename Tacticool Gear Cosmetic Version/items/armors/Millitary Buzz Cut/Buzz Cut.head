@@ -1,0 +1,42 @@
+{
+  "itemName" : "artyomBuzzcut",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "Sir, yes sir!",
+  "shortdescription" : "Military Buzz Cut",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "4b4b4b" : "4b4b4b" },
+    // BLACK
+    { "4b4b4b" : "222222" },
+    // GREY
+    { "4b4b4b" : "7d7d7d" },
+    // WHITE
+    { "4b4b4b" : "767676" },
+    // RED
+    { "4b4b4b" : "613535" },
+    // ORANGE
+    { "4b4b4b" : "a56e3d" },
+    // YELLOW
+    { "4b4b4b" : "a58a3d" },
+    // GREEN
+    { "4b4b4b" : "5f8330" },
+    // BLUE
+    { "4b4b4b" : "3b4552" },
+    // PURPLE
+    { "4b4b4b" : "7f5077" },
+    // PINK
+    { "4b4b4b" : "d687c9" },
+    // BROWN
+    { "4b4b4b" : "5a3b35" }
+  ]
+}

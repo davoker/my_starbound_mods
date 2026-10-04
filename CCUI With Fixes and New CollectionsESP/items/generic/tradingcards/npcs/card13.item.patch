@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Esta tienda ofrece teletransportadores personales en una variedad de estilos."
+  }
+]

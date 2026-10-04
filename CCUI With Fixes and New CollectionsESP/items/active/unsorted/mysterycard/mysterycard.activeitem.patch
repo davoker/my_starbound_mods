@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ábrelo y revela su contenido. ¡Qué emocionante!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Carta Misteriosa"
+  }
+]

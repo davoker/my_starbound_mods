@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_lizardguyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "lizardguyaf" },
+  "shortdescription" : "Lizard Figurine",
+  "description" : "The label reads, \"It's rumored that long ago, the lizards and the penguins had a great war. Guess who won.\"",
+
+  "inventoryIcon" : "superearly.png:9_lizardguy",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:9_lizardguy",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

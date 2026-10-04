@@ -1,0 +1,25 @@
+{
+  "itemName" : "veggiesoup",
+  "rarity" : "uncommon",
+  "price" : 650,
+  "category" : "preparedFood",
+  "inventoryIcon" : "veggiesoup.png",
+  "description" : "A hearty, healthy veggie soup, for weed eaters and tree huggers.",
+  "shortdescription" : "Veggie Soup",
+  "collectablesOnPickup" : { "cooking" : "veggiesoup"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 30
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

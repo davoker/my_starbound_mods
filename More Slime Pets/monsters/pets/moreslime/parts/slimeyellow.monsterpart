@@ -1,0 +1,9 @@
+{
+  "name" : "slimeyellow",
+  "category" : "moreslime",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "slimeyellow.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card54",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card54" },
+  "inventoryIcon" : "card54.png",
+  "description" : "Its movement is determined by temperature levels in the atmosphere.",
+  "shortdescription" : "#54 Squeem",
+  "largeImage" : "card54.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card54.png"
+}

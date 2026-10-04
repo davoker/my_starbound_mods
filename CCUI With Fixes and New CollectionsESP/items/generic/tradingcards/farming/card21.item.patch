@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una buena fuente de fibra vegetal."
+  }
+]

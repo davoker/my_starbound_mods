@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc014",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc014" },
+  "inventoryIcon" : "mtc014.png",
+  "description" : "'NOTE: Poison ammo not included.' Well, darn.",
+  "shortdescription" : "#14 Shade Co. Poisonpump",
+  "largeImage" : "mtc014.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc014.png"
+}

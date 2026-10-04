@@ -1,0 +1,1202 @@
+[
+  {
+    "op": "add",
+    "path": "/basicMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flyingMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/robotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/noMeatMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/weaklingMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/generatedGroundMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/adultpoptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/adultpoptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card28"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/anglureTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/anglureTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card69"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/agrobatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/agrobatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card55"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/batongTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/batongTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card31"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bobfaeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bobfaeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card29"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bobotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bobotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card73"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bulbopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bulbopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card41"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/capricoatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/capricoatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card76"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crabcanoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crabcanoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card56"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crustoiseTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crustoiseTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card35"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crutterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crutterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card49"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fennixTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fennixTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card57"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gleapTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gleapTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card30"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hemogoblinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hemogoblinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card66"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hypnareTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hypnareTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card43"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ignomeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ignomeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card59"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/iguarmorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/iguarmorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card36"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ixolingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ixolingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card86"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kluexsentryTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kluexsentryTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card87"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lilodonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lilodonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card77"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lumothTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/lumothTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card39"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mandrafloraTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mandrafloraTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card42"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/miasmopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/miasmopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card50"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/monopusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/monopusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card83"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/narfinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/narfinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card80"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card32"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card33"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/nutmidgelingTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card34"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/oculobTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/oculobTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card51"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ooglerTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ooglerTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card65"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/orbideTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/orbideTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card64"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paratailTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paratailTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card40"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/peblitTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/peblitTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card37"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/petricubTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/petricubTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card62"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pipkinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pipkinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card75"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/poptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/poptopTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card27"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pteropodTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pteropodTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card53"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pulpinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pulpinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card78"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pyromantleTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pyromantleTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card58"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/quagmuttTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/quagmuttTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card45"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ringramTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ringramTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card81"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scandroidTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scandroidTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card70"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scaveranTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scaveranTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card48"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/skimbusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/skimbusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card82"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/smoglinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/smoglinTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card60"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snagglerTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snagglerTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card38"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snauntTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snauntTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card52"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snuffishTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/snuffishTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card91"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/spookitTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/spookitTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card63"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/sporgusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/sporgusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card46"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/squeemTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/squeemTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card54"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gosmetTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gosmetTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card85"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/taroniTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/taroniTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card67"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tinticTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tinticTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card71"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/toumingoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/toumingoTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card47"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/trictusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/trictusTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card44"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/triplodTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/triplodTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card72"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/voltipTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/voltipTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card74"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/wisperTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/wisperTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card79"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/yokatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/yokatTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card68"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/dreadwingDrop/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/dreadwingDrop/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card16"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/shockhopperDrop/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/shockhopperDrop/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card20"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/erchiushorrorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/erchiushorrorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card02"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/erchiushorrorTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card61"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ixodoomTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ixodoomTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card03"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/asranoxTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/asranoxTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card04"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/asranoxTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card08"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kluexavatarTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kluexavatarTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card05"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bigapeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bigapeTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card06"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bonedragonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.15,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bonedragonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card07"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bonedragonTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.05,
+      "item": "card08"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/moontantTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/moontantTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card88"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pogolemTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pogolemTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card89"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pogolemTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.01,
+      "item": "card90"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/smallRobotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "mysterycard"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/largeRobotTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "mysterycard"
+    }
+  }
+]

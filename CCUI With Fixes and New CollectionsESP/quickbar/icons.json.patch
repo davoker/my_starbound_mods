@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/items/collectscollections:collections/label",
+    "value": "Colecciones Personalizadas"
+  }
+]

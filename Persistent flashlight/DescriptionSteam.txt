@@ -1,0 +1,30 @@
+[h1]This mod was made with zero effort using an AI agent via Open Code.[/h1]
+AI is among us; you can embrace and love it, or you can hate it, but it is inevitable. I yield my soul to this devil and quote an invented prayer from a non-existent book:
+
+[b]"I will think with my head no longer, for AI shall do so for me. In nomine Qubiti, et Superpositionis, et Entanglementi Sancti, AI."[/b]
+
+I hope this hurts someone, seriously (づ￣ 3￣)づ
+
+[h1]Description, or something like this[/h1]
+Every time you holstered your weapon, the flashlight turned off and forgot its state. This mod makes it remember.
+
+[list]
+[*]If you leave the flashlight on and holster the weapon, when you draw it again, it turns back on.
+[*]If you leave it off, it stays off when drawn.
+[*]It works with any weapon that uses the original game flashlight, including modded weapons.
+[*]It does not modify original files; a new LUA file is created and flashlight.weaponability is patched to call it. The functionality of the original LUA file that modifies the flashlight's behavior remains operational.
+[/list]
+
+[h1]Compatibility[/h1]
+The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=743648486] Flashlight, stay on!!![/url] mod is redundant as it performs the same function as this mod, with the difference that my mod does not replace the original LUA file.
+
+- It should be compatible with everything, since a new file is created.
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+- I'll take the credit; I'm sure the AI won't complain (☞ﾟヮﾟ)☞
+
+[hr][/hr]
+[url=https://ko-fi.com/davoker][img]https://i.imgur.com/dQoBbSg.png[/img][/url][url=https://buymeacoffee.com/davoker][img]https://i.imgur.com/dYlpQvZ.png[/img][/url]

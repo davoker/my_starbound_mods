@@ -1,0 +1,13 @@
+{
+  "itemName" : "card31",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card31" },
+  "inventoryIcon" : "card31.png",
+  "description" : "By tasting the particles in the air it can sense what's ahead of it.",
+  "shortdescription" : "#31 Batong",
+  "largeImage" : "card31.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card31.png"
+}

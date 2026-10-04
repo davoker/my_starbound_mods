@@ -1,0 +1,49 @@
+{
+  "itemName" : "ArtyomGrayGorkatop",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "This is Gorka 4 Suit.",
+  "shortdescription" : "Gray Gorka Suit Top",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // DEFAULT
+    { "3f3f3f" : "3f3f3f", "2c2c2c" : "2c2c2c", "1b1b1b" : "1b1b1b" },
+    // BLACK
+    { "3f3f3f" : "3f3f3f", "2c2c2c" : "2c2c2c", "1b1b1b" : "1b1b1b" },
+    // GREY
+    { "3f3f3f" : "8f8f8f", "2c2c2c" : "7a7a7a", "1b1b1b" : "5e5e5e" },
+    // WHITE
+    { "3f3f3f" : "e6e6e6", "2c2c2c" : "b6b6b6", "1b1b1b" : "7b7b7b" },
+    // RED
+    { "3f3f3f" : "451313", "2c2c2c" : "360f0f", "1b1b1b" : "280b0b" },
+    // ORANGE
+    { "3f3f3f" : "ffd495", "2c2c2c" : "ea9931", "1b1b1b" : "af4e00" },
+    // YELLOW
+    { "3f3f3f" : "ffffa7", "2c2c2c" : "e2c344", "1b1b1b" : "a46e06" },
+    // GREEN
+    { "3f3f3f" : "2e342a", "2c2c2c" : "1f231c", "1b1b1b" : "181b16" },
+    // BLUE
+    { "3f3f3f" : "1a3046", "2c2c2c" : "10253a", "1b1b1b" : "0e1e2e" },
+    // PURPLE
+    { "3f3f3f" : "d29ce7", "2c2c2c" : "a451c4", "1b1b1b" : "6a2284" },
+    // PINK
+    { "3f3f3f" : "eab3db", "2c2c2c" : "d35eae", "1b1b1b" : "97276d" },
+    // BROWN
+    { "3f3f3f" : "ccae7c", "2c2c2c" : "a47844", "1b1b1b" : "754c23" }
+  ]
+}

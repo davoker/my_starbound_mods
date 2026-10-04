@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/4/variants",
+    "value": 3
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/4/treeStemList/-",
+    "value": "snowspikey"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/4/treeFoliageList/-",
+    "value": "snowdarkleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 2,
+      "distribution": "/biomes/distributions.config:scatteredSmall",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 15,
+      "treeStemList": [
+        "deadtree1"
+      ],
+      "treeFoliageList": [
+        "deadleaves",
+        "deadmoss"
+      ]
+    }
+  }
+]

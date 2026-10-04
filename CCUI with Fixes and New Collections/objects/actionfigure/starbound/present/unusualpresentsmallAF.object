@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_unusualpresentsmallaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "unusualpresentsmallaf" },
+  "shortdescription" : "Unusual Gift Figurine",
+  "description" : "The label reads, \"What's inside is anyone's guess. Just hope it isn't organic...\"",
+
+  "inventoryIcon" : "unusualpresentsmallAF.png",
+  "orientations" : [
+    {
+      "image" : "unusualpresentsmallAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

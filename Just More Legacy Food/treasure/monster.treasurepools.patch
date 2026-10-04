@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/basicMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "fleshlump"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/flyingMonsterTreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": "fleshlump"
+    }
+  }
+]

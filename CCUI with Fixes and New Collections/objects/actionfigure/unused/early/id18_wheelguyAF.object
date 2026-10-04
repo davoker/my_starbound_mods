@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_wheelydroidaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "wheelydroidaf" },
+  "shortdescription" : "Wheely Droid Figurine",
+  "description" : "The label reads, \"A small, one-wheeled first-line of defense, armed with a boxing glove and a laser.\"",
+
+  "inventoryIcon" : "superearly.png:wheelydroid",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:wheelydroid",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

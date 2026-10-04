@@ -1,0 +1,13 @@
+{
+  "itemName" : "card47",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card47" },
+  "inventoryIcon" : "card47.png",
+  "description" : "The long legs allow it to stand in water to catch fish.",
+  "shortdescription" : "#47 Toumingo",
+  "largeImage" : "card47.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card47.png"
+}

@@ -1,0 +1,242 @@
+{
+  "name" : "bun_bcs",
+  "title" : "^#FF9999;Biome Cosmetic Sets",
+  "type" : "item",
+  
+   "collectables" : {
+   	//forest
+
+    	"hikerchest" : { "order" : 1, "item" : "hikerchest", "icon": "/bun_images/bcs/hiker_chest.png" },
+    	"hikerlegs" : { "order" : 2, "item" : "hikerlegs", "icon": "/bun_images/bcs/hiker_legs.png" },
+	"hikerback" : { "order" : 3, "item" : "hikerback", "icon": "/bun_images/bcs/hiker_back.png"},
+
+	//Spring
+
+	"floweryhead" : { "order" : 4, "item" : "floweryhead", "icon": "/bun_images/bcs/flowery_head.png" },
+	"flowerychest" : { "order" : 5, "item" : "flowerychest", "icon": "/bun_images/bcs/flowery_chest.png" },
+    	"flowerylegs" : { "order" : 6, "item" : "flowerylegs", "icon": "/bun_images/bcs/flowery_legs.png" },
+	"floweryback" : { "order" : 7, "item" : "floweryback", "icon": "/bun_images/bcs/flowery_back.png"},
+
+	//Giantflower	
+
+	"buzzyhead" : { "order" : 8, "item" : "buzzyhead", "icon": "/bun_images/bcs/buzzy_head.png" },
+	"buzzychest" : { "order" : 9, "item" : "buzzychest", "icon": "/bun_images/bcs/buzzy_chest.png" },
+    	"buzzylegs" : { "order" : 10, "item" : "buzzylegs", "icon": "/bun_images/bcs/buzzy_legs.png" },
+	"buzzyback" : { "order" : 11, "item" : "buzzyback", "icon": "/bun_images/bcs/buzzy_back.png"},
+
+	//MushroomPatch
+	
+	"wildfungushead" : { "order" : 12, "item" : "wildfungushead", "icon": "/bun_images/bcs/wildfungus_head.png" },
+	"wildfunguschest" : { "order" : 13, "item" : "wildfunguschest", "icon": "/bun_images/bcs/wildfungus_chest.png" },
+    	"wildfunguspants" : { "order" : 14, "item" : "wildfunguspants", "icon": "/bun_images/bcs/wildfungus_legs.png" },
+
+	//Jungle
+	
+	"headbandhead" : { "order" : 15, "item" : "headbandhead", "icon": "/bun_images/bcs/headband_head.png" },
+	"toughchest" : { "order" : 16, "item" : "toughchest", "icon": "/bun_images/bcs/tough_chest.png" },
+    	"toughlegs" : { "order" : 17, "item" : "toughlegs", "icon": "/bun_images/bcs/tough_legs.png" },
+
+	"tigerhead" : { "order" : 18, "item" : "tigerhead", "icon": "/bun_images/bcs/tiger_head.png" },
+	"tigertailback" : { "order" : 19, "item" : "tigertailback", "icon": "/bun_images/bcs/tigertail_back.png"},
+
+	//Swamp
+
+	"lagoonhead" : { "order" : 20, "item" : "lagoonhead", "icon": "/bun_images/bcs/lagoon_head.png" },
+	"lagoonchest" : { "order" : 21, "item" : "lagoonchest", "icon": "/bun_images/bcs/lagoon_chest.png" },
+    	"lagoonpants" : { "order" : 22, "item" : "lagoonpants", "icon": "/bun_images/bcs/lagoon_legs.png" },
+
+	//desert
+
+	"bedouinhead" : { "order" : 23, "item" : "bedouinhead", "icon": "/bun_images/bcs/bedouin_head.png" },
+	"bedouinchest" : { "order" : 24, "item" : "bedouinchest", "icon": "/bun_images/bcs/bedouin_chest.png" },
+    	"bedouinlegs" : { "order" : 25, "item" : "bedouinlegs", "icon": "/bun_images/bcs/bedouin_legs.png" },
+
+	//Savannah
+
+	"hunterchest" : { "order" : 26, "item" : "hunterchest", "icon": "/bun_images/bcs/hunter_chest.png" },
+    	"hunterlegs" : { "order" : 27, "item" : "hunterlegs", "icon": "/bun_images/bcs/hunter_legs.png" },
+	"hunterback" : { "order" : 28, "item" : "hunterback", "icon": "/bun_images/bcs/hunter_back.png"},
+
+	//Colourful
+
+	"rainbowwoodhead" : { "order" : 29, "item" : "rainbowwoodhead", "icon": "/bun_images/bcs/rainbowwood_head.png" },
+	"rainbowwoodchest" : { "order" : 30, "item" : "rainbowwoodchest", "icon": "/bun_images/bcs/rainbowwood_chest.png" },
+    	"rainbowwoodlegs" : { "order" : 31, "item" : "rainbowwoodlegs", "icon": "/bun_images/bcs/rainbowwood_legs.png" },
+
+	"rainbowhoodhead" : { "order" : 32, "item" : "rainbowhoodhead", "icon": "/bun_images/bcs/rainbowhood_head.png" },
+    	"rainbowcapeback" : { "order" : 33, "item" : "rainbowcapeback", "icon": "/bun_images/bcs/rainbowcape_back.png" },
+
+	//Tar
+
+	"sabertoothhelm" : { "order" : 34, "item" : "sabertoothhelm", "icon": "/bun_images/bcs/sabertoothhelm_head.png" },
+	"woollychest" : { "order" : 35, "item" : "woollychest", "icon": "/bun_images/bcs/woolly_chest.png" },
+    	"woollylegs" : { "order" : 36, "item" : "woollylegs", "icon": "/bun_images/bcs/woolly_legs.png" },
+	"woollyback" : { "order" : 37, "item" : "woollyback", "icon": "/bun_images/bcs/woolly_back.png"},
+
+	//snow	
+	
+	"snowinfantryhead" : { "order" : 38, "item" : "snowinfantryhead", "icon": "/bun_images/bcs/snowinfantry_head.png" },
+	"snowinfantrychest" : { "order" : 39, "item" : "snowinfantrychest", "icon": "/bun_images/bcs/snowinfantry_chest.png" },
+    	"snowinfantrypants" : { "order" : 40, "item" : "snowinfantrypants", "icon": "/bun_images/bcs/snowinfantry_legs.png" },
+
+	//alpine
+
+	"alpacahead" : { "order" : 41, "item" : "alpacahead", "icon": "/bun_images/bcs/alpaca_head.png" },
+	"alpacachest" : { "order" : 42, "item" : "alpacachest", "icon": "/bun_images/bcs/alpaca_chest.png" },
+    	"alpacalegs" : { "order" : 43, "item" : "alpacalegs", "icon": "/bun_images/bcs/alpaca_legs.png" },
+
+	//ice	
+
+	"cyclopsyetihead" : { "order" : 44, "item" : "cyclopsyetihead", "icon": "/bun_images/bcs/cyclopsyeti_head.png" },
+	"cyclopsyetichest" : { "order" : 45, "item" : "cyclopsyetichest", "icon": "/bun_images/bcs/cyclopsyeti_chest.png" },
+    	"cyclopsyetilegs" : { "order" : 46, "item" : "cyclopsyetilegs", "icon": "/bun_images/bcs/cyclopsyeti_legs.png" },
+
+	//Bioluminescence
+
+	"bioluminhead" : { "order" : 47, "item" : "bioluminhead", "icon": "/bun_images/bcs/biolumin_head.png" },
+	"bioluminchest" : { "order" : 48, "item" : "bioluminchest", "icon": "/bun_images/bcs/biolumin_chest.png" },
+    	"bioluminlegs" : { "order" : 49, "item" : "bioluminlegs", "icon": "/bun_images/bcs/biolumin_legs.png" },
+
+	//Steamspring
+
+	"pipehat" : { "order" : 50, "item" : "pipehat", "icon": "/bun_images/bcs/pipehat_head.png" },
+	"neckruffle" : { "order" : 51, "item" : "neckruffle", "icon": "/bun_images/bcs/neckruffle_chest.png" },
+    	"steamgreylegs" : { "order" : 52, "item" : "steamgreylegs", "icon": "/bun_images/bcs/steamgrey_legs.png" },
+	"boilerback" : { "order" : 53, "item" : "boilerback", "icon": "/bun_images/bcs/boiler_back.png"},
+
+	//Prism
+
+	"prismhead" : { "order" : 54, "item" : "prismhead", "icon": "/bun_images/bcs/prism_head.png" },
+	"prismchest" : { "order" : 55, "item" : "prismchest", "icon": "/bun_images/bcs/prism_chest.png" },
+    	"prismlegs" : { "order" : 56, "item" : "prismlegs", "icon": "/bun_images/bcs/prism_legs.png" },
+
+	//ocean
+	
+	"buccaneerhead" : { "order" : 57, "item" : "buccaneerhead", "icon": "/bun_images/bcs/buccaneer_head.png" },
+	"buccaneerchest" : { "order" : 58, "item" : "buccaneerchest", "icon": "/bun_images/bcs/buccaneer_chest.png" },
+    	"buccaneerlegs" : { "order" : 59, "item" : "buccaneerlegs", "icon": "/bun_images/bcs/buccaneer_legs.png" },
+
+	"hawaiianhead" : { "order" : 60, "item" : "hawaiianhead", "icon": "/bun_images/bcs/hawaiian_head.png" },
+	"hawaiianchest" : { "order" : 61, "item" : "hawaiianchest", "icon": "/bun_images/bcs/hawaiian_chest.png" },
+    	"hawaiianlegs" : { "order" : 62, "item" : "hawaiianlegs", "icon": "/bun_images/bcs/hawaiian_legs.png" },
+
+
+	//alien
+
+	"beachcreeperhead" : { "order" : 63, "item" : "beachcreeperhead", "icon": "/bun_images/bcs/beachcreeper_head.png" },
+	"beachcreeperchest" : { "order" : 64, "item" : "beachcreeperchest", "icon": "/bun_images/bcs/beachcreeper_chest.png" },
+    	"beachcreeperlegs" : { "order" : 65, "item" : "beachcreeperlegs", "icon": "/bun_images/bcs/beachcreeper_legs.png" },
+
+	//Flesh
+	 
+	"anatomyapexhead" : { "order" : 66, "item" : "anatomyapexhead", "icon": "/bun_images/bcs/anatomyapex_head.png" },
+	"anatomyavianhead" : { "order" : 67, "item" : "anatomyavianhead", "icon": "/bun_images/bcs/anatomyavian_head.png" },
+	"anatomyhylotlhead" : { "order" : 68, "item" : "anatomyhylotlhead", "icon": "/bun_images/bcs/anatomyhylotl_head.png" },
+	"anatomyhead" : { "order" : 69, "item" : "anatomyhead", "icon": "/bun_images/bcs/anatomy_head.png" },
+	"anatomychest" : { "order" : 70, "item" : "anatomychest", "icon": "/bun_images/bcs/anatomy_chest.png" },
+    	"anatomylegs" : { "order" : 71, "item" : "anatomylegs", "icon": "/bun_images/bcs/anatomy_legs.png" },
+	"anatomyavianlegs" : { "order" : 72, "item" : "anatomyavianlegs", "icon": "/bun_images/bcs/anatomyavian_legs.png" },
+
+	//Eyepatch	
+
+	"eyeballhead" : { "order" : 73, "item" : "eyeballhead", "icon": "/bun_images/bcs/eyeball_head.png" },
+	"eyeballchest" : { "order" : 74, "item" : "eyeballchest", "icon": "/bun_images/bcs/eyeball_chest.png" },
+    	"eyeballlegs" : { "order" : 75, "item" : "eyeballlegs", "icon": "/bun_images/bcs/eyeball_legs.png" },
+	"eyeballback" : { "order" : 76, "item" : "eyeballback", "icon": "/bun_images/bcs/eyeball_back.png"},
+	
+	//toxic
+
+	"hazmathead" : { "order" : 77, "item" : "hazmathead", "icon": "/bun_images/bcs/hazmat_head.png" },
+	"hazmatchest" : { "order" : 78, "item" : "hazmatchest", "icon": "/bun_images/bcs/hazmat_chest.png" },
+    	"hazmatlegs" : { "order" : 79, "item" : "hazmatlegs", "icon": "/bun_images/bcs/hazmat_legs.png" },
+	"hazmatback" : { "order" : 80, "item" : "hazmatback", "icon": "/bun_images/bcs/hazmat_back.png"},
+
+	"mutanthead" : { "order" : 81, "item" : "mutanthead", "icon": "/bun_images/bcs/mutant_head.png" },
+	"mutantchest" : { "order" : 82, "item" : "mutantchest", "icon": "/bun_images/bcs/mutant_chest.png" },
+    	"mutantpants" : { "order" : 83, "item" : "mutantpants", "icon": "/bun_images/bcs/mutant_legs.png" },
+	"mutantback" : { "order" : 84, "item" : "mutantback", "icon": "/bun_images/bcs/mutant_back.png"},
+
+	//Midnight
+	
+	"darkdisguisehead" : { "order" : 85, "item" : "darkdisguisehead", "icon": "/bun_images/bcs/darkdisguise_head.png" },
+	"darkdisguisechest" : { "order" : 86, "item" : "darkdisguisechest", "icon": "/bun_images/bcs/darkdisguise_chest.png" },
+    	"darkdisguiselegs" : { "order" : 87, "item" : "darkdisguiselegs", "icon": "/bun_images/bcs/darkdisguise_legs.png" },
+	
+	//Hive
+
+	"larvahead" : { "order" : 88, "item" : "larvahead", "icon": "/bun_images/bcs/larva_head.png" },
+	"larvachest" : { "order" : 89, "item" : "larvachest", "icon": "/bun_images/bcs/larva_chest.png" },
+    	"larvalegs" : { "order" : 90, "item" : "larvalegs", "icon": "/bun_images/bcs/larva_legs.png" },
+
+	//Decayed
+	
+	"deadbeathornmaskhead" : { "order" : 91, "item" : "deadbeathornmaskhead", "icon": "/bun_images/bcs/deadbeathornmask_head.png" },
+	"deadbeathornshead" : { "order" : 92, "item" : "deadbeathornshead", "icon": "/bun_images/bcs/deadbeathorns_head.png" },
+	"deadbeatstrapschest" : { "order" : 93, "item" : "deadbeatstrapschest", "icon": "/bun_images/bcs/deadbeatstraps_chest.png" },
+    	"deadbeatstrapslegs" : { "order" : 94, "item" : "deadbeatstrapslegs", "icon": "/bun_images/bcs/deadbeatstraps_legs.png" },
+
+	"deadbeathelmhead" : { "order" : 95, "item" : "deadbeathelmhead", "icon": "/bun_images/bcs/deadbeathelm_head.png" },
+	"deadbeathornhelmhead" : { "order" : 96, "item" : "deadbeathornhelmhead", "icon": "/bun_images/bcs/deadbeathornhelm_head.png" },
+	"deadbeatspandexchest" : { "order" : 97, "item" : "deadbeatspandexchest", "icon": "/bun_images/bcs/deadbeatspandex_chest.png" },
+    	"deadbeatspandexlegs" : { "order" : 98, "item" : "deadbeatspandexlegs", "icon": "/bun_images/bcs/deadbeatspandex_legs.png" },
+
+	"deadbeatmaskhead" : { "order" : 99, "item" : "deadbeatmaskhead", "icon": "/bun_images/bcs/deadbeatmask_head.png" },
+	"deadbeatnerdhead" : { "order" : 100, "item" : "deadbeatnerdhead", "icon": "/bun_images/bcs/deadbeatnerd_head.png" },
+	"deadbeatleatherchest" : { "order" : 101, "item" : "deadbeatleatherchest", "icon": "/bun_images/bcs/deadbeatleather_chest.png" },
+    	"deadbeatleatherlegs" : { "order" : 102, "item" : "deadbeatleatherlegs", "icon": "/bun_images/bcs/deadbeatleather_legs.png" },
+
+	//Volcanic
+
+	"firelordhead" : { "order" : 103, "item" : "firelordhead", "icon": "/bun_images/bcs/firelord_head.png" },
+	"firelordchest" : { "order" : 104, "item" : "firelordchest", "icon": "/bun_images/bcs/firelord_chest.png" },
+    	"firelordlegs" : { "order" : 105, "item" : "firelordlegs", "icon": "/bun_images/bcs/firelord_legs.png" },
+ 
+	//Foundry
+	
+	"foundryhardhathead" : { "order" : 106, "item" : "foundryhardhathead", "icon": "/bun_images/bcs/foundryhardhat_head.png" },
+	"foundrygoggleshead" : { "order" : 107, "item" : "foundrygoggleshead", "icon": "/bun_images/bcs/foundrygoggles_head.png" },
+	"foundrychest" : { "order" : 108, "item" : "foundrychest", "icon": "/bun_images/bcs/foundry_chest.png" },
+	"foundryguardchest" : { "order" : 109, "item" : "foundryguardchest", "icon": "/bun_images/bcs/foundryguard_chest.png" },
+    	"foundrylegs" : { "order" : 110, "item" : "foundrylegs", "icon": "/bun_images/bcs/foundry_legs.png" },
+	"foundryforemanback" : { "order" : 111, "item" : "foundryforemanback", "icon": "/bun_images/bcs/foundryforeman_back.png"},
+	"foundryback" : { "order" : 112, "item" : "foundryback", "icon": "/bun_images/bcs/foundry_back.png"},
+
+	//Geode
+
+	"geodehead" : { "order" : 113, "item" : "geodehead", "icon": "/bun_images/bcs/geode_head.png" },
+	"geodechest" : { "order" : 114, "item" : "geodechest", "icon": "/bun_images/bcs/geode_chest.png" },
+    	"geodelegs" : { "order" : 115, "item" : "geodelegs", "icon": "/bun_images/bcs/geode_legs.png" },
+
+//underground
+	//Wilderness
+	
+	"copperarmorhead" : { "order" : 116, "item" : "copperarmorhead", "icon": "/bun_images/bcs/copperarmor_head.png" },
+	"copperarmorchest" : { "order" : 117, "item" : "copperarmorchest", "icon": "/bun_images/bcs/copperarmor_chest.png" },
+    	"copperarmorpants" : { "order" : 118, "item" : "copperarmorpants", "icon": "/bun_images/bcs/copperarmor_legs.png" },
+
+	//StoneCaves
+
+	"rockhead" : { "order" : 119, "item" : "rockhead", "icon": "/bun_images/bcs/rock_head.png" },
+	"rockchest" : { "order" : 120, "item" : "rockchest", "icon": "/bun_images/bcs/rock_chest.png" },
+    	"rocklegs" : { "order" : 121, "item" : "rocklegs", "icon": "/bun_images/bcs/rock_legs.png" },
+	
+	//IceCaves
+
+	"icearmorhead" : { "order" : 122, "item" : "icearmorhead", "icon": "/bun_images/bcs/icearmor_head.png" },
+	"icearmorchest" : { "order" : 123, "item" : "icearmorchest", "icon": "/bun_images/bcs/icearmor_chest.png" },
+    	"icearmorlegs" : { "order" : 124, "item" : "icearmorlegs", "icon": "/bun_images/bcs/icearmor_legs.png" },
+
+	//Tarpit
+
+	"tarhead" : { "order" : 125, "item" : "tarhead", "icon": "/bun_images/bcs/tar_head.png" },
+	"tarchest" : { "order" : 126, "item" : "tarchest", "icon": "/bun_images/bcs/tar_chest.png" },
+    	"tarlegs" : { "order" : 127, "item" : "tarlegs", "icon": "/bun_images/bcs/tar_legs.png" },
+
+	//Slime Caves
+
+	"slimehead" : { "order" : 128, "item" : "slimehead", "icon": "/bun_images/bcs/slime_head.png" },
+	"slimechest" : { "order" : 129, "item" : "slimechest", "icon": "/bun_images/bcs/slime_chest.png" },
+    	"slimelegs" : { "order" : 130, "item" : "slimelegs", "icon": "/bun_images/bcs/slime_legs.png" }
+
+	}
+}

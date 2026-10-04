@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Estas criaturas tienen cuerpos etéreos que moldean en armaduras cuando se ven amenazadas."
+  }
+]

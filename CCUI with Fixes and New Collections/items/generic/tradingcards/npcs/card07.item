@@ -1,0 +1,13 @@
+{
+  "itemName" : "card07",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card07" },
+  "inventoryIcon" : "card07.png",
+  "description" : "A glitch that really likes shiny objects.",
+  "shortdescription" : "#07 The Baron",
+  "largeImage" : "card07.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card07.png"
+}

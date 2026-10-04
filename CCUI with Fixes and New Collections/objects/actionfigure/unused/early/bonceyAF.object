@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_bonceyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "bonceyaf" },
+  "shortdescription" : "Boncey Figurine",
+  "description" : "The label reads, \"This yellow slime's genetic makeup has been found to be extremely primordial.\"",
+
+  "inventoryIcon" : "superearly.png:boncey",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:boncey",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

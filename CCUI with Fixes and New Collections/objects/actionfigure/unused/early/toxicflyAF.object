@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_toxicflyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "toxicflyaf" },
+  "shortdescription" : "Toxic Fly Figurine",
+  "description" : "The label reads, \"A huge, gross, mutated fly once found in particularly rank toxics.\"",
+// fyi, the description WAS intentionally just the growfly's but with sewer replaced with toxic. just saying cuz it might look like a goof
+
+  "inventoryIcon" : "unused.png:toxicfly",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:toxicfly",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

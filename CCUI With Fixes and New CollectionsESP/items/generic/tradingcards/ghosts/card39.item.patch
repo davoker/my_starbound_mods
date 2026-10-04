@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La bombilla solo se enciende mientras el Lumoth aletea."
+  }
+]

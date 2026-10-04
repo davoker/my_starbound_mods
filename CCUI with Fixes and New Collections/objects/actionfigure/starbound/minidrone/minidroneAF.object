@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_minidroneaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "minidroneaf" },
+  "shortdescription" : "Minidrone Figurine",
+  "description" : "The label reads, \"A little surveillance drone produced by the Miniknog.\"",
+
+  "inventoryIcon" : "minidroneaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "minidroneAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

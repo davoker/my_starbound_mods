@@ -1,0 +1,42 @@
+{
+  "itemName" : "WcamoboonieG",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "Navy Seal Style.",
+  "shortdescription" : "Woodland Camo Boonie with G",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // BLACK
+    { "b29f8a" : "515151", "837562" : "3a3a3a", "c5b29d" : "5b5b5b", "a08f7a" : "484848", "978672" : "444444" },
+    // GREY
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // WHITE
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // RED
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // ORANGE
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" }, 
+    // YELLOW
+    { "b29f8a" : "a28f6a", "837562" : "786c4a", "c5b29d" : "b39e7b", "a08f7a" : "92825d", "978672" : "8a7a57" },
+    // GREEN
+    { "b29f8a" : "484a39", "837562" : "353629", "c5b29d" : "50533f", "a08f7a" : "414332", "978672" : "3d3e2e" },
+    // BLUE
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // PURPLE
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // PINK
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" },
+    // BROWN
+    { "b29f8a" : "b29f8a", "837562" : "837562", "c5b29d" : "c5b29d", "a08f7a" : "a08f7a", "978672" : "978672" }
+  ]
+}

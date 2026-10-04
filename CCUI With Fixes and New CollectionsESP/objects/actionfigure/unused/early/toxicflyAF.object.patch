@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una mosca mutada, enorme y asquerosa, que se encontraba en tóxicos particularmente rancios\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Mosca tóxica"
+  }
+]

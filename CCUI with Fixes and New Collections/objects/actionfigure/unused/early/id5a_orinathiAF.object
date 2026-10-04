@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_orinathiaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "orinathiaf" },
+  "shortdescription" : "Orinathi Figurine",
+  "description" : "The label reads, \"These creatures are fiercely loyal to their owners, staying with them for their entire lives.\"",
+
+  "inventoryIcon" : "superearly.png:5a_orinathi",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:5a_orinathi",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

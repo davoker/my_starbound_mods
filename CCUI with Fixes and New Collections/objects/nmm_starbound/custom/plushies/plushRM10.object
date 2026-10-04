@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_RM10plush",
+  "colonyTags" : ["hylotloceancity", "pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushRM10" },
+  "race" : "generic",
+  "rarity" : "Uncommon",
+  "price" : 110,
+
+  "shortdescription" : "Scorpimole Plushie",
+  "description" : "A plush mole-like creature.",
+
+  "apexDescription" : "I should have something to say about this, but I don't.",
+  "avianDescription" : "I really wish I had something to say right now.",
+  "floranDescription" : "Floran doesssn't know what to ssay.",
+  "glitchDescription" : "Panicked. I don't have anything to say!",
+  "humanDescription" : "It would be cool if... you know, I had something to say.",
+  "hylotlDescription" : "I am meant to say something here, but I've got nothing.",
+  "novakidDescription" : "I meant to say somethin'?",
+  "felinDescription" : "Heh, I don't have a line for this.",
+  "nekoDescription" : "Eh? Was I meant to say something, nyan?",
+  "avaliDescription" : "I think I'm meant to say something here.",
+  "slimepersonDescription" : "I don't really know what to say about this.",
+  "nekiDescription" : "Eehhhh...",
+
+  "inventoryIcon" : "icons.png:RM10",
+  "orientations" : [
+    {
+      "dualImage" : "plushies24x16.png:RM10",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

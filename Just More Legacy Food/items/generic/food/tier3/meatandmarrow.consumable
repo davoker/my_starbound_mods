@@ -1,0 +1,30 @@
+{
+  "itemName" : "meatandmarrow",
+  "rarity" : "common",
+  "price" : 150,
+  "category" : "preparedFood",
+  "inventoryIcon" : "meatandmarrow.png",
+  "description" : "It's exactly what it says on the tin, if only it had come in a tin.",
+  "shortdescription" : "Meat N' Marrow",
+  "collectablesOnPickup" : { "cooking" : "meatandmarrow"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 350
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 350
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "thespecial", "meatballs" ]
+}

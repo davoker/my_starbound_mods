@@ -1,0 +1,85 @@
+{
+  "itemName" : "commonpistolamw",
+  "price" : 600,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A small pistol.",
+  "shortdescription" : "Common Pistol",
+  "tooltipKind" : "gun",
+  "category" : "pistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","pistol"],
+  "level" : 1,
+
+  "animation" : "/items/active/weapons/ranged/gunamw.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-0.7, 0.15],
+  "muzzleOffset" : [0.0, 0.3],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [0.33, 1.0],
+    "baseDps" : [5.25, 5.75],
+    "energyUsage" : [15.75, 17.25],
+    "inaccuracy" : 0.02,
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "knockbackRange" : [4,8]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 8,
+        "weaponRotation" : 12,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 8,
+        "weaponRotation" : 12,
+        "twoHanded" : false,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+  "fireSounds" : [ "/sfx/gun/pistol1.ogg", "/sfx/gun/pistol2.ogg", "/sfx/gun/pistol3.ogg", "/sfx/gun/pistol4.ogg" ],
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    "nameGenerator" : "amwpistolnames.config:nameGen",
+    "animationParts" : {
+      "middle" : {
+        "path" : "/items/active/weapons/ranged/pistolamw/middle/<variant>.png",
+        "variants" : 28,
+        "paletteSwap" : false
+      },
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+    "gunParts" : ["middle"],
+    "altAbilities" : [ ],
+    "palette" : "/items/active/weapons/ranged/colors/amwranged.weaponcolors",
+    "iconDrawables" : ["middle"]
+  }]
+}

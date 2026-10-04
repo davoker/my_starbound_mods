@@ -1,0 +1,41 @@
+{
+  "name" : "lex_instruments",
+  "title" : "Instruments",
+  "type" : "item",
+  
+   "collectables" : {
+   
+    "accordion" : { "order" : 1, "item" : "accordion" },
+    "acousticguitar" : { "order" : 2, "item" : "acousticguitar" },
+    "banjo" : { "order" : 3, "item" : "banjo" },
+	"bassguitar" : { "order" : 4, "item" : "bassguitar" },
+    "bones" : { "order" : 5, "item" : "bones" },
+    "brightpiano" : { "order" : 6, "item" : "brightpiano" },
+    "clarinet" : { "order" : 7, "item" : "clarinet" },
+    "drumkit" : { "order" : 8, "item" : "drumkit" },
+	"dulcimer" : { "order" : 9, "item" : "dulcimer" },
+    "electricbass" : { "order" : 10, "item" : "electricbass" },
+    "flute" : { "order" : 11, "item" : "flute" },
+    "harmonica" : { "order" : 12, "item" : "harmonica" },
+    "harp" : { "order" : 13, "item" : "harp" },
+	"keyboard" : { "order" : 14, "item" : "keyboard" },
+    "koto" : { "order" : 15, "item" : "koto" },
+    "leadguitar" : { "order" : 16, "item" : "leadguitar" },
+    "microphone" : { "order" : 17, "item" : "microphone" },
+    "microphonefem" : { "order" : 18, "item" : "microphonefem" },
+	"musicbox" : { "order" : 19, "item" : "musicbox" },
+    "nylonguitar" : { "order" : 20, "item" : "nylonguitar" },
+    "oboe" : { "order" : 21, "item" : "oboe" },
+    "ocarina" : { "order" : 22, "item" : "ocarina" },
+    "overdriveguitar" : { "order" : 23, "item" : "overdriveguitar" },
+	"piano" : { "order" : 24, "item" : "piano" },
+    "reedorgan" : { "order" : 25, "item" : "reedorgan" },
+    "rockorgan" : { "order" : 26, "item" : "rockorgan" },
+    "saxophone" : { "order" : 27, "item" : "saxophone" },
+    "steeldrum" : { "order" : 28, "item" : "steeldrum" },
+	"trumpet" : { "order" : 29, "item" : "trumpet" },
+    "violin" : { "order" : 30, "item" : "violin" },
+	"spaceorgan" : { "order" : 31, "item" : "spaceorgan" },
+    "squarewave" : { "order" : 32, "item" : "squarewave" }
+	}
+}

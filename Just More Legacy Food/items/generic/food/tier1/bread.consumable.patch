@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "bananabread"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "smiletoast"
+  }
+]

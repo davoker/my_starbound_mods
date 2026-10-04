@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Dios, por favor, ¿ALGUIEN puede cambiar esta descripción? Es una mierda\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fantasma de erchius"
+  }
+]

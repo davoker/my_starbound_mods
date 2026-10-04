@@ -1,0 +1,13 @@
+{
+  "itemName" : "card39",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card39" },
+  "inventoryIcon" : "card39.png",
+  "description" : "The bulb only stays lit while the Lumoth flaps its wings.",
+  "shortdescription" : "#39 Lumoth",
+  "largeImage" : "card39.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card39.png"
+}

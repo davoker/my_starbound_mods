@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_snowbunplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushsnowbun" },
+  "race" : "generic",
+  "rarity" : "Uncommon",
+  "price" : 110,
+
+  "shortdescription" : "Snowbun Plushie",
+  "description" : "A white humanoid bunny plush. Oh no. I might want to come up with a better name for this.",
+
+  "apexDescription" : "I should have something to say about this, but I don't.",
+  "avianDescription" : "Real rabbit people in our universe? That would be... eye-opening for me, to say the least.",
+  "floranDescription" : "Floran doesssn't know what to ssay.",
+  "glitchDescription" : "Panicked. I don't have anything to say!",
+  "humanDescription" : "It's cute. That's all I'm gonna say about it.",
+  "hylotlDescription" : "I am meant to say something here, but I've got nothing.",
+  "novakidDescription" : "I meant to say somethin'?",
+  "felinDescription" : "Heh, I don't have a line for this.",
+  "nekoDescription" : "Eh? Was I meant to say something, nyan?",
+  "avaliDescription" : "I think I'm meant to say something here.",
+  "slimepersonDescription" : "I don't really know what to say about this.",
+  "nekiDescription" : "Eehhhh...",
+
+  "inventoryIcon" : "icons.png:snowbun",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x24.png:snowbun",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

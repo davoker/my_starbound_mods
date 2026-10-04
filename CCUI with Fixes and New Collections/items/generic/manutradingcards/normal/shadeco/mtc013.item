@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc013",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc013" },
+  "inventoryIcon" : "mtc013.png",
+  "description" : "Shade Co. makes some pretty good stuff, and this sniper rifle is no exception.",
+  "shortdescription" : "#13 Shade Co. Dawngasher",
+  "largeImage" : "mtc013.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc013.png"
+}

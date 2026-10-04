@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Los Golems Po son la forma más evolucionada de los Po que se encuentran en las mazmorras de alcantarillado."
+  }
+]

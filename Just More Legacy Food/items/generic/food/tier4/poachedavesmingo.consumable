@@ -1,0 +1,29 @@
+{
+  "itemName" : "poachedavesmingo",
+  "rarity" : "rare",
+  "price" : 340,
+  "category" : "preparedFood",
+  "inventoryIcon" : "poachedavesmingo.png",
+  "description" : "A sweet avesmingo poached in potent wartjuice. A pretty expensive dish.",
+  "shortdescription" : "Poached Avesmingo",
+  "collectablesOnPickup" : { "cooking" : "poachedavesmingo"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 200
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 200
+    }
+  ] ],
+  "foodValue" : 30,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

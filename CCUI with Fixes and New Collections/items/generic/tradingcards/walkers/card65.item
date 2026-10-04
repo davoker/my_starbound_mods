@@ -1,0 +1,13 @@
+{
+  "itemName" : "card65",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card65" },
+  "inventoryIcon" : "card65.png",
+  "description" : "It appears mystified when encountering new life forms. You can't help but feel watched.",
+  "shortdescription" : "#65 Oogler",
+  "largeImage" : "card65.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card65.png"
+}

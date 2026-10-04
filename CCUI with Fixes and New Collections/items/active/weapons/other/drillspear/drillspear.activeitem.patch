@@ -1,0 +1,4 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "lex_legendary" : "drillspear" }},
+	{"op": "replace", "path": "/inventoryIcon", "value": "drillspear.png:1"}
+]

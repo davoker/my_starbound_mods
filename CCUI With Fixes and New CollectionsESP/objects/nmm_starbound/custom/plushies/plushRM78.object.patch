@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "¿Peluche tiene pelo? Pelo muy ssuave."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche esponjoso de un simio morado."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Satisfecho. Es un peluche muy suave y esponjoso."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "El tema del peluche es cuestionable, pero es innegablemente suave."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Bueno, esta es una de las cosas más peludas que he visto en mucho tiempo."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Bonzongo"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Je, mono."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Este peluche me recuerda a alguien que solía conocer."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Este peluche de simio morado es extremadamente suave."
+  }
+]

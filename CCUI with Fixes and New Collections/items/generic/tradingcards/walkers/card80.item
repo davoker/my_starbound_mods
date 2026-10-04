@@ -1,0 +1,13 @@
+{
+  "itemName" : "card80",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card80" },
+  "inventoryIcon" : "card80.png",
+  "description" : "It uses its horns to attract a partner. The light shows during mating season are spectacular.",
+  "shortdescription" : "#80 Narfin",
+  "largeImage" : "card80.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card80.png"
+}

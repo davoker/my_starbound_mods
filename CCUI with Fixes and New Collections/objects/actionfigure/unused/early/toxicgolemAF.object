@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_toxicgolemaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "toxicgolemaf" },
+  "shortdescription" : "Toxic Golem Figurine",
+  "description" : "The label reads, \"I've created a monster.\"",
+
+  "inventoryIcon" : "unused.png:toxicgolem",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:toxicgolem",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

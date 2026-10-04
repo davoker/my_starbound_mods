@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una criatura disfrazada de roca que se esconde bajo tierra usando el taladro que tiene en la cabeza\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Rokropolly"
+  }
+]

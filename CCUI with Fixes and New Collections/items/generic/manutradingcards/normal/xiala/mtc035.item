@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc035",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc035" },
+  "inventoryIcon" : "mtc035.png",
+  "description" : "This rocket launcher is specialized for anti-vehicle work.",
+  "shortdescription" : "#35 Xia-La Armorbane",
+  "largeImage" : "mtc035.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc035.png"
+}

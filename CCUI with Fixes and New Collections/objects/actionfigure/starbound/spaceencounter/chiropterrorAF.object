@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_chiropterroraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "chiropterroraf" },
+  "shortdescription" : "Chiropterror Figurine",
+  "description" : "The label reads, \"Its internal nitrogen reactor is constantly overloading, causing it to trail explosive bolts.\"",
+
+  "inventoryIcon" : "chiropterrorAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "chiropterrorAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

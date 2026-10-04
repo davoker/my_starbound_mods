@@ -1,0 +1,13 @@
+{
+  "itemName" : "card34",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card34" },
+  "inventoryIcon" : "card34.png",
+  "description" : "The king nutmidgeling is the only one whose head tuft hasn't been trampled to death.",
+  "shortdescription" : "#34 King Nutmidgeling",
+  "largeImage" : "card34.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card34.png"
+}

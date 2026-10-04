@@ -1,0 +1,13 @@
+{
+  "itemName" : "card15",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card15" },
+  "inventoryIcon" : "card15.png",
+  "description" : "A family business. Sells refined ores for crafting.",
+  "shortdescription" : "#15 Ursa Miner",
+  "largeImage" : "card15.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card15.png"
+}

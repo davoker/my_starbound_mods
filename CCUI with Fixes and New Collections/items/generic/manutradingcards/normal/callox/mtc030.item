@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc030",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc030" },
+  "inventoryIcon" : "mtc030.png",
+  "description" : "'Disclaimer: This weapon does not actually spit death.'",
+  "shortdescription" : "#30 Callox Deathspitter",
+  "largeImage" : "mtc030.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc030.png"
+}

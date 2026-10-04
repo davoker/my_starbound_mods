@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_badmoongooaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "badmoongooaf" },
+  "shortdescription" : "Bad Moon Figurine",
+  "description" : "The label reads, \"Any unprepared adventurer unlucky enough to meet this version of Bad Moon isn't likely to see morning.\"",
+
+  "inventoryIcon" : "contest.png:badmoongoo",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:badmoongoo",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

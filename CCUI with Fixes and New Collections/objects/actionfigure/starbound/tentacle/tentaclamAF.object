@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_tentaclamaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "tentaclamaf" },
+  "shortdescription" : "Tentaclam Figurine",
+  "description" : "The label reads, \"TODO\"",
+
+  "inventoryIcon" : "tentaclamaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "tentaclamaf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

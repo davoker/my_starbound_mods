@@ -1,0 +1,10 @@
+{
+
+  "frameGrid" : {
+    "size" : [24, 16],
+    "dimensions" : [4, 1],
+    "names" : [
+      [ "myaonori", "RM10", "RM46", "waffles" ]
+    ]
+  }
+}

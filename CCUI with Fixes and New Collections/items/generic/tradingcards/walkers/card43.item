@@ -1,0 +1,13 @@
+{
+  "itemName" : "card43",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card43" },
+  "inventoryIcon" : "card43.png",
+  "description" : "It loves frolicking through forests and meadows.",
+  "shortdescription" : "#43 Hypnare",
+  "largeImage" : "card43.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card43.png"
+}

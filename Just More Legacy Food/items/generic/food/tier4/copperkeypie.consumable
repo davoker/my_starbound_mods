@@ -1,0 +1,30 @@
+{
+  "itemName" : "copperkeypie",
+  "rarity" : "Uncommon",
+  "price" : 210,
+  "category" : "preparedFood",
+  "inventoryIcon" : "copperkeypie.png",
+  "description" : "A kiwi pie with a bit of a coppery kick.",
+  "shortdescription" : "Copper Key Pie",
+  "collectablesOnPickup" : { "cooking" : "copperkeypie"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 480
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 480
+    }
+  ] ],
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "pussplumpie", "pinappleupsidecrowncake" ]
+}

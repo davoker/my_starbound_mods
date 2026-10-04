@@ -1,0 +1,13 @@
+{
+  "itemName" : "card48",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card48" },
+  "inventoryIcon" : "card48.png",
+  "description" : "The inside of its beak is a truly terrifying sight.",
+  "shortdescription" : "#48 Scaveran",
+  "largeImage" : "card48.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card48.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card45",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card45" },
+  "inventoryIcon" : "card45.png",
+  "description" : "Its unhygienic lifestyle leaves much to be desired.",
+  "shortdescription" : "#45 Quagmutt",
+  "largeImage" : "card45.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card45.png"
+}

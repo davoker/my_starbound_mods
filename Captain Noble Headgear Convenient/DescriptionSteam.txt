@@ -1,0 +1,25 @@
+[h1]Description, or something like this[/h1]
+A slight modification of the original with a little inspiration from the Dragon ball Z strength gauges, and our Captain Noble can now measure how big your manly... strength.
+
+[h1]Content[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod changes the faces of the Novakid, so they no longer have their "brand" and have eyes instead, this affects Captain Noble and the type of headgear he wears, even though [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod modifies it slightly, I still didn't like the way it looked, so this is my version of his headgear for Captain Noble.
+
+[h1]Compatibility[/h1]
+- It should be compatible with everything except any mod that modifies [b]captainnoble/head.png.[/b]
+- You need [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] Make the Universe a Cuter Place[/url] mod, Captain Noble without that mod will not look good.
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] CCUI with Fixes and New Collections[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2957933938] Be transparent, my friend[/url]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] A few[/url]
+
+[h1]Future plans[/h1]
+- The intention is to modify the 2 [b]chatbubbles[/b] images to match what Captain Noble looks like with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=761242493] The Make the Universe a Cuter Place[/url] (These are the images we see when we meet you for the first time or you talk to us on the radio), but I'm not that talented... if someone offers to do the job, I'll be happy to add you as a contributor here.
+
+[h1]Credits[/h1]
+For me all the flowers (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

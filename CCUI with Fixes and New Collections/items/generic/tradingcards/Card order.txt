@@ -1,0 +1,97 @@
+card01 L
+esther R
+nuru R
+koichi R
+tonauac R
+lana R
+the baron R
+asra nox R
+penguin pete U
+rob repairo U
+terramart U
+tech lab U
+2 stop tele shop U
+frogg furnishing U
+ursa miner U
+beakeasy U
+EASEL U
+penguin bay U 
+treasured trophies U
+Biggy's Reputable Weaponry U
+fluffalo U
+electric fluffalo U
+fire fluffalo U
+ice fluffalo U
+poison fluffalo U
+mooshi U
+poptop C
+adult poptop U
+bobfae C
+gleap C
+batong C
+nutmidge C
+nutmidgeling C
+king nutmidgeling U
+crustoise C
+iguarmor U
+peblit C
+snaggler C
+lumoth C
+paratail C
+bulbop C
+mandraflora U
+hypnare C
+trictus C
+quagmutt C
+sporgus C
+tourmingo C
+scaveran U
+crutter C
+miasmop C
+oculob C
+snaunt C
+pteropod C
+squeem C
+agrobat C
+crabcano C
+fennix C
+pyromantle C
+ignome C
+smoglin C
+erchius ghost R
+petricub C
+spookit C
+orbide U
+oogler C
+hemogoblin C
+taroni C
+yokat C
+anglure C
+scandroid C
+tintic C
+triplod C
+bobot C
+voltip C
+pipkin C
+capricoat C
+lilodon C
+pulpin C
+wisper C
+narfin C
+ringram C
+skimbus C
+monopus U
+brain mutant U
+gosmet U
+ixoling U
+kluex sentry U
+moontant U
+po golem U
+the po U
+snuffish U
+
+boosterpack = 0.200
+C = common = 0.70 = 500
+U = uncommon = 0.15 = 1250
+R = rare = 0.05 = 2500
+L = legendary = 0.01 = 5000

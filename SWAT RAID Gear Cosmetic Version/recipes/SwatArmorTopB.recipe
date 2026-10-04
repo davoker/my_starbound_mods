@@ -1,0 +1,11 @@
+{
+	"input" : [
+	{ "item" : "cottonwool", "count" : 3 },
+	{ "item" : "fabric", "count" : 5 },
+	{ "item" : "canvas", "count" : 5 },
+	{ "item" : "string", "count" : 10 },
+	{ "item" : "durasteelbar", "count" : 15 }
+	],
+	"output" : { "item" : "SwatArmorTopB", "count" : 1 },
+	"groups" : [ "craftingwheel", "swatraid" ]
+}

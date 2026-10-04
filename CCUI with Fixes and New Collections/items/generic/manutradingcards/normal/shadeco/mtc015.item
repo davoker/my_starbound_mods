@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc015",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc015" },
+  "inventoryIcon" : "mtc015.png",
+  "description" : "As a promotion, this weapon originally came with a cute t-shirt and coffee mug.",
+  "shortdescription" : "#15 Shade Co. Chasmpiece",
+  "largeImage" : "mtc015.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc015.png"
+}

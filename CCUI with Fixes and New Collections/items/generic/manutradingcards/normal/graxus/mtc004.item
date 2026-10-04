@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc004",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc004" },
+  "inventoryIcon" : "mtc004.png",
+  "description" : "An explosive sniper rifle from Graxus. Why do they only make explosive weapons, anyway?",
+  "shortdescription" : "#4 Graxus Fleshripper",
+  "largeImage" : "mtc004.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc004.png"
+}

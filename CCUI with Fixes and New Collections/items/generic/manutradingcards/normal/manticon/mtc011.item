@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc011",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc011" },
+  "inventoryIcon" : "mtc011.png",
+  "description" : "The majestic Solarheart. Classy, shiny, and deadly.",
+  "shortdescription" : "#11 Manticon Solarheart",
+  "largeImage" : "mtc011.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc011.png"
+}

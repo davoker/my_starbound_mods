@@ -1,0 +1,13 @@
+{
+  "itemName" : "card26",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card26" },
+  "inventoryIcon" : "card26.png",
+  "description" : "Mooshi produce milk.",
+  "shortdescription" : "#26 Mooshi",
+  "largeImage" : "card26.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card26.png"
+}

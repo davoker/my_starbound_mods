@@ -1,0 +1,13 @@
+{
+  "itemName" : "card67",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card67" },
+  "inventoryIcon" : "card67.png",
+  "description" : "It eats and lives in tar. Signs suggest it excretes tar as well.",
+  "shortdescription" : "#67 Taroni",
+  "largeImage" : "card67.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card67.png"
+}

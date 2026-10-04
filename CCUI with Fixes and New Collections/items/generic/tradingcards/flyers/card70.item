@@ -1,0 +1,13 @@
+{
+  "itemName" : "card70",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card70" },
+  "inventoryIcon" : "card70.png",
+  "description" : "The scandroid is on an endless search. No one knows what for.",
+  "shortdescription" : "#70 Scandroid",
+  "largeImage" : "card70.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card70.png"
+}

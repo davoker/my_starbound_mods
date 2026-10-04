@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_badgooaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "badgooaf" },
+  "shortdescription" : "Bad Goo Figurine",
+  "description" : "The label reads, \"A mysterious gelatinous entity that usually inhabits a Bad Moon.\"",
+
+  "inventoryIcon" : "contest.png:badgoo",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:badgoo",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

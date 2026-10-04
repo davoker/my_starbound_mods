@@ -1,0 +1,11 @@
+{
+
+  "frameGrid" : {
+    "size" : [16, 24],
+    "dimensions" : [5, 2],
+    "names" : [
+      [ "snowbun", "spookydoll", "RM01", "RM03", "RM26" ],
+      [ "RM29", "RM31", "RM75", "RM78", "RMe2" ]
+    ]
+  }
+}

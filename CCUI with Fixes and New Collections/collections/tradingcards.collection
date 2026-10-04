@@ -1,0 +1,374 @@
+{
+  "name" : "tradingcards",
+  "title" : "Trading Cards",
+  "type" : "item",
+
+  "collectables" : {
+
+    // CARDS
+    "card01" : {
+      "order" : 1,
+      "item" : "card01"
+    },
+    "card02" : {
+      "order" : 2,
+      "item" : "card02"
+    },
+    "card03" : {
+      "order" : 3,
+      "item" : "card03"
+    },
+    "card04" : {
+      "order" : 4,
+      "item" : "card04"
+    },
+    "card05" : {
+      "order" : 5,
+      "item" : "card05"
+    },
+    "card06" : {
+      "order" : 6,
+      "item" : "card06"
+    },
+    "card07" : {
+      "order" : 7,
+      "item" : "card07"
+    },
+    "card08" : {
+      "order" : 8,
+      "item" : "card08"
+    },
+    "card09" : {
+      "order" : 9,
+      "item" : "card09"
+    },
+    "card10" : {
+      "order" : 10,
+      "item" : "card10"
+    },
+    "card11" : {
+      "order" : 11,
+      "item" : "card11"
+    },
+    "card12" : {
+      "order" : 12,
+      "item" : "card12"
+    },
+    "card13" : {
+      "order" : 13,
+      "item" : "card13"
+    },
+    "card14" : {
+      "order" : 14,
+      "item" : "card14"
+    },
+    "card15" : {
+      "order" : 15,
+      "item" : "card15"
+    },
+    "card16" : {
+      "order" : 16,
+      "item" : "card16"
+    },
+    "card17" : {
+      "order" : 17,
+      "item" : "card17"
+    },
+    "card18" : {
+      "order" : 18,
+      "item" : "card18"
+    },
+    "card19" : {
+      "order" : 19,
+      "item" : "card19"
+    },
+    "card20" : {
+      "order" : 20,
+      "item" : "card20"
+    },
+    "card21" : {
+      "order" : 21,
+      "item" : "card21"
+    },
+    "card22" : {
+      "order" : 22,
+      "item" : "card22"
+    },
+    "card23" : {
+      "order" : 23,
+      "item" : "card23"
+    },
+    "card24" : {
+      "order" : 24,
+      "item" : "card24"
+    },
+    "card25" : {
+      "order" : 25,
+      "item" : "card25"
+    },
+    "card26" : {
+      "order" : 26,
+      "item" : "card26"
+    },
+    "card27" : {
+      "order" : 27,
+      "item" : "card27"
+    },
+    "card28" : {
+      "order" : 28,
+      "item" : "card28"
+    },
+    "card29" : {
+      "order" : 29,
+      "item" : "card29"
+    },
+    "card30" : {
+      "order" : 30,
+      "item" : "card30"
+    },
+    "card31" : {
+      "order" : 31,
+      "item" : "card31"
+    },
+    "card32" : {
+      "order" : 32,
+      "item" : "card32"
+    },
+    "card33" : {
+      "order" : 33,
+      "item" : "card33"
+    },
+    "card34" : {
+      "order" : 34,
+      "item" : "card34"
+    },
+    "card35" : {
+      "order" : 35,
+      "item" : "card35"
+    },
+    "card36" : {
+      "order" : 36,
+      "item" : "card36"
+    },
+    "card37" : {
+      "order" : 37,
+      "item" : "card37"
+    },
+    "card38" : {
+      "order" : 38,
+      "item" : "card38"
+    },
+    "card39" : {
+      "order" : 39,
+      "item" : "card39"
+    },
+    "card40" : {
+      "order" : 40,
+      "item" : "card40"
+    },
+    "card41" : {
+      "order" : 41,
+      "item" : "card41"
+    },
+    "card42" : {
+      "order" : 42,
+      "item" : "card42"
+    },
+    "card43" : {
+      "order" : 43,
+      "item" : "card43"
+    },
+    "card44" : {
+      "order" : 44,
+      "item" : "card44"
+    },
+    "card45" : {
+      "order" : 45,
+      "item" : "card45"
+    },
+    "card46" : {
+      "order" : 46,
+      "item" : "card46"
+    },
+    "card47" : {
+      "order" : 47,
+      "item" : "card47"
+    },
+    "card48" : {
+      "order" : 48,
+      "item" : "card48"
+    },
+    "card49" : {
+      "order" : 49,
+      "item" : "card49"
+    },
+    "card50" : {
+      "order" : 50,
+      "item" : "card50"
+    },
+    "card51" : {
+      "order" : 51,
+      "item" : "card51"
+    },
+    "card52" : {
+      "order" : 52,
+      "item" : "card52"
+    },
+    "card53" : {
+      "order" : 53,
+      "item" : "card53"
+    },
+    "card54" : {
+      "order" : 54,
+      "item" : "card54"
+    },
+    "card55" : {
+      "order" : 55,
+      "item" : "card55"
+    },
+    "card56" : {
+      "order" : 56,
+      "item" : "card56"
+    },
+    "card57" : {
+      "order" : 57,
+      "item" : "card57"
+    },
+    "card58" : {
+      "order" : 58,
+      "item" : "card58"
+    },
+    "card59" : {
+      "order" : 59,
+      "item" : "card59"
+    },
+    "card60" : {
+      "order" : 60,
+      "item" : "card60"
+    },
+    "card61" : {
+      "order" : 61,
+      "item" : "card61"
+    },
+    "card62" : {
+      "order" : 62,
+      "item" : "card62"
+    },
+    "card63" : {
+      "order" : 63,
+      "item" : "card63"
+    },
+    "card64" : {
+      "order" : 64,
+      "item" : "card64"
+    },
+    "card65" : {
+      "order" : 65,
+      "item" : "card65"
+    },
+    "card66" : {
+      "order" : 66,
+      "item" : "card66"
+    },
+    "card67" : {
+      "order" : 67,
+      "item" : "card67"
+    },
+    "card68" : {
+      "order" : 68,
+      "item" : "card68"
+    },
+    "card69" : {
+      "order" : 69,
+      "item" : "card69"
+    },
+    "card70" : {
+      "order" : 70,
+      "item" : "card70"
+    },
+    "card71" : {
+      "order" : 71,
+      "item" : "card71"
+    },
+    "card72" : {
+      "order" : 72,
+      "item" : "card72"
+    },
+    "card73" : {
+      "order" : 73,
+      "item" : "card73"
+    },
+    "card74" : {
+      "order" : 74,
+      "item" : "card74"
+    },
+    "card75" : {
+      "order" : 75,
+      "item" : "card75"
+    },
+    "card76" : {
+      "order" : 76,
+      "item" : "card76"
+    },
+    "card77" : {
+      "order" : 77,
+      "item" : "card77"
+    },
+    "card78" : {
+      "order" : 78,
+      "item" : "card78"
+    },
+    "card79" : {
+      "order" : 79,
+      "item" : "card79"
+    },
+    "card80" : {
+      "order" : 80,
+      "item" : "card80"
+    },
+    "card81" : {
+      "order" : 81,
+      "item" : "card81"
+    },
+    "card82" : {
+      "order" : 82,
+      "item" : "card82"
+    },
+    "card83" : {
+      "order" : 83,
+      "item" : "card83"
+    },
+    "card84" : {
+      "order" : 84,
+      "item" : "card84"
+    },
+    "card85" : {
+      "order" : 85,
+      "item" : "card85"
+    },
+    "card86" : {
+      "order" : 86,
+      "item" : "card86"
+    },
+    "card87" : {
+      "order" : 87,
+      "item" : "card87"
+    },
+    "card88" : {
+      "order" : 88,
+      "item" : "card88"
+    },
+    "card89" : {
+      "order" : 89,
+      "item" : "card89"
+    },
+    "card90" : {
+      "order" : 90,
+      "item" : "card90"
+    },
+    "card91" : {
+      "order" : 91,
+      "item" : "card91"
+    }
+  }
+}

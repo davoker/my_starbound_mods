@@ -1,0 +1,13 @@
+{
+  "itemName" : "card19",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card19" },
+  "inventoryIcon" : "card19.png",
+  "description" : "Got something rare? We've got something rarer.",
+  "shortdescription" : "#19 Treasured Trophies",
+  "largeImage" : "card19.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card19.png"
+}

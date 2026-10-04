@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_virorbnormalaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbnormalaf" },
+  "shortdescription" : "Normal Virorb Figurine",
+  "description" : "The label reads, \"The most basic, widespread varieties of Virorb.\"",
+
+  "inventoryIcon" : "contest.png:virorbnormal",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbnormal",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

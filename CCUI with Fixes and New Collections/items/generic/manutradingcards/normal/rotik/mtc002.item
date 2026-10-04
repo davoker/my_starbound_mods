@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc002",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc002" },
+  "inventoryIcon" : "mtc002.png",
+  "description" : "A standard Rotik Assault Rifle. Fast firing and deadly.",
+  "shortdescription" : "#2 Rotik Pulsecarbine",
+  "largeImage" : "mtc002.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc002.png"
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_masteroidlargeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "masteroidlargeaf" },
+  "shortdescription" : "Large Masteroid Figurine",
+  "description" : "The label reads, \"A boron-based creature that can split its body and consciousness when damaged.\"",
+
+  "inventoryIcon" : "masteroidAF.png:large",
+  "orientations" : [
+    {
+      "dualImage" : "masteroidAF.png:large",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

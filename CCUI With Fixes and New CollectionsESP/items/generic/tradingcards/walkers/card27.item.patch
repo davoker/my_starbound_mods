@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "El Poptop tararea hermosamente para confundir a su presa."
+  }
+]

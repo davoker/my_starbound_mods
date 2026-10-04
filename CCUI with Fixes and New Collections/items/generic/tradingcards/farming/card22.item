@@ -1,0 +1,13 @@
+{
+  "itemName" : "card22",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card22" },
+  "inventoryIcon" : "card22.png",
+  "description" : "A good source of static cells.",
+  "shortdescription" : "#22 Electric Fluffalo",
+  "largeImage" : "card22.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card22.png"
+}

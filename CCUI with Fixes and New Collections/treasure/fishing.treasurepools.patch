@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/fishinguncommon/0/1/pool/0/weight",
+    "value": 0.95
+  },
+  {
+    "op": "add",
+    "path": "/fishinguncommon/0/1/pool/-",
+    "value": {
+      "weight": 0.02,
+      "pool": "mtcTreasure"
+    }
+  }
+]

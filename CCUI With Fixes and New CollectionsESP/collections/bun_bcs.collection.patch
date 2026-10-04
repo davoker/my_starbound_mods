@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^#FF9999;Sets Cosméticos Biomas"
+  }
+]

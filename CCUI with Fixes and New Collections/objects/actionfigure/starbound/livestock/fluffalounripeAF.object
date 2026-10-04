@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_fluffalounripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffalounripeaf" },
+  "shortdescription" : "Fluffalo Figurine",
+  "description" : "The label reads, \"A regular Fluffalo, growing its fibrous plant fluff.\"",
+
+  "inventoryIcon" : "fluffalounripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffalounripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

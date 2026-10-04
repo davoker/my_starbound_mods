@@ -1,0 +1,37 @@
+{
+  "itemName" : "blackcurrentcrumble",
+  "rarity" : "Uncommon",
+  "price" : 320,
+  "category" : "preparedFood",
+  "inventoryIcon" : "blackcurrentcrumble.png",
+  "description" : "A crumble that holds a charge.",
+  "shortdescription" : "Black Current Crumble",
+  "collectablesOnPickup" : { "cooking" : "blackcurrentcrumble"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 350
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 350
+    },
+	{
+		"effect" : "runboostfood",
+		"duration" : 260
+	},
+	{
+        "effect" : "regeneration2",
+        "duration" : 30
+    }
+  ] ],
+  "foodValue" : 45,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

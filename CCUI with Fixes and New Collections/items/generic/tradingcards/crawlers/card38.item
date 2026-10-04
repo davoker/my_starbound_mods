@@ -1,0 +1,13 @@
+{
+  "itemName" : "card38",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card38" },
+  "inventoryIcon" : "card38.png",
+  "description" : "Its shell is impossible to penetrate which can make it a tricky foe.",
+  "shortdescription" : "#38 Snaggler",
+  "largeImage" : "card38.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card38.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc032",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc032" },
+  "inventoryIcon" : "mtc032.png",
+  "description" : "Every piece of Xia-La weaponry is elegantly crafted, and very nice to look at.",
+  "shortdescription" : "#32 Xia-La Pulsecarbine",
+  "largeImage" : "mtc032.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc032.png"
+}

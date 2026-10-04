@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc006",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc006" },
+  "inventoryIcon" : "mtc006.png",
+  "description" : "'Shred' probably isn't accurate given what this bad boy will do to any works of art it comes in contact with.",
+  "shortdescription" : "#6 Graxus Artshredder",
+  "largeImage" : "mtc006.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc006.png"
+}

@@ -1,0 +1,195 @@
+[
+  {
+    "op": "add",
+    "path": "/dropConfig",
+    "value": {
+      "drops": [
+        [
+          {
+            "item": "sapling"
+          }
+        ]
+      ],
+      "particles": {
+        "breakTree": {
+          "density": 3,
+          "options": [
+            {
+              "type": "ember",
+              "color": [
+                67,
+                86,
+                0
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            },
+            {
+              "type": "ember",
+              "color": [
+                131,
+                162,
+                22
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            },
+            {
+              "type": "ember",
+              "color": [
+                174,
+                209,
+                52
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            }
+          ]
+        },
+        "hitGround": {
+          "density": 3,
+          "options": [
+            {
+              "type": "ember",
+              "color": [
+                67,
+                86,
+                0
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            },
+            {
+              "type": "ember",
+              "color": [
+                131,
+                162,
+                22
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            },
+            {
+              "type": "ember",
+              "color": [
+                174,
+                209,
+                52
+              ],
+              "timeToLive": 10,
+              "initialVelocity": [
+                0,
+                5
+              ],
+              "finalVelocity": [
+                0,
+                -20
+              ],
+              "approach": [
+                0,
+                5
+              ],
+              "variance": {
+                "timeToLive": 3,
+                "initialVelocity": [
+                  1,
+                  1
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]

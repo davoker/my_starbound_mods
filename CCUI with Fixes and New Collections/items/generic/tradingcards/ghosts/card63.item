@@ -1,0 +1,13 @@
+{
+  "itemName" : "card63",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card63" },
+  "inventoryIcon" : "card63.png",
+  "description" : "When it closes its eyes it becomes immune to attacks by entering a different plane of existence.",
+  "shortdescription" : "#63 Spookit",
+  "largeImage" : "card63.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card63.png"
+}

@@ -1,0 +1,29 @@
+{
+  "itemName" : "boltedmilk",
+  "rarity" : "common",
+  "price" : 50,
+  "category" : "drink",
+  "inventoryIcon" : "boltedmilk.png",
+  "description" : "It's milk with a twist!",
+  "shortdescription" : "Bolted Milk",
+  "collectablesOnPickup" : { "cooking" : "boltedmilk"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 360
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+    }
+  ] ],
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

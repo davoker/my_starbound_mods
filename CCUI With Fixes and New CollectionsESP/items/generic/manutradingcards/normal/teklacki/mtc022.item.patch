@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Teklacki no fabrica armas de fuego, ¡pero sí espadas geniales!"
+  }
+]

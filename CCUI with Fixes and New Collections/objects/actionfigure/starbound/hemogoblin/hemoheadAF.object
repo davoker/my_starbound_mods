@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_hemoheadaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "hemoheadaf" },
+  "shortdescription" : "Hemogoblin Head Figurine",
+  "description" : "The label reads, \"The front half of a Hemogoblin can move independently, but it's still only half a monster.\"",
+  "inventoryIcon" : "hemoheadaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "hemoheadaf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

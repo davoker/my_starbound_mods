@@ -1,0 +1,29 @@
+{
+  "itemName" : "boneboomarrow",
+  "rarity" : "common",
+  "price" : 120,
+  "category" : "preparedFood",
+  "inventoryIcon" : "boneboomarrow.png",
+  "description" : "The creamy, spongey innards of the boneboo fruit.",
+  "shortdescription" : "Boneboo Marrow",
+  "collectablesOnPickup" : { "cooking" : "boneboomarrow"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

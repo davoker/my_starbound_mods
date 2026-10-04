@@ -1,0 +1,42 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Description, or something like this[/h1]
+The Protectorate has spent 500 years hugging plants and other races in the name of peace, boasting advanced technology and intergalactic travel capabilities, yet it can't provide me with weapon tooltip information that doesn't visually trigger my allergies?
+
+Alright, I did this for myself; it's my take on the weapon tooltip information with a touch of Protectorate theme. This is one of the two versions I just unveiled.
+
+[h1]Content[/h1]
+I think it's pretty straightforward, and if it's not, looking at the images should make it clear. It's a better-organized and, in my opinion, prettier weapon tooltips. There's not much more to say here; 'should' cover all weapons, at least any weapon displayed in the same way the game adds them, with the same tooltipKind system.
+
+[h1]Compatibility[/h1]
+[list][*] This is intended for use with the following mods:
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729726478] 'Weapon Stats'[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=740863523] 'Legendary Tooltips'[/url]
+
+It's not a strict requirement, but if not used, although there won't be any crashes, not all the weapon tool information will display correctly. In some cases (certain types of weapons), it won't look as shown in the images.
+
+Consider yourself warned. I don't see any reasons not to use the mentioned mods; they only add information.
+
+[*]If you're using a mod that 'fully integrates' the functionality of the mentioned two mods, there's no need to subscribe to them. All that's required are a few files from those mods for everything to work and display correctly, if such a thing exists, everything will work as it should.[/list]
+
+[h1]Questions[/h1]
+[b]Q:[/b] Why is it a book?
+[b]A:[/b] And why couldn't it be? Because I want it to be.
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+[list][*]For me (☞ﾟヮﾟ)☞[/list]
+
+[hr][/hr]
+[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "The Protectorate Weapons Book",
+  "link" : "steam://url/CommunityFilePage/3135633930",
+  "name" : "TPWBook",
+  "includes" : ["Weapon Stats", "Legendary Tooltips", "Traducción al Español"],
+  "steamContentId" : "3135633930",
+  "tags" : "User Interface",
+  "version" : "1.0"
+}

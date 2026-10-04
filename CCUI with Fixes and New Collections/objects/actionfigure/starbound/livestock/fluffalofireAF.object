@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_fluffalofireaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffalofireaf" },
+  "shortdescription" : "Fire Fluffalo Figurine",
+  "description" : "The label reads, \"Fire Fluffalos get so warm that..? Scorched Cores? Not saying it's poop or anything, but...\"",
+
+  "inventoryIcon" : "fluffalofireAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffalofireAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

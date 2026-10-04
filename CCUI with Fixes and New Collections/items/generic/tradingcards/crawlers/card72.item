@@ -1,0 +1,13 @@
+{
+  "itemName" : "card72",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card72" },
+  "inventoryIcon" : "card72.png",
+  "description" : "It watches you through its big lens.",
+  "shortdescription" : "#72 Triplod",
+  "largeImage" : "card72.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card72.png"
+}

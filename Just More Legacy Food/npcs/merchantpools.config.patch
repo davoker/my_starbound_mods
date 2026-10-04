@@ -1,0 +1,82 @@
+[
+  {
+    "op": "add",
+    "path": "/apexingredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "greenapple"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/apexingredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "orange"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/floraningredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "rawham"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/floraningredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "fleshlump"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/humaningredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "greenapple"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/humaningredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "orange"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/novakidingredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "greenapple"
+      },
+      "rarity": 0.05
+    }
+  },
+  {
+    "op": "add",
+    "path": "/novakidingredients/0/1/-",
+    "value": {
+      "item": {
+        "name": "orange"
+      },
+      "rarity": 0.05
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/scriptConfig/dialog/crewmember/cantreach/novakid", 
+		"value" : {
+      "default": [
+        "¡Vaya! ¡Estás que ardes! ¡Espera!",
+        "¡Corres como el viento, compañero! ¡Detente!",
+        "¿Cómo demonios llegaste tan rápido allí?",
+        "Me enorgullezco de ti, pero déjame alcanzarte, colega."
+      ]
+    }
+	}
+]

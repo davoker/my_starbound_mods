@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Como se anuncia, esta pistola puede pinchar cosas en los objetivos. O puedes usarla como atizador de fuego, si de verdad quieres."
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 35
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 45
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 65
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 70
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -35
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -45
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -65
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -70
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/6/variants",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/6/treeFoliageHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/6/treeStemHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/6/treeStemList/-",
+    "value": "davoalienweird"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7",
+    "value": {
+      "mode": "floor",
+      "priority": 2.0,
+      "variants": 2,
+      "distribution": "/biomes/distributions.config:rare",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 180,
+      "treeStemList": [
+        "davoalienbubble"
+      ],
+      "treeFoliageList": [
+        "davoalienbubble"
+      ]
+    }
+  }
+]

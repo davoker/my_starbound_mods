@@ -1,0 +1,30 @@
+{
+  "itemName" : "applepie",
+  "rarity" : "Uncommon",
+  "price" : 320,
+  "category" : "preparedFood",
+  "inventoryIcon" : "applepie.png",
+  "description" : "Apple pie! A classic human food.",
+  "shortdescription" : "Apple Pie",
+  "collectablesOnPickup" : { "cooking" : "applepie"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "copperkeypie" ]
+}

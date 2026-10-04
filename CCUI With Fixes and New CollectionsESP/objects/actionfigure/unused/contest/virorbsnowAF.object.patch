@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Básicamente dos Virorbs. O tal vez un Virorb con la cabeza de un muñeco de nieve como sombrero\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb de nieve"
+  }
+]

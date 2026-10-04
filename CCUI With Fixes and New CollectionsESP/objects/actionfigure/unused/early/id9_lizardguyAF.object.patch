@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Se rumorea que hace mucho tiempo, los lagartos y los pingüinos tuvieron una gran guerra. Adivina quién ganó\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Lagarto"
+  }
+]

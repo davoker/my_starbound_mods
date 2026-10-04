@@ -1,0 +1,29 @@
+{
+  "itemName" : "cornontheblob",
+  "rarity" : "Uncommon",
+  "price" : 220,
+  "category" : "preparedFood",
+  "inventoryIcon" : "cornontheblob.png",
+  "description" : "Your standard ear of sweetcorn, but with dirturchin spread on top. Mmm!",
+  "shortdescription" : "Corn on the Blob",
+  "collectablesOnPickup" : { "cooking" : "cornontheblob"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 340
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 340
+    }
+  ] ],
+  "foodValue" : 35,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

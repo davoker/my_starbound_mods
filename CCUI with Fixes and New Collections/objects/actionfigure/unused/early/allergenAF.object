@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_allergenaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "allergenaf" },
+  "shortdescription" : "Allergen Figurine",
+  "description" : "The label reads, \"If you get too close, it'll shoot poisonous spores at you.\"",
+
+  "inventoryIcon" : "unused.png:allergen",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:allergen",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

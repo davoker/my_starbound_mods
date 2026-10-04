@@ -1,0 +1,34 @@
+{
+  "objectName" : "nuggubs_norinyanplush",
+  "colonyTags" : ["hylotloceancity","pretty", "hylotl"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushmyaonori" },
+  "race" : "hylotl",
+  "rarity" : "Common",
+  "price" : 110,
+
+  "shortdescription" : "Myao Nori Plushie",
+  "description" : "A plush of a popular Hylotl character.",
+
+  "apexDescription" : "A novelty Hylotl plush. It's pretty cuddly.",
+  "avianDescription" : "It's a plush Hylotl character, and yeah... okay, it's pretty cute.",
+  "floranDescription" : "Weird fishy creature toy reminds me of fissshman.",
+  "glitchDescription" : "Amused. The creature looks like a Hylotl rice ball.",
+  "humanDescription" : "Is that a jelly donut?",
+  "hylotlDescription" : "Yeeee! A Myao Nori plushie! I'll admit, I've wanted one for a long time.",
+  "novakidDescription" : "Some kinda weird Hylotl toy.",
+  "felinDescription" : "It looks very, very cute. And it's making me hungry~",
+  "nekoDescription" : "Squishyyy~",
+  "avaliDescription" : "It's a little on the weird side, but it's alright... heehee! So squishy!",
+  "nekiDescription" : "Funny looking plushie thing. It is very cuddly though!",
+
+  "inventoryIcon" : "icons.png:myaonori",
+  "orientations" : [
+    {
+      "dualImage" : "plushies24x16.png:myaonori",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

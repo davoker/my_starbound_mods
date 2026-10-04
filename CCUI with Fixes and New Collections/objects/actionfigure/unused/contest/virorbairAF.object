@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbairaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbairaf" },
+  "shortdescription" : "Air Virorb Figurine",
+  "description" : "The label reads, \"These graceful blobs of goop float peacefully through the clouds.\"",
+
+  "inventoryIcon" : "contest.png:virorbair",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbair",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

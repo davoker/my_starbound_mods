@@ -1,0 +1,13 @@
+{
+  "itemName" : "card42",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card42" },
+  "inventoryIcon" : "card42.png",
+  "description" : "Its sleepy lifestyle allows it to flourish underground and reach impressive sizes.",
+  "shortdescription" : "#42 Mandraflora",
+  "largeImage" : "card42.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card42.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc031",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc031" },
+  "inventoryIcon" : "mtc031.png",
+  "description" : "Though its accuracy leaves something to be desired, this pistol compensates with a nice rate of fire and a built-in cigarrete lighter.",
+  "shortdescription" : "#23 Callox Ventspread",
+  "largeImage" : "mtc031.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc031.png"
+}

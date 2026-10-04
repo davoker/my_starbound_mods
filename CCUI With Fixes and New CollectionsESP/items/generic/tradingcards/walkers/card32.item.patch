@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Después de romper su caparazón, el monstruo se dividirá en dos Nutmidgelings y un Nutmidgeling rey."
+  }
+]

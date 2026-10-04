@@ -1,0 +1,120 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog",
+    "value": {
+      "crewmember": {
+        "offer": {
+          "default": {
+            "default": [
+              "¡Mi especialidad es hacer que las cosas reboten!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te ayudará a llegar a lugaresss altoss!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Amigable. ¡Ofrezco pociones para tus aspiraciones de alcanzar las alturas!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Puedo ayudarte a subir montañas mucho más fácil, colega!"
+            ]
+          }
+        },
+        "roleDescription": {
+          "default": {
+            "default": [
+              "¡Mi especialidad es hacer que las cosas reboten!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te ayudará a llegar a lugaresss altoss!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Amigable. ¡Ofrezco pociones para tus aspiraciones de alcanzar las alturas!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Puedo ayudarte a subir montañas mucho más fácil, colega!"
+            ]
+          }
+        },
+        "fieldBenefit": {
+          "default": {
+            "default": [
+              "¡Déjame darte un rápido impulso!",
+              "¿Listo para volar?",
+              "Vas a sentirte mucho más ligero con esto.",
+              "¡Gel polimérico iónico inyectado!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te enviará máss alto ahora!",
+              "¡Floran tiene una inyección azul para ti!",
+              "¡Floran te ayuda a alcanzar máss altura!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Entusiasmado. ¡Te ayudaré a alcanzar más altura!",
+              "Emocionado. ¡Esto mejorará tu impulso hacia arriba!",
+              "Intrigado. ¿Te gustaría saltar más alto?",
+              "Servicial. ¡Administrando gel polimérico iónico!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Alcanza el cielo, colega!",
+              "Parece que podrías usar algo de... este gel azul...",
+              "¡Parece que estés yendo hacia los cielos!",
+              "¡Espera colega, esto te llevará muy alto!"
+            ]
+          }
+        },
+        "combatBenefit": {
+          "default": {
+            "default": [
+              "¡Espera, necesitarás este impulso!",
+              "¿Listo para volar bien alto?",
+              "Te vas a sentir en lo alto con esto.",
+              "¡Gel polimérico iónico administrado!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te enviará hassta lass nubesss ahora!",
+              "¡Floran tiene una aguja azul que ofrecerte!",
+              "¡Floran te ayuda a llegar másss alto!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Entusiasmado. ¡Te ayudaré a alcanzar el cielo!",
+              "Emocionado. ¡Esto mejorará tu potencia de salto!",
+              "Intrigado. ¿Quieres saltar hasta límits que ni imaginarías?",
+              "Servicial. ¡Proporcionando gel polimérico iónico!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Alcanzarás el cielo con esto, colega!",
+              "Parece que te vendría bien algo de... este gel azul...",
+              "¡Parece que vayas a llegar a las nubes!",
+              "¡Espera colega, con esto llegarás alto de verdad!"
+            ]
+          }
+        }
+      }
+    }
+  }
+]

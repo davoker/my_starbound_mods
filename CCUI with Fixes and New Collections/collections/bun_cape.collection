@@ -1,0 +1,114 @@
+{
+  "name" : "bun_cape",
+  "title" : "^#D1FF99;Cape Cosmetic",
+  "type" : "item",
+  
+   "collectables" : {
+
+	"raggedprotectoratecape" : { "order" : 1, "item" : "raggedprotectoratecape", "icon": "/bun_images/cape/raggedprotectoratecape.png" },
+ 
+
+	//crafting
+	
+	"shortcapeback" : { "order" : 2, "item" : "shortcapeback", "icon": "/bun_images/cape/shortcapeback.png" },
+ 	"simplecapeback" : { "order" : 3, "item" : "simplecapeback", "icon": "/bun_images/cape/simplecapeback.png" },
+	
+	"lanternstickback" : { "order" : 4, "item" : "lanternstickback", "icon": "/bun_images/cape/lanternstickback.png" },
+	"halogenpack" : { "order" : 5, "item" : "halogenpack", "icon": "/bun_images/cape/halogenpack.png" },
+	"xenonpack" : { "order" : 6, "item" : "shortcapeback", "icon": "/bun_images/cape/xenonpack.png" },
+
+	"breathprotectionback" : { "order" : 7, "item" : "breathprotectionback", "icon": "/bun_images/cape/breathprotectionback.png" },
+	"radiationprotectionback" : { "order" : 8, "item" : "radiationprotectionback", "icon": "/bun_images/cape/radiationprotectionback.png" },
+	"coldprotectionback" : { "order" : 9, "item" : "coldprotectionback", "icon": "/bun_images/cape/coldprotectionback.png" },
+	"heatprotectionback" : { "order" : 10, "item" : "heatprotectionback", "icon": "/bun_images/cape/heatprotectionback.png" },
+
+	
+	
+
+	//Floran
+
+	"spearback" : { "order" : 11, "item" : "spearback", "icon": "/bun_images/cape/spearback.png" },
+ 
+	//Avian
+
+	
+	"tribalwingsback" : { "order" : 12, "item" : "tribalwingsback", "icon": "/bun_images/cape/tribalwingsback.png" },
+	"tribalfeathersback" : { "order" : 13, "item" : "tribalfeathersback", "icon": "/bun_images/cape/tribalfeathersback.png" },
+	
+	"aviangodwingsback" : { "order" : 14, "item" : "aviangodwingsback", "icon": "/bun_images/cape/aviangodwingsback.png" },
+	
+	"guardwingsback" : { "order" : 15, "item" : "guardwingsback", "icon": "/bun_images/cape/guardwingsback.png" },
+	"bladedwingsback" : { "order" : 16, "item" : "bladedwingsback", "icon": "/bun_images/cape/bladedwingsback.png" },
+	"falconwingsback" : { "order" : 17, "item" : "falconwingsback", "icon": "/bun_images/cape/falconwingsback.png" },
+
+	//glitch
+
+	"quiverback" : { "order" : 18, "item" : "quiverback", "icon": "/bun_images/cape/quiverback.png" },
+	
+   	//universe
+
+    	"batterypackAAback" : { "order" : 19, "item" : "batterypackAAback", "icon": "/bun_images/cape/batterypackAAback.png" },
+	
+	"oxygentank" : { "order" : 20, "item" : "oxygentank", "icon": "/bun_images/cape/oxygentank.png" },
+	"paperwingsback" : { "order" : 21, "item" : "paperwingsback", "icon": "/bun_images/cape/paperwingsback.png" },
+	"medicback" : { "order" : 22, "item" : "medicback", "icon": "/bun_images/cape/medicback.png" },
+    
+
+	//garden
+
+	"turtleshellback" : { "order" : 23, "item" : "turtleshellback", "icon": "/bun_images/cape/turtleshellback.png" },
+
+	//giantflower
+
+	"butterflywingsback" : { "order" : 24, "item" : "butterflywingsback", "icon": "/bun_images/cape/butterflywingsback.png" },
+
+	
+	//Colorful
+
+	"crayonblueback" : { "order" : 25, "item" : "crayonblueback", "icon": "/bun_images/cape/crayonblueback.png" },
+	"crayongreenback" : { "order" : 26, "item" : "crayongreenback", "icon": "/bun_images/cape/crayongreenback.png" },
+	"crayonyellowback" : { "order" : 27, "item" : "crayonyellowback", "icon": "/bun_images/cape/crayonyellowback.png" },
+	"crayonorangeback" : { "order" : 28, "item" : "crayonorangeback", "icon": "/bun_images/cape/crayonorangeback.png" },
+	"crayonredback" : { "order" : 29, "item" : "crayonredback", "icon": "/bun_images/cape/crayonredback.png" },
+	"crayonpurpleback" : { "order" : 30, "item" : "crayonpurpleback", "icon": "/bun_images/cape/crayonpurpleback.png" },
+
+
+	//bones
+
+	"jeffback" : { "order" : 31, "item" : "jeffback", "icon": "/bun_images/cape/jeffback.png" },
+
+	//snow
+
+	"survivalgearback" : { "order" : 32, "item" : "survivalgearback", "icon": "/bun_images/cape/survivalgearback.png" },
+	
+	//eye
+
+	"eyeback" : { "order" : 33, "item" : "eyeback", "icon": "/bun_images/cape/eyeback.png" },
+
+	//toxic
+
+	"toxicflowerback" : { "order" : 34, "item" : "toxicflowerback", "icon": "/bun_images/cape/toxicflowerback.png" },
+	"toxicwasteback" : { "order" : 35, "item" : "toxicwasteback", "icon": "/bun_images/cape/toxicwasteback.png" },
+	"dangerbarrelback" : { "order" : 36, "item" : "dangerbarrelback", "icon": "/bun_images/cape/dangerbarrelback.png" },
+
+	//midnight
+
+	"darkcapeback" : { "order" : 37, "item" : "darkcapeback", "icon": "/bun_images/cape/darkcapeback.png" },
+
+	//cavemushroom
+
+	"raggedcapeback" : { "order" : 38, "item" : "raggedcapeback", "icon": "/bun_images/cape/raggedcapeback.png" },
+
+	
+	//bone cave
+
+	"bonewingsback" : { "order" : 39, "item" : "bonewingsback", "icon": "/bun_images/cape/bonewingsback.png" },
+
+	//specific
+
+	"armoredcultistback" : { "order" : 40, "item" : "armoredcultistback", "icon": "/bun_images/cape/armoredcultistback.png" },
+	"batwingsback" : { "order" : 41, "item" : "batwingsback", "icon": "/bun_images/cape/batwingsback.png" }
+
+
+	}
+}

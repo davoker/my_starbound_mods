@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una reacción química en su barriga hace que su aliento caliente sea tóxico."
+  }
+]

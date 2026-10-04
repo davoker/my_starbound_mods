@@ -1,0 +1,82 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 150
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 160
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 170
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 180
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -170
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/11/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/11/treeStemHueShiftMax",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/6",
+    "value": "davosnowgreenleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "icepinefoliage"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "snowbrains"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "davosnowbubbles"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "snowcloudy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "snowdarkleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "snowhanging"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "snowlotus"
+  }
+]

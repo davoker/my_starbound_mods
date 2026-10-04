@@ -1,0 +1,11 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Description, or something like this[/h1]\nNot much to describe here, I saw this mod a long time ago -> [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1384094249] Animated Deco Slime Pets![/url], and I realized that they are not pets, but rather I would describe them as \"animated furniture\", cute and bouncy.\n\nI wanted to have pets like those but as actual pets, so I got down to work. With a few base sprites for each slime and a few hours of editing, this is the result.\n\n[h1]Content[/h1]\n[b]8 types of slimes:[/b]\n[list]\n[*]Slime King\n[*]Slime\n[*]Cat\n[*]Lava\n[*]Poisonous\n[*]Rainbow (Or something similar)\n[*]Blue\n[*]Yellow\n[/list]\n- The slimes will sleep in their pet house as long as the house is nearby or accessible to them.\n\n- You can purchase this pet's pet house at the Infinity Express store in the Outpost.\n\n- To change the type of slime, simply [b]remove the pet house and place it again[/b]; the slimes will change. This works with all default pets.\n\n[h1]Compatibility[/h1]\nIt should be compatible with everything, it is only a pet to be used with Purchasable Pets.\n\n- If it wasn't clear enough, this mod requires having [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729438381] Purchasabe Pets[/url] installed, or else it will cause an error and your game won't start.\n\n[h1]Recommended MODs[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1239952506] Pets Are Useful![/url] (highly recommended)\n[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]\n\n[h1]Credits[/h1]\n- To [url=https://steamcommunity.com/id/LolStopLookingAtThisUrl/myworkshopfiles/] Nin-Sama[/url]  for letting me use his base sprites, thanks.\n- [url=https://steamcommunity.com/id/xxswatelitexx/myworkshopfiles/?appid=211820] TheSuit[/url] for Purchasable Pets.\n- I won't give myself credits because I'm too handsome, I don't need them (☞ﾟヮﾟ)☞\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "More Slime Pets",
+  "link" : "steam://url/CommunityFilePage/3116059640",
+  "name" : "More Slime Pets",
+  "requires" : ["p_Pets"],
+  "steamContentId" : "3116059640",
+  "tags" : "NPCs and Creatures",
+  "version" : "1.0"
+}

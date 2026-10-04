@@ -1,0 +1,31 @@
+{
+  "itemName" : "avesmingocordial",
+  "rarity" : "uncommon",
+  "price" : 450,
+  "category" : "drink",
+  "inventoryIcon" : "avesmingocordial.png",
+  "description" : "A glass of smooth avesmingo cordial.",
+  "shortdescription" : "Avesmingo Cordial",
+  "collectablesOnPickup" : { "cooking" : "avesmingocordial"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    }
+  ] ],
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "avesmingocordialbottle" ]
+}

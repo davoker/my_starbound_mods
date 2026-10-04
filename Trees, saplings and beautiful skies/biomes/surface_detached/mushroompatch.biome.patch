@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/1/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/1/treeStemHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundPlaceables/items/1/treeStemHueShiftMax",
+    "value": 180
+  }
+]

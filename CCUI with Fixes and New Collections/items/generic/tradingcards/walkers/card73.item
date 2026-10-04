@@ -1,0 +1,13 @@
+{
+  "itemName" : "card73",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card73" },
+  "inventoryIcon" : "card73.png",
+  "description" : "Nobody knows where it came from or who made it.",
+  "shortdescription" : "#73 Bobot",
+  "largeImage" : "card73.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card73.png"
+}

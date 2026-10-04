@@ -1,0 +1,1052 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "value": "Pacifista prof."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/0",
+    "value": "Mejor amigo"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/1",
+    "value": "El calmador"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/2",
+    "value": "Maestro de los besos"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/3",
+    "value": "Persuasor romántico"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "value": "Realmente no podría pensar en nada que quisiera hacer más que explorar las estrellas contigo ... ¿Estaría bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "value": "¡Creo que realmente funcionamos bien juntos! Me encantaría viajar contigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "value": "Una vida entre las estrellas ... ¿No suena romántico?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "value": "No hay nadie con quien prefiera ver las maravillas del espacio que contigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+    "value": "Vivir bajo un régimen totalitario es aterrador. Tú lo haces menos así. ¿Puedo venir contigo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+    "value": "Creo que tenemos una excelente química juntos. Tal vez esto pueda ser un arreglo más duradero?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+    "value": "Si no te importa, me gustaría ir contigo. Trabajamos muy bien juntos en mi opinión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+    "value": "Creo que somos buenos el uno para el otro. Si me aceptas, me gustaría ver el universo contigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+    "value": "Las estrellas se ven hermosas desde aquí, pero mucho más si las veo contigo a mi lado. ¿Puedo unirme?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+    "value": "La aventura tiene un lugar en mi corazón, y también tú. ¿Podré mantener ambas cosas en mi?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+    "value": "Mi corazón se siente más ligero contigo aquí. Me gustaría ir contigo, si me aceptas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+    "value": "Es más sabio viajar con alguien en quien puedas confiar, que estará allí para ti. ¿Puedo contar contigo también?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+    "value": "Mi mayor inspiración viene de mi tiempo contigo. Si fueras tan amable, me gustaría acompañarte."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+    "value": "Eres mi mejor amigo. Contigo puedo ser feliz. ¿Puedo ir contigo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "value": "¡<selfname> quiere ir contigo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "value": "<selfname> piensa que eresss genial. ¿Qué piensass tú de <selfname>?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "value": "Te ves fuerte. ¡<selfname> quiere unirssse a ti!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "value": "Emocionado. Me gustaría mucho unirme a ti y ver el universo juntos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "value": "Aprensivo. Creo que hacemos un gran equipo. ¿Estás de acuerdo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "value": "Tímido. Creo que trabajamos muy bien juntos. ¿Puedo unirme a ti?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
+    "value": "Puede que olvide de dónde vengo, pero sé adónde quiero ir: ¡contigo, compi!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
+    "value": "Oye compi, ¿buscas a un viejo vagabundo proveniente de las estrellas para cabalgar contigo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
+    "value": "Sabes, tú y yo nos llevamos de maravilla. ¿Te apetece que te acompañe en tu nave?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
+    "value": "Si estás buscando a alguien para que te acompañe en tu largo viaje, ¡entonces soy tu Huckleberry!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "value": "¡Estoy tan contento de que sientas lo mismo! Solo di la palabra y estaré allí para ti."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "value": "¡Vamos a crear grandes recuerdos juntos! ¿Por dónde empezamos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+    "value": "Si alguna vez me necesitas, no dudes en llamarme. Estoy aquí para ti."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+    "value": "Un nuevo comienzo... Gracias por darme esta oportunidad. Estoy en deuda contigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+    "value": "No hay ningún lugar donde preferiría estar más ahora mismo que aquí contigo. ¡No puedo esperar para ver hasta donde vamos a llegar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+    "value": "¡Siento que podría volar de nuevo! ¡Espero poder traerte la misma felicidad que yo siento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+    "value": "Nada de lo que podría decir puede describir con precisión lo feliz que estoy. ¡Espero hacerte sentir tan feliz también!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+    "value": "¡Crearemos grandes recuerdos juntos, lo sé! ¡Vamos, empecemos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "value": "¡<selfname> ssiente alegria de que sientasss lo mismo! ¡<selfname> estará aquí para ti en momentoss de crisisss!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "value": "¡<selfname> sssentir emoción de empezar una nueva vida juntoss!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "value": "Aliviado. ¡Me alegra que sientas lo mismo! ¡Vamos a hacer un gran equipo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "value": "Exaltado. ¡Pasar tiempo entre las estrellas contigo es un gran regalo de verdad!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+    "value": "Espero no haber sido demasiado cursi antes, compi. ¡Vamos a hacer un equipo increíble!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+    "value": "¡Bueno, si no estoy iluminado como las grandes estrellas del cielo! ¡Creo que es por tu culpa, compi!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "value": "¡Ack! ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "value": "¿Qué acaba de pasar? ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "value": "¡Estoy de vuelta! ¿Y tú estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "value": "¿Estás bien? ¡Tenía mucha preocupación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "value": "¡Gracias a Dios que estás bien!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "value": "Estoy bien, pero me preocupa más saber si tú estás bien. ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "value": "¿Espera, estamos de vuelta en la nave? ¿Tú estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/apex/default/0",
+    "value": "Debo haber cometido un error... ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/apex/default/1",
+    "value": "¿Estamos de vuelta en la nave? ¿Te encuentras bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/apex/default/2",
+    "value": "¡Ay, mi cabeza! ¿Sufriste algún daño?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/apex/default/3",
+    "value": "Estaba preocupado por ti. ¿Necesitas atención médica?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avian/default/0",
+    "value": "¡Ay, mi cabeza me duele! ¿Y tú como estás?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avian/default/1",
+    "value": "¡Estás de vuelta! ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avian/default/2",
+    "value": "¡Dios mío, tenía mucha preocupación por ti! ¿Tienes alguna herida?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avian/default/3",
+    "value": "¡Estaba de los nervios! Me alegra de que ya estés de vuelta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/hylotl/default/0",
+    "value": "Debo haber resbalado o algo... ¿Como te encuentras?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/hylotl/default/1",
+    "value": "Un error de mi parte... Espero que estés bien."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/hylotl/default/2",
+    "value": "¡Espero que mi ausencia no haya sido un problema! Confío en que estés bien"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/hylotl/default/3",
+    "value": "¡Tenía mucha preocupación por ti! Me alegra que estés de vuelta, sano y salvo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+    "value": "<selfname> sse siente raro. ¿compi de <selfname> essstar bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+    "value": "<selfname> esstá de vuelta en la nave. ¿Estásss a salvo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+    "value": "¡La pareja de caza essstá de vuelta! ¿Estáss bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+    "value": "¡<selfname> sssentía preocupación por ti!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+    "value": "Desorientado. ¿Qué pasó? ¿Estás bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+    "value": "Aliviado. ¡Estás de vuelta!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+    "value": "Preocupado. Tenía preocupación por ti. ¿Te encuentras bien?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+    "value": "Reconfortado. Al menos estás a salvo de nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
+    "value": "Bueno, diablos, estaría mintiendo si dijera que no tenía preocupación por ti, compi."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
+    "value": "¿Estaba muerto? ¿Estabas muerto? ¡Supongo que deberíamos tener más cuidado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
+    "value": "¡Me alegra verte de vuelta por la pradera! ¿Listo para volver a montar?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
+    "value": "Volver a la vida me da escalofrios... ¿Estás bien, compi?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "value": "¡Ten cuidado! ¿vale? Esperaré por aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "value": "Me quedaré por aquí. ¡Vuelve sano y salvo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "value": "Estaré por aquí de momento. ¡Cuídate mientras estés ahí fuera!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "value": "Me quedaré aquí por ahora. ¡No dejes que los lilodons te muerdan!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/apex/default/0",
+    "value": "No tomes riesgos innecesarios. Me encontrarás aquí mismo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/apex/default/1",
+    "value": "Te esperaré aquí. Sé cuidadoso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/apex/default/2",
+    "value": "Cuídate mientras estés ahí fuera. Estaré aquí cuando vuelvas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avian/default/0",
+    "value": "Mantente a salvo mientras estés ahí fuera ¿de acuerdo? ¡Regresa de inmediato si me necesitas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avian/default/1",
+    "value": "Si me necesitas, estaré justo aquí. Regresa en una pieza, ¿de acuerdo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avian/default/2",
+    "value": "Me quedaré aquí. Regresa pronto, ¿vale?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/hylotl/default/0",
+    "value": "Por favor, ten cuidado allá afuera. Te esperaré aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/hylotl/default/1",
+    "value": "¡No hagas nada tonto! Te estaré esperando aquí mismo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/hylotl/default/2",
+    "value": "Estaré aquí si necesitas mi ayuda. Regresa sano y salvo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+    "value": "<selfname> se quedará. ¡No olvidess tu cosssa punzante!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+    "value": "¿Quedarme? ¡De acuerdo! ¡vuelve pronto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+    "value": "<selfname> esssperará, ¡tal vez cocine algo para compartir!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+    "value": "Obediente. Esperaré aquí. ¿Es seguro, verdad?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+    "value": "Paciente. Esperaré ansiosamente tu regreso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+    "value": "Amistoso. Me quedaré aquí si me necesitas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+    "value": "Preocupado. Espero que te mantengas alejado del peligro."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
+    "value": "De acuerdo, compi, estaré justo aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
+    "value": "Puedo quedarme aquí, si quieres."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
+    "value": "Descansaré por aquí mientras te espero, compi."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "value": "¡Listo cuando tú lo estés!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "value": "¡Pensé que nunca lo preguntarías!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "value": "¡Estás de vuelta! ¡Vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "value": "¿A dónde iremos ahora?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "value": "¡Te eché de menos! ¡Sigamos adelante!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/apex/default/0",
+    "value": "Me alegra de que viajemos juntos de nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/apex/default/1",
+    "value": "Se notó tu ausencia. Partimos cuando quieras."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/apex/default/2",
+    "value": "Siempre funcionamos mejor en equipo. Vamos cuando estés listo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/apex/default/3",
+    "value": "Me alegra de que estés de vuelta. Vamos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/apex/default/4",
+    "value": "¿A dónde iremos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/avian/default/0",
+    "value": "¡Estás de vuelta! ¡Vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/avian/default/1",
+    "value": "¡Ahí estás! ¿Listos para irnos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/avian/default/2",
+    "value": "Estaba pensando en ti. ¿Nos vamos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/avian/default/3",
+    "value": "¡SI tu estás listo, yo también!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/avian/default/4",
+    "value": "¡Oh! Me has pillado en medio de mi acicalamiento... Pero está bien, ¿Listos para partir?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/hylotl/default/0",
+    "value": "¡Esperé pacientemente tu regreso! ¿Vamos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/hylotl/default/1",
+    "value": "... Oh, ¡lo siento! Estaba escribiendo un poema para - oh... umh, ¿nos marchamos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/hylotl/default/2",
+    "value": "Podrían pasar estaciones enteras y todavía reconocería esa mirada en tus ojos. ¡Vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/hylotl/default/3",
+    "value": "Me alegra de que hayas vuelto. ¡Sigamos nuestro camino!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+    "value": "¡Vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+    "value": "¡Compi de caza essstá de regreso! ¡<selfname> está te sseguirá!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+    "value": "¡Compi de caza tonto! ¡No caces en sssolitario! ¡Vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+    "value": "¡<selfname> lisssto cuando tú lo estéss!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+    "value": "¡Sí! ¡<selfname> ha essstado esperando essto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+    "value": "Humilde. Lidera y seguiré."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+    "value": "Tímido. Te he echado de menos. ¿Nos vamos ya?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+    "value": "Aliviado. Regresaste sano y salvo. Te seguiré una vez más."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+    "value": "Inquisitivo. ¿Vamos a algún lugar?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
+    "value": "No hay tiempo que perder, ¡vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
+    "value": "¡Pensé que nunca me lo pedirías! ¡Hay que moverse!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
+    "value": "¿Es hora de montar, compi?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
+    "value": "¡Yee-haw, vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "value": "¡Ups! ¡Allí estaré en un segundo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "value": "¡Estaré allí en un segundo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "value": "¡Dame un momento! ¡Estaré allí enseguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "value": "¡Mantente a salvo! ¡Estaré allí en un momento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "value": "¡Te alcanzaré enseguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/apex/default/0",
+    "value": "Mantente a salvo, me teletransportaré a tu posición en un momento."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/apex/default/1",
+    "value": "Te mueves rápido. Estaré allí en un momento."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/apex/default/2",
+    "value": "No puedo alcanzarte, ten cuidado mientras me preparo para teletransportarme a tu lado."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avian/default/0",
+    "value": "¡Estaré allí enseguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avian/default/1",
+    "value": "¡Te alcanzaré en un momento! ¡Solo ten cuidado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avian/default/2",
+    "value": "¡Estaré allí en un momento! ¿No hagas nada demasiado peligroso, de acuerdo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/hylotl/default/0",
+    "value": "Mantén un ojo avizor. Estaré allí en un momento."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/hylotl/default/1",
+    "value": "Ten cuidado; estaré allí enseguida."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/hylotl/default/2",
+    "value": "Ten cuidado, es posible que necesite teletransportarme a tu posición."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+    "value": "¡Compi de caza esss rápido! ¡<selfname> te alcanzará en un momento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+    "value": "¡<selfname> no puede protegerte dessde aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+    "value": "¡<selfname> no essstá lo suficientemente cerca de ti!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/novakid/default/0",
+    "value": "¡Guau, eres rápido! ¡Estaré allí enseguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/novakid/default/1",
+    "value": "¡Espera un momento, voy para allá!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/novakid/default/2",
+    "value": "Vigila tu espalda, ¡todavía no he llegado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+    "value": "Preocupado. ¡Intentaré alcanzarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+    "value": "Aprensivo. ¡Estaré allí pronto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/2",
+    "value": "Preocupado. ¡Estaré allí enseguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+    "value": "Pareces herido. ¡Déjame ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+    "value": "¡Déjame ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+    "value": "Creo que no te importará recibir un poco de curación. ¡Aquí, toma!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+    "value": "¡Hey, puedo curarte! ¡Simplemente no te muevas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/apex/default/0",
+    "value": "Estas herido. ¡Déjame que te ayude!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/apex/default/1",
+    "value": "¡Déjame curarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/apex/default/2",
+    "value": "Creo que no te importará que te cure ahora mismo. ¡Toma esto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/apex/default/3",
+    "value": "¡Oye, yo puedo curarte! ¡Espera un momento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/avian/default/0",
+    "value": "Estás herido. ¡Yo puedo ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/avian/default/1",
+    "value": "¡Déja que te ayude!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/avian/default/2",
+    "value": "No creo que te importe que te aplique unos curativos. ¡Vamos, toma!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/avian/default/3",
+    "value": "¡Hey, deja que te cure! ¡Para un momento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0",
+    "value": "Parecesss herido. ¡<selfname> puede ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1",
+    "value": "<selfname> es médico. ¡Confía en <selfname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2",
+    "value": "Tieness heridasss. ¡<selfname> te puede ayudar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/hylotl/default/0",
+    "value": "Tienes algunas heridas. ¡Te ayudaré!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/hylotl/default/1",
+    "value": "¡Te ayudaré ahora mismo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/hylotl/default/2",
+    "value": "Seguramente te vendrá bien un poco de curación. ¡Aquí tienes!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/hylotl/default/3",
+    "value": "¡Oye, yo te curaré! ¡Quédate ahí y déjame hacer!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+    "value": "Preocupado. ¡Pareces que podrías necesitar algo de curación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
+    "value": "Cuidadoso. ¿Quizás necesites mis servicios de curandero?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
+    "value": "Servicial. Te he visto en mejor forma que ahora. ¡Permíteme ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/0",
+    "value": "Te veo algo herido compi. ¡Déjame ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/1",
+    "value": "¡Déjalo en mis manos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/2",
+    "value": "Te vendría bien algúna cura, seguro. ¡Toma esto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/novakid/default/3",
+    "value": "¡He compi, yo puedo curarte! ¡Para un momento!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "value": "¡Parece que necesites algo de curación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "value": "¡Déja que te ayude!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "value": "Soy médico de combate, ¡déjame ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "value": "¡Parece que te vendría bien mi ayuda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+    "value": "¡Puedo curarte! ¡Ven hacia mí rápidamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/apex/default/0",
+    "value": "¡Pareces que podrías necesitar curación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/apex/default/1",
+    "value": "¡Deja que te preste mi ayuda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/apex/default/2",
+    "value": "Soy médico de combate, ¡yo me encargo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/apex/default/3",
+    "value": "¡Puede que necesites mi ayuda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/apex/default/4",
+    "value": "¡Yo te curaré! ¡Ven hacia mí, rápido!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/avian/default/0",
+    "value": "¡Necesitas curación ahora mismo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/avian/default/1",
+    "value": "¡Yo te puedo ayudar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/avian/default/2",
+    "value": "Soy médico de combate, ¡Podré ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/avian/default/3",
+    "value": "¡Veo que puedes necesitar mi ayuda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/avian/default/4",
+    "value": "¡Yo puedo caurarte! ¡Ven, no pierdas tiempo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "value": "¡<selfname> tiene cosasss para ayudar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "value": "¡<selfname> puede ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "value": "¡<selfname> te puede ayudar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/hylotl/default/0",
+    "value": "¡Veo que podrías necesitar algo de curación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/hylotl/default/1",
+    "value": "¡Te ayudaré ipso facto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/hylotl/default/2",
+    "value": "Soy médico de combate, ¡ayudarte es mi deber!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/hylotl/default/3",
+    "value": "¡Parece que no te vendría mal mi ayuda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/hylotl/default/4",
+    "value": "¡Te puedo curar! ¡Ven rápidamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "value": "Entusiasta. ¡Yo puedo ayudarte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "value": "Emocionado. ¿Quizás necesites curación?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "value": "Servicial. ¡Esto te curará!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "value": "Servicial. ¡Toma esto, te ayudará!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/0",
+    "value": "¡Vaya, parece que podrías necesitar algo de curación!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/1",
+    "value": "¡Déjalo en mis manos, te ayudaré!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2",
+    "value": "Soy médico de combate, ¡no te muevas y déjame trabajar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3",
+    "value": "¡Parece que necesitas mi ayuda, compi!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/4",
+    "value": "¡Te curaré al momento! ¡Solo ven hacia mí rápidamente!"
+  }
+]

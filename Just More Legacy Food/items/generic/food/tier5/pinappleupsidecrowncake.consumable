@@ -1,0 +1,29 @@
+{
+  "itemName" : "pinappleupsidecrowncake",
+  "rarity" : "rare",
+  "price" : 550,
+  "category" : "preparedFood",
+  "inventoryIcon" : "pinappleupsidecrowncake.png",
+  "description" : "Upside crown cake! Haha! Get it? Sigh...",
+  "shortdescription" : "Pinapple Upside-Crown Cake",
+  "collectablesOnPickup" : { "cooking" : "pinappleupsidecrowncake"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 360
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+    }
+  ] ],
+  "foodValue" : 35,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

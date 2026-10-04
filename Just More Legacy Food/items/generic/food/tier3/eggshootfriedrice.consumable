@@ -1,0 +1,33 @@
+{
+  "itemName" : "eggshootfriedrice",
+  "rarity" : "common",
+  "price" : 90,
+  "category" : "preparedFood",
+  "inventoryIcon" : "eggshootfriedrice.png",
+  "description" : "Fried rice, a Hylotl staple.",
+  "shortdescription" : "Eggshoot Fried Rice",
+  "collectablesOnPickup" : { "cooking" : "eggshootfriedrice"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    },
+	{
+		"effect" : "jumpboostfood",
+		"duration" : 60
+	}
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

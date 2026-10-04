@@ -1,0 +1,107 @@
+[
+	{
+		"op": "replace",
+		"path": "/background",
+		"value": {
+			"type" : "background",
+			"fileHeader" : "/interface/tooltips/ProtectorateHeader.png",
+			"fileBody" : "/interface/tooltips/ProtectorateBody.png",
+			"fileFooter" : "/interface/tooltips/ProtectorateFooter.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/moneyIcon",
+		"value": {
+			"type" : "image",
+			"position" : [75, 19],
+			"file" : "/interface/money.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/priceLabel",
+		"value": {
+			"type" : "label",
+			"position" : [88, 18],
+			"hAnchor" : "left",
+			"value" : "tree"	}
+	},
+	{
+		"op": "replace",
+		"path": "/rarityLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 18],
+			"hAnchor" : "left",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/healthTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [156, 124],
+			"hAnchor" : "left",
+			"value" : "Shield Health:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/healthLabel",
+		"value": {
+			"type" : "label",
+			"position" : [295, 124],
+			"hAnchor" : "right",
+			"value" : ""	}
+	},
+	{
+		"op": "replace",
+		"path": "/cooldownTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [156, 104],
+			"hAnchor" : "left",
+			"value" : "Cooldown Time:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/cooldownLabel",
+		"value": {
+			"type" : "label",
+			"position" : [295, 104],
+			"hAnchor" : "right",
+			"value" : ""	}
+	},
+	{
+		"op": "add",
+		"path": "/handednessLabel",
+		"value": {
+			"type" : "label",
+			"position" : [50, 143],
+			"hAnchor" : "right",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/objectImage",
+		"value": {
+			"type" : "image",
+			"position" : [82, 94],
+			"file" : "",
+			"centered" : true,
+			"maxSize" : [70, 70],
+			"minSize" : [70, 70]	}
+	},
+	{
+		"op": "add",
+		"path": "/descriptionLabel",
+		"value": {
+			"type" : "label",
+			"position" : [168, 72],
+			"hAnchor" : "left",
+			"vAnchor" : "top",
+			"wrapWidth" : 124,
+			"lineSpacing" : 1.0,
+			"value" : ""	}
+	}
+]

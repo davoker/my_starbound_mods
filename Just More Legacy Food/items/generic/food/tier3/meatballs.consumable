@@ -1,0 +1,30 @@
+{
+  "itemName" : "meatballs",
+  "rarity" : "common",
+  "price" : 80,
+  "category" : "preparedFood",
+  "inventoryIcon" : "meatballs.png",
+  "description" : "Meatballs in a can. Not quite homemade, but they'll keep a lot longer.",
+  "shortdescription" : "Meatballs",
+  "collectablesOnPickup" : { "cooking" : "meatballs"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 45,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 2.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "meatjuice" ]
+}

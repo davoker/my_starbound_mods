@@ -1,0 +1,9 @@
+[
+ {"op":"add","path":"/interactData/items/-","value": {"item":"greenapple"}},
+ {"op":"add","path":"/interactData/items/-","value": {"item":"orange"}},
+ {"op":"add","path":"/interactData/items/-","value": {"item":"candy"}},
+ {"op":"add","path":"/interactData/items/-","value": {"item":"lollypop"}},
+ {"op":"add","path":"/interactData/items/-","value": {"item":"meatballs"}},
+ {"op":"add","path":"/interactData/items/-","value": {"item":"veggiesoup"}}
+]
+  

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/5/treeFoliageList/0",
+    "value": "davodarkrock"
+  }
+]

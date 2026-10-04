@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"El pelaje de un Fluffalo de hielo puede llegar a estar muy frío\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fluffalo de hielo"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una buena fuente de núcleos abrasados."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#23 Fluffalo de fuego"
+  }
+]

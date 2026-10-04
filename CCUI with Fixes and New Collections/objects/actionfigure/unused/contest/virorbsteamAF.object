@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbsteamaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbsteamaf" },
+  "shortdescription" : "Steam Virorb Figurine",
+  "description" : "The label reads, \"This industrial-looking Virorb has been known to scald people's faces right off.\"",
+
+  "inventoryIcon" : "contest.png:virorbsteam",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbsteam",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

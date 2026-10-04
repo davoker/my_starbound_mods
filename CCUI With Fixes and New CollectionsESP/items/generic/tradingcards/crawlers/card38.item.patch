@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Su caparazón es imposible de penetrar, lo que puede convertirlo en un enemigo difícil."
+  }
+]

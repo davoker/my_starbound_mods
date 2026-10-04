@@ -1,0 +1,8 @@
+[{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {
+			"bun_dcs": "scientisthead"
+		}
+	}
+]

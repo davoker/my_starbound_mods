@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_rustickaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "rustickaf" },
+  "shortdescription" : "Rustick Figurine",
+  "description" : "The label reads, \"If they don't make a connection with another Rustick, they can get quite lonely.\"",
+
+  "inventoryIcon" : "rustickAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "rustickAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

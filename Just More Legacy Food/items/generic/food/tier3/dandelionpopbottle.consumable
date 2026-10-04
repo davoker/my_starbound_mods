@@ -1,0 +1,35 @@
+{
+  "itemName" : "dandelionpopbottle",
+  "rarity" : "Uncommon",
+  "price" : 280,
+  "category" : "drink",
+  "inventoryIcon" : "dandelionpopbottle.png",
+  "description" : "A bottle of dandelion root pop.",
+  "shortdescription" : "Dandelion Pop Bottle",
+  "collectablesOnPickup" : { "cooking" : "dandelionpopbottle"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+	{
+		"effect" : "runboostfood",
+		"duration" : 180
+	}
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "wartjuice" ]
+}

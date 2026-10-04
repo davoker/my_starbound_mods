@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc012",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc012" },
+  "inventoryIcon" : "mtc012.png",
+  "description" : "'Send your foes back into whatever void they came from!' - Manticon promotional material",
+  "shortdescription" : "#12 Manticon Voidblast",
+  "largeImage" : "mtc012.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc012.png"
+}

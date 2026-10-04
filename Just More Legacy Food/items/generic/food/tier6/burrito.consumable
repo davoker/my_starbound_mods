@@ -1,0 +1,41 @@
+{
+  "itemName" : "burrito",
+  "rarity" : "Legendary",
+  "price" : 800,
+  "category" : "preparedFood",
+  "inventoryIcon" : "burrito.png",
+  "description" : "A bean and cheese burrito. Deliciously unhealthy!",
+  "shortdescription" : "Burrito",
+  "collectablesOnPickup" : { "cooking" : "burrito"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 400
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 500
+    },
+	{
+        "effect" : "runboostfood",
+        "duration" : 320
+    },
+    {
+        "effect" : "nova",
+        "duration" : 120
+    },
+    {
+        "effect" : "burning",
+        "duration" : 10
+    }
+  ] ],
+  "foodValue" : 35,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

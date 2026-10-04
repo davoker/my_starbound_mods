@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Nadie sabe de dónde vino ni quién lo hizo."
+  }
+]

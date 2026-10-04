@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_mindwurmaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "mindwurmaf" },
+  "shortdescription" : "Mindwurm Figurine",
+  "description" : "The label reads, \"As they feed on information, they have a tendency to mindwipe animals that pass by.\"",
+
+  "inventoryIcon" : "contest.png:mindwurm",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:mindwurm",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

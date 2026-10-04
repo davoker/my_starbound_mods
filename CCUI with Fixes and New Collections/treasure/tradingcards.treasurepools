@@ -1,0 +1,239 @@
+{
+  "allcardsTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.01, "item" : "card01"},
+        {"weight" : 0.05, "item" : "card02"},
+        {"weight" : 0.05, "item" : "card03"},
+		{"weight" : 0.05, "item" : "card04"},
+		{"weight" : 0.05, "item" : "card05"},
+		{"weight" : 0.05, "item" : "card06"},
+		{"weight" : 0.05, "item" : "card07"},
+		{"weight" : 0.05, "item" : "card08"},
+		{"weight" : 0.15, "item" : "card09"},
+		{"weight" : 0.15, "item" : "card10"},
+		{"weight" : 0.15, "item" : "card11"},
+		{"weight" : 0.15, "item" : "card12"},
+		{"weight" : 0.15, "item" : "card13"},
+		{"weight" : 0.15, "item" : "card14"},
+		{"weight" : 0.15, "item" : "card15"},
+		{"weight" : 0.15, "item" : "card16"},
+		{"weight" : 0.15, "item" : "card17"},
+		{"weight" : 0.15, "item" : "card18"},
+		{"weight" : 0.15, "item" : "card19"},
+		{"weight" : 0.15, "item" : "card20"},
+		{"weight" : 0.15, "item" : "card21"},
+		{"weight" : 0.15, "item" : "card22"},
+		{"weight" : 0.15, "item" : "card23"},
+		{"weight" : 0.15, "item" : "card24"},
+		{"weight" : 0.15, "item" : "card25"},
+		{"weight" : 0.15, "item" : "card26"},
+		{"weight" : 0.70, "item" : "card27"},
+		{"weight" : 0.15, "item" : "card28"},
+		{"weight" : 0.70, "item" : "card29"},
+		{"weight" : 0.70, "item" : "card30"},
+		{"weight" : 0.70, "item" : "card31"},
+		{"weight" : 0.70, "item" : "card32"},
+		{"weight" : 0.70, "item" : "card33"},
+		{"weight" : 0.15, "item" : "card34"},
+		{"weight" : 0.70, "item" : "card35"},
+		{"weight" : 0.15, "item" : "card36"},
+		{"weight" : 0.70, "item" : "card37"},
+		{"weight" : 0.70, "item" : "card38"},
+		{"weight" : 0.70, "item" : "card39"},
+		{"weight" : 0.70, "item" : "card40"},
+		{"weight" : 0.70, "item" : "card41"},
+		{"weight" : 0.15, "item" : "card42"},
+		{"weight" : 0.70, "item" : "card43"},
+		{"weight" : 0.70, "item" : "card44"},
+		{"weight" : 0.70, "item" : "card45"},
+		{"weight" : 0.70, "item" : "card46"},
+		{"weight" : 0.70, "item" : "card47"},
+		{"weight" : 0.15, "item" : "card48"},
+		{"weight" : 0.70, "item" : "card49"},
+		{"weight" : 0.70, "item" : "card50"},
+		{"weight" : 0.70, "item" : "card51"},
+		{"weight" : 0.70, "item" : "card52"},
+		{"weight" : 0.70, "item" : "card53"},
+		{"weight" : 0.70, "item" : "card54"},
+		{"weight" : 0.70, "item" : "card55"},
+		{"weight" : 0.70, "item" : "card56"},
+		{"weight" : 0.70, "item" : "card57"},
+		{"weight" : 0.70, "item" : "card58"},
+		{"weight" : 0.70, "item" : "card59"},
+		{"weight" : 0.70, "item" : "card60"},
+		{"weight" : 0.05, "item" : "card61"},
+		{"weight" : 0.70, "item" : "card62"},
+		{"weight" : 0.70, "item" : "card63"},
+		{"weight" : 0.15, "item" : "card64"},
+		{"weight" : 0.70, "item" : "card65"},
+		{"weight" : 0.70, "item" : "card66"},
+		{"weight" : 0.70, "item" : "card67"},
+		{"weight" : 0.70, "item" : "card68"},
+		{"weight" : 0.70, "item" : "card69"},
+		{"weight" : 0.70, "item" : "card70"},
+		{"weight" : 0.70, "item" : "card71"},
+		{"weight" : 0.70, "item" : "card72"},
+		{"weight" : 0.70, "item" : "card73"},
+		{"weight" : 0.70, "item" : "card74"},
+		{"weight" : 0.70, "item" : "card75"},
+		{"weight" : 0.70, "item" : "card76"},
+		{"weight" : 0.70, "item" : "card77"},
+		{"weight" : 0.70, "item" : "card78"},
+		{"weight" : 0.70, "item" : "card79"},
+		{"weight" : 0.70, "item" : "card80"},
+		{"weight" : 0.70, "item" : "card81"},
+		{"weight" : 0.70, "item" : "card82"},
+		{"weight" : 0.15, "item" : "card83"},
+		{"weight" : 0.15, "item" : "card84"},
+		{"weight" : 0.15, "item" : "card85"},
+		{"weight" : 0.15, "item" : "card86"},
+		{"weight" : 0.15, "item" : "card87"},
+		{"weight" : 0.15, "item" : "card88"},
+		{"weight" : 0.15, "item" : "card89"},
+		{"weight" : 0.15, "item" : "card90"},
+		{"weight" : 0.15, "item" : "card91"}
+      ]
+    }]
+  ],
+  
+  "commoncardsTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.70, "item" : "card27"},
+		{"weight" : 0.70, "item" : "card29"},
+		{"weight" : 0.70, "item" : "card30"},
+		{"weight" : 0.70, "item" : "card31"},
+		{"weight" : 0.70, "item" : "card32"},
+		{"weight" : 0.70, "item" : "card33"},
+		{"weight" : 0.70, "item" : "card35"},
+		{"weight" : 0.70, "item" : "card37"},
+		{"weight" : 0.70, "item" : "card38"},
+		{"weight" : 0.70, "item" : "card39"},
+		{"weight" : 0.70, "item" : "card40"},
+		{"weight" : 0.70, "item" : "card41"},
+		{"weight" : 0.70, "item" : "card43"},
+		{"weight" : 0.70, "item" : "card44"},
+		{"weight" : 0.70, "item" : "card45"},
+		{"weight" : 0.70, "item" : "card46"},
+		{"weight" : 0.70, "item" : "card47"},
+		{"weight" : 0.70, "item" : "card49"},
+		{"weight" : 0.70, "item" : "card50"},
+		{"weight" : 0.70, "item" : "card51"},
+		{"weight" : 0.70, "item" : "card52"},
+		{"weight" : 0.70, "item" : "card53"},
+		{"weight" : 0.70, "item" : "card54"},
+		{"weight" : 0.70, "item" : "card55"},
+		{"weight" : 0.70, "item" : "card56"},
+		{"weight" : 0.70, "item" : "card57"},
+		{"weight" : 0.70, "item" : "card58"},
+		{"weight" : 0.70, "item" : "card59"},
+		{"weight" : 0.70, "item" : "card60"},
+		{"weight" : 0.70, "item" : "card62"},
+		{"weight" : 0.70, "item" : "card63"},
+		{"weight" : 0.70, "item" : "card65"},
+		{"weight" : 0.70, "item" : "card66"},
+		{"weight" : 0.70, "item" : "card67"},
+		{"weight" : 0.70, "item" : "card68"},
+		{"weight" : 0.70, "item" : "card69"},
+		{"weight" : 0.70, "item" : "card70"},
+		{"weight" : 0.70, "item" : "card71"},
+		{"weight" : 0.70, "item" : "card72"},
+		{"weight" : 0.70, "item" : "card73"},
+		{"weight" : 0.70, "item" : "card74"},
+		{"weight" : 0.70, "item" : "card75"},
+		{"weight" : 0.70, "item" : "card76"},
+		{"weight" : 0.70, "item" : "card77"},
+		{"weight" : 0.70, "item" : "card78"},
+		{"weight" : 0.70, "item" : "card79"},
+		{"weight" : 0.70, "item" : "card80"},
+		{"weight" : 0.70, "item" : "card81"},
+		{"weight" : 0.70, "item" : "card82"},
+		{"weight" : 0.70, "item" : "card83"}
+      ]
+    }]
+  ],
+  
+  "uncommoncardsTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.15, "item" : "card09"},
+		{"weight" : 0.15, "item" : "card10"},
+		{"weight" : 0.15, "item" : "card11"},
+		{"weight" : 0.15, "item" : "card12"},
+		{"weight" : 0.15, "item" : "card13"},
+		{"weight" : 0.15, "item" : "card14"},
+		{"weight" : 0.15, "item" : "card15"},
+		{"weight" : 0.15, "item" : "card16"},
+		{"weight" : 0.15, "item" : "card17"},
+		{"weight" : 0.15, "item" : "card18"},
+		{"weight" : 0.15, "item" : "card19"},
+		{"weight" : 0.15, "item" : "card20"},
+		{"weight" : 0.15, "item" : "card21"},
+		{"weight" : 0.15, "item" : "card22"},
+		{"weight" : 0.15, "item" : "card23"},
+		{"weight" : 0.15, "item" : "card24"},
+		{"weight" : 0.15, "item" : "card25"},
+		{"weight" : 0.15, "item" : "card26"},
+		{"weight" : 0.15, "item" : "card28"},
+		{"weight" : 0.15, "item" : "card34"},
+		{"weight" : 0.15, "item" : "card36"},
+		{"weight" : 0.15, "item" : "card42"},
+		{"weight" : 0.15, "item" : "card48"},
+		{"weight" : 0.15, "item" : "card64"},
+		{"weight" : 0.15, "item" : "card84"},
+		{"weight" : 0.15, "item" : "card85"},
+		{"weight" : 0.15, "item" : "card86"},
+		{"weight" : 0.15, "item" : "card87"},
+		{"weight" : 0.15, "item" : "card88"},
+		{"weight" : 0.15, "item" : "card89"},
+		{"weight" : 0.15, "item" : "card90"},
+		{"weight" : 0.15, "item" : "card91"}
+      ]
+    }]
+  ],
+  
+  "rarecardsTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.05, "item" : "card02"},
+		{"weight" : 0.05, "item" : "card03"},
+		{"weight" : 0.05, "item" : "card04"},
+		{"weight" : 0.05, "item" : "card05"},
+		{"weight" : 0.05, "item" : "card06"},
+		{"weight" : 0.05, "item" : "card07"},
+		{"weight" : 0.05, "item" : "card08"},
+		{"weight" : 0.05, "item" : "card61"}
+      ]
+    }]
+  ],
+  
+  "c-uTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.70, "pool" : "commoncardsTreasure"},
+		{"weight" : 0.10, "pool" : "uncommoncardsTreasure"}
+      ]
+    }]
+  ],
+  
+  "u-r-lTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.75, "pool" : "uncommoncardsTreasure"},
+		{"weight" : 0.15, "pool" : "rarecardsTreasure"},
+		{"weight" : 0.05, "item" : "card01"}
+      ]
+    }]
+  ],
+  
+  "boosterpackTreasure" : [
+    [0, {
+      "fill" : [
+        {"pool" : "commoncardsTreasure"},
+        {"pool" : "c-uTreasure"},
+        {"pool" : "u-r-lTreasure"}
+      ]
+    }]
+  ]
+}

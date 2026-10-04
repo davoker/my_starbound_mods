@@ -1,0 +1,10 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]This mod was made with zero effort using an AI agent via Open Code.[/h1]\nAI is among us; you can embrace and love it, or you can hate it, but it is inevitable. I yield my soul to this devil and quote an invented prayer from a non-existent book:\n\n[b]\"I will think with my head no longer, for AI shall do so for me. In nomine Qubiti, et Superpositionis, et Entanglementi Sancti, AI.\"[/b]\n\nI hope this hurts someone, seriously (づ￣ 3￣)づ\n\n[h1]Description, or something like this[/h1]\nEvery time you holstered your weapon, the flashlight turned off and forgot its state. This mod makes it remember.\n\n[list]\n[*]If you leave the flashlight on and holster the weapon, when you draw it again, it turns back on.\n[*]If you leave it off, it stays off when drawn.\n[*]It works with any weapon that uses the original game flashlight, including modded weapons.\n[*]It does not modify original files; a new LUA file is created and flashlight.weaponability is patched to call it. The functionality of the original LUA file that modifies the flashlight's behavior remains operational.\n[/list]\n\n[h1]Compatibility[/h1]\n- The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=743648486] Flashlight, stay on!!![/url] mod is redundant as it performs the same function as this mod, with the difference that my mod does not replace the original LUA file.\n\n- It should be compatible with everything, since a new file is created.\n\n[h1]Recommended MODs[/h1]\n[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]\n\n[h1]Credits[/h1]\n- I'll take the credit; I'm sure the AI won't complain (☞ﾟヮﾟ)☞\n\n[hr][/hr]\n[url=https://ko-fi.com/davoker][img]https://i.imgur.com/dQoBbSg.png[/img][/url][url=https://buymeacoffee.com/davoker][img]https://i.imgur.com/dYlpQvZ.png[/img][/url]",
+  "friendlyName" : "Persistent flashlight",
+  "link" : "steam://url/CommunityFilePage/3813030008",
+  "name" : "Persistent_flashlight",
+  "steamContentId" : "3813030008",
+  "tags" : "Miscellaneous|Weapons",
+  "version" : "1.0"
+}

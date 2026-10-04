@@ -1,0 +1,13 @@
+{
+  "itemName" : "card08",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card08" },
+  "inventoryIcon" : "card08.png",
+  "description" : "Leader of Occasus and former student of Esther Bright.",
+  "shortdescription" : "#08 Asra Nox",
+  "largeImage" : "card08.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card08.png"
+}

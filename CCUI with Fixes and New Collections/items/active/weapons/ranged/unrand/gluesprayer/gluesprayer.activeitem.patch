@@ -1,0 +1,4 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "lex_legendary" : "gluesprayer" }},
+	{"op": "replace", "path": "/inventoryIcon", "value": "gluesprayer.png"}
+]

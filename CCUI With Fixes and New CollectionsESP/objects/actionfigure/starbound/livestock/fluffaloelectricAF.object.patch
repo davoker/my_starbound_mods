@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"El pelaje de los Fluffalos eléctricos acumula tanta electricidad estática que la carga que contiene se puede cosechar\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fluffalo eléctrico"
+  }
+]

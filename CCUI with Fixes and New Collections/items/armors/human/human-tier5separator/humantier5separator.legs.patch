@@ -1,0 +1,8 @@
+[{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {
+			"separator_armor": "humantier5spants"
+		}
+	}
+]

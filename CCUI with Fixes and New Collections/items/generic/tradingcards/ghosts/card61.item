@@ -1,0 +1,13 @@
+{
+  "itemName" : "card61",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card61" },
+  "inventoryIcon" : "card61.png",
+  "description" : "They are attracted to erchius fuel. The more you have the more they chase you.",
+  "shortdescription" : "#61 Erchius Ghost",
+  "largeImage" : "card61.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card61.png"
+}

@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_penguintankaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "penguintankaf" },
+  "shortdescription" : "Penguin Tank Figurine",
+  "description" : "The label reads, \"Dreadwing's most heavy-duty henchmen.\"",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "penguintankAF.png",
+      "imagePosition" : [-4, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

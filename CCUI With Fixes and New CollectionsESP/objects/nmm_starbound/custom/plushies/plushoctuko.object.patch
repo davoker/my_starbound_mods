@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran no ssabe qué decir."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La mascota de Deep-Sea Collectibles, ¡ahora en forma de peluche!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Atemorizado. ¡No tengo nada que decir!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Debo decir algo aquí, pero no se me ocurre nada."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "¿Tenía que decir algo?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Octuko"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Sería genial si... sabes, tuviera algo que decir."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Debería tener algo que decir sobre esto, pero no lo tengo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Realmente desearía tener algo que decir ahora mismo."
+  }
+]

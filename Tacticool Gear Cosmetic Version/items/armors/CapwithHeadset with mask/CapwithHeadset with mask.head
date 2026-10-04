@@ -1,0 +1,42 @@
+{
+  "itemName" : "artyomheadsetcapmask",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "You want hear something with this headset? Sadly, It's just replica.",
+  "shortdescription" : "Headset & Cap with mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "b48a53" : "b48a53", "7e6545" : "7e6545", "705e47" : "705e47", "5a4a36" : "5a4a36" },
+    // BLACK
+    { "b48a53" : "474747", "7e6545" : "343434", "705e47" : "313131", "5a4a36" : "272727" },
+    // GREY
+    { "b48a53" : "7d7d7d", "7e6545" : "5d5d5d", "705e47" : "575757", "5a4a36" : "444444" },
+    // WHITE
+    { "b48a53" : "aeaeae", "7e6545" : "9a9a9a", "705e47" : "969696", "5a4a36" : "8a8a8a" },
+    // RED
+    { "b48a53" : "93453a", "7e6545" : "663832", "705e47" : "5a3834", "5a4a36" : "482b27" },
+    // ORANGE
+    { "b48a53" : "b17156", "7e6545" : "7c5747", "705e47" : "6e5348", "5a4a36" : "594137" },
+    // YELLOW
+    { "b48a53" : "b6ac51", "7e6545" : "89823a", "705e47" : "807936", "5a4a36" : "65602b" },
+    // GREEN
+    { "b48a53" : "747e6e", "7e6545" : "575d53", "705e47" : "52564f", "5a4a36" : "40443e" },
+    // BLUE
+    { "b48a53" : "485b75", "7e6545" : "394453", "705e47" : "38404b", "5a4a36" : "2b333c" },
+    // PURPLE
+    { "b48a53" : "76597f", "7e6545" : "55455b", "705e47" : "4f4353", "5a4a36" : "3e3442" },
+    // PINK
+    { "b48a53" : "a4628e", "7e6545" : "754e68", "705e47" : "694d60", "5a4a36" : "543b4c" },
+    // BROWN
+    { "b48a53" : "b48a53", "7e6545" : "7e6545", "705e47" : "705e47", "5a4a36" : "5a4a36" }
+  ]
+}

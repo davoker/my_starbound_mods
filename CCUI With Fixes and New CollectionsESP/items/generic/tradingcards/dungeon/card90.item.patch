@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A pesar de su aspecto tonto, los Po son bastante mortíferos."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#90 Los Po"
+  }
+]

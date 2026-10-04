@@ -1,0 +1,29 @@
+{
+  "itemName" : "roastbanana",
+  "rarity" : "common",
+  "price" : 75,
+  "category" : "preparedFood",
+  "inventoryIcon" : "roastbanana.png",
+  "description" : "Not as tasty or filling as a battered banana, but undeniably better for you.",
+  "shortdescription" : "Roast Banana",
+  "collectablesOnPickup" : { "cooking" : "roastbanana"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este lanzacohetes está especializado en la lucha contra vehículos."
+  }
+]

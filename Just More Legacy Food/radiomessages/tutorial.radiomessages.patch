@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/pickupelectriccake",
+    "value": {
+      "type": "tutorial",
+      "text": "Wow, this little cake, in ancient times, was used to evolve a normal baby Fluffalo into a electric-type adult. These Fluffalos, over time, would produce ^#40D536;Static Cells^reset;. I just hope you don't start... 'expelling' those things somewhere if you eat that."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickuppoisoncake",
+    "value": {
+      "type": "tutorial",
+      "text": "Wow, this little cake, in ancient times, was used to evolve a normal baby Fluffalo into a poison-type adult. These Fluffalos, over time, would produce ^#40D536;Venom Samples^reset;. I just hope you don't start... 'expelling' those things somewhere if you eat that."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickupacorncake",
+    "value": {
+      "type": "tutorial",
+      "text": "Wow, this little cake, in ancient times, was used to evolve a baby Fluffalo into its adult form. These Fluffalos, over time, would produce ^#40D536;Plant Fiber^reset;. I just hope you don't start... 'expelling' those things somewhere if you eat that."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickupblazingcake",
+    "value": {
+      "type": "tutorial",
+      "text": "Wow, this little cake, in ancient times, was used to evolve a normal baby Fluffalo into a fire-type adult. These Fluffalos, over time, would produce ^#40D536;Scorched Cores^reset;. I just hope you don't start... 'expelling' those things somewhere if you eat that."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickupfrostycake",
+    "value": {
+      "type": "tutorial",
+      "text": "Wow, this little cake, in ancient times, was used to evolve a normal baby Fluffalo into a ice-type adult. These Fluffalos, over time, would produce ^#40D536;Cryonic Extracts^reset;. I just hope you don't start... 'expelling' those things somewhere if you eat that."
+    }
+  }
+]

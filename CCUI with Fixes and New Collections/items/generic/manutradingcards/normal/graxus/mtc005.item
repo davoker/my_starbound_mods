@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc005",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc005" },
+  "inventoryIcon" : "mtc005.png",
+  "description" : "A deadly pistol which fires explosive rounds. Fancy!",
+  "shortdescription" : "#5 Graxus Leadpump",
+  "largeImage" : "mtc005.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc005.png"
+}

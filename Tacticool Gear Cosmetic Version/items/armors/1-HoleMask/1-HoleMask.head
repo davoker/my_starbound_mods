@@ -1,0 +1,42 @@
+{
+  "itemName" : "artyom1mask",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "Maybe, some bad guys would love to use this mask.",
+  "shortdescription" : "1-Hole Mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "4a4a4a" : "4a4a4a" },
+    // BLACK
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "4a4a4a" : "4a4a4a" },
+    // GREY
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "4a4a4a" : "303030" },
+    // WHITE
+    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "4a4a4a" : "373737" },
+    // RED
+    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "4a4a4a" : "601119" },
+    // ORANGE
+    { "ffca8a" : "ffd495", "e0975c" : "ea9931", "a85636" : "af4e00", "4a4a4a" : "6e2900" },
+    // YELLOW
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "4a4a4a" : "642f00" },
+    // GREEN
+    { "ffca8a" : "b2e89d", "e0975c" : "51bd3b", "a85636" : "247824", "4a4a4a" : "144216" },
+    // BLUE
+    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "4a4a4a" : "1a1c51" },
+    // PURPLE
+    { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "4a4a4a" : "320c40" },
+    // PINK
+    { "ffca8a" : "eab3db", "e0975c" : "d35eae", "a85636" : "97276d", "4a4a4a" : "59163f" },
+    // BROWN
+    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "4a4a4a" : "472b13" }
+  ]
+}

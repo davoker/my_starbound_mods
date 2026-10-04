@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rawribmeat", "count" : 1 },
+	{ "item" : "meatchunks", "count" : 2 }
+  ],
+  "output" : { "item" : "offal", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

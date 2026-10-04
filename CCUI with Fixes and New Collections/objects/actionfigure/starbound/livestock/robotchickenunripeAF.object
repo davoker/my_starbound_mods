@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_robotchickenunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "robotchickenunripeaf" },
+  "shortdescription" : "Robot Chicken Figurine",
+  "description" : "The label reads, \"It's been constructed to resemble a Chicken, there are still some kinks to work out.\"",
+
+  "inventoryIcon" : "robotchickenunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "robotchickenunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

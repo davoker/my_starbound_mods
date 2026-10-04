@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "En realidad está cubierto de piel roja, pero sigue siendo bastante repugnante."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_fluffaloelectricunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffaloelectricunripeaf" },
+  "shortdescription" : "Electric Fluffalo Figurine",
+  "description" : "The label reads, \"Electric Fluffalos tend to generate a lot of static electricity in their coats.\"",
+  "inventoryIcon" : "fluffaloelectricunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffaloelectricunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

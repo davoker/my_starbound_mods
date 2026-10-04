@@ -1,0 +1,58 @@
+[
+  {
+    "op": "add",
+    "path": "/huntingquadruped/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/adultpoptopHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/capricoatHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hemogoblinHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/ooglerHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/smoglinHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/yokatHunting/0/1/pool/-",
+    "value": {
+      "weight": 0.2,
+      "item": "rawham"
+    }
+  }
+]

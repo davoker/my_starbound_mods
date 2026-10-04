@@ -1,0 +1,96 @@
+[u]Fixes [url=https://steamcommunity.com/sharedfiles/filedetails/?id=760881689] Custom Collections UI[/url] compatibility issues[/u] with (in theory) almost any mod that can add its own collections, such as Elithian Race Mod.
+
+It also adds [b]new collections[/b], it's a work in progress, at the moment there is one new collection and more on the way.
+
+[h1]Mod contents[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=760881689] Custom Collections UI[/url] ([b]Main mod, fully integrated[/b])
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=912680077] Lex Instrument Collections[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=948442036] Lex Legendary Collections[/url] 
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=948722970] Plushies & Dolls Collections[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=760448042] Trading Cards[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=763407154] God Da.me Manufacturer Trading Cards[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1627427082] Critter Capture Revamped[/url] -> A new collection of the 95 creatures that can be captured in this mod.
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3078656531] Bun Cosmetic Sets Collections[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2735634052] [LEGACY] nuggubs' Mega Mod[/url] -> 2 New collections of 138 action figures and 48 new stuffed animals from this mod.[/list]
+[hr][/hr][list][*] [b]Armors Collection[/b]
+[*] [b]Decorative Geodes Collection[/b][/list]
+NOTE: [u]Due to issues with the modder Azure Fang and my old little head forgetting to ask permission to use their assets in my CCUI MOD, I had to remove the "Armor Collection" and "Geode Rewards" mods from this collection and create my own equivalents. The icons are a bit different, but the collections are the same since they add the same items from the game.
+
+Sorry for the inconvenience, but nothing really changes for you, this is mostly an internal change, nothing more.[/u]
+[hr][/hr]
+It will be updated over time, no rush =)
+
+[h1]Other information and additions[/h1]
+[list]
+[*][b][u]Added[/u] card container[/b] for the collection [url=https://steamcommunity.com/sharedfiles/filedetails/?id=763407154] God Da.me Manufacturer Trading Cards [/url], for the sprites of the new container we have used the [b]gun chest[/b], a container found in the game files but currently in disuse (like so many things xD).
+
+[u]The chests would be:[/u]
+
+[b]Card chest 1[/b] for Trading [b]Cards collections[/b]
+[b]Card chest 2[/b] for [b]God Da.me Manufacturer Trading Cards collections[/b].
+
+Craftables from the Wooden Workbench, in the tab of the containers.
+
+[*][b][u]Added[/u] some missing legendary weapons[/b] to the collection [url=https://steamcommunity.com/sharedfiles/filedetails/?id=948442036] Lex Legendary Collections[/url], such as, for example, the legendary Peacekeeper weapons.[/list]
+
+All mods are integrated, as it is often called, an [b]all-in-one[/b].
+
+[h1]Compatibility[/h1]
+
+- If you install this mod, you don't need the mods it integrates, you only need this one and the requirement for the new collection -> [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1627427082] Critter Capture Revamped[/url]
+
+[b]NOTE[/b]: [u]Critter Capture Revamped it’s a requirement for this mod[/u]; if you try to use CCUI with Fixes without it, you’ll get a CTD. Ideally, the collection would only appear if you have CCR installed, and if it’s not installed, the collection wouldn’t show up, but I don’t know how to do that. If anyone wants to help with that, it would be great.
+
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=760881689] Custom Collections UI[/url] It has its full functionality, so if someone creates a new collection, they can subscribe to that collection and it will be added to this one automatically, since Custom Collections UI works the same way as if it were standalone.
+
+- Other mods may need patches for this mod to work with them properly, if anyone wants to create a patch for a particular mod, I'll be happy to add the links here =)
+
+[hr][/hr]
+[b]Update_1:[/b]
+
+- [b]Now compatible with Stardust Core/Lite[/b] -> Icon for accessing collections through the Stardust Core/Lite quickbar.
+
+[hr][/hr]
+[b]Update_2:[/b]
+
+- [b]Several internal changes[/b] have been made, the CCUI menu button [u]is now in another position[/u] so that other mods like Elithian Race don't overwrite it (see screenshots), [b]CCUI adapts the positions of the collection buttons of other mods[/b] (like Elithian Race) [u]to place them in convenient positions[/u].
+
+Now "[b]should[/b]" be compatible with any mod that adds its own collections, and [u]with "should" it may not be definitive, there could be some incompatible mod[/u], we haven't seen it.
+
+[b]NOTE[/b]: Yes, this [u]is now compatible [b]with FU[/b] as well[/u], it has been tested only and exclusively with FU, Stardust Core/Lite and this mod, it is not assured 100% correct operation of this mod with too large mod lists =)
+
+[hr][/hr]
+[b]Update_3:[/b]
+
+- [b]New collection added[/b] -> [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3078656531] Bun Cosmetic Sets Collections[/url], 7 collections in 1, nearly 400 cosmetics, encompassing all those included in the game (cosmetics that are currently unobtainable are not included, at least for now).
+
+[hr][/hr]
+[h1]Recommended MODs[/h1]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]
+
+2 mods that work very well together, give life to your crew (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+[h1]Credits[/h1]
+
+The main credits go to the authors of the mods included in this collection:
+
+[url=https://steamcommunity.com/id/elbbilFrM/myworkshopfiles/?appid=211820] Not Mr Flıbble[/url]
+[url=https://steamcommunity.com/profiles/76561198006619832/myworkshopfiles/?appid=211820] Lex[/url]
+[url=https://steamcommunity.com/id/seyjin/myworkshopfiles/?appid=211820] Plushymanceress[/url]
+[url=https://steamcommunity.com/id/Symetemys/myworkshopfiles/?appid=211820] Symetemys[/url]
+[url=https://steamcommunity.com/id/superepicgecko/myworkshopfiles/?appid=211820] Superepicgecko[/url]
+[url=https://steamcommunity.com/profiles/76561198208396267/myworkshopfiles/?appid=211820] AsPerrUsual[/url]
+[url=https://steamcommunity.com/id/Bunbyun/myworkshopfiles/] Bunbyun[/url]
+[url=https://steamcommunity.com/profiles/76561199163185778] La Buzse[/url]
+[url=https://steamcommunity.com/profiles/76561198327710447/myworkshopfiles/] nuggubs[/url] -> Thanks to "nuggubs" for allowing me to use their assets for these new collections, it's something we talked about on their [url=https://steamcommunity.com/sharedfiles/filedetails/comments/2735634052] mod page[/url] a long time ago, and today I finally felt like doing it and including it in these collections.
+
+Give love to all (づ￣ 3￣)づ
+
+- Myself, for the new additions and those yet to come (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- And of course to my collaborator [url=https://steamcommunity.com/id/corbent/myworkshopfiles/?appid=211820] Corbent[/url], who has made this mod much more compatible now thanks to his code modifications.
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

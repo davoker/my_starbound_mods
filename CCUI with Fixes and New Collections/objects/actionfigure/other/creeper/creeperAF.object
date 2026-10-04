@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_creeperaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "creeperaf" },
+  "description" : "The label reads, \"Fun fact: Creepers were once officially considered to be added into Starbound.\"",
+  "shortdescription" : "Creeper Figurine",
+
+  "inventoryIcon" : "creeperaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "creeperaf.png",
+      "imagePosition" : [-2, 0],
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una criatura basada en boro que puede dividir su cuerpo y conciencia cuando sufre daños\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Masteroid mediano"
+  }
+]

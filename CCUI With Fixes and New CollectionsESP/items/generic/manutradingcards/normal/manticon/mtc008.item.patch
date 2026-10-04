@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Elegante y mortal, el Seacleaver secciona."
+  }
+]

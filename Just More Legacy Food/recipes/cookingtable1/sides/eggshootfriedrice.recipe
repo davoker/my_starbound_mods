@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+	{ "item" : "eggshoot", "count" : 1 }
+  ],
+  "output" : { "item" : "eggshootfriedrice", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

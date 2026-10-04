@@ -1,0 +1,29 @@
+{
+  "itemName" : "alienburger",
+  "rarity" : "Uncommon",
+  "price" : 480,
+  "category" : "preparedFood",
+  "inventoryIcon" : "alienburger.png",
+  "description" : "A burger made of green alien meat. Mm!",
+  "shortdescription" : "Alien Burger",
+  "collectablesOnPickup" : { "cooking" : "alienburger"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 420
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 420
+    }
+  ] ],
+  "foodValue" : 75,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

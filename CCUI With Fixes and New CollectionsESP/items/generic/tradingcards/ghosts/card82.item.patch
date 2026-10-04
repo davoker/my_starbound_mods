@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Su cuerpo ligero fluye en la dirección del viento."
+  }
+]

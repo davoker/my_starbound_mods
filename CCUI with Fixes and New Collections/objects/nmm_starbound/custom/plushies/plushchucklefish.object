@@ -1,0 +1,40 @@
+{
+  "objectName" : "nuggubs_chucklefishplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushchucklefish" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 115,
+
+  "shortdescription" : "Chucklefish Plushie",
+  "description" : "An adorable Chucklefish plushie. It makes a strange sound when you squish it.",
+
+  "apexDescription" : "A cute little plushie.",
+  "avianDescription" : "I wonder what makes this plushie look so giggly?",
+  "floranDescription" : "Bubble fish plushie!",
+  "glitchDescription" : "Familiar. Where have I seen this fish before?",
+  "humanDescription" : "Every time before I wake up, just for a brief moment, I feel like I see this... thing. Why?",
+  "hylotlDescription" : "I feel like I've seen this before.",
+  "novakidDescription" : "It's a toy of some orange fish.",
+  "felinDescription" : "It's cute and it makes me hungry! What's not to love about it?",
+  "nekoDescription" : "Aww, cute little fish plushie.",
+  "avaliDescription" : "I like the color on this one, super cuddly too!",
+
+  "inventoryIcon" : "icons.png:chucklefish",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:chucklefish",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "animation" : "/objects/noisy/noisy.animation",
+
+  "sounds" : [ "/sfx/cinematics/fish_laugh.ogg" ],
+
+  "scripts" : [
+    "/objects/noisy/noisy.lua"
+  ]
+}

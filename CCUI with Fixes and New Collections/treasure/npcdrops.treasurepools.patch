@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/villagertreasure/0/1/pool/0/weight",
+    "value": 0.6
+  },
+  {
+    "op": "add",
+    "path": "/villagertreasure/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "pool": "mtcTreasure"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name" : "retromooshi",
+  "category" : "retromooshi",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

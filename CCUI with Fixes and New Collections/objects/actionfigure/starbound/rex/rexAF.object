@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_rexaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "rexaf" },
+  "shortdescription" : "Rex Figurine",
+  "description" : "The label reads, \"This dog is fiercely loyal to its owner. It loves cuddles and belly rubs!\"",
+
+  "inventoryIcon" : "rexAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "rexAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

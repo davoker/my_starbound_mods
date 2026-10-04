@@ -1,0 +1,120 @@
+[
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog",
+		"value": {
+			"crewmember": {
+				"offer": {
+					"default": {
+						"default": [
+							"¡Mi especialidad es mejorar el combate!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te ayudará a pelear mejor! Pero Floran sssigue siendo el mejor."
+						]
+					},
+					"glitch": {
+						"default": [
+							"Amigable. ¡Ofrezco pócimas para tus aspiraciones de conquista!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Cómo estás colega! ¿Alguna vez probaste potenciadores de combate? Te aseguro que no son adictivos."
+						]
+					}
+				},
+				"roleDescription": {
+					"default": {
+						"default": [
+							"¡Mi especialidad es mejorar el combate!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te ayudará a pelear mejor! Pero Floran sssigue ssiendo mejor."
+						]
+					},
+					"glitch": {
+						"default": [
+							"Amigable. ¡Ofrezco pócimas para tus aspiraciones de conquista!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Cómo estás colega! ¿Alguna vez probaste potenciadores de combate? Te aseguro que no son adictivos."
+						]
+					}
+				},
+				"fieldBenefit": {
+					"default": {
+						"default": [
+							"¡Hora de ponerse serios!",
+							"¿Todo listo para pelear?",
+							"Vas a sentirte mucho más fuerte con esto.",
+							"¡Estimulante de adrenalina inyectado!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran essstá a tope para la caza!",
+							"¡Floran tiene una inyección naranja para ti!",
+							"¡Floran te ayuda a pelear!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"Entusiasta. ¡Ayudaré a mejorar tu rendimiento de combate!",
+							"Emocionado. ¡Esto mejorará tus capacidades de pelea!",
+							"Intrigado. ¿Quieres pelear mejor?",
+							"Servicial. ¡Administrar estimulante de adrenalina!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Hora de darle duro, colega!",
+							"Parece que podrías necesitar algo de... estimulación...",
+							"¡Infundirás miedo en esos bribones!",
+							"¡Hora de disparar, colega!"
+						]
+					}
+				},
+				"combatBenefit": {
+					"default": {
+						"default": [
+							"¡Hora de ponerse en plan serio!",
+							"¿Listos para la lucha?",
+							"Vas a sentirte brutalmente fuerte con esta cosa.",
+							"¡Estimulante de adrenalina proporcionado!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran essstá al máximo para ir de caza!",
+							"¡Floran tiene una aguja naranja que ofrecerte!",
+							"¡Floran te ayudará a pelear mucho mejor!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"Entusiasta. ¡Te ayudaré a mejorar tu potencia de combate!",
+							"Emocionado. ¡Esto mejorará tus aptitudes para la lucha!",
+							"Intrigado. ¿Quieres pelear como un verdadero guerrero?",
+							"Servicial. ¡Proporcionando un estimulante de adrenalina!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Hora de machacarles fuerte, colega!",
+							"Parece que te vendría bien un poco de... estimulación...",
+							"¡Serás el terror de esos bellacos!",
+							"¡Hora de tiro al blanco, colega!"
+						]
+					}
+				}
+			}
+		}
+	}
+]

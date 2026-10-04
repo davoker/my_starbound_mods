@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbufoaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbufoaf" },
+  "shortdescription" : "Saucer Virorb Figurine",
+  "description" : "The label reads, \"These strange Virorbs have a habit of just hovering around people's heads.\"",
+
+  "inventoryIcon" : "contest.png:virorbufo",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbufo",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

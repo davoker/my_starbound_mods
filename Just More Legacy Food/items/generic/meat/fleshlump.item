@@ -1,0 +1,11 @@
+{
+  "itemName" : "fleshlump",
+  "rarity" : "Common",
+  "price" : 10,
+  "category" : "cookingIngredient",
+  "inventoryIcon" : "fleshlump.png",
+  "description" : "A raw lump of flesh of questionable origin. It'd be more palatable cooked.",
+  "shortdescription" : "Flesh Lump",
+  "maxStack" : 1000,
+  "learnBlueprintsOnPickup" : [ "cookedfleshlump" ]
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_fluffaloaf",
+  "colonyTags" : ["pretty"],
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffaloaf" },
+  "price" : 1500,
+  "printable" : false,
+  "shortdescription" : "Fluffalo Figurine",
+  "description" : "The label reads, \"A regular Fluffalo, with a full fluff ready to be harvested.\"",
+
+  "inventoryIcon" : "fluffaloAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffaloAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbfogaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbfogaf" },
+  "shortdescription" : "Fog Virorb Figurine",
+  "description" : "The label reads, \"It's hard to see with this Virorb on your head, especially moreso than other Virorbs.\"",
+
+  "inventoryIcon" : "contest.png:virorbfog",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbfog",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc028",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc028" },
+  "inventoryIcon" : "mtc028.png",
+  "description" : "This sword slices through all but the thickest armor with ease.",
+  "shortdescription" : "#28 Callox Lakerent",
+  "largeImage" : "mtc028.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc028.png"
+}

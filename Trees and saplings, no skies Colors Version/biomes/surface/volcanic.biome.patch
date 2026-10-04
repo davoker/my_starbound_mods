@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/12/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/12/treeStemList/0",
+    "value": "davoashy"
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/12/treeStemList/1",
+    "value": "davocoal"
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/12/treeFoliageList/0",
+    "value": "davoscorchedempty"
+  }
+]

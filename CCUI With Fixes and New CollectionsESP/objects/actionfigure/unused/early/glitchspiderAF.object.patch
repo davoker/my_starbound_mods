@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Un poco demasiado eficientes para mantener a las plagas fuera, atacan a cualquier cosa que entre en sus alcantarillas\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Mecharácnido"
+  }
+]

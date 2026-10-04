@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbsoulaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbsoulaf" },
+  "shortdescription" : "Guardian Virorb Figurine",
+  "description" : "The label reads, \"A passive, yet powerful variety of Virorb that can also heal its friends.\"",
+
+  "inventoryIcon" : "contest.png:virorbsoul",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbsoul",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

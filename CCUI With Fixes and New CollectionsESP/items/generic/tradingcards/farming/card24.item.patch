@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una buena fuente de extracto criónico."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#24 Fluffalo de hielo"
+  }
+]

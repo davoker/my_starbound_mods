@@ -1,0 +1,13 @@
+{
+  "itemName" : "card50",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card50" },
+  "inventoryIcon" : "card50.png",
+  "description" : "Prolonged exposure to its pungent fumes will knock you out.",
+  "shortdescription" : "#50 Miasmop",
+  "largeImage" : "card50.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card50.png"
+}

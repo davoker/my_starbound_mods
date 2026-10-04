@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_flokiaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "flokiaf" },
+  "shortdescription" : "Floki Figurine",
+  "description" : "The label reads, \"A white cat found in a challenge room.\"",
+
+  "inventoryIcon" : "flokiAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "flokiAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

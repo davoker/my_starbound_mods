@@ -1,0 +1,13 @@
+{
+  "itemName" : "card20",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card20" },
+  "inventoryIcon" : "card20.png",
+  "description" : "Offers upgrades to rare weapons.",
+  "shortdescription" : "#20 Biggy's Weaponry",
+  "largeImage" : "card20.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card20.png"
+}

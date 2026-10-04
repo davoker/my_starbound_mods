@@ -1,0 +1,113 @@
+[
+  {
+    "op": "add",
+    "path": "/customCollectionsTitle",
+    "value": "Colecciones Personalizadas"
+  },
+  {
+    "op": "add",
+    "path": "/customCollections",
+    "value": []
+  },
+  {"op": "add", "path": "/customCollections/-", "value": "critter_capture_r"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_geode_collect"},
+  {"op": "add", "path": "/customCollections/-", "value": "seyjin_plushies"},
+  {"op": "add", "path": "/customCollections/-", "value": "lex_instruments"},
+  {"op": "add", "path": "/customCollections/-", "value": "lex_legendary"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_basic_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_accel_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_manip_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_sep_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "af_nonrace_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "mtc_n_s1"},
+  {"op": "add", "path": "/customCollections/-", "value": "tradingcards"},
+  {
+    "op": "add",
+    "path": "/gui/scrollAreaCustom",
+    "value": {
+      "type": "scrollArea",
+      "rect": [ 38, 35, 256, 205 ],
+      "children": {
+        "customCollectionList": {
+          "type": "list",
+          "//callback": "selectCustomCollection",
+          "schema": {
+            "spacing": [ 4, 2 ],
+            "memberSize": [ 204, 11 ],
+            "listTemplate": {
+              "background": {
+                "type": "image",
+                "file": "/interface/scripted/collections/tab_customcollections_bg.png",
+                "position": [ 0, 1 ],
+                "zlevel": -1
+              },
+              "collectionName": {
+                "type": "label",
+                "position": [ 102, 1 ],
+                "hAnchor": "mid",
+                "width": 198,
+                "value": "Replace Me"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/0/position/1",
+    "value": 194
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/1/position/1",
+    "value": 170
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/2/position/1",
+    "value": 146
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/3/position/1",
+    "value": 122
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/4/position/1",
+    "value": 98
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/5/position/1",
+    "value": 74
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectionTabs/buttons/6/position/1",
+    "value": 50
+  },
+  {
+    "op": "add",
+    "path": "/gui/collectionTabs/buttons/-",
+    "value": {
+      "selected": false,
+      "position": [ 4, 25 ],
+      "baseImage": "/interface/scripted/collections/tab_customcollections_deselect.png",
+      "baseImageChecked": "/interface/scripted/collections/tab_customcollections_select.png",
+      "pressedOffset": [ 0, 0 ],
+      "data": "customCollections"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/collectionTabs/buttons/-",
+    "value": {
+      "visible": false,
+      "selected": false,
+      "data": "customCollectionsVisible"
+    }
+  }
+]

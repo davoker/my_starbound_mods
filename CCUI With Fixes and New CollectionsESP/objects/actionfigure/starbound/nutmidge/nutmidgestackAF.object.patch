@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Los nutmidgelings se agrupan con frecuencia para protegerse, apilándose dentro de un caparazón protector\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Nutmidge"
+  }
+]

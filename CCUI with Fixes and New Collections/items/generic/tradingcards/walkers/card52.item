@@ -1,0 +1,13 @@
+{
+  "itemName" : "card52",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card52" },
+  "inventoryIcon" : "card52.png",
+  "description" : "It's notorious for stealing from vegetable patches.",
+  "shortdescription" : "#52 Snaunt",
+  "largeImage" : "card52.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card52.png"
+}

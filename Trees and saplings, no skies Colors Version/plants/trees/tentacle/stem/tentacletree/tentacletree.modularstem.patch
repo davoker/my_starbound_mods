@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/dropConfig/drops/0/0/count",
+    "value": 1
+  },
+  {
+    "op": "add",
+    "path": "/dropConfig/drops/0/-",
+    "value": {
+      "item": "sapling",
+      "count": 1
+    }
+  }
+]

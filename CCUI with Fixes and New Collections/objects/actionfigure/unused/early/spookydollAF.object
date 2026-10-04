@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_spookydollaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "spookydollaf" },
+  "shortdescription" : "Spooky Doll Figurine",
+  "description" : "The label reads, \"A cursed doll with a skull for a head.\"",
+
+  "inventoryIcon" : "spookydollaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "spookydollaf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

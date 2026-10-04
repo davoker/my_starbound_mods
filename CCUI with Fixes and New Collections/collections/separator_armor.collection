@@ -1,0 +1,175 @@
+{
+	"name": "separator_armor",
+	"title": "Separator Armor",
+	"type": "item",
+	"collectables": {
+		"apextier5shead": {
+			"order": 1,
+			"item": "apextier5shead"
+		},
+		"apextier5schest": {
+			"order": 2,
+			"item": "apextier5schest"
+		},
+		"apextier5spants": {
+			"order": 3,
+			"item": "apextier5spants"
+		},
+		"aviantier5shead": {
+			"order": 4,
+			"item": "aviantier5shead"
+		},
+		"aviantier5schest": {
+			"order": 5,
+			"item": "aviantier5schest"
+		},
+		"aviantier5spants": {
+			"order": 6,
+			"item": "aviantier5spants"
+		},
+		"florantier5shead": {
+			"order": 7,
+			"item": "florantier5shead"
+		},
+		"florantier5schest": {
+			"order": 8,
+			"item": "florantier5schest"
+		},
+		"florantier5spants": {
+			"order": 9,
+			"item": "florantier5spants"
+		},
+		"glitchtier5shead": {
+			"order": 10,
+			"item": "glitchtier5shead"
+		},
+		"glitchtier5schest": {
+			"order": 11,
+			"item": "glitchtier5schest"
+		},
+		"glitchtier5spants": {
+			"order": 12,
+			"item": "glitchtier5spants"
+		},
+		"humantier5shead": {
+			"order": 13,
+			"item": "humantier5shead"
+		},
+		"humantier5schest": {
+			"order": 14,
+			"item": "humantier5schest"
+		},
+		"humantier5spants": {
+			"order": 15,
+			"item": "humantier5spants"
+		},
+		"hylotltier5shead": {
+			"order": 16,
+			"item": "hylotltier5shead"
+		},
+		"hylotltier5schest": {
+			"order": 17,
+			"item": "hylotltier5schest"
+		},
+		"hylotltier5spants": {
+			"order": 18,
+			"item": "hylotltier5spants"
+		},
+		"novatier5shead": {
+			"order": 19,
+			"item": "novatier5shead"
+		},
+		"novatier5schest": {
+			"order": 20,
+			"item": "novatier5schest"
+		},
+		"novatier5spants": {
+			"order": 21,
+			"item": "novatier5spants"
+		},
+		"apextier6shead": {
+			"order": 22,
+			"item": "apextier6shead"
+		},
+		"apextier6schest": {
+			"order": 23,
+			"item": "apextier6schest"
+		},
+		"apextier6spants": {
+			"order": 24,
+			"item": "apextier6spants"
+		},
+		"aviantier6shead": {
+			"order": 25,
+			"item": "aviantier6shead"
+		},
+		"aviantier6schest": {
+			"order": 26,
+			"item": "aviantier6schest"
+		},
+		"aviantier6spants": {
+			"order": 27,
+			"item": "aviantier6spants"
+		},
+		"florantier6shead": {
+			"order": 28,
+			"item": "florantier6shead"
+		},
+		"florantier6schest": {
+			"order": 29,
+			"item": "florantier6schest"
+		},
+		"florantier6spants": {
+			"order": 30,
+			"item": "florantier6spants"
+		},
+		"glitchtier6shead": {
+			"order": 31,
+			"item": "glitchtier6shead"
+		},
+		"glitchtier6schest": {
+			"order": 32,
+			"item": "glitchtier6schest"
+		},
+		"glitchtier6spants": {
+			"order": 33,
+			"item": "glitchtier6spants"
+		},
+		"humantier6shead": {
+			"order": 34,
+			"item": "humantier6shead"
+		},
+		"humantier6schest": {
+			"order": 35,
+			"item": "humantier6schest"
+		},
+		"humantier6spants": {
+			"order": 36,
+			"item": "humantier6spants"
+		},
+		"hylotltier6shead": {
+			"order": 37,
+			"item": "hylotltier6shead"
+		},
+		"hylotltier6schest": {
+			"order": 38,
+			"item": "hylotltier6schest"
+		},
+		"hylotltier6spants": {
+			"order": 39,
+			"item": "hylotltier6spants"
+		},
+		"novatier6shead": {
+			"order": 40,
+			"item": "novatier6shead"
+		},
+		"novatier6schest": {
+			"order": 41,
+			"item": "novatier6schest"
+		},
+		"novatier6spants": {
+			"order": 42,
+			"item": "novatier6spants"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_glitchrideraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "glitchrideraf" },
+  "shortdescription" : "Glitch Rider Figurine",
+  "description" : "The label reads, \"Someone needs to write flavor text.\".",
+
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "glitchriderAF.png",
+      "imagePosition" : [-4, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

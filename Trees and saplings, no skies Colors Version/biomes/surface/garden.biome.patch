@@ -1,0 +1,162 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -80
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/7/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/7/treeFoliageHueShiftMax",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "pine"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "birch"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "cocoa"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "fleshy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "grumpy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "roottree"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "slimey"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "slobby"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "something"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "spikey"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "twisted"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeStemList/-",
+    "value": "wood"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "leafy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "bubbles"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "frumpy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "greenleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "hanging"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "lotus"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "lushgreen"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "redleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "scraggy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/7/treeFoliageList/-",
+    "value": "spikeyfoliage"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card83",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card83" },
+  "inventoryIcon" : "card83.png",
+  "description" : "An ancient species, known to be agile and mischievous. They have an intelligent look in their eye.",
+  "shortdescription" : "#83 Monopus",
+  "largeImage" : "card83.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card83.png"
+}

@@ -1,0 +1,14 @@
+{
+
+  "frameGrid" : {
+    "size" : [12, 16],
+    "dimensions" : [6, 5],
+    "names" : [
+      [ "virorbnormal", "virorbfire", "virorbaqua", "virorbcrystal", "virorbsky", "virorblight" ],
+      [ "virorbair", "virorbsoul", "virorbsludge", "virorblarva", "virorbhand", "virorbsnow" ],
+      [ "virorbdeath", "virorbflower", "virorbwarp", "virorbufo", "virorbbomb", "virorbcosmo" ],
+      [ "virorbtoxic", "virorbshroom", "virorbfog", "virorbsteam", "virorbcell", "virorbbrainwasher" ],
+      [ "mindwurm", "mindwurmmatriarch", "badmoon", "badgoo", "badmoongoo", null]
+    ]
+  }
+}

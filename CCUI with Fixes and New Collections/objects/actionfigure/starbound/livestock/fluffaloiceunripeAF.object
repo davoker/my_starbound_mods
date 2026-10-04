@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_fluffaloiceunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffaloiceunripeaf" },
+  "shortdescription" : "Ice Fluffalo Figurine",
+  "description" : "The label reads, \"The fluff of an ice Fluffalo can get very cold.\"",
+  "inventoryIcon" : "fluffaloiceunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffaloiceunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "itemName" : "dirtea",
+  "rarity" : "common",
+  "price" : 70,
+  "category" : "preparedFood",
+  "inventoryIcon" : "dirtea.png",
+  "description" : "Tea made by steeping dried dirturchin leaves in boiling water. A traditional drink.",
+  "shortdescription" : "Dirtea",
+  "collectablesOnPickup" : { "cooking" : "dirtea" },
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc018",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc018" },
+  "inventoryIcon" : "mtc018.png",
+  "description" : "'DEATHFANG. KILL STUFF.' -Necrolix promotional material",
+  "shortdescription" : "#18 Necrolix Deathfang",
+  "largeImage" : "mtc018.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc018.png"
+}

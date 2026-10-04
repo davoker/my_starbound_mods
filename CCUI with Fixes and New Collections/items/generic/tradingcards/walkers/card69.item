@@ -1,0 +1,13 @@
+{
+  "itemName" : "card69",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card69" },
+  "inventoryIcon" : "card69.png",
+  "description" : "At night, all you can see of the anglure is its light.",
+  "shortdescription" : "#69 Anglure",
+  "largeImage" : "card69.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card69.png"
+}

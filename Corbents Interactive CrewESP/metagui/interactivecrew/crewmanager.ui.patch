@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Administrador de personal"
+  },
+  {
+    "op": "replace",
+    "path": "/children/1/1/text",
+    "value": "Grupo"
+  },
+  {
+    "op": "replace",
+    "path": "/children/1/3/text",
+    "value": "Nave"
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/2/children/0/toolTip",
+    "value": "Mover seguidor arriba."
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/3/children/0/toolTip",
+    "value": "Mover seguidor abajo."
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/4/children/0/toolTip",
+    "value": "Establecer la ubicación actual del seguidor como su nuevo hogar."
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/5/children/0/toolTip",
+    "value": "Enviar seguidor a la nave."
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/7/children/0/toolTip",
+    "value": "Llama a un compañero para que se una a tu grupo."
+  },
+  {
+    "op": "replace",
+    "path": "/children/2/9/children/0/toolTip",
+    "value": "Reconstruye los datos del grupo en caso de corrupción."
+  }
+]

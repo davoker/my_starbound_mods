@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc021",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc021" },
+  "inventoryIcon" : "mtc021.png",
+  "description" : "Equally good as an all-purpose farming tool, as it turns out.",
+  "shortdescription" : "#21 Necrolix Gravepike",
+  "largeImage" : "mtc021.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc021.png"
+}

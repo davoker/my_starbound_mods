@@ -1,0 +1,8 @@
+[{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {
+			"critter_capture_r": "jellycritter"
+		}
+	}
+]

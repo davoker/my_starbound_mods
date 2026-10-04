@@ -1,0 +1,31 @@
+{
+  "itemName" : "wartjuice",
+  "rarity" : "Uncommon",
+  "price" : 310,
+  "category" : "drink",
+  "inventoryIcon" : "wartjuice.png",
+  "description" : "Popular Avian punch of wartweed and fermented grapes.",
+  "shortdescription" : "Wartjuice",
+  "collectablesOnPickup" : { "cooking" : "wartjuice"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 200
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 200
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "ricevinegar", "poachedavesmingo" ],
+  "emitters" : [ "drinking" ]
+}

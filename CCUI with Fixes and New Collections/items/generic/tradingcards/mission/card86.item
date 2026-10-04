@@ -1,0 +1,13 @@
+{
+  "itemName" : "card86",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card86" },
+  "inventoryIcon" : "card86.png",
+  "description" : "If it survives for 200 years, it might become an Ixodoom.",
+  "shortdescription" : "#86 Ixoling",
+  "largeImage" : "card86.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card86.png"
+}

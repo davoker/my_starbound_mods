@@ -1,0 +1,13 @@
+{
+  "itemName" : "card77",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card77" },
+  "inventoryIcon" : "card77.png",
+  "description" : "Its ancestors used to live in the sea. It might look small, but it's got a big bite.",
+  "shortdescription" : "#77 Lilodon",
+  "largeImage" : "card77.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card77.png"
+}

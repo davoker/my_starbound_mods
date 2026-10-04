@@ -1,0 +1,13 @@
+{
+  "itemName" : "card88",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card88" },
+  "inventoryIcon" : "card88.png",
+  "description" : "Although they are a unique monster, the appearance of Moontants can vary.",
+  "shortdescription" : "#88 Moontant",
+  "largeImage" : "card88.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card88.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card76",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card76" },
+  "inventoryIcon" : "card76.png",
+  "description" : "Its thick coat keeps it warm in the coldest climates.",
+  "shortdescription" : "#76 Capricoat",
+  "largeImage" : "card76.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card76.png"
+}

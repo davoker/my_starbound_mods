@@ -1,0 +1,24 @@
+{
+  "objectName" : "nuggubs_divernaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "divernaf" },
+  "shortdescription" : "Divern Figurine",
+  "description" : "The label reads, \"An elusive sea creature told to lurk at great depths.\"",
+
+
+  "inventoryIcon" : "divernAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "divernAF.png",
+      "imagePosition" : [-7, 0],
+
+      "spaces" : [ [-1, 0], [0, 0],
+                   [-1, 1], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -56
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -45
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -16
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -26
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 0
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 140
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 160
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/5/variants",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/5/treeStemHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "alienpalm"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "bark"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "beach"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "blank"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "cross"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "desertpalm"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "palm"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "plain"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/5/treeStemList/-",
+    "value": "twirl"
+  }
+]

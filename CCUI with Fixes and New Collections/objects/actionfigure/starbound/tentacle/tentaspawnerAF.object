@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_tentaspawneraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "tentaspawneraf" },
+  "shortdescription" : "Tentaspawner Figurine",
+  "description" : "The label reads, \"An abomination which creates more abominations.\"",
+
+  "inventoryIcon" : "tentaspawneraf.png",
+  "orientations" : [
+    {
+      "dualImage" : "tentaspawneraf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_spaceboaraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "spaceboaraf" },
+  "shortdescription" : "Space Boar Figurine",
+  "description" : "The label reads, \"Angry boar.\"",
+
+  "inventoryIcon" : "superearly.png:1a_boar",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:1a_boar",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

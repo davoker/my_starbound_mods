@@ -1,0 +1,115 @@
+{
+  "itemName" : "rareassaultrifleamw",
+  "price" : 1080,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "A fully automatic, military grade rifle.",
+  "shortdescription" : "Rare Assault Rifle",
+  "tooltipKind" : "gun",
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "level" : 1,
+
+  "animation" : "/items/active/weapons/ranged/gunamw.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-1.5, 0.05],
+  "muzzleOffset" : [0.2, 0.5],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [0.11, 0.18],
+    "baseDps" : [9.5, 10.5],
+    "energyUsage" : [28.5, 31.5],
+    "inaccuracy" : 0.02,
+
+    "burstTime" : 0.075,
+    "burstCount" : [2,4],
+    "fireType" : ["auto", "burst"],
+
+    "projectileParameters" : {
+      "knockbackRange" : [4,8]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "weaponOffset" : [-0.2, 0],
+        "duration" : 0,
+        "armRotation" : -4,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "weaponOffset" : [-0.2, 0],
+        "duration" : 0.11,
+        "armRotation" : -4,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    "nameGenerator" : "amwassaultnames.config:nameGen",
+	"elementalType" : [
+      "fire",
+      "ice",
+      "electric",
+      "poison"
+    ],
+    "elementalConfig" : {
+      "fire" : {
+        "primaryAbility" : { "projectileType" : "fireplasma", "projectileParameters" : { "statusEffects" : [ "burning" ] } },
+        "fireSounds" : [ "/sfx/gun/plasma_ar1.ogg", "/sfx/gun/plasma_ar2.ogg", "/sfx/gun/plasma_ar3.ogg", "/sfx/gun/plasma_pistol3.ogg" ]
+      },
+      "ice" : {
+        "primaryAbility" : { "projectileType" : "iceplasma", "projectileParameters" : { "statusEffects" : [ "frostslow" ] } },
+        "fireSounds" : [ "/sfx/gun/plasma_ar1.ogg", "/sfx/gun/plasma_ar2.ogg", "/sfx/gun/plasma_ar3.ogg", "/sfx/gun/plasma_pistol3.ogg" ]
+      },
+      "poison" : {
+        "primaryAbility" : { "projectileType" : "poisonplasma", "projectileParameters" : { "statusEffects" : [ "weakpoison" ] } },
+        "fireSounds" : [ "/sfx/gun/plasma_ar1.ogg", "/sfx/gun/plasma_ar2.ogg", "/sfx/gun/plasma_ar3.ogg", "/sfx/gun/plasma_pistol3.ogg" ]
+      },
+      "electric" : {
+        "primaryAbility" : { "projectileType" : "electricplasma", "projectileParameters" : { "statusEffects" : [ "electrified" ] } },
+        "fireSounds" : [ "/sfx/gun/plasma_ar1.ogg", "/sfx/gun/plasma_ar2.ogg", "/sfx/gun/plasma_ar3.ogg", "/sfx/gun/plasma_pistol3.ogg" ]
+      }
+    },
+    "animationParts" : {
+      "middle" : {
+        "path" : "/items/active/weapons/ranged/assaultrifleamw/middle/<variant>.png",
+        "variants" : 96,
+        "paletteSwap" : false
+      },
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+    "gunParts" : ["middle"],
+    "altAbilities" : [
+      "lance",
+      "explosiveburst",
+      "grenadelauncher"
+    ],
+    "palette" : "/items/active/weapons/ranged/colors/amwranged.weaponcolors",
+    "iconDrawables" : ["middle"]
+  }]
+}

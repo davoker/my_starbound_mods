@@ -1,0 +1,13 @@
+{
+  "itemName" : "card29",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card29" },
+  "inventoryIcon" : "card29.png",
+  "description" : "Not the most efficient flyer, it's a mystery how bobfae have survived as a species.",
+  "shortdescription" : "#29 Bobfae",
+  "largeImage" : "card29.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card29.png"
+}

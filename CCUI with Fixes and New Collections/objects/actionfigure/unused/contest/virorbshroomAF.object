@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbshroomaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbshroomaf" },
+  "shortdescription" : "Shroom Virorb Figurine",
+  "description" : "The label reads, \"The trippy effects these Virorbs have on people have also led to many's demise.\"",
+
+  "inventoryIcon" : "contest.png:virorbshroom",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbshroom",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

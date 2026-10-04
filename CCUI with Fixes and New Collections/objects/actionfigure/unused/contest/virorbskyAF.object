@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbskyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbskyaf" },
+  "shortdescription" : "Sky Virorb Figurine",
+  "description" : "The label reads, \"A rare Virorb that likes to zap people with lightning.\"",
+
+  "inventoryIcon" : "contest.png:virorbsky",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbsky",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

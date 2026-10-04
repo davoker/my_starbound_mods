@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Contenedor de alta tecnología para cartas.\n^red;Solo cartas coleccionables de 'fabricantes de armas'^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Colección de cartas 2"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc022",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc022" },
+  "inventoryIcon" : "mtc022.png",
+  "description" : "Teklacki doesn't make firearms, but it does make cool swords!",
+  "shortdescription" : "#22 Teklacki Rust Sticker",
+  "largeImage" : "mtc022.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc022.png"
+}

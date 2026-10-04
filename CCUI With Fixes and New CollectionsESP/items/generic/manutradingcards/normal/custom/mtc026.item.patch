@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un nombre poco ortodoxo pero extrañamente apropiado para un rifle de asalto."
+  }
+]

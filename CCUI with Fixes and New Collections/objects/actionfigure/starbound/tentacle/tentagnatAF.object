@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_tentagnataf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "tentagnataf" },
+  "shortdescription" : "Tentagnat Figurine",
+  "description" : "The label reads, \"A disgusting fleshy parasite.\"",
+
+  "inventoryIcon" : "tentagnataf.png",
+  "orientations" : [
+    {
+      "dualImage" : "tentagnataf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

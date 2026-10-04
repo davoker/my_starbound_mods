@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_peacekeeperdroneaf",
+  "colonyTags" : ["pretty"],
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "collectablesOnPickup" : { "nuggubs_figurines" : "peacekeeperdroneaf" },
+  "price" : 1500,
+  "printable" : false,
+  "shortdescription" : "Peacekeeper Drone Figurine",
+  "description" : "The label reads, \"A small, flamethrowing drone utilised by Peacekeepers.\"",
+
+  "inventoryIcon" : "peacekeeperdroneAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "peacekeeperdroneAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

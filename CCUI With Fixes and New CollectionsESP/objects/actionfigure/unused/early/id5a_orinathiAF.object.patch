@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Estas criaturas son ferozmente leales a sus dueños, permaneciendo con ellos durante toda su vida\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Orinathi"
+  }
+]

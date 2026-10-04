@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc027",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc027" },
+  "inventoryIcon" : "mtc027.png",
+  "description" : "'Reminder. Do NOT stick thumb into the breech. Never again!' -Note from previous user",
+  "shortdescription" : "#27 Custom Skullbane",
+  "largeImage" : "mtc027.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc027.png"
+}

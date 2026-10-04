@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una figura de acción basada en los tentáculos que atacaron la Tierra. No tengas ideas raras\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Tentáculo de la Ruina"
+  }
+]

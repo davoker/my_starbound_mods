@@ -1,0 +1,30 @@
+{
+  "itemName" : "candy",
+  "rarity" : "common",
+  "price" : 30,
+  "category" : "preparedFood",
+  "inventoryIcon" : "candy.png",
+  "description" : "Hard candy. It probably won't do much for me if I'm starving, but it sure is tasty.",
+  "shortdescription" : "Candy",
+  "collectablesOnPickup" : { "cooking" : "candy" },
+  "learnBlueprintsOnPickup" : [ "candiedpearlpeas", "lollypop" ],
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 100
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

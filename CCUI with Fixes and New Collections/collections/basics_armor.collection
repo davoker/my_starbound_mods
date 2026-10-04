@@ -1,0 +1,343 @@
+{
+	"name": "basics_armor",
+	"title": "Basic Armor",
+	"type": "item",
+	"collectables": {
+		"apextier1head": {
+			"order": 1,
+			"item": "apextier1head"
+		},
+		"apextier1chest": {
+			"order": 2,
+			"item": "apextier1chest"
+		},
+		"apextier1pants": {
+			"order": 3,
+			"item": "apextier1pants"
+		},
+		"aviantier1head": {
+			"order": 4,
+			"item": "aviantier1head"
+		},
+		"aviantier1chest": {
+			"order": 5,
+			"item": "aviantier1chest"
+		},
+		"aviantier1pants": {
+			"order": 6,
+			"item": "aviantier1pants"
+		},
+		"florantier1head": {
+			"order": 7,
+			"item": "florantier1head"
+		},
+		"florantier1chest": {
+			"order": 8,
+			"item": "florantier1chest"
+		},
+		"florantier1pants": {
+			"order": 9,
+			"item": "florantier1pants"
+		},
+		"glitchtier1head": {
+			"order": 10,
+			"item": "glitchtier1head"
+		},
+		"glitchtier1chest": {
+			"order": 11,
+			"item": "glitchtier1chest"
+		},
+		"glitchtier1pants": {
+			"order": 12,
+			"item": "glitchtier1pants"
+		},
+		"humantier1head": {
+			"order": 13,
+			"item": "humantier1head"
+		},
+		"humantier1chest": {
+			"order": 14,
+			"item": "humantier1chest"
+		},
+		"humantier1pants": {
+			"order": 15,
+			"item": "humantier1pants"
+		},
+		"hylotltier1head": {
+			"order": 16,
+			"item": "hylotltier1head"
+		},
+		"hylotltier1chest": {
+			"order": 17,
+			"item": "hylotltier1chest"
+		},
+		"hylotltier1pants": {
+			"order": 18,
+			"item": "hylotltier1pants"
+		},
+		"novatier1head": {
+			"order": 19,
+			"item": "novatier1head"
+		},
+		"novatier1chest": {
+			"order": 20,
+			"item": "novatier1chest"
+		},
+		"novatier1pants": {
+			"order": 21,
+			"item": "novatier1pants"
+		},
+		"apextier2head": {
+			"order": 22,
+			"item": "apextier2head"
+		},
+		"apextier2chest": {
+			"order": 23,
+			"item": "apextier2chest"
+		},
+		"apextier2pants": {
+			"order": 24,
+			"item": "apextier2pants"
+		},
+		"aviantier2head": {
+			"order": 25,
+			"item": "aviantier2head"
+		},
+		"aviantier2chest": {
+			"order": 26,
+			"item": "aviantier2chest"
+		},
+		"aviantier2pants": {
+			"order": 27,
+			"item": "aviantier2pants"
+		},
+		"florantier2head": {
+			"order": 28,
+			"item": "florantier2head"
+		},
+		"florantier2chest": {
+			"order": 29,
+			"item": "florantier2chest"
+		},
+		"florantier2pants": {
+			"order": 30,
+			"item": "florantier2pants"
+		},
+		"glitchtier2head": {
+			"order": 31,
+			"item": "glitchtier2head"
+		},
+		"glitchtier2chest": {
+			"order": 32,
+			"item": "glitchtier2chest"
+		},
+		"glitchtier2pants": {
+			"order": 33,
+			"item": "glitchtier2pants"
+		},
+		"humantier2head": {
+			"order": 34,
+			"item": "humantier2head"
+		},
+		"humantier2chest": {
+			"order": 35,
+			"item": "humantier2chest"
+		},
+		"humantier2pants": {
+			"order": 36,
+			"item": "humantier2pants"
+		},
+		"hylotltier2head": {
+			"order": 37,
+			"item": "hylotltier2head"
+		},
+		"hylotltier2chest": {
+			"order": 38,
+			"item": "hylotltier2chest"
+		},
+		"hylotltier2pants": {
+			"order": 39,
+			"item": "hylotltier2pants"
+		},
+		"novatier2head": {
+			"order": 40,
+			"item": "novatier2head"
+		},
+		"novatier2chest": {
+			"order": 41,
+			"item": "novatier2chest"
+		},
+		"novatier2pants": {
+			"order": 42,
+			"item": "novatier2pants"
+		},
+		"apextier3head": {
+			"order": 43,
+			"item": "apextier3head"
+		},
+		"apextier3chest": {
+			"order": 44,
+			"item": "apextier3chest"
+		},
+		"apextier3pants": {
+			"order": 45,
+			"item": "apextier3pants"
+		},
+		"aviantier3head": {
+			"order": 46,
+			"item": "aviantier3head"
+		},
+		"aviantier3chest": {
+			"order": 47,
+			"item": "aviantier3chest"
+		},
+		"aviantier3pants": {
+			"order": 48,
+			"item": "aviantier3pants"
+		},
+		"florantier3head": {
+			"order": 49,
+			"item": "florantier3head"
+		},
+		"florantier3chest": {
+			"order": 50,
+			"item": "florantier3chest"
+		},
+		"florantier3pants": {
+			"order": 51,
+			"item": "florantier3pants"
+		},
+		"glitchtier3head": {
+			"order": 52,
+			"item": "glitchtier3head"
+		},
+		"glitchtier3chest": {
+			"order": 53,
+			"item": "glitchtier3chest"
+		},
+		"glitchtier3pants": {
+			"order": 54,
+			"item": "glitchtier3pants"
+		},
+		"humantier3head": {
+			"order": 55,
+			"item": "humantier3head"
+		},
+		"humantier3chest": {
+			"order": 56,
+			"item": "humantier3chest"
+		},
+		"humantier3pants": {
+			"order": 57,
+			"item": "humantier3pants"
+		},
+		"hylotltier3head": {
+			"order": 58,
+			"item": "hylotltier3head"
+		},
+		"hylotltier3chest": {
+			"order": 59,
+			"item": "hylotltier3chest"
+		},
+		"hylotltier3pants": {
+			"order": 60,
+			"item": "hylotltier3pants"
+		},
+		"novatier3head": {
+			"order": 61,
+			"item": "novatier3head"
+		},
+		"novatier3chest": {
+			"order": 62,
+			"item": "novatier3chest"
+		},
+		"novatier3pants": {
+			"order": 63,
+			"item": "novatier3pants"
+		},
+		"apextier4head": {
+			"order": 64,
+			"item": "apextier4head"
+		},
+		"apextier4chest": {
+			"order": 65,
+			"item": "apextier4chest"
+		},
+		"apextier4pants": {
+			"order": 66,
+			"item": "apextier4pants"
+		},
+		"aviantier4head": {
+			"order": 67,
+			"item": "aviantier4head"
+		},
+		"aviantier4chest": {
+			"order": 68,
+			"item": "aviantier4chest"
+		},
+		"aviantier4pants": {
+			"order": 69,
+			"item": "aviantier4pants"
+		},
+		"florantier4head": {
+			"order": 70,
+			"item": "florantier4head"
+		},
+		"florantier4chest": {
+			"order": 71,
+			"item": "florantier4chest"
+		},
+		"florantier4pants": {
+			"order": 72,
+			"item": "florantier4pants"
+		},
+		"glitchtier4head": {
+			"order": 73,
+			"item": "glitchtier4head"
+		},
+		"glitchtier4chest": {
+			"order": 74,
+			"item": "glitchtier4chest"
+		},
+		"glitchtier4pants": {
+			"order": 75,
+			"item": "glitchtier4pants"
+		},
+		"humantier4head": {
+			"order": 76,
+			"item": "humantier4head"
+		},
+		"humantier4chest": {
+			"order": 77,
+			"item": "humantier4chest"
+		},
+		"humantier4pants": {
+			"order": 78,
+			"item": "humantier4pants"
+		},
+		"hylotltier4head": {
+			"order": 79,
+			"item": "hylotltier4head"
+		},
+		"hylotltier4chest": {
+			"order": 80,
+			"item": "hylotltier4chest"
+		},
+		"hylotltier4pants": {
+			"order": 81,
+			"item": "hylotltier4pants"
+		},
+		"novatier4head": {
+			"order": 82,
+			"item": "novatier4head"
+		},
+		"novatier4chest": {
+			"order": 83,
+			"item": "novatier4chest"
+		},
+		"novatier4pants": {
+			"order": 84,
+			"item": "novatier4pants"
+		}
+	}
+}

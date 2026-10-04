@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_erchiusghostaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "erchiusghostaf" },
+  "shortdescription" : "Erchius Ghost Figurine",
+  "description" : "The label reads, \"God, please, can SOMEONE change this description? It sucks.\"",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "erchiusghostAF.png",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

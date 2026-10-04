@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran no le gussta zorro de fuego."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un pequeño y peludo peluche de Fennix."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Inquieto. Realmente no me gustan los Fennix. Son conocidos por quemar los cultivos."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "¡Es tan mono! ¡Lo necesito!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Soy una bola de fuego, y uno de estos bichos me quemó A MÍ. No lo entiendo. Nada tiene sentido ya."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Fennix"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Creo que me gustarían mucho más si no intentaran quemarme."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Son lindos, pero no puedo superar el hecho de que chamuscan mi pelo cada vez que me acerco demasiado."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Son bastante lindos."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/4/variants",
+    "value": 2
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/4/treeFoliageList/-",
+    "value": "davoeyefoliage"
+  }
+]

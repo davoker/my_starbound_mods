@@ -1,0 +1,14 @@
+{
+
+  "frameGrid" : {
+    "size" : [12, 12],
+    "dimensions" : [3, 5],
+    "names" : [
+      [ "allergen", "bonebird", "smallshroom" ],
+      [ "brainmutant", "cleanerbot", "repairbot" ],
+      [ "heckblob", "glitchspider", "sewerfly" ],
+      [ "toxicfly", "toxicgolem", "nautileech" ],
+      [ "erchirositeterror", "aviansentry", null ]
+    ]
+  }
+}

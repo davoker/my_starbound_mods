@@ -1,0 +1,56 @@
+{
+  "itemName" : "revoltingstew",
+  "rarity" : "Uncommon",
+  "price" : 200,
+  "category" : "preparedFood",
+  "inventoryIcon" : "revoltingstew.png",
+  "description" : "Whoever made this screwed it up. They screwed it up bad.",
+  "shortdescription" : "Revolting Stew",
+  "collectablesOnPickup" : { "cooking" : "revoltingstew"},
+  "effects" : [ [
+	{
+        "effect" : "burning",
+        "duration" : 1000000
+    },
+    {
+        "effect" : "weakpoison",
+        "duration" : 1000000
+    },
+    {
+        "effect" : "foodpoison",
+		"duration" : 1000000
+    },
+    {
+        "effect" : "melting",
+        "duration" : 1000000
+    },
+	{
+		"effect" : "biomeradiation",
+		"duration" : 1000000
+	},
+	{
+		"effect" : "biomecold",
+		"duration" : 1000000
+	},
+	{	
+		"effect" : "biomeheat",
+		"duration" : 1000000
+	},
+	{	
+		"effect" : "l6doomed",
+		"duration" : 1000000
+	},
+	{	
+		"effect" : "erchiussickness",
+		"duration" : 1000000
+	}
+  ] ],
+  "foodValue" : 30,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

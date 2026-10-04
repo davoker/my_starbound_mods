@@ -1,0 +1,105 @@
+{
+  "defaultFluffaloCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "defaultFluffaloHarvest"},
+		{"weight" : 0.05, "pool" : "card21FluffaloHarvest"}
+      ]
+    }]
+  ],
+  "card21FluffaloHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "defaultFluffaloHarvest"},
+		{"item" : "card21"}
+      ]
+    }]
+  ],
+  "electricFluffaloCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "electricFluffaloHarvest"},
+		{"weight" : 0.05, "pool" : "card22FluffaloHarvest"}
+      ]
+    }]
+  ],
+  "card22FluffaloHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "electricFluffaloHarvest"},
+		{"item" : "card22"}
+      ]
+    }]
+  ],
+  "fireFluffaloCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "fireFluffaloHarvest"},
+		{"weight" : 0.05, "pool" : "card23FluffaloHarvest"}
+      ]
+    }]
+  ],
+  "card23FluffaloHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "fireFluffaloHarvest"},
+		{"item" : "card23"}
+      ]
+    }]
+  ],
+  "iceFluffaloCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "iceFluffaloHarvest"},
+		{"weight" : 0.05, "pool" : "card24FluffaloHarvest"}
+      ]
+    }]
+  ],
+  "card24FluffaloHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "iceFluffaloHarvest"},
+		{"item" : "card24"}
+      ]
+    }]
+  ],
+  "poisonFluffaloCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "poisonFluffaloHarvest"},
+		{"weight" : 0.05, "pool" : "card25FluffaloHarvest"}
+      ]
+    }]
+  ],
+  "card25FluffaloHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "fireFluffaloHarvest"},
+		{"item" : "card25"}
+      ]
+    }]
+  ],
+  "mooshiCardHarvest" : [
+    [1, {
+      "pool" : [
+        {"weight" : 1.0, "pool" : "mooshiHarvest"},
+		{"weight" : 0.05, "pool" : "card26mooshiHarvest"}
+      ]
+    }]
+  ],
+  "card26mooshiHarvest" : [
+    [1, {
+      "fill" : [
+        {"pool" : "mooshiHarvest"},
+		{"item" : "card26"}
+      ]
+    }]
+  ],
+  "retromooshiHarvest" : [
+    [1, {
+      "fill" : [
+		{"item" : "mysterycard"}
+      ]
+    }]
+  ]
+}

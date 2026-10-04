@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_silicaaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "silicaaf" },
+  "shortdescription" : "Silica Figurine",
+  "description" : "The label reads, \"A living heap of stone and molten mineral.\"",
+
+  "inventoryIcon" : "superearly.png:13_silica",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:13_silica",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/items/interactivecrew:crewmanager",
+    "value": {
+      "label": "Administrador de personal",
+      "icon": "/metagui/interactivecrew/icons/crewicon.png",
+      "action": [ "ui", "interactivecrew:crewmanager" ]
+    }
+  }
+]

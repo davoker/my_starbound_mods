@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_spinemineaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "spinemineaf" },
+  "shortdescription" : "Spinemine Figurine",
+  "description" : "The label reads, \"Explodes whenever it meets someone new. No-one knows how they aren't extinct already.\"",
+
+  "inventoryIcon" : "spinemineAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "spinemineAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_nutmidgestackaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "nutmidgestackaf" },
+  "shortdescription" : "Nutmidge Figurine",
+  "description" : "The label reads, \"Nutmidgelings frequently group together for safety, stacking inside a protective shell.\"",
+
+  "inventoryIcon" : "nutmidgestackAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "nutmidgestackAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

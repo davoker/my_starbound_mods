@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_smoglinplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushsmoglin" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 110,
+
+  "shortdescription" : "Smoglin Plushie",
+  "description" : "A squishy Smoglin plushie.",
+
+  "apexDescription" : "Why anyone would create this is beyond me.",
+  "avianDescription" : "They smell weird. But this plush is kinda cute.",
+  "floranDescription" : "Floran not liking the big smoky dog.",
+  "glitchDescription" : "Conflicted. I don't really like Smoglins, but this plushie is very cuddly.",
+  "humanDescription" : "I... suppose Smoglins could be cute?",
+  "hylotlDescription" : "It is a very cuddly plushie...",
+  "novakidDescription" : "I don't get the point o' this.",
+  "felinDescription" : "Heehee~",
+  "nekoDescription" : "Aww, he's very cute~",
+  "avaliDescription" : "It's a very soft plushie of a very unpleasant creature.",
+  "slimepersonDescription" : "Aww...",
+  "nekiDescription" : "Soft plushie of a nasty mean thing. I like it!",
+
+  "inventoryIcon" : "icons.png:smoglin",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:smoglin",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

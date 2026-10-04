@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc009",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc009" },
+  "inventoryIcon" : "mtc009.png",
+  "description" : "Can this thing actually rend suns? ...Has anyone tested this?!",
+  "shortdescription" : "#9 Manticon Sunrender",
+  "largeImage" : "mtc009.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc009.png"
+}

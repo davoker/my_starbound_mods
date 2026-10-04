@@ -1,0 +1,49 @@
+{
+  "itemName" : "SwatArmorTopP",
+  "price" : 3000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "Getting swatted.",
+  "shortdescription" : "SR-Swat PointmanVest",
+  "tooltipKind" : "armor",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // DEFAULT
+    { "222d37" : "222d37", "202a34" : "202a34", "212c36" : "212c36", "1d262f" : "1d262f", "171e25" : "171e25", "0e1216" : "0e1216", "1f2933" : "1f2933", "161d24" : "161d24", "0b0e11" : "0b0e11" },
+    // BLACK
+    { "222d37" : "1d1d1d", "202a34" : "1a1a1a", "212c36" : "1c1c1c", "1d262f" : "181818", "171e25" : "131313", "0e1216" : "0c0c0c", "1f2933" : "191919", "161d24" : "121212", "0b0e11" : "090909" },
+    // GREY
+    { "222d37" : "424242", "202a34" : "3f3f3f", "212c36" : "414141", "1d262f" : "393939", "171e25" : "2d2d2d", "0e1216" : "1a1a1a", "1f2933" : "3e3e3e", "161d24" : "2c2c2c", "0b0e11" : "141414" },
+    // WHITE
+    { "3f3f3f" : "e6e6e6", "2c2c2c" : "b6b6b6", "1b1b1b" : "7b7b7b" },
+    // RED
+    { "3f3f3f" : "451313", "2c2c2c" : "360f0f", "1b1b1b" : "280b0b" },
+    // ORANGE
+    { "3f3f3f" : "ffd495", "2c2c2c" : "ea9931", "1b1b1b" : "af4e00" },
+    // YELLOW
+    { "3f3f3f" : "ffffa7", "2c2c2c" : "e2c344", "1b1b1b" : "a46e06" },
+    // GREEN
+    { "222d37" : "252c27", "202a34" : "222924", "212c36" : "242b26", "1d262f" : "1f2521", "171e25" : "191d1a", "0e1216" : "0f1210", "1f2933" : "212823", "161d24" : "181c19", "0b0e11" : "0b0d0b" },
+    // BLUE
+    { "3f3f3f" : "1a3046", "2c2c2c" : "10253a", "1b1b1b" : "0e1e2e" },
+    // PURPLE
+    { "3f3f3f" : "d29ce7", "2c2c2c" : "a451c4", "1b1b1b" : "6a2284" },
+    // PINK
+    { "3f3f3f" : "eab3db", "2c2c2c" : "d35eae", "1b1b1b" : "97276d" },
+    // BROWN
+    { "3f3f3f" : "ccae7c", "2c2c2c" : "a47844", "1b1b1b" : "754c23" }
+  ]
+}

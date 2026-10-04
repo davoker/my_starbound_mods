@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Cualquiera que no pueda quitarse uno de estos de la cabeza a tiempo acaba sufriendo una muerte bastante violenta\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb bomba"
+  }
+]

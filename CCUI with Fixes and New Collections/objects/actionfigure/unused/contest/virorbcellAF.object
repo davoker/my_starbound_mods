@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbcellaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbcellaf" },
+  "shortdescription" : "Cell Virorb Figurine",
+  "description" : "The label reads, \"Virorbs that adapted to their own environment so well they can adapt to any others.\"",
+
+  "inventoryIcon" : "contest.png:virorbcell",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbcell",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

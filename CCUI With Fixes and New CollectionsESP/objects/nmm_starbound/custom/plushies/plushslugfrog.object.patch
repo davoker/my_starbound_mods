@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Aww, a Floran le gussta este juguete de criatura tonta."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de babosa-rana adorablemente blandito."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Enamorado. ¡Aww, este peluche de babosa-rana es tan lindo!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "¡Eee! ¡Qué mono! ¡Definitivamente quiero esto en mi colección de peluches!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Una especie de muñeco blandito."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de babosa-rana"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ji, ji, las babosas-rana son bastante monas."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Debería tener algo que decir sobre esto, pero no lo tengo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Un peluche de babosa-rana muy lindo."
+  }
+]

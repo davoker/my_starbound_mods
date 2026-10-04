@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Grupo doble, doble de diversión. Comanda hasta 4 compis con ^green;clic izq., ^orange;shift+clic izq., ^green;clic der. ^reset;y ^orange;shift+clic der.^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Doble mano de mando"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card12",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card12" },
+  "inventoryIcon" : "card12.png",
+  "description" : "Exchange tech cards to aquire new tech.",
+  "shortdescription" : "#12 Tech Lab",
+  "largeImage" : "card12.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card12.png"
+}

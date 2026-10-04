@@ -1,0 +1,13 @@
+{
+  "itemName" : "card71",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card71" },
+  "inventoryIcon" : "card71.png",
+  "description" : "It doesn't seem to eat or sleep... Is it a machine?",
+  "shortdescription" : "#71 Tintic",
+  "largeImage" : "card71.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card71.png"
+}

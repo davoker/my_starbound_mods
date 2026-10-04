@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Tiene una textura pegajosa que le permite trepar por las superficies con facilidad."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "itemName" : "hamsandwich",
+  "rarity" : "common",
+  "price" : 110,
+  "category" : "preparedFood",
+  "inventoryIcon" : "hamsandwich.png",
+  "description" : "Whoever thought to stick ham between two slices of bread was a genius.",
+  "shortdescription" : "Ham Sandwich",
+  "collectablesOnPickup" : { "cooking" : "hamsandwich"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

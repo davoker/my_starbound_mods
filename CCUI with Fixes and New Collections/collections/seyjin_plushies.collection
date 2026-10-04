@@ -1,0 +1,26 @@
+{
+  "name" : "seyjin_plushies",
+  "title" : "Plushies & Dolls",
+  "type" : "item",
+  
+   "collectables" : {
+   
+	"teddybearplush" : { "order" : 1, "item" : "teddybearplush" },
+	"bigapedoll" : { "order" : 2, "item" : "bigapedoll" },
+	"poptopplush" : { "order" : 3, "item" : "poptopplush" },
+	"unicornplush" : { "order" : 4, "item" : "unicornplush" },
+	"turtleplush" : { "order" : 5, "item" : "turtleplush" },
+	"bearplush" : { "order" : 6, "item" : "bearplush" },
+	"mindwurmplush" : { "order" : 7, "item" : "mindwurmplush" },
+	"numiplush" : { "order" : 8, "item" : "numiplush" },
+	"plainorbplush" : { "order" : 9, "item" : "plainorbplush" },
+	"badgooplush" : { "order" : 10, "item" : "badgooplush" },
+	"hulagirl" : { "order" : 11, "item" : "hulagirl" },
+	"pastelbunnyplush" : { "order" : 12, "item" : "pastelbunnyplush" },
+	"kittyhead" : { "order" : 13, "item" : "kittyhead", "icon" : "/items/plushies/kitty_icon.png" },
+	"bunnyhead" : { "order" : 14, "item" : "bunnyhead", "icon" : "/items/plushies/bunny_icon.png" },
+	"teddyhead" : { "order" : 15, "item" : "teddyhead", "icon" : "/items/plushies/teddy_icon.png" },
+	"uncathat" : { "order" : 16, "item" : "uncathat", "icon" : "/items/plushies/uncat_icon.png" },
+	"noveltybanana" : { "order" : 17, "item" : "noveltybanana" }
+	}
+}

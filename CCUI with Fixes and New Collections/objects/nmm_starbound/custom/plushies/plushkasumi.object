@@ -1,0 +1,34 @@
+{
+  "objectName" : "nuggubs_kasumiplush",
+  "colonyTags" : ["hylotloceancity","pretty","arcade"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushkasumi" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 120,
+
+  "shortdescription" : "Kasumi Plushie",
+  "description" : "A plushie of the shrine maiden featured in one of those Hylotl \"Beautiful Attempt!\" visual novel games.",
+
+  "apexDescription" : "A plush toy of a Hylotl in traditional clothes. Impressively detailled, but I'll pass.",
+  "avianDescription" : "Wow, the detail on this plush toy is impressive.",
+  "floranDescription" : "Fisssshman plussh.",
+  "glitchDescription" : "Uninterested. It is a very cute plushie, but... well, it's not my thing.",
+  "humanDescription" : "Oooh, a plushie! Isn't this the girl from those Hylotl games?",
+  "hylotlDescription" : "I remember these plushes being wildly popular after the game was released.",
+  "novakidDescription" : "Some sorta Hylotl toy. I ain't too interested in it.",
+  "felinDescription" : "A plush of a Hylotl from one of their video games. Well made.",
+  "nekoDescription" : "Squishy cuddly Hylotl plushie!",
+  "avaliDescription" : "A plush Hylotl. A cute novelty, I guess.",
+  "slimepersonDescription" : "A plush of that Hylotl from that one visual novel, I think. Kinda cute, I guess?",
+
+  "inventoryIcon" : "icons.png:kasumi",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:kasumi",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

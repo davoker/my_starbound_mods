@@ -1,0 +1,13 @@
+{
+  "itemName" : "card27",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card27" },
+  "inventoryIcon" : "card27.png",
+  "description" : "The Poptop hums beautifully to confuse its prey.",
+  "shortdescription" : "#27 Poptop",
+  "largeImage" : "card27.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card27.png"
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_snakeguyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "snakeguyaf" },
+  "shortdescription" : "Big Snake Figurine",
+  "description" : "The label reads, \"Older, armless cousins of the lizards, probably.\"",
+
+  "inventoryIcon" : "superearly.png:16_snakeguy",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:16_snakeguy",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

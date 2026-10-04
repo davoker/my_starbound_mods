@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_blackcataf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "blackcataf" },
+  "shortdescription" : "Black Cat Figurine",
+  "description" : "The label reads, \"Little fella doesn't seem too unlucky.\"",
+
+  "inventoryIcon" : "blackcataf.png",
+  "orientations" : [
+    {
+      "dualImage" : "blackcataf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

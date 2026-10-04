@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "A Floran le gussta peluche de criatura tonta."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de Simbionte extraño, pero aun así bastante mono."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Satisfecho. Es un peluche de Simbionte. Bastante mono."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "¡Aww, un pequeño peluche de Simbionte!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Alguien hizo un juguete de la pequeña criatura de gelatina."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Simbionte"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Aww, un pequeño peluche de Simbionte."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "No estoy seguro de por qué alguien haría esto."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Un pequeño peluche de criatura de gelatina."
+  }
+]

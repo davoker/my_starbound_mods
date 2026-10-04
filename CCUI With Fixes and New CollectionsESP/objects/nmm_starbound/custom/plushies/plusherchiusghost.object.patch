@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran no ssabe qué decir."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Sigue dando miedo."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Aterrado. ¿Por qué... quién haría un peluche de esto?!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Este peluche está probando la línea entre aterrador y muy muy blandito..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ni hablar. No me pueden convencer de que esa cosa es linda."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de fantasma de Erchius"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Supongo que es un poco lindo de la misma manera que un... no, esto es aterrador."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "No me gustan mucho. No quiero volver a verlo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "¡Tengo pesadillas con estas cosas! ¡Lo último que querría es un peluche gigante de uno!"
+  }
+]

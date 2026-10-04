@@ -1,0 +1,116 @@
+[
+  {
+    "op": "add",
+    "path": "/customCollectionsTitle",
+    "value": "Custom Collections"
+  },
+  {
+    "op": "add",
+    "path": "/customCollections",
+    "value": []
+  },
+  {"op": "add", "path": "/customCollections/-", "value": "critter_capture_r"},
+  {"op": "add", "path": "/customCollections/-", "value": "geodes_collect"},
+  {"op": "add", "path": "/customCollections/-", "value": "seyjin_plushies"},
+  {"op": "add", "path": "/customCollections/-", "value": "lex_instruments"},
+  {"op": "add", "path": "/customCollections/-", "value": "lex_legendary"},
+  {"op": "add", "path": "/customCollections/-", "value": "basics_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "accelerator_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "manipulator_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "separator_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "nonracial_armor"},
+  {"op": "add", "path": "/customCollections/-", "value": "mtc_n_s1"},
+  {"op": "add", "path": "/customCollections/-", "value": "tradingcards"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_dcs"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_cah"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_cs"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_brh"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_bcs"},
+  {"op": "add", "path": "/customCollections/-", "value": "bun_hat"},	
+  {"op": "add", "path": "/customCollections/-", "value": "bun_cape"},
+  {"op": "add", "path": "/customCollections/-", "value": "nuggubs_figurines"},
+  {"op": "add", "path": "/customCollections/-", "value": "nuggubs_plushies"},
+  {
+    "op": "add",
+    "path": "/gui/scrollAreaCustom",
+    "value": {
+      "type": "scrollArea",
+      "rect": [ 38, 35, 256, 205 ],
+      "children": {
+        "customCollectionList": {
+          "type": "list",
+          "//callback": "selectCustomCollection",
+          "schema": {
+            "spacing": [ 4, 2 ],
+            "memberSize": [ 204, 11 ],
+            "listTemplate": {
+              "background": {
+                "type": "image",
+                "file": "/interface/scripted/collections/tab_customcollections_bg.png",
+                "position": [ 0, 1 ],
+                "zlevel": -1
+              },
+              "collectionName": {
+                "type": "label",
+                "position": [ 102, 1 ],
+                "hAnchor": "mid",
+                "width": 198,
+                "value": "Replace Me"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/collectionTabs/buttons/-",
+    "value": {
+      "visible": false,
+      "selected": false,
+      "data": "customCollections"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/collectionTabs/buttons/-",
+    "value": {
+      "visible": false,
+      "selected": false,
+      "data": "customCollectionsVisible"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/customCollections",
+    "value": {
+      "visible": false,
+      "type" : "button",
+      "base": "/interface/scripted/collections/quickbaricon.png",
+      "hover": "/interface/scripted/collections/quickbaricon_pressed.png",
+      "pressed": "/interface/scripted/collections/quickbaricon_pressed.png",
+      "pressedOffset" : [0, 0],
+      "position": [220, 222],
+      "callback" : "customCollections_onClick"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/customCollectionsActive",
+    "value": {
+      "type" : "button",
+      "base": "/interface/scripted/collections/quickbaricon_select.png",
+      "hover": "/interface/scripted/collections/quickbaricon_pressed.png",
+      "pressed": "/interface/scripted/collections/quickbaricon_pressed.png",
+      "pressedOffset" : [0, 0],
+      "position": [220, 222],
+      "callback" : "customCollections_onClick"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptWidgetCallbacks/-",
+    "value": "customCollections_onClick"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "objectName" : "nuggubs_erchiusghostplush",
+  "colonyTags" : ["hylotloceancity", "pretty", "odd"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plusherchiusghost" },
+  "race" : "generic",
+  "rarity" : "Rare",
+  "price" : 145,
+
+  "shortdescription" : "Erchius Ghost Plushie",
+  "description" : "Still creepy.",
+
+  "apexDescription" : "I'm not really fond of these. I don't really want to see it again.",
+  "avianDescription" : "I have nightmares about these! The last thing I'd ever want to do is have a giant plush of one!",
+  "floranDescription" : "Floran doesssn't know what to ssay.",
+  "glitchDescription" : "Terrified. Why... who would make a plush toy of this?!",
+  "humanDescription" : "I suppose it's kinda cute in the same way a... nah, this is terrifying.",
+  "hylotlDescription" : "This plushie is really testing the line between terrifying and so so squishy...",
+  "novakidDescription" : "Nope. Can't ever convince me that thing's cute.",
+  "felinDescription" : "So big, so squishy~ ...But why this?",
+  "nekoDescription" : "I-it's not r-real, i-is it?",
+  "avaliDescription" : "I always love a big plushie. ...This one's still kinda creepy though.",
+  "nekiDescription" : "Big... squishy... s-scary...",
+
+  "inventoryIcon" : "icons.png:erchiusghost",
+  "orientations" : [
+    {
+      "dualImage" : "plusherchiusghost.png",
+      "imagePosition" : [-16, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

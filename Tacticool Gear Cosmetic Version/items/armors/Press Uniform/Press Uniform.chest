@@ -1,0 +1,50 @@
+{
+  "itemName" : "artyomPRESStop",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "Don't shoot! I'm a journalist!",
+  "shortdescription" : "Journalist Top",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // DEFAULT
+    { "e6e6e6" : "e6e6e6", "b6b6b6" : "b6b6b6", "7b7b7b" : "7b7b7b" },
+    // BLACK
+    { "e6e6e6" : "272727", "b6b6b6" : "303030", "7b7b7b" : "1f1f1f" },
+    // GREY
+    { "e6e6e6" : "4c4c4c", "b6b6b6" : "5d5d5d", "7b7b7b" : "3d3d3d" },
+    // WHITE
+    { "e6e6e6" : "e6e6e6", "b6b6b6" : "b6b6b6", "7b7b7b" : "7b7b7b" },
+    // RED
+    { "e6e6e6" : "722628", "b6b6b6" : "8c2f31", "7b7b7b" : "5c1f20" },
+    // ORANGE
+    { "e6e6e6" : "985000", "b6b6b6" : "bb6200", "7b7b7b" : "7b3f00" },
+    // YELLOW
+    { "e6e6e6" : "987600", "b6b6b6" : "bb9000", "7b7b7b" : "7b5e00" },
+    // GREEN
+    { "e6e6e6" : "264c2d", "b6b6b6" : "35573b", "7b7b7b" : "1e3d24" },
+    // BLUE
+    { "e6e6e6" : "2b425d", "b6b6b6" : "3c516a", "7b7b7b" : "22364c" },
+    // PURPLE
+    { "e6e6e6" : "72264a", "b6b6b6" : "8c2f5b", "7b7b7b" : "5c1f3c" },
+    // PINK
+    { "e6e6e6" : "ff3bf8", "b6b6b6" : "e664e1", "7b7b7b" : "e664e1" },
+    // BROWN
+    { "e6e6e6" : "765725", "b6b6b6" : "83673a", "7b7b7b" : "60461d" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "objectName" : "nuggubs_wafflesaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "wafflesaf" },
+  "shortdescription" : "Waffles Figurine",
+  "description" : "The label reads, \"Does such a creature exist?\"",
+//Yes! Waffles can still exist! As a large quadruped, Waffles has the:
+// - "dogsnake" head
+// - "neonsegment" body
+// - "floating" legs
+// - "fur" tail
+// and while a little different to the screenshot, the final colors of Waffles' are likely the "Ice, Snow, Arctic - Light Grey Blue"
+// though, a White/Blue would be more accurate...
+
+  "inventoryIcon" : "wafflesAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "wafflesAF.png",
+      "imagePosition" : [-2, 0],
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

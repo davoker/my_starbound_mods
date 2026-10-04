@@ -1,0 +1,135 @@
+{
+	"name": "nonracial_armor",
+	"title": "Non-Racial Armor",
+	"type": "item",
+	"collectables": {
+		"mercenaryhead": {
+			"order": 1,
+			"item": "mercenaryhead"
+		},
+		"mercenarychest": {
+			"order": 2,
+			"item": "mercenarychest"
+		},
+		"mercenarylegs": {
+			"order": 3,
+			"item": "mercenarylegs"
+		},
+		"medichead": {
+			"order": 4,
+			"item": "medichead"
+		},
+		"medicchest": {
+			"order": 5,
+			"item": "medicchest"
+		},
+		"mediclegs": {
+			"order": 6,
+			"item": "mediclegs"
+		},
+		"silverarmorhead": {
+			"order": 7,
+			"item": "silverarmorhead"
+		},
+		"silverarmorchest": {
+			"order": 8,
+			"item": "silverarmorchest"
+		},
+		"silverarmorlegs": {
+			"order": 9,
+			"item": "silverarmorlegs"
+		},
+		"trackerhead": {
+			"order": 10,
+			"item": "trackerhead"
+		},
+		"trackerchest": {
+			"order": 11,
+			"item": "trackerchest"
+		},
+		"trackerlegs": {
+			"order": 12,
+			"item": "trackerlegs"
+		},
+		"goldarmorhead": {
+			"order": 13,
+			"item": "goldarmorhead"
+		},
+		"goldarmorchest": {
+			"order": 14,
+			"item": "goldarmorchest"
+		},
+		"goldarmorlegs": {
+			"order": 15,
+			"item": "goldarmorlegs"
+		},
+		"voyagerhead": {
+			"order": 16,
+			"item": "voyagerhead"
+		},
+		"voyagerchest": {
+			"order": 17,
+			"item": "voyagerchest"
+		},
+		"voyagerlegs": {
+			"order": 18,
+			"item": "voyagerlegs"
+		},
+		"explorerchest": {
+			"order": 19,
+			"item": "explorerchest"
+		},
+		"explorerlegs": {
+			"order": 20,
+			"item": "explorerlegs"
+		},
+		"pathfinderhead": {
+			"order": 21,
+			"item": "pathfinderhead"
+		},
+		"pathfinderchest": {
+			"order": 22,
+			"item": "pathfinderchest"
+		},
+		"pathfinderlegs": {
+			"order": 23,
+			"item": "pathfinderlegs"
+		},
+		"camohead": {
+			"order": 24,
+			"item": "camohead"
+		},
+		"camochest": {
+			"order": 25,
+			"item": "camochest"
+		},
+		"camolegs": {
+			"order": 26,
+			"item": "camolegs"
+		},
+		"bonusarmorhead": {
+			"order": 27,
+			"item": "bonusarmorhead"
+		},
+		"bonusarmorchest": {
+			"order": 28,
+			"item": "bonusarmorchest"
+		},
+		"bonusarmorlegs": {
+			"order": 29,
+			"item": "bonusarmorlegs"
+		},
+		"perfecthead": {
+			"order": 30,
+			"item": "perfecthead"
+		},
+		"perfectchest": {
+			"order": 31,
+			"item": "perfectchest"
+		},
+		"perfectpants": {
+			"order": 32,
+			"item": "perfectpants"
+		}
+	}
+}

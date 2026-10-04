@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "meatchunks", "count" : 1 },
+	{ "item" : "rawham", "count" : 1 },
+	{ "item" : "alienmeat", "count" : 1 },
+	{ "item" : "rawribmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "meatwich", "count" : 1 },
+  "groups" : [ "craftingfood", "snacks" ]
+}

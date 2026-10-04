@@ -1,0 +1,31 @@
+{
+  "itemName" : "meatjuice",
+  "rarity" : "uncommon",
+  "price" : 255,
+  "category" : "drink",
+  "inventoryIcon" : "meatjuice.png",
+  "description" : "A drink made of fermented grapes and meat juices. Popular among Florans.",
+  "shortdescription" : "Meatjuice",
+  "collectablesOnPickup" : { "cooking" : "meatjuice"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 240
+    }
+  ] ],
+  "foodValue" : 30,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "meatwich" ],
+  "emitters" : [ "drinking" ]
+}

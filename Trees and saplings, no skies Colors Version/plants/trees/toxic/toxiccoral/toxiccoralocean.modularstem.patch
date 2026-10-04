@@ -1,0 +1,15 @@
+[
+  {
+    "op": "replace",
+    "path": "/middleMaxSize",
+    "value": 3
+  },
+  {
+    "op": "add",
+    "path": "/dropConfig/drops/0/-",
+    "value": {
+      "item": "sapling",
+      "count": 1
+    }
+  }
+]

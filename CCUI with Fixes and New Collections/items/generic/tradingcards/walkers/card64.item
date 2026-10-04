@@ -1,0 +1,13 @@
+{
+  "itemName" : "card64",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card64" },
+  "inventoryIcon" : "card64.png",
+  "description" : "Something about the way it limps makes you feel uncomfortable.",
+  "shortdescription" : "#64 Orbide",
+  "largeImage" : "card64.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card64.png"
+}

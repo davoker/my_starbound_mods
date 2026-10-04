@@ -1,0 +1,150 @@
+{
+  "name" : "mtc_n_s1",
+  "title" : "Manufacturer Trading Cards Series 1",
+  "type" : "item",
+
+  "collectables" : {
+
+    // Cards
+    "mtc001" : {
+      "order" : 1,
+      "item" : "mtc001"
+    },
+    "mtc002" : {
+      "order" : 2,
+      "item" : "mtc002"
+    },
+    "mtc003" : {
+      "order" : 3,
+      "item" : "mtc003"
+    },
+    "mtc004" : {
+      "order" : 4,
+      "item" : "mtc004"
+    },
+    "mtc005" : {
+      "order" : 5,
+      "item" : "mtc005"
+    },
+    "mtc006" : {
+      "order" : 6,
+      "item" : "mtc006"
+    },
+    "mtc007" : {
+      "order" : 7,
+      "item" : "mtc007"
+    },
+    "mtc008" : {
+      "order" : 8,
+      "item" : "mtc008"
+    },
+    "mtc009" : {
+      "order" : 9,
+      "item" : "mtc009"
+    },
+    "mtc010" : {
+      "order" : 10,
+      "item" : "mtc010"
+    },
+    "mtc011" : {
+      "order" : 11,
+      "item" : "mtc011"
+    },
+    "mtc012" : {
+      "order" : 12,
+      "item" : "mtc012"
+    },
+    "mtc013" : {
+      "order" : 13,
+      "item" : "mtc013"
+    },
+    "mtc014" : {
+      "order" : 14,
+      "item" : "mtc014"
+    },
+    "mtc015" : {
+      "order" : 15,
+      "item" : "mtc015"
+    },
+    "mtc016" : {
+      "order" : 16,
+      "item" : "mtc016"
+    },
+    "mtc017" : {
+      "order" : 17,
+      "item" : "mtc017"
+    },
+    "mtc018" : {
+      "order" : 18,
+      "item" : "mtc018"
+    },
+    "mtc019" : {
+      "order" : 19,
+      "item" : "mtc019"
+    },
+    "mtc020" : {
+      "order" : 20,
+      "item" : "mtc020"
+    },
+    "mtc021" : {
+      "order" : 21,
+      "item" : "mtc021"
+    },
+    "mtc022" : {
+      "order" : 22,
+      "item" : "mtc022"
+    },
+    "mtc023" : {
+      "order" : 23,
+      "item" : "mtc023"
+    },
+    "mtc024" : {
+      "order" : 24,
+      "item" : "mtc024"
+    },
+    "mtc025" : {
+      "order" : 25,
+      "item" : "mtc025"
+    },
+    "mtc026" : {
+      "order" : 26,
+      "item" : "mtc026"
+    },
+    "mtc027" : {
+      "order" : 27,
+      "item" : "mtc027"
+    },
+    "mtc028" : {
+      "order" : 28,
+      "item" : "mtc028"
+    },
+    "mtc029" : {
+      "order" : 29,
+      "item" : "mtc029"
+    },
+    "mtc030" : {
+      "order" : 30,
+      "item" : "mtc030"
+    },
+    "mtc031" : {
+      "order" : 31,
+      "item" : "mtc031"
+    },
+    "mtc032" : {
+      "order" : 32,
+      "item" : "mtc032"
+    },
+    "mtc033" : {
+      "order" : 33,
+      "item" : "mtc033"
+    },
+    "mtc034" : {
+      "order" : 34,
+      "item" : "mtc034"
+    },
+    "mtc035" : {
+      "order" : 35,
+      "item" : "mtc035"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "bun_hat" : "clocktophathead" }}
+]

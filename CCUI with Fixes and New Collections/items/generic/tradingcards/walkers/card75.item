@@ -1,0 +1,13 @@
+{
+  "itemName" : "card75",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card75" },
+  "inventoryIcon" : "card75.png",
+  "description" : "Despite appearing friendly, it is rarely seen interacting with other Pipkin.",
+  "shortdescription" : "#75 Pipkin",
+  "largeImage" : "card75.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card75.png"
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_badmoonaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "badmoonaf" },
+  "shortdescription" : "Bad Moon Figurine",
+  "description" : "The label reads, \"During the day, it hardly moves. It just sits there, floating in the sky.\"",
+
+  "inventoryIcon" : "contest.png:badmoon",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:badmoon",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

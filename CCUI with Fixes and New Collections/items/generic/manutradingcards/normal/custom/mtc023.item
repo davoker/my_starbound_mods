@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc023",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc023" },
+  "inventoryIcon" : "mtc023.png",
+  "description" : "Whoever originally forged this sword engraved 'Naptime!' into the handguard.",
+  "shortdescription" : "#23 Custom 'Naptime'",
+  "largeImage" : "mtc023.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc023.png"
+}

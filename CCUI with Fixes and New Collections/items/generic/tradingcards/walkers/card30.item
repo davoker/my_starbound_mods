@@ -1,0 +1,13 @@
+{
+  "itemName" : "card30",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card30" },
+  "inventoryIcon" : "card30.png",
+  "description" : "It's made from a springy substance.",
+  "shortdescription" : "#30 Gleap",
+  "largeImage" : "card30.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card30.png"
+}

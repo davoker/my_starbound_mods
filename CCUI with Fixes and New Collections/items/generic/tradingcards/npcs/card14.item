@@ -1,0 +1,13 @@
+{
+  "itemName" : "card14",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card14" },
+  "inventoryIcon" : "card14.png",
+  "description" : "The finest furnishings from around the universe.",
+  "shortdescription" : "#14 Frögg Furnishing",
+  "largeImage" : "card14.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card14.png"
+}

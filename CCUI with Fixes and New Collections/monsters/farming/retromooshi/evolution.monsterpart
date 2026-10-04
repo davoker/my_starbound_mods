@@ -1,0 +1,9 @@
+{
+  "name" : "evolution",
+  "category" : "retromooshi",
+  "type" : "spawn",
+
+  "frames" : {
+    "spawn" : "evolution.png"
+  }
+}

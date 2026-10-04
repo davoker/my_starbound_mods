@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Como se alimentan de información, tienen la tendencia a borrar la mente de los animales que pasan por allí\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Mindwurm"
+  }
+]

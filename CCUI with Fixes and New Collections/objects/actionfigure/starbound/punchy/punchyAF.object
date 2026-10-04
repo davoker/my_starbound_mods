@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_punchyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "punchyaf" },
+  "shortdescription" : "Punchy Figurine",
+  "description" : "The label reads, \"Everyone's favorite punching bag.\"",
+
+  "inventoryIcon" : "punchyAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "punchyAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

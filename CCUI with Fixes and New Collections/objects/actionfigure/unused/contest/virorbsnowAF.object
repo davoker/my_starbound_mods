@@ -1,0 +1,23 @@
+{
+  "objectName" : "nuggubs_virorbsnowaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbsnowaf" },
+  "shortdescription" : "Snow Virorb Figurine",
+  "description" : "The label reads, \"Essentially two Virorbs. Or perhaps one Virorb wearing a snowman's head as a hat.\"",
+
+
+  "inventoryIcon" : "contest.png:virorbsnow",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbsnow",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

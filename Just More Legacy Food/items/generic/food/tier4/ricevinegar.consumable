@@ -1,0 +1,30 @@
+{
+  "itemName" : "ricevinegar",
+  "rarity" : "Uncommon",
+  "price" : 230,
+  "category" : "drink",
+  "inventoryIcon" : "ricevinegar.png",
+  "description" : "A traditional Hylotl drink with a very strong flavour.",
+  "shortdescription" : "Rice Vinegar",
+  "collectablesOnPickup" : { "cooking" : "ricevinegar"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 100
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 100
+    }
+  ] ],
+  "foodValue" : 20,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

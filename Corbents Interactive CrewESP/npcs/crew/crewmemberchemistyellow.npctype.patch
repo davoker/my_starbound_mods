@@ -1,0 +1,120 @@
+[
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog",
+		"value": {
+			"crewmember": {
+				"offer": {
+					"default": {
+						"default": [
+							"¡Mi especialidad es hacer que las cosas brillen!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te ayudará a explorar lugaresss oscuross!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"Amigable. ¡Ofrezco pociones luminiscentes!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Puedo compartir mi brillo contigo, colega!"
+						]
+					}
+				},
+				"roleDescription": {
+					"default": {
+						"default": [
+							"¡Mi especialidad es hacer que las cosas brillen!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te ayudará a explorar lugaresss oscuross!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"¡Amigable! ¡Ofrezco pociones luminiscentes!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Puedo compartir mi brillo contigo, colega!"
+						]
+					}
+				},
+				"fieldBenefit": {
+					"default": {
+						"default": [
+							"¡Toma esta luz temporal!",
+							"Déjame iluminar el camino.",
+							"¡Listos para las cuevas!",
+							"¡Es tu momento de brillar!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te hace brillar!",
+							"¡Floran tiene luz para ti!",
+							"¡Floran te ayuda a ver!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"Entusiasta. ¡Te ayudaré a ver en la oscuridad!",
+							"Emocionado. ¡Esto mejorará tu visión!",
+							"Intrigado. ¿Quieres algo de luz?",
+							"Servicial. ¡Desplegando fuente de luz!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡Hacia la oscuridad, colega!",
+							"Creo que podrías usar algo de esta luz.",
+							"¡Parece que estás brillando!",
+							"¡Espera colega, toma esta luz!"
+						]
+					}
+				},
+				"combatBenefit": {
+					"default": {
+						"default": [
+							"¡Toma esto para brillar!",
+							"Iluminaré nuestros caminos.",
+							"¡Zonas oscuras, allá vamos!",
+							"¡Si hay algún momento para brillar, es este!"
+						]
+					},
+					"floran": {
+						"default": [
+							"¡Floran te hará iluminarte!",
+							"¡Floran tiene cosssa brillante que ofrecerte!",
+							"¡Floran te hará ver en lo másss osscuro!"
+						]
+					},
+					"glitch": {
+						"default": [
+							"Entusiasta. ¡Te ayudaré a moverte en la oscuridad!",
+							"Emocionado. ¡Esto iluminará tu camino!",
+							"Intrigado. ¿Necesitas ver mejor en zonas oscuras?",
+							"Servicial. ¡Proporcionando una fuente de luz!"
+						]
+					},
+					"novakid": {
+						"default": [
+							"¡La oscuridad no nos detendrá, colega!",
+							"Parece que necesitas algo de luz.",
+							"¡Mira como brillas ahora!",
+							"¡Un momento, usa esta luz, colega!"
+						]
+					}
+				}
+			}
+		}
+	}
+]

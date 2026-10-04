@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_motherboaraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "motherboaraf" },
+  "shortdescription" : "Mother Boar Figurine",
+  "description" : "The label reads, \"bad joke\"",
+
+  "inventoryIcon" : "superearly.png:1c_motherboar",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:1c_motherboar",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

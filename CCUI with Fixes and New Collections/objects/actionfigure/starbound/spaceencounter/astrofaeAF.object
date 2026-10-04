@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_astrofaeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "astrofaeaf" },
+  "shortdescription" : "Astrofae Figurine",
+  "description" : "The label reads, \"It's in space!\"",
+
+  "inventoryIcon" : "astrofaeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "astrofaeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

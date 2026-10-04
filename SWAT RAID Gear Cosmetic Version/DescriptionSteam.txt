@@ -1,0 +1,35 @@
+This is my version of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2198768693] SWAT RAID Gear Pack Pack[/url]
+
+[h1]Changes in the mod[/h1]
+[list]
+[*] No longer is a vending machine crafted from the inventor's table, where clothes used to be purchased.
+[*] All clothing is [b]crafted[/b] from the [b]level 1[/b] Spinning Wheel in exchange for typical crafting materials (cottonwool, fabric, mineral bars and other materials), depending on the rarity of the item, more or less crafting materials and different ore bars (usually titanium and durasteel) will be required.
+[*] The clothing is no longer [b]active[/b], i.e. it does not give attack, defense, energy... it is now completely cosmetic.
+[/list]
+
+[h1]Other information[/h1]
+
+49 pieces of SWAT-themed apparel with different rarities, but all cosmetic.
+
+[b]The mod comes as it comes, there are no plans to update anything, just some modifications of the original mod.[/b]
+
+[h1]Compatibility[/h1]
+
+- This mod requires [url=https://steamcommunity.com/workshop/filedetails/?id=1119086325] Many Tabs (1/2)[/url] and [url=https://steamcommunity.com/workshop/filedetails/?id=956247051] Many Tabs (2/2)[/url], Obviously =)
+- Compatible with everything, this mod [b]adds[/b] new clothes, there can be no incompatibilities with anything.
+
+[h1]Recommended MODs[/h1]
+
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] A few[/url]
+
+[hr][/hr]
+Enjoy the mod.
+
+[h1]Credits[/h1]
+
+All credits to [url=https://steamcommunity.com/id/MajesticalArtyom/myworkshopfiles/?appid=211820] Voodoo Child [/url], who did a fantastic job with his mod and gave me permission to upload here my personal modded version, give support to his mod please.
+
+PS: I have bad English, sorry xD
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

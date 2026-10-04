@@ -1,0 +1,13 @@
+{
+  "itemName" : "card11",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card11" },
+  "inventoryIcon" : "card11.png",
+  "description" : "For all your farming and terraforming needs!",
+  "shortdescription" : "#11 Terramart",
+  "largeImage" : "card11.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card11.png"
+}

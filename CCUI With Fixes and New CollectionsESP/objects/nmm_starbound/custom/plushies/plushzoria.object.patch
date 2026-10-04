@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran recuerda ver serie de héroe en TV. A Floran le gussto."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de un popular personaje de superhéroe."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Atemorizado. ¡No tengo nada que decir!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ooh, ¿un peluche de la Defensora Zoria Estelar? ¡Siempre he querido uno de estos!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Creo que recuerdo que algunos de mis viejos amigos humanos hablaban de este Zorro..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de la defensora Zoria"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Oh, qué bien, solía ver mucho esa serie, antes de ir a la Academia."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Debería tener algo que decir sobre esto, pero no lo tengo."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "He oído muchas cosas buenas sobre esta serie. Aunque nunca la he visto."
+  }
+]

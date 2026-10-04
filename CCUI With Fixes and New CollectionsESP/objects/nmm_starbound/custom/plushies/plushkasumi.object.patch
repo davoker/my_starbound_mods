@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Peluche de hombre pez."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de la doncella del santuario que aparece en una de esas novelas visuales Hylotl \"¡Beautiful Attempt!\"."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Desinteresado. Es un peluche muy lindo, pero... bueno, no es lo mío."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Recuerdo que estos peluches se hicieron muy populares después del lanzamiento del juego."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Una especie de juguete Hylotl. No me interesa demasiado."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Kasumi"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "¡Oooh, un peluche! ¿No es la chica de esos juegos Hylotl?"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un peluche de una Hylotl con ropa tradicional. Impresionantemente detallado, pero pasaré."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Vaya, el detalle de este peluche es impresionante."
+  }
+]

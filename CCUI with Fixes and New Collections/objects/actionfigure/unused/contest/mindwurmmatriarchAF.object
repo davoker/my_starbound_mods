@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_mindwurmmatriarchaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "mindwurmmatriarchaf" },
+  "shortdescription" : "Mindwurm Matriarch Figurine",
+  "description" : "The label reads... Huh. There's no info here.",
+
+  "inventoryIcon" : "contest.png:mindwurmmatriarch",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:mindwurmmatriarch",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

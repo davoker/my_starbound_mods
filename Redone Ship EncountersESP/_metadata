@@ -1,0 +1,11 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Descripción[/h1]\nNo hay mucho que decir, traduce los textos a Español del mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1974816168] Redone Ship Encounters[/url], nada más y suficiente.\n\n[h1]Compatibilidad[/h1]\n- Compatible con los mismos que el mod original, si alguno no lo es con ese, tampoco con este =)\n- Sobra decir que se [b]requiere el mod original[/b], pero lo dejo dicho :S\n\n[h1]MODs recomendados[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] CCUI with Fixes and New Collections[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]\n[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] Pues [b]to[/b] los míos también xD[/url]\n\n[h1]Créditos[/h1]\n- A [url=https://steamcommunity.com/id/AnomNum/myworkshopfiles/?appid=211820] AnomNom[/url] por su fantástico mod.\n- A mi por ejemplo, por guapo y por traducirlo (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "Redone Ship Encounters Spanish",
+  "link" : "steam://url/CommunityFilePage/2961090399",
+  "name" : "redone_ship_encountersESP",
+  "requires" : ["RedoneEncounters"],
+  "steamContentId" : "2961090399",
+  "tags" : "Ships|User Interface",
+  "version" : "1.1a"
+}

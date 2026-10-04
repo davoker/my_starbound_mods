@@ -1,0 +1,13 @@
+{
+  "itemName" : "card32",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card32" },
+  "inventoryIcon" : "card32.png",
+  "description" : "After breaking its shell the monster will split into two Nutmidgelings and a King Nutmidgeling.",
+  "shortdescription" : "#32 Nutmidge",
+  "largeImage" : "card32.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card32.png"
+}

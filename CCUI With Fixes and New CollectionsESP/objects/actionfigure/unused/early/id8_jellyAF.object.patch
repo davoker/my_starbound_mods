@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una bonita y pequeña criatura de gelatina. Es imposible que una pueda blandir un arma\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Bicho de gelatina"
+  }
+]

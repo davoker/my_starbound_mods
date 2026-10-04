@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "meatchunks", "count" : 1 },
+	{ "item" : "dirturchin", "count" : 1 },
+	{ "item" : "wartweed", "count" : 1 },
+	{ "item" : "boltbulb", "count" : 1 },
+	{ "item" : "cryonicextract", "count" : 1 },
+	{ "item" : "chili", "count" : 1 }
+  ],
+  "output" : { "item" : "revoltingstew", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "curriedbeakseed",
+  "rarity" : "common",
+  "price" : 110,
+  "category" : "preparedFood",
+  "inventoryIcon" : "curriedbeakseed.png",
+  "description" : "Curried, crunchy beakseeds with hot chili peppers. Mmm.",
+  "shortdescription" : "Curried Beakseed",
+  "collectablesOnPickup" : { "cooking" : "curriedbeakseed"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 240
+    },
+	{
+        "effect" : "regeneration2",
+        "duration" : 30
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Description, or something like this[/h1]
+[b]'This is my second version of the weapon tooltips'[/b]. If you want a complete description of what it does, check out version one:
+
+- [b]Version 1[/b] -> [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3135633930] Tooltip - The Protectorate Weapons Book[/url]
+
+I'm not going to tire my fingers by typing the same thing twice. (It's just [b]'copy and paste'[/b]...)
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+[list][*]For me (☞ﾟヮﾟ)☞[/list]
+
+[hr][/hr]
+[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "The Protectorate Weapon Tooltips",
+  "link" : "steam://url/CommunityFilePage/3135631587",
+  "name" : "TPWTooltips",
+  "includes" : ["Weapon Stats", "Legendary Tooltips"],
+  "steamContentId" : "3135631587",
+  "tags" : "User Interface",
+  "version" : "1.0"
+}

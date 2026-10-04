@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_giantcrabaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "giantcrabaf" },
+  "shortdescription" : "Giant Crab Figurine",
+  "description" : "The label reads, \"Giant Enemy Crab.\"",
+
+
+  "inventoryIcon" : "superearly.png:7_giantcrab",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:7_giantcrab",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

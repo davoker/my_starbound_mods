@@ -1,0 +1,23 @@
+{
+  "objectName" : "nuggubs_virorbsludgeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbsludgeaf" },
+  "shortdescription" : "Sludge Virorb Figurine",
+  "description" : "The label reads, \"A poisonous variety of Virorb that hangs around tar pits.\"",
+
+
+  "inventoryIcon" : "contest.png:virorbsludge",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbsludge",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

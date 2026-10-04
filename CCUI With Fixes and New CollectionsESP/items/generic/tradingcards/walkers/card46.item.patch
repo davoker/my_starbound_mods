@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Prefiere los climas cálidos y húmedos donde crecerá más rápido."
+  }
+]

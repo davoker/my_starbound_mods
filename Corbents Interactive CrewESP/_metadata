@@ -1,0 +1,11 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Contenido del MOD[/h1]\n\nTraducción a Español del mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url].\n\nNo hay mucho más que decir (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[b]NOTA:[/b][u]Se requiere el mod original[/u], evidentemente.\n\n[h1]MODs recomendados[/h1]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url] -> Considero este mod la pareja ideal para usar junto con [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url].\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955620961] Smart Crew Spanish[/url]\n\n[h1]Créditos[/h1]\nDadle amor a [url=https://steamcommunity.com/id/corbent/myworkshopfiles/?appid=211820] Corbent[/url] por su mod, es un crack.\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "Corbent's Interactive Crew Spanish",
+  "link" : "steam://url/CommunityFilePage/2955591613",
+  "name" : "interactive_crew_esp",
+  "requires" : ["interactivecrew"],
+  "steamContentId" : "2955591613",
+  "tags" : "NPCs and Creatures",
+  "version" : "11"
+}

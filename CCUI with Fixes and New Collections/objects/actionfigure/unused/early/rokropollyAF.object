@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_rokropollyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "rokropollyaf" },
+  "shortdescription" : "Rokropolly Figurine",
+  "description" : "The label reads, \"A creature diguised as a boulder that burrows underground using the drill atop its head.\"",
+
+  "inventoryIcon" : "superearly.png:rokropolly",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:rokropolly",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

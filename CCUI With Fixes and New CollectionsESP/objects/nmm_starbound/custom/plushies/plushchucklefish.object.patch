@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "¡Peluche de pez burbuja!"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un adorable peluche de Chucklefish. Hace un sonido extraño cuando lo aprietas."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Familiar. ¿Dónde he visto antes este pez?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Siento que he visto esto antes."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Es un juguete de un pez naranja."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Chucklefish"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Justo antes de despertar, por un breve momento, siento que veo esta... cosa. ¿Por qué?"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un pequeño y bonito peluche."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Me pregunto por qué este peluche parece tan risueño."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "op": "remove",
+    "path": "/surfacePlaceables/items/16/treeStemList/1"
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/16/treeFoliageList/0",
+    "value": "geometricfoliage"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/17",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 1,
+      "distribution": "/biomes/distributions.config:moderateClumps",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 0,
+      "treeStemHueShiftMax": 12,
+      "treeStemList": [
+        "icespherestem"
+      ],
+      "treeFoliageList": [
+        "icespherefoliage"
+      ]
+    }
+  }
+]

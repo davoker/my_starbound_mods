@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Su reactor interno de nitrógeno se sobrecarga constantemente, lo que hace que deje un rastro de proyectiles explosivos\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Chiropterror"
+  }
+]

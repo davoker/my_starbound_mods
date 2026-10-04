@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_hemobuttaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "hemobuttaf" },
+  "shortdescription" : "Hemogoblin Butt Figurine",
+  "description" : "The label reads, \"The rear half a Hemogoblin can operate purely on instinct, it has no higher brain functions.\"",
+
+  "inventoryIcon" : "hemobuttAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "hemobuttAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

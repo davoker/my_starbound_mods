@@ -1,0 +1,51 @@
+[   
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw2" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw3" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw4" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw5" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw6" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw7" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonassaultrifleamw8" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw2" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw3" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw4" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw5" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw6" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw7" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonassaultrifleamw8" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw2" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw3" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw4" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw5" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw6" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw7" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rareassaultrifleamw8" } },
+	
+
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonsniperrifleamw" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonsniperrifleamw2" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonsniperrifleamw" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonsniperrifleamw2" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "raresniperrifleamw" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "raresniperrifleamw2" } },
+	
+	
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonmachinepistolamw" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonmachinepistolamw2" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonmachinepistolamw" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonmachinepistolamw2" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "raremachinepistolamw" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "raremachinepistolamw2" } },
+	
+	
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonpistolamw" } },
+	{"op" : "add", "path" : "/commonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "commonpistolamw2" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonpistolamw" } },
+	{"op" : "add", "path" : "/uncommonGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "uncommonpistolamw2" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rarepistolamw" } },
+	{"op" : "add", "path" : "/rareGun/1/1/pool/-", "value" : {"weight" : 1.0, "item" : "rarepistolamw2" } }
+	
+]

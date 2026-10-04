@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un guardián de templo de piedra, animado con tecnología antigua."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#87 Centinela de Kluex"
+  }
+]

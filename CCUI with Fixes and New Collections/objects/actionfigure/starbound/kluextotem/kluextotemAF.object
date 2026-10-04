@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_kluextotemaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "kluextotemaf" },
+  "shortdescription" : "Kluex Totem Figurine",
+  "description" : "The label reads, \"A menacing marvel of ancient technology.\"",
+
+  "inventoryIcon" : "kluextotemAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "kluextotemAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

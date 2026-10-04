@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc017",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc017" },
+  "inventoryIcon" : "mtc017.png",
+  "description" : "Man, Necrolix is a spooky manufacturer. They make good weapons though...",
+  "shortdescription" : "#17 Necrolix Cryptraider",
+  "largeImage" : "mtc017.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc017.png"
+}

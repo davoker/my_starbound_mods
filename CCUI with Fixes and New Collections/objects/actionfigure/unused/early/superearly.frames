@@ -1,0 +1,13 @@
+{
+
+  "frameGrid" : {
+    "size" : [12, 12],
+    "dimensions" : [6, 4],
+    "names" : [
+      [ "0_bee", "1a_boar", "1b_battleboar", "1c_motherboar", "2_seagull", "3_cloud"],
+      [ "6_fluffybear", "7_giantcrab", "8_jelly", "9_lizardguy", "10_louse", "11_rhino"],
+      [ "12_sackcrab", "13_silica", "16_snakeguy", "19_grubble", "wheelydroid", "guardiandroid"],
+      [ "5a_orinathi", "5b_umbrathi", "5c_reinathi", "rokropolly", "boncey", "slugfrog"]
+    ]
+  }
+}

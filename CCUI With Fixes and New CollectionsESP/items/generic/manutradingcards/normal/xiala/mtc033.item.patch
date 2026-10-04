@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Nada es mejor que un revólver de confianza. Excepto un revólver de confianza MÁS GRANDE."
+  }
+]

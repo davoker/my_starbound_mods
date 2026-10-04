@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un Glitch al que le gustan mucho los objetos brillantes."
+  }
+]

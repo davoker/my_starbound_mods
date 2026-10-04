@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_giantbeeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "giantbeeaf" },
+  "shortdescription" : "Giant Bee Figurine",
+  "description" : "The label reads, \"An extinct, supersized bee once native to giant flower forests.\"",
+
+  "inventoryIcon" : "superearly.png:0_bee",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:0_bee",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

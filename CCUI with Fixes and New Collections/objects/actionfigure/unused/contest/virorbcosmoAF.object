@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_virorbcosmoaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbcosmoaf" },
+  "shortdescription" : "Cosmo Virorb Figurine",
+  "description" : "The label reads, \"A Virorb with the ability to summon space rocks.\"",
+
+  "inventoryIcon" : "contest.png:virorbcosmo",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbcosmo",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

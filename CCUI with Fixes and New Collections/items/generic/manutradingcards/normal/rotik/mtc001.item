@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc001",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc001" },
+  "inventoryIcon" : "mtc001.png",
+  "description" : "Despite its name, this pistol probably has nothing to do with peace.",
+  "shortdescription" : "#1 Rotik Peaceblaster",
+  "largeImage" : "mtc001.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc001.png"
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_repairbotaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "repairbotaf" },
+  "shortdescription" : "Repair Bot Figurine",
+  "description" : "The label reads, \"A robotic sentry designed for maintaining human machinery.\"",
+
+  "inventoryIcon" : "unused.png:repairbot",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:repairbot",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

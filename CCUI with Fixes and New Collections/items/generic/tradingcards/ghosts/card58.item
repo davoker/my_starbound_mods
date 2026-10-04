@@ -1,0 +1,13 @@
+{
+  "itemName" : "card58",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card58" },
+  "inventoryIcon" : "card58.png",
+  "description" : "Its hot core produces a constant flow of lava. It throws a good punch.",
+  "shortdescription" : "#58 Pyromantle",
+  "largeImage" : "card58.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card58.png"
+}

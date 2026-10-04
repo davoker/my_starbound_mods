@@ -1,0 +1,11 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Contenido del MOD[/h1]\n\nTraducción a Español de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] CCUI with Fixes and New Collections[/url]\n\nLa traducción se aplica a los menús y opciones del mod, no a las descripciones de los cientos de objetos, monstruitos y demás que contiene cada colección que incorpora el mod original, la idea es traducir todo ese contenido, pero de momento no hay prisa (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[b]NOTA:[/b][u]Se requiere el mod original[/u], evidentemente.\n\n[h1]MODs recomendados[/h1]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=735666308] Starbound Español[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955591613] Corbent's Interactive Crew Spanish[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955620961] Smart Crew Spanish[/url]\n\n[h1]Créditos[/h1]\nDadle amor a [url=https://steamcommunity.com/id/corbent/myworkshopfiles/?appid=211820] Corbent[/url], es quien ha hecho que [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] CCUI with Fixes and New Collections[/url] sea compatible prácticamente con todo, hasta con FU oiga (∩^o^)⊃━☆\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "CCUI with Fixes and New Collections Spanish",
+  "link" : "steam://url/CommunityFilePage/2955605947",
+  "name" : "CCUI_Fixes_New_CollectionsESP",
+  "requires" : ["CCUI_Fixes_New_Collections"],
+  "steamContentId" : "2955605947",
+  "tags" : "Miscellaneous|User Interface|Mechanics",
+  "version" : "1.3"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card35",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card35" },
+  "inventoryIcon" : "card35.png",
+  "description" : "The sharp spikes can penetrate any space boot.",
+  "shortdescription" : "#35 Crustoise",
+  "largeImage" : "card35.png",
+  "tooltipKind" : "card",
+  "activeImage" : "card35.png"
+}

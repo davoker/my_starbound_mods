@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Estos robots se usaban en los laboratorios Apex antes de que se instauraran las pruebas involuntarias\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Robot de laboratorio Apex"
+  }
+]

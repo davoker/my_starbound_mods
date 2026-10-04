@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Cualquier aventurero desprevenido que tenga la mala suerte de encontrarse con esta versión de la Luna Mala es poco probable que vea la mañana\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Luna mala"
+  }
+]

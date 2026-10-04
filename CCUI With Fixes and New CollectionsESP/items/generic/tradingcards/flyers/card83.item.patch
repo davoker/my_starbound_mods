@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una especie antigua, conocida por ser ágil y traviesa. Tienen una mirada inteligente."
+  }
+]

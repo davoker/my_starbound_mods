@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/price",
+    "value": 2500
+  },
+  {
+    "op": "add",
+    "path": "/collectablesOnPickup",
+    "value": {
+      "tradingcards": "card01"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tooltipKind",
+    "value": "tool"
+  },
+  {
+    "op": "add",
+    "path": "/activeImage",
+    "value": "card01large.png"
+  },
+  {
+    "op": "replace",
+    "path": "/inventoryIcon",
+    "value": "card01large.png"
+  }
+]

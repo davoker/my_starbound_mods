@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "A Floran no le gussta Wormonch. A Floran no le gussta peluche."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de Wormonch un poco aterrador."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Inquieto. La idea de los Wormonches gigantes me aterra, probablemente no necesito un recordatorio constante de eso."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "La boca dentada de este peluche es bastante inquietante. No sé qué pensar de este peluche."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Uy, ¿se supone que esa cosa es linda?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Wormonch"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Este peluche es aterrador. Lo quiero."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Bueno, estoy más aterrorizado que cautivado."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Me aterra que me coma un Wormonch gigante, no estoy muy seguro de querer un peluche de uno."
+  }
+]

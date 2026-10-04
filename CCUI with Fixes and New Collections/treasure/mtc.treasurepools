@@ -1,0 +1,43 @@
+{
+  "mtcTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 1.0, "item" : "mtc001"},
+        {"weight" : 1.0, "item" : "mtc002"},
+        {"weight" : 1.0, "item" : "mtc003"},
+		{"weight" : 1.0, "item" : "mtc004"},
+		{"weight" : 1.0, "item" : "mtc005"},
+		{"weight" : 1.0, "item" : "mtc006"},
+		{"weight" : 1.0, "item" : "mtc007"},
+		{"weight" : 1.0, "item" : "mtc008"},
+		{"weight" : 1.0, "item" : "mtc009"},
+		{"weight" : 1.0, "item" : "mtc010"},
+		{"weight" : 1.0, "item" : "mtc011"},
+		{"weight" : 1.0, "item" : "mtc012"},
+		{"weight" : 1.0, "item" : "mtc013"},
+		{"weight" : 1.0, "item" : "mtc014"},
+		{"weight" : 1.0, "item" : "mtc015"},
+		{"weight" : 1.0, "item" : "mtc016"},
+		{"weight" : 1.0, "item" : "mtc017"},
+		{"weight" : 1.0, "item" : "mtc018"},
+		{"weight" : 1.0, "item" : "mtc019"},
+		{"weight" : 1.0, "item" : "mtc020"},
+		{"weight" : 1.0, "item" : "mtc021"},
+		{"weight" : 1.0, "item" : "mtc022"},
+		{"weight" : 1.0, "item" : "mtc023"},
+		{"weight" : 1.0, "item" : "mtc024"},
+		{"weight" : 1.0, "item" : "mtc025"},
+		{"weight" : 1.0, "item" : "mtc026"},
+		{"weight" : 1.0, "item" : "mtc027"},
+		{"weight" : 1.0, "item" : "mtc028"},
+		{"weight" : 1.0, "item" : "mtc029"},
+		{"weight" : 1.0, "item" : "mtc030"},
+		{"weight" : 1.0, "item" : "mtc031"},
+		{"weight" : 1.0, "item" : "mtc032"},
+		{"weight" : 1.0, "item" : "mtc033"},
+		{"weight" : 1.0, "item" : "mtc034"},
+		{"weight" : 1.0, "item" : "mtc035"}
+      ]
+    }]
+  ]
+}

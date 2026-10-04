@@ -1,0 +1,13 @@
+{
+  "itemName" : "card05",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card05" },
+  "inventoryIcon" : "card05.png",
+  "description" : "Museum guide for the temple of Kluex.",
+  "shortdescription" : "#05 Tonauac",
+  "largeImage" : "card05.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card05.png"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un Apex genéticamente modificado, atado a una silla de ruedas tecnológicamente avanzada."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#84 Mutante cerebral"
+  }
+]

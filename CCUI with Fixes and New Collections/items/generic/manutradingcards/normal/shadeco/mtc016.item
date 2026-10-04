@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc016",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc016" },
+  "inventoryIcon" : "mtc016.png",
+  "description" : "For when a butter knife just won't... *cut* it...",
+  "shortdescription" : "#16 Shade Co. Peacebuster",
+  "largeImage" : "mtc016.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc016.png"
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_heckblobaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "heckblobaf" },
+  "shortdescription" : "Heck Blob Figurine",
+  "description" : "The label reads, \"It's a gross, fleshy blob.\"",
+
+  "inventoryIcon" : "unused.png:heckblob",
+  "orientations" : [
+    {
+      "image" : "unused.png:heckblob",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_apexmutantaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "apexmutantaf" },
+  "shortdescription" : "Apex Mutant Figurine",
+  "description" : "The label reads, \"This poor soul has lost themselves at the hands of the Miniknog.\"",
+  "inventoryIcon" : "apexmutantaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "apexmutantaf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

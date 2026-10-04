@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_chickenaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "chickenaf" },
+  "shortdescription" : "Chicken Figurine",
+  "description" : "The label reads, \"Native to Earth, this gentle bird frequently lays eggs.\"",
+
+  "inventoryIcon" : "chickenAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "chickenAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

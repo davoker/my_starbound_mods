@@ -1,0 +1,13 @@
+{
+  "itemName" : "card21",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card21" },
+  "inventoryIcon" : "card21.png",
+  "description" : "A good source of plant fibre.",
+  "shortdescription" : "#21 Fluffalo",
+  "largeImage" : "card21.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card21.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card81",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card81" },
+  "inventoryIcon" : "card81.png",
+  "description" : "The Ringram's horns start growing from birth and never stop.",
+  "shortdescription" : "#81 Ringram",
+  "largeImage" : "card81.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card81.png"
+}

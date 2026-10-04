@@ -1,0 +1,13 @@
+{
+  "itemName" : "card40",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card40" },
+  "inventoryIcon" : "card40.png",
+  "description" : "During storms it attaches itself to trees so as not to blow away.",
+  "shortdescription" : "#40 Paratail",
+  "largeImage" : "card40.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card40.png"
+}

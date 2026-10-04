@@ -1,0 +1,33 @@
+{
+  "objectName" : "nuggubs_gleapplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushgleap" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 110,
+
+  "shortdescription" : "Gleap Plushie",
+  "description" : "A soft little Gleap plush toy.",
+
+  "apexDescription" : "A cute little plushie.",
+  "avianDescription" : "I suppose Gleaps are pretty cute.",
+  "floranDescription" : "Annoying Gleap plushie. Sstill cute.",
+  "glitchDescription" : "Conflicted. I find Gleaps quite cute, but they can be really annoying.",
+  "humanDescription" : "I always thought Gleaps looked pretty huggable.",
+  "hylotlDescription" : "I find Gleaps to be quite annoying, but I admit, they're still cute.",
+  "novakidDescription" : "Annoyin' little buggers, the lot of 'em.",
+  "felinDescription" : "I guess Gleaps are cute.",
+  "nekoDescription" : "I like Gleaps!",
+  "avaliDescription" : "I think I'm meant to say something here.",
+
+  "inventoryIcon" : "icons.png:gleap",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:gleap",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

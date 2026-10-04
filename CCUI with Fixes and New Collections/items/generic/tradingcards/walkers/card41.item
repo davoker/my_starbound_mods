@@ -1,0 +1,13 @@
+{
+  "itemName" : "card41",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card41" },
+  "inventoryIcon" : "card41.png",
+  "description" : "It looks like a large and chunky leek. It bleeds when you cut it, though.",
+  "shortdescription" : "#41 Bulbop",
+  "largeImage" : "card41.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card41.png"
+}

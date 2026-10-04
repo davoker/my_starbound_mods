@@ -1,0 +1,218 @@
+[
+	{
+		"op": "replace",
+		"path": "/background",
+		"value": {
+			"type" : "background",
+			"fileHeader" : "/interface/tooltips/book_headerProtectorate.png",
+			"fileBody" : "/interface/tooltips/book_bodyProtectorate.png",
+			"fileFooter" : "/interface/tooltips/book_footerProtectorate.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/moneyIcon",
+		"value": {
+			"type" : "image",
+			"position" : [121, 19],
+			"file" : "/interface/money.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/priceLabel",
+		"value": {
+			"type" : "label",
+			"position" : [134, 18],
+			"hAnchor" : "left",
+			"value" : "tree"	}
+	},
+	{
+		"op": "replace",
+		"path": "/rarityLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 18],
+			"hAnchor" : "left",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerSpeedTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 158],
+			"hAnchor" : "left",
+			"value" : "DPS:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/dpsLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 158],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerEnergyTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 148],
+			"hAnchor" : "left",
+			"value" : "DPE:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerEnergyLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 148],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerShotTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 138],
+			"hAnchor" : "left",
+			"value" : "Damage Per Shot:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerShotLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 138],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/speedTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 128],
+			"hAnchor" : "left",
+			"value" : "Rate of Fire:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/speedLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 128],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/energyPerShotTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 118],
+			"hAnchor" : "left",
+			"value" : "Energy Per Shot:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/energyPerShotLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 118],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/altAbilityTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [170, 108],
+			"hAnchor" : "left",
+			"value" : ""	}
+	},
+	{
+		"op": "replace",
+		"path": "/altAbilityLabel",
+		"value": {
+			"type" : "label",
+			"position" : [304, 108],
+			"hAnchor" : "right",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "add",
+		"path": "/levelTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [128, 159],
+			"hAnchor" : "left",
+			"value" : "LVL:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/levelLabel",
+		"value": {
+			"type" : "label",
+			"position" : [153, 159],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/handednessLabel",
+		"value": {
+			"type" : "label",
+			"position" : [50, 159],
+			"hAnchor" : "right",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "add",
+		"path": "/damagekindImageTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [214, 92],
+			"hAnchor" : "left",
+			"value" : "- Element -"	}
+	},
+	{
+		"op": "replace",
+		"path": "/damageKindImage",
+		"value": {
+			"type" : "image",
+			"position" : [235, 81],
+			"file" : "",
+			"centered" : true,
+			"maxSize" : [16, 16],
+			"minSize" : [16, 16]	}
+	},
+	{
+		"op": "replace",
+		"path": "/objectImage",
+		"value": {
+			"type" : "image",
+			"position" : [82, 100],
+			"file" : "",
+			"centered" : true,
+			"maxSize" : [100, 100],
+			"minSize" : [100, 100]	}
+	},
+	{
+		"op": "replace",
+		"path": "/descriptionLabel",
+		"value": {
+			"type" : "label",
+			"position" : [178, 67],
+			"hAnchor" : "left",
+			"vAnchor" : "top",
+			"wrapWidth" : 124,
+			"lineSpacing" : 1.0,
+			"value" : ""	}
+	}
+]

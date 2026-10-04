@@ -1,0 +1,13 @@
+{
+  "itemName" : "card23",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card23" },
+  "inventoryIcon" : "card23.png",
+  "description" : "A good source of scorched cores.",
+  "shortdescription" : "#23 Fire Fluffalo",
+  "largeImage" : "card23.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card23.png"
+}

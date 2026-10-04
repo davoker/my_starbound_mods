@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "No es el volador más eficiente, es un misterio cómo los bobfae han sobrevivido como especie."
+  }
+]

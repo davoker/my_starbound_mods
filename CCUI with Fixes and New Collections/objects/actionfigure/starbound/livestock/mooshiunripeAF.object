@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_mooshiunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "mooshiunripeaf" },
+  "shortdescription" : "Mooshi Figurine",
+  "description" : "The label reads, \"Mooshi mooshi.\"",
+
+  "inventoryIcon" : "mooshiunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "mooshiunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

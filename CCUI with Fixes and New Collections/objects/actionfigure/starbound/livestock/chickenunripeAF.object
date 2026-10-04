@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_chickenunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "chickenunripeaf" },
+  "shortdescription" : "Chicken Figurine",
+  "description" : "The label reads, \"In space, chickens apparently change color after laying eggs.\"",
+
+  "inventoryIcon" : "chickenunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "chickenunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

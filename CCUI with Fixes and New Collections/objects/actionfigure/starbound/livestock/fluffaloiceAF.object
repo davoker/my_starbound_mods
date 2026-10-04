@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_fluffaloiceaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffaloiceaf" },
+  "shortdescription" : "Ice Fluffalo Figurine",
+  "description" : "The label reads, \"This ice Fluffalo's fluff is so cold it can be harvested as cryonic extract.\"",
+
+  "inventoryIcon" : "fluffaloiceAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffaloiceAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

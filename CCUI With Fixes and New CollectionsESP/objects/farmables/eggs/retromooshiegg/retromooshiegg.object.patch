@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Eclosiona en un ternero mooshi, que crece hasta convertirse en un mooshi adulto. Los Mooshi retro producen cartas misteriosas."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Huevo de Mooshi retro"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "author" : "Davoker",
+  "description" : "[h1]Contenido del MOD[/h1]\n\nTraducción a Español de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]\n\nTraducción completa del mod, sin más que añadir (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[b]NOTA:[/b][u]Se requiere el mod original[/u], evidentemente.\n\n[h1]MODs recomendados[/h1]\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=735666308] Starbound Español[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955591613] Corbent's Interactive Crew Spanish[/url]\n\n[h1]Créditos[/h1]\nDadle amor a [url=https://steamcommunity.com/id/lazy_yogi/myworkshopfiles/?appid=211820] Yogi[/url] por su fantástico MOD que hace que la tripulación verdaderamente tenga vida (づ￣ 3￣)づ\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "Smart Crew Spanish",
+  "link" : "steam://url/CommunityFilePage/2955620961",
+  "name" : "smart_crew_esp",
+  "requires" : ["SmartCrew"],
+  "steamContentId" : "2955620961",
+  "tags" : "Miscellaneous|NPCs and Creatures|Ships",
+  "version" : "1.0"
+}

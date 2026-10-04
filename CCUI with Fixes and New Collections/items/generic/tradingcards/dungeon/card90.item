@@ -1,0 +1,13 @@
+{
+  "itemName" : "card90",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card90" },
+  "inventoryIcon" : "card90.png",
+  "description" : "Despite their goofy appearance, the Po are actually quite deadly.",
+  "shortdescription" : "#90 The Po",
+  "largeImage" : "card90.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card90.png"
+}

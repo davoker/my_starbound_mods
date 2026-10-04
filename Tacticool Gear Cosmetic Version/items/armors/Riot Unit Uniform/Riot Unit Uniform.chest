@@ -1,0 +1,50 @@
+{
+  "itemName" : "artyomRIOTtop",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "Rioters swinging pipes. But, I can't feel anything. It's not hurt.",
+  "shortdescription" : "Riot Unit Vest",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "colorOptions" : [
+    // DEFAULT
+    { "e6e6e6" : "e6e6e6", "b6b6b6" : "b6b6b6", "7b7b7b" : "7b7b7b" },
+    // BLACK
+    { "e6e6e6" : "2c2c2c", "b6b6b6" : "4a4a4a", "7b7b7b" : "232323" },
+    // GREY
+    { "e6e6e6" : "838581", "b6b6b6" : "989898", "7b7b7b" : "606060" },
+    // WHITE
+    { "e6e6e6" : "e6e6e6", "b6b6b6" : "b6b6b6", "7b7b7b" : "7b7b7b" },
+    // RED
+    { "e6e6e6" : "701212", "b6b6b6" : "a43737", "7b7b7b" : "570f0f" },
+    // ORANGE
+    { "e6e6e6" : "ffd495", "b6b6b6" : "ea9931", "7b7b7b" : "af4e00" },
+    // YELLOW
+    { "e6e6e6" : "ffffa7", "b6b6b6" : "e2c344", "7b7b7b" : "a46e06" },
+    // GREEN
+    { "e6e6e6" : "2e3926", "b6b6b6" : "48563e", "7b7b7b" : "20271b" },
+    // BLUE
+    { "e6e6e6" : "1d3a66", "b6b6b6" : "35507a", "7b7b7b" : "122746" },
+    // PURPLE
+    { "e6e6e6" : "d29ce7", "b6b6b6" : "a451c4", "7b7b7b" : "6a2284" },
+    // PINK
+    { "e6e6e6" : "eab3db", "b6b6b6" : "d35eae", "7b7b7b" : "97276d" },
+    // BROWN
+    { "e6e6e6" : "ccae7c", "b6b6b6" : "a47844", "7b7b7b" : "754c23" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_aviansentryaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "aviansentryaf" },
+  "description" : "The label reads, \"An old Avian mar machine lost to time.\"",
+  "shortdescription" : "Avian Sentry Figurine",
+
+  "inventoryIcon" : "unused.png:aviansentry",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:aviansentry",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card91",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card91" },
+  "inventoryIcon" : "card91.png",
+  "description" : "They attack anyone that surprises them, and they're easily surprised.",
+  "shortdescription" : "#91 Snuffish",
+  "largeImage" : "card91.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card91.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "card44",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card44" },
+  "inventoryIcon" : "card44.png",
+  "description" : "Its diet is made up of small amounts of water that it finds by digging into the ground.",
+  "shortdescription" : "#44 Trictus",
+  "largeImage" : "card44.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card44.png"
+}

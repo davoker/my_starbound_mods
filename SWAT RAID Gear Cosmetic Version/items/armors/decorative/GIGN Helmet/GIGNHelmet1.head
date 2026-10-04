@@ -1,0 +1,42 @@
+{
+  "itemName" : "GignHelmet1",
+  "price" : 3500,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "You can protect your face from some tiny bullets.",
+  "shortdescription" : "SR-GIGN Helmet1",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "b48a53" : "b48a53", "c89f6a" : "c89f6a", "be9663" : "be9663", "866a44" : "866a44" },
+    // BLACK
+    { "b48a53" : "2c2c2c", "c89f6a" : "343434", "be9663" : "313131", "866a44" : "222222" },
+    // GREY
+    { "b48a53" : "757575", "c89f6a" : "888888", "be9663" : "808080", "866a44" : "5a5a5a" },
+    // WHITE
+    { "b48a53" : "dadada", "c89f6a" : "ededed", "be9663" : "e7e7e7", "866a44" : "cdcdcd" },
+    // RED
+    { "b48a53" : "d23734", "c89f6a" : "e54e4c", "be9663" : "db4846", "866a44" : "9b322f" },
+    // ORANGE
+    { "b48a53" : "ffd495", "c89f6a" : "ea9931", "be9663" : "af4e00", "866a44" : "6e2900" },
+    // YELLOW
+    { "b48a53" : "ffffa6", "c89f6a" : "ffffd4", "be9663" : "ffffc6", "866a44" : "ffd488" },
+    // GREEN
+    { "b48a53" : "4e5a47", "c89f6a" : "5c6754", "be9663" : "576150", "866a44" : "3c4437" },
+    // BLUE
+    { "b48a53" : "343e4b", "c89f6a" : "3e4754", "be9663" : "3b4551", "866a44" : "293039" },
+    // PURPLE
+    { "b48a53" : "d29ce7", "c89f6a" : "a451c4", "be9663" : "6a2284", "866a44" : "320c40" },
+    // PINK
+    { "b48a53" : "a4638e", "c89f6a" : "b879a3", "be9663" : "af729b", "866a44" : "7b4f6c" },
+    // BROWN
+    { "b48a53" : "b48a53", "c89f6a" : "c89f6a", "be9663" : "be9663", "866a44" : "866a44" }
+  ]
+}

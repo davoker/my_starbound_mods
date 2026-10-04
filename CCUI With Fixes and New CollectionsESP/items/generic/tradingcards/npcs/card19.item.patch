@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "¿Tienes algo raro? Nosotros tenemos algo más raro."
+  }
+]

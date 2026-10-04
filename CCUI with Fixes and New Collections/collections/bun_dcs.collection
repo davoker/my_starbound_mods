@@ -1,0 +1,52 @@
+{
+  "name" : "bun_dcs",
+  "title" : "^#99BEFF;Dungeon Cosmetic Sets",
+  "type" : "item",
+  
+   "collectables" : {
+   
+    	"spacesuithead" : { "order" : 1, "item" : "spacesuithead", "icon": "/bun_images/dcs/spacesuit_head.png" },
+    	"spacesuitchest" : { "order" : 2, "item" : "spacesuitchest", "icon": "/bun_images/dcs/spacesuit_chest.png" },
+    	"spacesuitlegs" : { "order" : 3, "item" : "spacesuitlegs", "icon": "/bun_images/dcs/spacesuit_legs.png" },
+	"spacesuitback" : { "order" : 4, "item" : "spacesuitback", "icon": "/bun_images/dcs/spacesuit_back.png"},
+
+	"minerhead" : { "order" : 5, "item" : "minerhead", "icon": "/bun_images/dcs/miner_head.png"},
+	"minerchest" : { "order" : 6, "item" : "minerchest", "icon": "/bun_images/dcs/miner_chest.png"},
+
+	"predatoryhead" : { "order" : 7, "item" : "predatoryhead", "icon": "/bun_images/dcs/predatory_head.png" },
+    	"predatorychest" : { "order" : 8, "item" : "predatorychest", "icon": "/bun_images/dcs/predatory_chest.png" },
+    	"predatorypants" : { "order" : 9, "item" : "predatorypants", "icon": "/bun_images/dcs/predatory_legs.png" },
+	"predatoryback" : { "order" : 10, "item" : "predatoryback", "icon": "/bun_images/dcs/predatory_back.png"},
+
+	"valoroushead" : { "order" : 11, "item" : "valoroushead", "icon": "/bun_images/dcs/valorous_head.png" },
+    	"valorouschest" : { "order" : 12, "item" : "valorouschest", "icon": "/bun_images/dcs/valorous_chest.png" },
+    	"valorouspants" : { "order" : 13, "item" : "valorouspants", "icon": "/bun_images/dcs/valorous_legs.png" },
+
+	"miniknoghead" : { "order" : 14, "item" : "miniknoghead", "icon": "/bun_images/dcs/miniknog_head.png" },
+    	"miniknogchest" : { "order" : 15, "item" : "miniknogchest", "icon": "/bun_images/dcs/miniknog_chest.png" },
+    	"miniknogpants" : { "order" : 16, "item" : "miniknogpants", "icon": "/bun_images/dcs/miniknog_legs.png" },
+
+	"wizardhead" : { "order" : 17, "item" : "wizardhead", "icon": "/bun_images/dcs/wizard_head.png" },
+    	"wizardchest" : { "order" : 18, "item" : "wizardchest", "icon": "/bun_images/dcs/wizard_chest.png" },
+    	"wizardlegs" : { "order" : 19, "item" : "wizardlegs", "icon": "/bun_images/dcs/wizard_legs.png" },
+	"wizardback" : { "order" : 20, "item" : "wizardback", "icon": "/bun_images/dcs/wizard_back.png"},
+
+	"executionershead" : { "order" : 21, "item" : "executionershead", "icon": "/bun_images/dcs/executioners_head.png" },
+    	"executionerschest" : { "order" : 22, "item" : "executionerschest", "icon": "/bun_images/dcs/executioners_chest.png" },
+
+	"piratehead" : { "order" : 23, "item" : "piratehead", "icon": "/bun_images/dcs/pirate_head.png" },
+    	"piratechest" : { "order" : 24, "item" : "piratechest", "icon": "/bun_images/dcs/pirate_chest.png" },
+    	"piratelegs" : { "order" : 25, "item" : "piratelegs", "icon": "/bun_images/dcs/pirate_legs.png" },
+	"pirateback" : { "order" : 26, "item" : "pirateback", "icon": "/bun_images/dcs/pirate_back.png"},
+
+	"scientisthead" : { "order" : 27, "item" : "scientisthead", "icon": "/bun_images/dcs/scientist_head.png" },
+    	"scientistchest" : { "order" : 28, "item" : "scientistchest", "icon": "/bun_images/dcs/scientist_chest.png" },
+    	"scientistlegs" : { "order" : 29, "item" : "scientistlegs", "icon": "/bun_images/dcs/scientist_legs.png" },
+
+	"premierhead" : { "order" : 30, "item" : "premierhead", "icon": "/bun_images/dcs/premier_head.png" },
+    	"premierchest" : { "order" : 31, "item" : "premierchest", "icon": "/bun_images/dcs/premier_chest.png" },
+    	"premierpants" : { "order" : 32, "item" : "premierpants", "icon": "/bun_images/dcs/premier_legs.png" }
+
+  
+	}
+}

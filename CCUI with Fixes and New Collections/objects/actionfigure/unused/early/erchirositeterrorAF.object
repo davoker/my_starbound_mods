@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_erchirositeterroraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "erchirositeterroraf" },
+  "shortdescription" : "Erchirosite Terror Figurine",
+  "description" : "The label reads, \"A living creature that integrated itself into a large Erchius compound mineral.\"",
+
+  "inventoryIcon" : "unused.png:erchirositeterror",
+  "orientations" : [
+    {
+      "dualImage" : "erchirositeterrorAF.png",
+      "imagePosition" : [-4, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

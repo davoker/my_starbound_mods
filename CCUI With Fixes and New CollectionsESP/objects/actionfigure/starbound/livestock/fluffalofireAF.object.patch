@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Los Fluffalos de fuego se calientan tanto que... ¿núcleos abrasados? No digo que sea caca ni nada, pero...\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fluffalo de fuego"
+  }
+]

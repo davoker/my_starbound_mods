@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc008",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc008" },
+  "inventoryIcon" : "mtc008.png",
+  "description" : "Elegant and deadly, the Seacleaver cleaves.",
+  "shortdescription" : "#8 Manticon Seacleaver",
+  "largeImage" : "mtc008.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc008.png"
+}

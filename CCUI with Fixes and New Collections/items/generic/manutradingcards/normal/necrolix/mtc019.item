@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc019",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc019" },
+  "inventoryIcon" : "mtc019.png",
+  "description" : "Good for defending the family crypt, or poking holes through bandits on random backwater planets.",
+  "shortdescription" : "#19 Necrolix Cryptkeeper",
+  "largeImage" : "mtc019.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc019.png"
+}

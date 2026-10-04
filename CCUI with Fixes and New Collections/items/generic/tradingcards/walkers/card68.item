@@ -1,0 +1,13 @@
+{
+  "itemName" : "card68",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card68" },
+  "inventoryIcon" : "card68.png",
+  "description" : "Greedy and sly in nature. If disturbed whilst sneaking it will give you the evil eye.",
+  "shortdescription" : "#68 Yokat",
+  "largeImage" : "card68.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card68.png"
+}

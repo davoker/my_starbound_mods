@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Te da autoridad para dar órdenes a tu tripulación."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mano de mando"
+  }
+]

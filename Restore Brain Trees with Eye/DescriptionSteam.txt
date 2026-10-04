@@ -1,0 +1,30 @@
+[h1]Description, or something like this[/h1]
+I already have a brain, this is for you  o(￣▽￣)ｄ
+
+[h1]Content[/h1]
+- Restore trees with [b]brains[/b] foliage, this is another one of those things that CF removed in version 1.0.
+- The brains now have an "eye", because I thought it was funny, or to see your thoughts, who knows...
+- customized sapling icon.
+-  [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2422986190] Futara's Dragon Pixel Full Bright Shader[/url] [b][u]support[/u][/b].
+
+[h1]Where to find them[/h1]
+These trees are located by default in the [b]Forest[/b] biomes, and they are still located there.
+
+[b]Please note:[/b]
+
+- There are 14 types of foliage for trees in Forest type biomes, now there are 15, calculate yourself the probabilities of seeing these trees in that biome.
+- This biome can appear in many planets, not only in Forest type planets, it is a biome and as such it will appear in more planets, even if not in all of them, this is not my thing, this is how the game works, it is just an additional data.
+
+[h1]Compatibility[/h1]
+- It should be compatible with everything except for mods that add the same files... FU? Betabound? I don't know, I don't care either (☞ﾟヮﾟ)☞
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+For me all the flowers (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

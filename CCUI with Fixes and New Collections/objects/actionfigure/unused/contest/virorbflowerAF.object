@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbfloweraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbfloweraf" },
+  "shortdescription" : "Flora Virorb Figurine",
+  "description" : "The label reads, \"When shlorping someone's head, it produces a scent which tends to make nearby insects hostile.\"",
+
+  "inventoryIcon" : "contest.png:virorbflower",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbflower",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

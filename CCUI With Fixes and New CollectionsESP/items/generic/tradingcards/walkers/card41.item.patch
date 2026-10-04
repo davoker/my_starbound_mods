@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Parece un puerro grande y regordete. Aunque sangra si lo cortas."
+  }
+]

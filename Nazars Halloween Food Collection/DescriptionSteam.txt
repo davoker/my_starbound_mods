@@ -1,0 +1,27 @@
+[h1]Description, or something like this[/h1]
+I simply like the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358066460] Nazar's Halloween[/url] mod and its small variety of food plates based on pumpkin as the main ingredient, so I created this collection to have the option to collect all those cooking dishes that the mod offers.
+
+34 varied food plates with pumpkin as the main ingredient, [b]integrated into the game’s default cooking collection[/b]. Honestly, I like collectibles—the more collections I can have, the better; for me, it’s one more incentive in games =)
+
+NOTE: No. 29 is “Candy Corn” and it’s the only one that doesn’t have pumpkin as an ingredient nor can it be found with the pumpkin tag, keep that in mind if you notice you’re missing that dish in the collection.
+
+[h1]Compatibility[/h1]
+[b]This mod requires:[/b]
+[list][*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=760881689] CCUI[/url] ([b]It is not really required, but it is highly recommended.[/b])
+[b]or[/b]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] My CCUI with fixes and New Collections[/url] → If you use this one, you don’t need the previous one, it includes its full functionality and also makes it much more compatible, for example, with collections added by new race mods and with any collection in general.
+([b]It is not really required, but it is highly recommended.[/b])
+
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=3130082417] Collection numberer[/url] -> If you want the new food plates not to repeat the numbering from the Cooking collectables list, use this mod and activate its button, it will properly order the list. I’m not going to make this mod a requirement, but it’s one of those mods that doesn’t bother having installed even if you don’t use it. ([b]It is not really required, but it is highly recommended.[/b])
+
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358066460] Nazar's Halloween[/url] -> Obviously, you need it; it's not optional. (☞ﾟヮﾟ)☞
+.[/list]
+
+[b]NOTE:[/b][url=https://steamcommunity.com/sharedfiles/filedetails/?id=760881689] CCUI[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2951678565] My CCUI with fixes[/url], although they are not really necessary, I insist that CCUI (or my version CCUI with fixes) is highly recommended for any collection. You will want to have one of the two installed even if you don't know you need it.
+
+[h1]Credits[/h1]
+Me, of course -> [url=https://steamcommunity.com/id/Davoker/myworkshopfiles/] My other mods[/url]
+[url=https://steamcommunity.com/profiles/76561198132178129/myworkshopfiles/] Homophagous[/url] For [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358066460] Nazar's Halloween[/url]
+
+[hr][/hr]
+[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]

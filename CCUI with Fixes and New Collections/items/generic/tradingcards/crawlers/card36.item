@@ -1,0 +1,13 @@
+{
+  "itemName" : "card36",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card36" },
+  "inventoryIcon" : "card36.png",
+  "description" : "Iguarmor is not an aggressive species but the spikes on its tail can deal great damage.",
+  "shortdescription" : "#36 Iguarmor",
+  "largeImage" : "card36.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card36.png"
+}

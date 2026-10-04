@@ -1,0 +1,13 @@
+{
+  "itemName" : "card84",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card84" },
+  "inventoryIcon" : "card84.png",
+  "description" : "A genetically modified Apex, bound to a technologically advanced wheelchair.",
+  "shortdescription" : "#84 Brain Mutant",
+  "largeImage" : "card84.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card84.png"
+}

@@ -1,0 +1,19 @@
+{
+  "itemName" : "toffee",
+  "rarity" : "Common",
+  "price" : 55,
+  "category" : "preparedFood",
+  "inventoryIcon" : "toffee.png",
+  "description" : "Toffee! A common ingredient in sweets.",
+  "shortdescription" : "Toffee",
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "toffeeapple" ]
+}

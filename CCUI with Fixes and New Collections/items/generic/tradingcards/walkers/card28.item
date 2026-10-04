@@ -1,0 +1,13 @@
+{
+  "itemName" : "card28",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card28" },
+  "inventoryIcon" : "card28.png",
+  "description" : "It's huge...",
+  "shortdescription" : "#28 Adult Poptop",
+  "largeImage" : "card28.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card28.png"
+}

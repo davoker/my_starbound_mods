@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Aunque es un monstruo único, la apariencia de los moontants puede variar."
+  }
+]

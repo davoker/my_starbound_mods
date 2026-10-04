@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbdeathaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbdeathaf" },
+  "shortdescription" : "Wither Virorb Figurine",
+  "description" : "The label reads, \"A very deadly type of Virorb. Thankfully, they're very slow.\"",
+
+  "inventoryIcon" : "contest.png:virorbdeath",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbdeath",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

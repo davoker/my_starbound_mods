@@ -1,0 +1,37 @@
+{
+  "objectName" : "pethouseMoreSlime",
+  "rarity" : "Common",
+  "printable" : false,
+  "category" : "storage",
+  "price" : 500,
+  "description" : "A home for your puppy.",
+  "shortdescription" : "More Slimes Pet House.",
+  "race" : "generic",
+
+  "inventoryIcon" : "pethouseMoreSlimeIcon.png",
+		"scripts" : [
+    "/objects/spawner/shipPetSpawner.lua"
+  ],
+  "scriptDelta" : 20,
+	"shipPetType" : "moreslime",
+
+  "orientations" : [
+    {
+      "image" : "pethouseMoreSlime.png:blue",
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "pethouseMoreSlime.png:blue",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaces" : [ [-1, 0], [0, 0], [1, 0], [-1, 1], [0, 1], [1, 1], [-1, 2], [0, 2], [1, 2] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

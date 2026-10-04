@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/items/collectscollections:collections",
+    "value": {
+      "label": "Custom Collections",
+      "icon": "/interface/scripted/collections/quickbaricon.png",
+      "action": [ "pane", "/interface/scripted/collections/collectionsgui.config" ]
+    }
+  }
+]

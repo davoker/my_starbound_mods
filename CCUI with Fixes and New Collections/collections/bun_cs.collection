@@ -1,0 +1,85 @@
+{
+  "name" : "bun_cs",
+  "title" : "^#99F6FF;Cosmetic Sets",
+  "type" : "item",
+  
+   "collectables" : {
+   
+    	"protectoratechest" : { "order" : 1, "item" : "protectoratechest", "icon": "/bun_images/cs/protectorateuniform_chest.png" },
+    	"protectoratepants" : { "order" : 2, "item" : "protectoratepants", "icon": "/bun_images/cs/protectorateuniform_legs.png" },
+
+	"chefhead" : { "order" : 3, "item" : "chefhead", "icon": "/bun_images/cs/chef_head.png" },
+	"chefchest" : { "order" : 4, "item" : "chefchest", "icon": "/bun_images/cs/chef_chest.png" },
+	"cheflegs" : { "order" : 5, "item" : "cheflegs", "icon": "/bun_images/cs/chef_legs.png" },
+
+	"cowboyhead" : { "order" : 6, "item" : "cowboyhead", "icon": "/bun_images/cs/cowboy_head.png" },
+	"cowboychest" : { "order" : 7, "item" : "cowboychest", "icon": "/bun_images/cs/cowboy_chest.png" },
+	"cowboylegs" : { "order" : 8, "item" : "cowboylegs", "icon": "/bun_images/cs/cowboy_legs.png" },
+
+	"cultisthead" : { "order" : 9, "item" : "cultisthead", "icon": "/bun_images/cs/cultist_head.png" },
+	"cultistchest" : { "order" : 10, "item" : "cultistchest", "icon": "/bun_images/cs/cultist_chest.png" },
+	"cultistlegs" : { "order" : 11, "item" : "cultistlegs", "icon": "/bun_images/cs/cultist_legs.png" },
+
+	"bettyhead" : { "order" : 12, "item" : "bettyhead", "icon": "/bun_images/cs/betty_head.png" },
+	"bettychest" : { "order" : 13, "item" : "bettychest", "icon": "/bun_images/cs/betty_chest.png" },
+	"bettylegs" : { "order" : 14, "item" : "bettylegs", "icon": "/bun_images/cs/betty_legs.png" },
+
+	"dress1chest" : { "order" : 15, "item" : "dress1chest", "icon": "/bun_images/cs/dress_chest.png" },
+	"dress1legs" : { "order" : 16, "item" : "dress1legs", "icon": "/bun_images/cs/dress_legs.png" },
+
+	"wedding1chest" : { "order" : 17, "item" : "wedding1chest", "icon": "/bun_images/cs/wedding1_chest.png" },
+	"wedding1legs" : { "order" : 18, "item" : "wedding1legs", "icon": "/bun_images/cs/wedding1_legs.png" },
+
+	"fairyhead" : { "order" : 19, "item" : "fairyhead", "icon": "/bun_images/cs/fairy_head.png" },
+	"fairychest" : { "order" : 20, "item" : "fairychest", "icon": "/bun_images/cs/fairy_chest.png" },
+	"fairylegs" : { "order" : 21, "item" : "fairylegs", "icon": "/bun_images/cs/fairy_legs.png" },
+	"fairyback" : { "order" : 22, "item" : "fairyback", "icon": "/bun_images/cs/fairy_back.png" },
+
+	"jumpsuitchest" : { "order" : 23, "item" : "jumpsuitchest", "icon": "/bun_images/cs/jumpsuit_chest.png" },
+	"jumpsuitlegs" : { "order" : 24, "item" : "jumpsuitlegs", "icon": "/bun_images/cs/jumpsuit_legs.png" },
+
+	"moneybagshead" : { "order" : 25, "item" : "moneybagshead", "icon": "/bun_images/cs/moneybags_head.png" },
+	"moneybagschest" : { "order" : 26, "item" : "moneybagschest", "icon": "/bun_images/cs/moneybags_chest.png" },
+	"moneybagspants" : { "order" : 27, "item" : "moneybagspants", "icon": "/bun_images/cs/moneybags_legs.png" },
+	"moneybagsback" : { "order" : 28, "item" : "moneybagsback", "icon": "/bun_images/cs/moneybags_back.png" },
+
+	"neohead" : { "order" : 29, "item" : "neohead", "icon": "/bun_images/cs/neo_head.png" },
+	"neochest" : { "order" : 30, "item" : "neochest", "icon": "/bun_images/cs/neo_chest.png" },
+	"neolegs" : { "order" : 31, "item" : "neolegs", "icon": "/bun_images/cs/neo_legs.png" },
+	"neoback" : { "order" : 32, "item" : "neoback", "icon": "/bun_images/cs/neo_back.png" },
+
+	"peacekeeperhead" : { "order" : 33, "item" : "peacekeeperhead", "icon": "/bun_images/cs/peacekeeper_head.png" },
+	"peacekeeperchest" : { "order" : 34, "item" : "peacekeeperchest", "icon": "/bun_images/cs/peacekeeper_chest.png" },
+	"peacekeeperlegs" : { "order" : 35, "item" : "peacekeeperpants", "icon": "/bun_images/cs/peacekeeper_legs.png" },
+
+	"penguinhead" : { "order" : 36, "item" : "penguinhead", "icon": "/bun_images/cs/penguin_head.png" },
+	"penguinchest" : { "order" : 37, "item" : "penguinchest", "icon": "/bun_images/cs/penguin_chest.png" },
+	"penguinlegs" : { "order" : 38, "item" : "penguinlegs", "icon": "/bun_images/cs/penguin_legs.png" },
+
+	"pilothead" : { "order" : 39, "item" : "pilothead", "icon": "/bun_images/cs/pilot_head.png" },
+	"pilotchest" : { "order" : 40, "item" : "pilotchest", "icon": "/bun_images/cs/pilot_chest.png" },
+	"pilotlegs" : { "order" : 41, "item" : "pilotlegs", "icon": "/bun_images/cs/pilot_legs.png" },
+	"pilotback" : { "order" : 42, "item" : "pilotback", "icon": "/bun_images/cs/pilot_back.png" },
+
+	"pixelherodemochest" : { "order" : 43, "item" : "pixelherodemochest", "icon": "/bun_images/cs/pixelhero_chest.png" },
+	"pixelherodemolegs" : { "order" : 44, "item" : "pixelherodemolegs", "icon": "/bun_images/cs/pixelhero_legs.png" },
+
+	"smartchest" : { "order" : 45, "item" : "smartchest", "icon": "/bun_images/cs/smart_chest.png" },
+	"smartpants" : { "order" : 46, "item" : "smartpants", "icon": "/bun_images/cs/smart_legs.png" },
+
+	"startrackchest" : { "order" : 47, "item" : "startrackchest", "icon": "/bun_images/cs/startrack_chest.png" },
+	"startracklegs" : { "order" : 48, "item" : "startracklegs", "icon": "/bun_images/cs/startrack_legs.png" },
+
+	"summerchest" : { "order" : 49, "item" : "summerchest", "icon": "/bun_images/cs/summer_chest.png" },
+	"summerpants" : { "order" : 50, "item" : "summerpants", "icon": "/bun_images/cs/summer_legs.png" },
+
+	"strapchest" : { "order" : 51, "item" : "strapchest", "icon": "/bun_images/cs/strap_chest.png" },
+	"straplegs" : { "order" : 52, "item" : "straplegs", "icon": "/bun_images/cs/strap_legs.png" },
+
+	"wedding2head" : { "order" : 53, "item" : "wedding2head", "icon": "/bun_images/cs/wedding2_head.png" },
+	"wedding2chest" : { "order" : 54, "item" : "wedding2chest", "icon": "/bun_images/cs/wedding2_chest.png" },
+	"wedding2legs" : { "order" : 55, "item" : "wedding2legs", "icon": "/bun_images/cs/wedding2_legs.png" },
+	"shirtchest" : { "order" : 56, "item" : "shirtchest", "icon": "/bun_images/cs/shirt_chest.png" }
+  
+	}
+}

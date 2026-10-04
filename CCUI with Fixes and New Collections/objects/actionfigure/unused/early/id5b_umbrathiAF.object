@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_umbrathiaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "umbrathiaf" },
+  "shortdescription" : "Umbrathi Figurine",
+  "description" : "The label reads, \"...todo?\"",
+
+  "inventoryIcon" : "superearly.png:5b_umbrathi",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:5b_umbrathi",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

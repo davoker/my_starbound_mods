@@ -1,0 +1,29 @@
+{
+  "itemName" : "candiedpearlpeas",
+  "rarity" : "uncommon",
+  "price" : 210,
+  "category" : "preparedFood",
+  "inventoryIcon" : "candiedpearlpeas.png",
+  "description" : "Pearlpeas that are roasted in sugar and shoved on a stick.",
+  "shortdescription" : "Candied Pearlpeas",
+  "collectablesOnPickup" : { "cooking" : "candiedpearlpeas"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 30,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

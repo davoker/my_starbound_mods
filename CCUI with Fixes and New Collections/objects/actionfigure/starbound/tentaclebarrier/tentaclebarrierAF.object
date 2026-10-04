@@ -1,0 +1,23 @@
+{
+  "objectName" : "nuggubs_tentaclebarrieraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "tentaclebarrieraf" },
+  "shortdescription" : "Ruin Tentacle Figurine",
+  "description" : "The label reads, \"An action figure based on the tentacles that attacked Earth. Don't get any funny ideas.\"",
+
+  "felinDescription" : "Ehehehe. I'm getting funny ideas~",
+  "nekoDescription" : "Aww, a cute lil tentacle figure. This one's going- uh... straight to my personal collection...",
+
+  "inventoryIcon" : "tentaclebarrieraf.png",
+  "orientations" : [
+    {
+      "dualImage" : "tentaclebarrieraf.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

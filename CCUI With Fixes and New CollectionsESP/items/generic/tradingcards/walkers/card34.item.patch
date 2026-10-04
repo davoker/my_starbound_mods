@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "El Nutmidgeling rey es el único cuya mata de pelo en la cabeza no ha sido pisoteada hasta la muerte."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#34 Nutmidgeling rey"
+  }
+]

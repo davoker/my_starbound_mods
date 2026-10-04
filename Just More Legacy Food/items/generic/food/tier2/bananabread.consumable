@@ -1,0 +1,37 @@
+{
+  "itemName" : "bananabread",
+  "rarity" : "Uncommon",
+  "price" : 260,
+  "category" : "preparedFood",
+  "inventoryIcon" : "bananabread.png",
+  "description" : "Moist, delicous banana bread.",
+  "shortdescription" : "Banana Bread",
+  "collectablesOnPickup" : { "cooking" : "bananabread"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 360
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 360
+    },
+	{
+		"effect" : "runboostfood",
+		"duration" : 60
+	},
+	{
+        "effect" : "regeneration2",
+        "duration" : 60
+    }
+  ] ],
+  "foodValue" : 250,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

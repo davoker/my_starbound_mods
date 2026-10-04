@@ -1,0 +1,116 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 50
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 70
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 90
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 110
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 130
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 150
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -70
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -90
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -110
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -130
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -150
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -170
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -190
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 2,
+      "distribution": "/biomes/distributions.config:rareClumpyLarge",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 15,
+      "treeStemList": [
+        "cactusold"
+      ],
+      "treeFoliageList": [
+        "cactusflowers2",
+        "bigflowers2",
+        "cactusoldempty"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 3,
+      "distribution": "/biomes/distributions.config:rareClumpyLarge",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 15,
+      "treeStemList": [
+        "barren",
+        "skeletal"
+      ],
+      "treeFoliageList": [
+        "autumny",
+        "patchy",
+        "piney",
+        "davoscorchedempty"
+      ]
+    }
+  }
+]

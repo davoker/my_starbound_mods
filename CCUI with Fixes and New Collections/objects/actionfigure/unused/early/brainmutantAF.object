@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_brainmutantaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "brainmutantaf" },
+  "shortdescription" : "Apex Brain Mutant Figurine",
+  "description" : "The label reads, \"The product of horrific experimentation.\"",
+
+  "inventoryIcon" : "unused.png:brainmutant",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:brainmutant",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

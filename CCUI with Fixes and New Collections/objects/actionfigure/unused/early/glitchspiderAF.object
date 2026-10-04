@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_glitchspideraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "glitchspideraf" },
+  "shortdescription" : "Mecharachnid Figurine",
+  "description" : "The label reads, \"A little too effecient at keeping pests out, they attack anything that enters their sewers.\"",
+
+  "inventoryIcon" : "unused.png:glitchspider",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:glitchspider",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

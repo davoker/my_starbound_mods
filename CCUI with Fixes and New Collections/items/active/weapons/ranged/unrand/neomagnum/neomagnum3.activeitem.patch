@@ -1,0 +1,4 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "lex_legendary" : "neomagnum3" }},
+	{"op": "replace", "path": "/inventoryIcon", "value": "neomagnum3.png"}
+]

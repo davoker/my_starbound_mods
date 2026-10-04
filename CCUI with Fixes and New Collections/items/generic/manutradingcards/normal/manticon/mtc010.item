@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc010",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc010" },
+  "inventoryIcon" : "mtc010.png",
+  "description" : "The now-discontinued M-12 Magma, sadly prone to overheating.",
+  "shortdescription" : "#10 Manticon M-12 Magma",
+  "largeImage" : "mtc010.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc010.png"
+}

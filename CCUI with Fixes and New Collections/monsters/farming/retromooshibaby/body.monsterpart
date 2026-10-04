@@ -1,0 +1,9 @@
+{
+  "name" : "retromooshibaby",
+  "category" : "retromooshibaby",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_rhinoxaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "rhinoxaf" },
+  "shortdescription" : "Rhinox Figurine",
+  "description" : "The label reads, \"An angry rhino creature wearing a mask.\"",
+
+  "inventoryIcon" : "superearly.png:11_rhino",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:11_rhino",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

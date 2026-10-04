@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbwarpaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbwarpaf" },
+  "shortdescription" : "Warp Virorb Figurine",
+  "description" : "The label reads, \"It uses its one big eye to see into the depths of the mind.\"",
+
+  "inventoryIcon" : "contest.png:virorbwarp",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbwarp",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+0   - bee		Giant Bee
+1   - boar		Space Boar / Battle Boar / Mother Boar
+2   - seagull		Seagull
+3   - cloud		"Cloud"
+4   - crab		Crab Critter
+5   - deer		Orinathi / Umbrathi / Reinathi / Zebrathi
+6   - fluffybear	Glooby
+7   - giantcrab		Giant Enemy Crab
+8   - jelly		Jelly Critter
+9   - lizardguy		"Lizard"
+10  - louse		Rollypolly
+11  - rhino		"Rhino"
+12  - sackcrab		Krabmikaze
+13  - silica		"Silica"
+14  - smallpig		Boarlet Critter
+15  - snail		Snail Critter
+16  - snakeguy		Boss Snake
+17  - spacehamster	Hamster
+18  - wheelguy		Wheely Droid
+19  - grubble		Wormonch
+20  - frog		Frog Critter
+21  - worm		Worm Critter
+
+300 - giant		(DEV) Giant
+301 - giantfluffybear	(DEV) Large Glooby
+302 - sonic		(DEV) Sonic

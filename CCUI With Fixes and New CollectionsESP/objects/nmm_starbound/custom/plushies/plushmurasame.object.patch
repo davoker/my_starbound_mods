@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Peluche de tiburón de hombre pez extraño. ...A Floran le gussta."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un popular y mimoso peluche con forma de tiburón, producido por el departamento de muebles de Letheia."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "En conflicto. Es muy tierno... pero se siente raro."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "¡Jadeo! ¿Un peluche de Murasame? ¡Qué blandito!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Una especie de almohada con forma de animal. Se ve rara."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Murasame"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Eh. Me gusta. Creo."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un peluche extraño."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Me está mirando de forma rara."
+  }
+]

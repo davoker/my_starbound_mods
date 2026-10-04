@@ -1,0 +1,95 @@
+{
+	"name": "geodes_collect",
+	"title": "Geode rewards",
+	"type": "item",
+	"collectables": {
+		"geodebluesample": {
+			"order": 1,
+			"item": "geodebluesample"
+		},
+		"geodegreensample": {
+			"order": 2,
+			"item": "geodegreensample"
+		},
+		"geodeorangesample": {
+			"order": 3,
+			"item": "geodeorangesample"
+		},
+		"geodepurplesample": {
+			"order": 4,
+			"item": "geodepurplesample"
+		},
+		"geoderedsample": {
+			"order": 5,
+			"item": "geoderedsample"
+		},
+		"geodeyellowsample": {
+			"order": 6,
+			"item": "geodeyellowsample"
+		},
+		"coalsample": {
+			"order": 7,
+			"item": "coalsample"
+		},
+		"ironsample": {
+			"order": 8,
+			"item": "ironsample"
+		},
+		"coppersample": {
+			"order": 9,
+			"item": "coppersample"
+		},
+		"silversample": {
+			"order": 10,
+			"item": "silversample"
+		},
+		"goldsample": {
+			"order": 11,
+			"item": "goldsample"
+		},
+		"corefragmentsample": {
+			"order": 12,
+			"item": "corefragmentsample"
+		},
+		"diamondsample": {
+			"order": 13,
+			"item": "diamondsample"
+		},
+		"erchiuscrystalsample": {
+			"order": 14,
+			"item": "erchiuscrystalsample"
+		},
+		"tungstensample": {
+			"order": 15,
+			"item": "tungstensample"
+		},
+		"titaniumsample": {
+			"order": 16,
+			"item": "titaniumsample"
+		},
+		"prisilitesample": {
+			"order": 17,
+			"item": "prisilitesample"
+		},
+		"durasteelsample": {
+			"order": 18,
+			"item": "durasteelsample"
+		},
+		"feroziumsample": {
+			"order": 19,
+			"item": "feroziumsample"
+		},
+		"aegisaltsample": {
+			"order": 20,
+			"item": "aegisaltsample"
+		},
+		"violiumsample": {
+			"order": 21,
+			"item": "violiumsample"
+		},
+		"solariumsample": {
+			"order": 22,
+			"item": "solariumsample"
+		}
+	}
+}

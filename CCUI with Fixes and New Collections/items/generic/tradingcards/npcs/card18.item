@@ -1,0 +1,13 @@
+{
+  "itemName" : "card18",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card18" },
+  "inventoryIcon" : "card18.png",
+  "description" : "This place is selling counterfeit ship licenses.",
+  "shortdescription" : "#18 Penguin Bay",
+  "largeImage" : "card18.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card18.png"
+}

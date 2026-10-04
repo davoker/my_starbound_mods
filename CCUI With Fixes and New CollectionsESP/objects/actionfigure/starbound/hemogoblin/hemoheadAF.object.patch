@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"La mitad delantera de un Hemogoblin puede moverse de forma independiente, pero sigue siendo solo la mitad de un monstruo\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Cabeza de Hemogoblin"
+  }
+]

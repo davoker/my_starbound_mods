@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "card21", "count" : 1 },
+    { "item" : "card22", "count" : 1 },
+    { "item" : "card23", "count" : 1 },
+    { "item" : "card24", "count" : 1 },
+    { "item" : "card25", "count" : 1 },
+    { "item" : "card26", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "retromooshiegg",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

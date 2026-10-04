@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Las largas patas le permiten quedarse de pie en el agua para atrapar peces."
+  }
+]

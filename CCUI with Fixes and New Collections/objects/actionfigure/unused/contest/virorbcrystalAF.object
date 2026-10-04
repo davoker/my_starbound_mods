@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_virorbcrystalaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbcrystalaf" },
+  "shortdescription" : "Crystal Virorb Figurine",
+  "description" : "The label reads, \"Their gooey coat has crystallised from spending so much time deep underground.\"",
+
+  "inventoryIcon" : "contest.png:virorbcrystal",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbcrystal",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

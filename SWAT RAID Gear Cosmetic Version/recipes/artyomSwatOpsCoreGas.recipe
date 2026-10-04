@@ -1,0 +1,12 @@
+{
+	"input" : [
+    { "item" : "cottonwool", "count" : 1 },
+	{ "item" : "glass", "count" : 1 },
+    { "item" : "syntheticmaterial", "count" : 1 },
+	{ "item" : "string", "count" : 3 },
+    { "item" : "canvas", "count" : 3 },
+    { "item" : "titaniumbar", "count" : 5 }
+	],
+	"output" : { "item" : "artyomSwatOpsCoreGas", "count" : 1 },
+	"groups" : [ "craftingwheel", "swatraid" ]
+}

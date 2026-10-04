@@ -1,0 +1,72 @@
+[
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -20
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -140
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -160
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 20
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 140
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 160
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/11/variants",
+    "value": 3
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11/treeFoliageList/-",
+    "value": "bubbles"
+  }
+]

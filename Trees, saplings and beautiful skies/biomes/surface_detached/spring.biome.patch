@@ -1,0 +1,69 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/2/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/2/treeFoliageHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/2/treeStemList/0",
+    "value": "davomagictreestem"
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/2/treeFoliageList/0",
+    "value": "davomagictreefoliage"
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/3/variants",
+    "value": 3
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/3/treeStemList/-",
+    "value": "pine"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/3/treeFoliageList/-",
+    "value": "redleaves"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/4",
+    "value": {
+      "mode": "floor",
+      "priority": 2,
+      "variants": 3,
+      "distribution": "/biomes/distributions.config:denseLarge",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 15,
+      "treeStemList": [
+        "roottree",
+        "something"
+      ],
+      "treeFoliageList": [
+        "orangeflower",
+        "leafy",
+        "scraggy"
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/7/bushes/0/baseHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/7/bushes/0/modHueShiftMax",
+    "value": 180
+  }
+]

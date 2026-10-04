@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Se esconde en grietas y rincones oscuros, atacando rápidamente a presas desprevenidas que se acercan\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Swarpion"
+  }
+]

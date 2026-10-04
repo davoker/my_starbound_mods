@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Por la noche, todo lo que se puede ver del anglure es su luz."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_omnicannonaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "omnicannonaf" },
+  "shortdescription" : "Omnicannon Figurine",
+  "description" : "The label reads, \"A hivemind of worm-like parasites interwoven into an old energy cannon.\"",
+
+  "inventoryIcon" : "omnicannonAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "omnicannonAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

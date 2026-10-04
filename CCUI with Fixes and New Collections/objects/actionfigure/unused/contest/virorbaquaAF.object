@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbaquaaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbaquaaf" },
+  "shortdescription" : "Aqua Virorb Figurine",
+  "description" : "The label reads, \"If it catches you, it'll try to drag you down to the depths, and won't let go.\"",
+
+  "inventoryIcon" : "contest.png:virorbaqua",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbaqua",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "objectName" : "nuggubs_bigapeprojectorhaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "bigapeprojectorhaf" },
+  "shortdescription" : "Miniknog Projector Figurine",
+  "description" : "The label reads, \"A tiny replica of the projector used to display the hologram of Big Ape.\"",
+  "inventoryIcon" : "bigapeprojectorAF.png:left",
+  "orientations" : [
+    {
+      "image" : "bigapeprojectorAF.png:left",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "bigapeprojectorAF.png:right",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

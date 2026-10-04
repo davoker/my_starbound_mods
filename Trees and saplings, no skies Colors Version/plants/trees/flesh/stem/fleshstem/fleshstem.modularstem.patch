@@ -1,0 +1,31 @@
+[
+  {
+    "op": "replace",
+    "path": "/middleMaxSize",
+    "value": 4
+  },
+  {
+    "op": "add",
+    "path": "/crown/crown4",
+    "value": {
+      "image": "crown4.png",
+      "attachment": {
+        "bx": -76,
+        "by": -24
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/middle/middle5",
+    "value": {
+      "image": "middle5.png",
+      "attachment": {
+        "bx": -2,
+        "by": 0,
+        "x": 2,
+        "y": 18
+      }
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Debido a sus ojos sensibles, prefiere los lugares oscuros, como las cuevas."
+  }
+]

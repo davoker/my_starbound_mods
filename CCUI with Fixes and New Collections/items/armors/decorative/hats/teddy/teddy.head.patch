@@ -1,0 +1,3 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "seyjin_plushies" : "teddyhead", "bun_hat" : "teddyhead" }}
+]

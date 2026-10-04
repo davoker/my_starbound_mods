@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_swarpionaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "swarpionaf" },
+  "shortdescription" : "Swarpion Figurine",
+  "description" : "The label reads, \"It hides in dark cracks and corners, quickly striking unassuming prey which wanders near.\"",
+
+  "inventoryIcon" : "swarpionAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "swarpionAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

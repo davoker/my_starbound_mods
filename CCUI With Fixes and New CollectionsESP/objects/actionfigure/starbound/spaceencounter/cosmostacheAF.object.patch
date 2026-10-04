@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Una forma de vida biomecánica irritable. Cuanto más grandes son sus bigotes, más viejos son\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Cosmostache"
+  }
+]

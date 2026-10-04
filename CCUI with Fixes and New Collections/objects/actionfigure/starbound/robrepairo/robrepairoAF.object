@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_robrepairoaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "robrepairoaf" },
+  "shortdescription" : "Rob Repairo Figurine",
+  "description" : "The label reads, \"A mechanical merchant who repairs lost or broken vehicles.\"",
+
+  "inventoryIcon" : "robrepairoAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "robrepairoAF.png",
+      "imagePosition" : [-2, 0],
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

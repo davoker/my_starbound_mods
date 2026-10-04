@@ -1,0 +1,29 @@
+{
+  "objectName" : "nuggubs_drillbuttaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "drillbuttaf" },
+  "shortdescription" : "Drillbutt Figurine",
+  "description" : "The label reads, \"Does such a creature exist?\"",
+// Sort of... Drillbutt's original color combination doesn't really exist anymore. But the body does, it's:
+// - "basic" body
+// - "bladed" head
+// - "paw" arms
+// - "drill" tail
+// There aren't any color combinations even really close to red/blue...
+// But, I think I found the color set in Angry Koala, colors.config, set 8.
+
+  "inventoryIcon" : "drillbuttAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "drillbuttAF.png",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

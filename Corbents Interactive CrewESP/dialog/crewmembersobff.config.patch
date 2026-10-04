@@ -1,0 +1,117 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/0",
+    "value": "Te debo mucho, amigo mío. Espero poder devolverte el favor con el tiempo."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/1",
+    "value": "Me has dado a probar la verdadera libertad. Por ello, siempre te estaré agradecido."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/2",
+    "value": "Veo que tienes una tarea que atender. Por favor, regresa rápido y seguro."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "¿Encontraremos pronto un nuevo destino entre las estrellas? ¡Aún queda mucho por ver!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/1",
+    "value": "Volar entre las estrellas contigo a mi lado... ¡Es todo lo que podría soñar!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/2",
+    "value": "Si necesitas que me quede aquí, está bien, pero te extrañaré hasta que regreses."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/0",
+    "value": "<selfname> esstá feliz de tener un compañero de caza tan fuerte."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/1",
+    "value": "<selfname> todavía essstá aquí para ti."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/2",
+    "value": "¡Lleva a <selfname> de nuevo pronto! ¡La nave es demasssiado aburrida!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/0",
+    "value": "Asombrado. Todavía me resulta difícil creer que pueda viajar por las estrellas contigo."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/1",
+    "value": "Emocionado. ¡Intentemos ayudar hoy a más gente!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/2",
+    "value": "Cauteloso. Vigilaré la nave después de que te vayas, pero por favor ten cuidado mientras estés fuera."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "¡Estamos realmente volando juntos a través del espacio en una aventura! ¡Casi no puedo creerlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "¿Con qué clase de problemas nos encontraremos ahora? ¡Espero que sean piratas espaciales!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "He soñado que encontraba una cafetera escondida en uno de los paneles de la pared. ¡Si la encuentro, te traeré una taza!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "No te preocupes, te mantendré a salvo mientras estemos en tierra."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "¡Cuando regreses, tienes que contarme todo lo que viste allí abajo!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/0",
+    "value": "¿Has notado los haikus en algunas de mis frases? ¡Los he estado escribiendo para ti!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/1",
+    "value": "Me inspiras tanto - ¡que espero poder devolverte el favor siempre que sea posible!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/2",
+    "value": "Cuando regreses, estaré aquí para ayudarte en tus empresas."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/0",
+    "value": "¡Creo que he estado brillando un poco más desde que me trajiste a bordo, compañero!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/1",
+    "value": "Lo curioso de estas botas, compañero, es que están hechas para caminar. ¡Y eso es exactamente lo que harán!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/2",
+    "value": "¡Vamos, compañero, estoy ansioso por un poco de acción! ¡La próxima vez llévame contigo!"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_RM01plush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushRM01" },
+  "race" : "generic",
+  "rarity" : "Uncommon",
+  "price" : 110,
+
+  "shortdescription" : "Bubbone Plushie",
+  "description" : "An odd, top-heavy plushie.",
+
+  "apexDescription" : "Do other people find this... cute? Because I find this grotesque.",
+  "avianDescription" : "He's got quite the head on him, doesn't he?",
+  "floranDescription" : "Silly plushie has big, ssstupid head.",
+  "glitchDescription" : "Panicked. I don't have anything to say!",
+  "humanDescription" : "It kinda looks like a Glitch... if it were, like, organic.",
+  "hylotlDescription" : "Heehee, this guy.",
+  "novakidDescription" : "What's up with the big head?",
+  "felinDescription" : "Big ass head.",
+  "nekoDescription" : "He looks silly!",
+  "avaliDescription" : "It's certainly, um, a plushie.",
+  "slimepersonDescription" : "Uh.",
+  "nekiDescription" : "Dumb looking plushie.",
+
+  "inventoryIcon" : "icons.png:RM01",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x24.png:RM01",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

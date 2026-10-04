@@ -1,0 +1,13 @@
+{
+  "itemName" : "card53",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card53" },
+  "inventoryIcon" : "card53.png",
+  "description" : "It brews a toxic paste in its pod made from fermented fruit.",
+  "shortdescription" : "#53 Pteropod",
+  "largeImage" : "card53.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card53.png"
+}

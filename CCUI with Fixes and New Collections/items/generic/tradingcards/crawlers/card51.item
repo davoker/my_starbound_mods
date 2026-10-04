@@ -1,0 +1,13 @@
+{
+  "itemName" : "card51",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card51" },
+  "inventoryIcon" : "card51.png",
+  "description" : "It's unpleasant to look at. It's also unpleasant when it looks at you.",
+  "shortdescription" : "#51 Oculob",
+  "largeImage" : "card51.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card51.png"
+}

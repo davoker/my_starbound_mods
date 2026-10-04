@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Una buena fuente de células estáticas."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#22 Fluffalo eléctrico"
+  }
+]

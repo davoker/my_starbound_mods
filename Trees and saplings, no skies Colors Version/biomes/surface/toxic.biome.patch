@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/2/variants",
+    "value": 2
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/2/treeStemList/-",
+    "value": "davograsstree"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/2/treeFoliageList/-",
+    "value": "davobluebell"
+  }
+]

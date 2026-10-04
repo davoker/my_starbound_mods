@@ -1,0 +1,13 @@
+{
+  "itemName" : "card82",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card82" },
+  "inventoryIcon" : "card82.png",
+  "description" : "Its lightweight body flows in the direction of the wind.",
+  "shortdescription" : "#82 Skimbus",
+  "largeImage" : "card82.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card82.png"
+}

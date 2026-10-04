@@ -1,0 +1,13 @@
+{
+  "itemName" : "card06",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card06" },
+  "inventoryIcon" : "card06.png",
+  "description" : "The leader of an Apex Rebellion against The Miniknog.",
+  "shortdescription" : "#06 Lana Blake",
+  "largeImage" : "card06.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card06.png"
+}

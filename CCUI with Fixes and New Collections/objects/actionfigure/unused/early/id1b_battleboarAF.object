@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_battleboaraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "battleboaraf" },
+  "shortdescription" : "Battle Boar Figurine",
+  "description" : "The label reads, \"Angrier boar.\"",
+
+
+  "inventoryIcon" : "superearly.png:1b_battleboar",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:1b_battleboar",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

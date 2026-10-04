@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rootpopflask", "count" : 2 },
+	{ "item" : "bottle", "count" : 1 }
+  ],
+  "output" : { "item" : "dandelionpopbottle", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

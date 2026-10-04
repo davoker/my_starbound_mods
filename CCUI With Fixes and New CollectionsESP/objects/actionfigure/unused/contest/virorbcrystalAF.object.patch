@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Su pegajoso pelaje se ha cristalizado por pasar tanto tiempo en las profundidades subterráneas\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb de cristal"
+  }
+]

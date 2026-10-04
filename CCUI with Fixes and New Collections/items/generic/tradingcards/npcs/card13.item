@@ -1,0 +1,13 @@
+{
+  "itemName" : "card13",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card13" },
+  "inventoryIcon" : "card13.png",
+  "description" : "This shop offers personal teleporters in a variety of styles.",
+  "shortdescription" : "#13 2 Stop Teleshop",
+  "largeImage" : "card13.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card13.png"
+}

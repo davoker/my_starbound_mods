@@ -1,0 +1,13 @@
+{
+  "itemName" : "card79",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card79" },
+  "inventoryIcon" : "card79.png",
+  "description" : "Some believe Wispers are lost spirits. At night their glow can lead explorers astray.",
+  "shortdescription" : "#79 Wisper",
+  "largeImage" : "card79.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card79.png"
+}

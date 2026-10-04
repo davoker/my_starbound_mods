@@ -1,0 +1,13 @@
+{
+  "itemName" : "card66",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card66" },
+  "inventoryIcon" : "card66.png",
+  "description" : "It's actually covered in red skin, but it's still pretty gross.",
+  "shortdescription" : "#66 Hemogoblin",
+  "largeImage" : "card66.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card66.png"
+}

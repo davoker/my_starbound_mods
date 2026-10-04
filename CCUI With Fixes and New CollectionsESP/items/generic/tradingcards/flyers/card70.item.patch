@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "El androide escáner está en una búsqueda interminable. Nadie sabe de qué."
+  }
+]

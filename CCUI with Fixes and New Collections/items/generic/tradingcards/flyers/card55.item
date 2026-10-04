@@ -1,0 +1,13 @@
+{
+  "itemName" : "card55",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card55" },
+  "inventoryIcon" : "card55.png",
+  "description" : "Due to its sensitive eyes it prefers dark settings, like caves.",
+  "shortdescription" : "#55 Agrobat",
+  "largeImage" : "card55.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card55.png"
+}

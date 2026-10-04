@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/1",
+    "value": {
+      "mode": "floor",
+      "priority": 2,
+      "variants": 3,
+      "distribution": "/biomes/distributions.config:rare",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 0,
+      "treeStemHueShiftMax": 15,
+      "treeStemList": [
+        "davoashy",
+        "davocoal",
+        "davocrispy"
+      ],
+      "treeFoliageList": [
+        "grey",
+        "davoscorchedempty"
+      ]
+    }
+  }
+]

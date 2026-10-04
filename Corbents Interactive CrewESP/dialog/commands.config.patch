@@ -1,0 +1,347 @@
+[
+  {
+    "op": "replace",
+    "path": "/setTarget/default/default/0",
+    "value": "Me encargaré de ello."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/default/default/1",
+    "value": "No hay problema."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/default/default/2",
+    "value": "¡Entendido!"
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/default/default/3",
+    "value": "¡Lo tengo!"
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/floran/default/0",
+    "value": "¡A Floran le encanta la emoción!"
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/floran/default/1",
+    "value": "¡Deliciossso..."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/floran/default/2",
+    "value": "¡Esssto será una buena cacería!"
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/glitch/default/0",
+    "value": "Cauteloso. Evaluando el entorno."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/glitch/default/1",
+    "value": "Amenazador. Buscar y destruir."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/glitch/default/2",
+    "value": "Dudoso. ¿Eso es todo?"
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/glitch/default/3",
+    "value": "Indiferente. Seguiremos adelante."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/novakid/default/0",
+    "value": "Has tenido tu última oportunidad, compañero."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/novakid/default/1",
+    "value": "Todo por un puñado de píxeles."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/novakid/default/2",
+    "value": "A eso le llamo un 'farol'."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/novakid/default/3",
+    "value": "Aquí es donde te retiras, amigo."
+  },
+  {
+    "op": "replace",
+    "path": "/setTarget/novakid/default/4",
+    "value": "Supongo que tú eres el feo, entonces."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/0",
+    "value": "Mantendré esta posición."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/1",
+    "value": "¡Aseguraré esta zona, capitán!."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/2",
+    "value": "Haciendo guardia, capitán."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/3",
+    "value": "¿Necesitas que me quede aquí?"
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/4",
+    "value": "¡Entonces es mi deber hacer guardia!"
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/default/default/5",
+    "value": "¡Manteniendo la posición!"
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/floran/default/0",
+    "value": "¿Floran no debe moverse de essste lugar?"
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/floran/default/1",
+    "value": "Floran asssegura área."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/floran/default/2",
+    "value": "Floran sse quedará en cassso de que venga comida..."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/glitch/default/0",
+    "value": "Obediente. Me quedaré inmóvil, entonces."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/glitch/default/1",
+    "value": "Paciente. Puedo mantener esta posición, capitán."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/glitch/default/2",
+    "value": "Amistoso. Aseguraré esta área para usted, capitán."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/glitch/default/3",
+    "value": "De acuerdo. Buscando amenazas."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/penguin/default/0",
+    "value": "Entonces estaré por aquí... De pie..."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/penguin/default/1",
+    "value": "De acuerdo, jefe, aseguraré esta zona."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/penguin/default/2",
+    "value": "Puedo esperar aquí toooodo el día."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/penguin/default/3",
+    "value": "Me quedaré por aquí y vigilaré las posibles amenazas."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/novakid/default/0",
+    "value": "De acuerdo, compañero, me mantendré firme aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/novakid/default/1",
+    "value": "Puedo esperar aquí, buscando problemas..."
+  },
+  {
+    "op": "replace",
+    "path": "/holdPosition/novakid/default/2",
+    "value": "Me quedaré por aquí por si aparecen bribones."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/default/default/0",
+    "value": "Gracias, supongo que tomaré un descanso."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/default/default/1",
+    "value": "Tomémonos un minuto para relajarnos."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/default/default/2",
+    "value": "Suena bien."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/floran/default/0",
+    "value": "Floran ahora tiene algo de dessscanso."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/floran/default/1",
+    "value": "Floran essstá feliz de obedecer."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/glitch/default/0",
+    "value": "Obediente. Descansaré ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/glitch/default/1",
+    "value": "Paciente. Me sentaré y esperaré por ti."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/glitch/default/2",
+    "value": "Amigable. ¿Descansarás también?"
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/glitch/default/3",
+    "value": "Agradable. Sí, descansar suena bien."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/penguin/default/0",
+    "value": "Estaré relajándome..."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/penguin/default/1",
+    "value": "De acuerdo, jefe, tomaré un descanso."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/penguin/default/2",
+    "value": "Puedo estar todo el día aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/penguin/default/3",
+    "value": "Me quedaré por aquí de momento."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/novakid/default/0",
+    "value": "De acuerdo, compañero, pienso lo mismo."
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/novakid/default/1",
+    "value": "¡No te preocupes!"
+  },
+  {
+    "op": "replace",
+    "path": "/lounge/novakid/default/2",
+    "value": "Me alegra que estés de acuerdo, compañero."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/0",
+    "value": "Lo haré."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/1",
+    "value": "Claro."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/2",
+    "value": "Dame un segundo."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/3",
+    "value": "Lo haré por ti."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/4",
+    "value": "No hay problema."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/5",
+    "value": "Está bien."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/default/default/6",
+    "value": "Espera un momento..."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/floran/default/0",
+    "value": "A Floran le gusstan las cosas brillantesss."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/floran/default/1",
+    "value": "Sí"
+  },
+  {
+    "op": "replace",
+    "path": "/operate/floran/default/2",
+    "value": "Claro"
+  },
+  {
+    "op": "replace",
+    "path": "/operate/floran/default/3",
+    "value": "¿Qué hace?"
+  },
+  {
+    "op": "replace",
+    "path": "/operate/floran/default/4",
+    "value": "Bonito"
+  },
+  {
+    "op": "replace",
+    "path": "/operate/glitch/default/0",
+    "value": "Obediente. ¡Inmediatamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/operate/glitch/default/1",
+    "value": "Intrigado. Activando dispositivo."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/glitch/default/2",
+    "value": "Neutral. Entendido."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/glitch/default/3",
+    "value": "Agradable. Interfaz en marcha."
+  },
+  {
+    "op": "replace",
+    "path": "/operate/glitch/default/4",
+    "value": "Intrigado. Veamos."
+  }
+]

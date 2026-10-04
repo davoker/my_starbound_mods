@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbtoxicaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbtoxicaf" },
+  "shortdescription" : "Toxic Virorb Figurine",
+  "description" : "The label reads, \"This Virorb's gooey coat is so corrosive, that even it itself has been digested by it.\"",
+
+  "inventoryIcon" : "contest.png:virorbtoxic",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbtoxic",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

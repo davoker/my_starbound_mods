@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbfireaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbfireaf" },
+  "shortdescription" : "Fire Virorb Figurine",
+  "description" : "The label reads, \"These Virorbs hang out on hot planets, and also appear during meteor showers.\"",
+
+  "inventoryIcon" : "contest.png:virorbfire",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbfire",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

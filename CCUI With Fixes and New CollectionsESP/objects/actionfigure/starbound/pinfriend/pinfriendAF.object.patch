@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Este perro es ferozmente leal a su dueño. ¡Le encantan los abrazos y que le froten la barriga!\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Pinfriend"
+  }
+]

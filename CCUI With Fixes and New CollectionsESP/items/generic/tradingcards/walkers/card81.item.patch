@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Los cuernos del Ringram comienzan a crecer desde que nacen y nunca se detienen."
+  }
+]

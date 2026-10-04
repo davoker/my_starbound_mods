@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "'Compré esta cosa esperando que produjera lápidas. Lo que hace en realidad es mucho más genial.' - Cliente satisfecho"
+  }
+]

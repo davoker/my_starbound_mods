@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Es enorme..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#28 Poptop adulto"
+  }
+]

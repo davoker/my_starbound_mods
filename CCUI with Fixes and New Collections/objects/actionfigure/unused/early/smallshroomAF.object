@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_smallshroomaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "smallshroomaf" },
+  "shortdescription" : "Small Shroom Figurine",
+  "description" : "The label reads, \"Weird little mushroom creatures. Agarans like to keep them as pets.\"",
+
+  "inventoryIcon" : "unused.png:smallshroom",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:smallshroom",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

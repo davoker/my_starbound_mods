@@ -1,0 +1,175 @@
+{
+	"name": "accelerator_armor",
+	"title": "Accelerator Armor",
+	"type": "item",
+	"collectables": {
+		"apextier5ahead": {
+			"order": 1,
+			"item": "apextier5ahead"
+		},
+		"apextier5achest": {
+			"order": 2,
+			"item": "apextier5achest"
+		},
+		"apextier5apants": {
+			"order": 3,
+			"item": "apextier5apants"
+		},
+		"aviantier5ahead": {
+			"order": 4,
+			"item": "aviantier5ahead"
+		},
+		"aviantier5achest": {
+			"order": 5,
+			"item": "aviantier5achest"
+		},
+		"aviantier5apants": {
+			"order": 6,
+			"item": "aviantier5apants"
+		},
+		"florantier5ahead": {
+			"order": 7,
+			"item": "florantier5ahead"
+		},
+		"florantier5achest": {
+			"order": 8,
+			"item": "florantier5achest"
+		},
+		"florantier5apants": {
+			"order": 9,
+			"item": "florantier5apants"
+		},
+		"glitchtier5ahead": {
+			"order": 10,
+			"item": "glitchtier5ahead"
+		},
+		"glitchtier5achest": {
+			"order": 11,
+			"item": "glitchtier5achest"
+		},
+		"glitchtier5apants": {
+			"order": 12,
+			"item": "glitchtier5apants"
+		},
+		"humantier5ahead": {
+			"order": 13,
+			"item": "humantier5ahead"
+		},
+		"humantier5achest": {
+			"order": 14,
+			"item": "humantier5achest"
+		},
+		"humantier5apants": {
+			"order": 15,
+			"item": "humantier5apants"
+		},
+		"hylotltier5ahead": {
+			"order": 16,
+			"item": "hylotltier5ahead"
+		},
+		"hylotltier5achest": {
+			"order": 17,
+			"item": "hylotltier5achest"
+		},
+		"hylotltier5apants": {
+			"order": 18,
+			"item": "hylotltier5apants"
+		},
+		"novatier5ahead": {
+			"order": 19,
+			"item": "novatier5ahead"
+		},
+		"novatier5achest": {
+			"order": 20,
+			"item": "novatier5achest"
+		},
+		"novatier5apants": {
+			"order": 21,
+			"item": "novatier5apants"
+		},
+		"apextier6ahead": {
+			"order": 22,
+			"item": "apextier6ahead"
+		},
+		"apextier6achest": {
+			"order": 23,
+			"item": "apextier6achest"
+		},
+		"apextier6apants": {
+			"order": 24,
+			"item": "apextier6apants"
+		},
+		"aviantier6ahead": {
+			"order": 25,
+			"item": "aviantier6ahead"
+		},
+		"aviantier6achest": {
+			"order": 26,
+			"item": "aviantier6achest"
+		},
+		"aviantier6apants": {
+			"order": 27,
+			"item": "aviantier6apants"
+		},
+		"florantier6ahead": {
+			"order": 28,
+			"item": "florantier6ahead"
+		},
+		"florantier6achest": {
+			"order": 29,
+			"item": "florantier6achest"
+		},
+		"florantier6apants": {
+			"order": 30,
+			"item": "florantier6apants"
+		},
+		"glitchtier6ahead": {
+			"order": 31,
+			"item": "glitchtier6ahead"
+		},
+		"glitchtier6achest": {
+			"order": 32,
+			"item": "glitchtier6achest"
+		},
+		"glitchtier6apants": {
+			"order": 33,
+			"item": "glitchtier6apants"
+		},
+		"humantier6ahead": {
+			"order": 34,
+			"item": "humantier6ahead"
+		},
+		"humantier6achest": {
+			"order": 35,
+			"item": "humantier6achest"
+		},
+		"humantier6apants": {
+			"order": 36,
+			"item": "humantier6apants"
+		},
+		"hylotltier6ahead": {
+			"order": 37,
+			"item": "hylotltier6ahead"
+		},
+		"hylotltier6achest": {
+			"order": 38,
+			"item": "hylotltier6achest"
+		},
+		"hylotltier6apants": {
+			"order": 39,
+			"item": "hylotltier6apants"
+		},
+		"novatier6ahead": {
+			"order": 40,
+			"item": "novatier6ahead"
+		},
+		"novatier6achest": {
+			"order": 41,
+			"item": "novatier6achest"
+		},
+		"novatier6apants": {
+			"order": 42,
+			"item": "novatier6apants"
+		}
+	}
+}

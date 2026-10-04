@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Cuando le 'shlorpea' la cabeza a alguien, produce un olor que tiende a hacer hostiles a los insectos cercanos\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb de flora"
+  }
+]

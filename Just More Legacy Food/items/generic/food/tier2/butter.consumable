@@ -1,0 +1,30 @@
+{
+  "itemName" : "butter",
+  "rarity" : "common",
+  "price" : 35,
+  "category" : "preparedFood",
+  "inventoryIcon" : "butter.png",
+  "description" : "For making everything less healthy and more awesome.",
+  "shortdescription" : "Butter",
+  "collectablesOnPickup" : { "cooking" : "butter"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 80
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "toffee" ]
+}

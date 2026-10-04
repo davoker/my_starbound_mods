@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_goombaaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "goombaaf" },
+  "description" : "The label reads, \"Goombas, notoriously the weakest and most squishable of Bowser's underlings.\"",
+  "shortdescription" : "Goomba Figurine",
+
+  "inventoryIcon" : "goombaAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "goombaAF.png",
+      "imagePosition" : [-2, 0],
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

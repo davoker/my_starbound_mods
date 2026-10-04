@@ -1,0 +1,22 @@
+{
+  "name" : "bun_cah",
+  "title" : "^#FFF699;Create-A-Hat Contest Hat",
+  "type" : "item",
+  
+   "collectables" : {	
+    	"boxmanhathead" : { "order" : 1, "item" : "boxmanhathead", "icon": "/bun_images/cah/boxmanhathead.png" },
+    	"carrothathead" : { "order" : 2, "item" : "carrothathead", "icon": "/bun_images/cah/carrothathead.png" },
+	"causticstaghead" : { "order" : 3, "item" : "causticstaghead", "icon": "/bun_images/cah/causticstaghead.png" },
+	"corobocklehead" : { "order" : 4, "item" : "corobocklehead", "icon": "/bun_images/cah/corobocklehead.png" },
+	"faceleechhead" : { "order" : 5, "item" : "faceleechhead", "icon": "/bun_images/cah/faceleechhead.png" },
+	"pinkeyeparasitehead" : { "order" : 6, "item" : "pinkeyeparasitehead", "icon": "/bun_images/cah/pinkeyeparasitehead.png" },
+	"scalpionhead" : { "order" : 7, "item" : "scalpionhead", "icon": "/bun_images/cah/scalpionhead.png" },
+	"sensorysquidhathead" : { "order" : 8, "item" : "sensorysquidhathead", "icon": "/bun_images/cah/sensorysquidhathead.png" },
+	"steampunkhead" : { "order" : 9, "item" : "steampunkhead", "icon": "/bun_images/cah/steampunkhead.png" },
+	"thinkingcaphead" : { "order" : 10, "item" : "thinkingcaphead", "icon": "/bun_images/cah/thinkingcaphead.png"}
+
+	
+
+  
+	}
+}

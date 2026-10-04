@@ -1,0 +1,218 @@
+[
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog/crewmember/roleDescription",
+		"value": {
+			"default": {
+				"default": [
+					"Te ofrezco mis servicios como médico de combate."
+				]
+			},
+			"floran": {
+				"default": [
+					"Floran te ayudará a curar heridass mientrasss cazass."
+				]
+			},
+			"glitch": {
+				"default": [
+					"Amigable. Ofrezco servicios médicos en el campo de batalla."
+				]
+			},
+			"novakid": {
+				"default": [
+					"Soy un médico certificado... ¡Es broma, pero igualmente puedo curarte, colega!"
+				]
+			}
+		}
+	},
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog/crewmember/offer",
+		"value": {
+			"default": {
+				"default": [
+					"Te ofrezco mis servicios como médico de combate."
+				]
+			},
+			"floran": {
+				"default": [
+					"Floran te ayudará a curar heridass mientrasss cazass."
+				]
+			},
+			"glitch": {
+				"default": [
+					"Amigable. Ofrezco servicios médicos en el campo de batalla."
+				]
+			},
+			"novakid": {
+				"default": [
+					"Soy un médico certificado... ¡Es broma, pero igualmente puedo curarte, compañero!"
+				]
+			}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "¡Parece que podrías necesitar algo de ayuda!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "¡Creo que necesitas mi ayuda!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "¡Puedo atenderte! ¡Ven a mí lado, rápido!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "¡No te muevas y te ayudaré!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "Mantente en el sitio..."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "No te preocupes, cuidaré de ti."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/-",
+		"value": "¡Proporcionando atención médica!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/-",
+		"value": "¡Floran puede curar tus heridasss!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/-",
+		"value": "Cacería difícil, deja que Floran cure tuss heridasss."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/-",
+		"value": "Floran te tiene cubierto."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/-",
+		"value": "Optimista. Esto te devolverá a la lucha."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/-",
+		"value": "Calmado. Esto restaurará tu condición física."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/-",
+		"value": "Intrigado. Administrando ayuda. ¿Estarás bien?"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/-",
+		"value": "Servicial. Permíteme tratar tus heridas."
+	},
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog/crewmember/fieldBenefit/novakid",
+		"value": {
+			"default": [
+				"Aquí, te coseré de nuevo, colega.",
+				"Parece que tienes heridas serias. Déjame ayudarte.",
+				"Aquí, colega, esto debería arreglarte.",
+				"Espera, colega, necesitas atención médica."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "¡Parece que necesitas algo de ayuda!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "¡Veo que podrías necesitar mi ayuda!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "¡Puedo ayudarte! ¡Ven a mí, rápido!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "¡No te muevas y te atenderé!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "Mantente donde estás..."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "No tengas miedo, yo cuidaré de ti."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/-",
+		"value": "¡Administrando atención médica!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/-",
+		"value": "¡Floran curará tuss puñaladasss!"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/-",
+		"value": "Pressa complicada, deja que Floran antienda tuss heridasss."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/-",
+		"value": "Floran te mantendrá a sssalvo."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/-",
+		"value": "Optimista. Esto te mantendrá en la pelea."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/-",
+		"value": "Calmado. Esto te devolverá a tu condición óptima."
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/-",
+		"value": "Intrigado. Suministrando ayuda. ¿Todo bien?"
+	},
+	{
+		"op": "add",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/-",
+		"value": "Servicial. Déjame atender tus heridas."
+	},
+	{
+		"op": "replace",
+		"path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid",
+		"value": {
+			"default": [
+				"Ven, te coseré las heridas de nuevo, colega.",
+				"Parece que tienes heridas graves. Déjame ayudarte.",
+				"Ven aquí, deja que te arregle, colega.",
+				"QUieto ahí, colega, requieres de atención médica."
+			]
+		}
+	}
+]

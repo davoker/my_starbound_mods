@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_cleanerbotaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "cleanerbotaf" },
+  "shortdescription" : "Cleaner Bot Figurine",
+  "description" : "The label reads, \"Long ago, space cats used to ride these babies for miles.\"",
+
+
+  "inventoryIcon" : "unused.png:cleanerbot",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:cleanerbot",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

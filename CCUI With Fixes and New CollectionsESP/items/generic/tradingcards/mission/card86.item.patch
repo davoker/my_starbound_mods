@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Si sobrevive por 200 años, podría convertirse en un Ixodoom."
+  }
+]

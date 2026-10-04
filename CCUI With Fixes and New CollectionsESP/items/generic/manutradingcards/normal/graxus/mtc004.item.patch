@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un rifle de francotirador explosivo de Graxus. ¿Por qué solo fabrican armas explosivas?"
+  }
+]

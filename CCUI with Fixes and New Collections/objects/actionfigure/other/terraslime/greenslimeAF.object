@@ -1,0 +1,21 @@
+{
+  "objectName" : "nuggubs_greenslimeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "greenslimeaf" },
+  "description" : "The label reads, \"Simple, gelatinous creatures that swallow anything whole!\"",
+  "shortdescription" : "Green Slime Figurine",
+
+  "inventoryIcon" : "greenslimeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "greenslimeAF.png",
+      "imagePosition" : [-2, 0],
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

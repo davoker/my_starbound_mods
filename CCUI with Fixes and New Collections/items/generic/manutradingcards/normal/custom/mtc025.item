@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc025",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc025" },
+  "inventoryIcon" : "mtc025.png",
+  "description" : "It's old, but still works great!",
+  "shortdescription" : "#25 Custom Relicshot",
+  "largeImage" : "mtc025.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc025.png"
+}

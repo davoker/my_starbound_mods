@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Algunos creen que los Wispers son espíritus perdidos. Por la noche, su brillo puede extraviar a los exploradores."
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "'¡Devuelve a tus enemigos al vacío de donde vinieron!' - Material promocional de Manticon"
+  }
+]

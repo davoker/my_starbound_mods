@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un negocio familiar. Vende minerales refinados para la fabricación."
+  }
+]

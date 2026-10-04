@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_virorblarvaaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorblarvaaf" },
+  "shortdescription" : "Virorb Larva Figurine",
+  "description" : "The label reads, \"When they aren't chasing people, they sort of just crawl around like slugs.\"",
+
+  "inventoryIcon" : "contest.png:virorblarva",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorblarva",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

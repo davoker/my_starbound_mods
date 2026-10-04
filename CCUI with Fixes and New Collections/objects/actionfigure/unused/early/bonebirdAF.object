@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_bonebirdaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "bonebirdaf" },
+  "shortdescription" : "Bone Bird Figurine",
+  "description" : "The label reads, \"A terrifying winged creature born from reanimated remains.\"",
+
+  "inventoryIcon" : "unused.png:bonebird",
+  "orientations" : [
+    {
+      "dualImage" : "unused.png:bonebird",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

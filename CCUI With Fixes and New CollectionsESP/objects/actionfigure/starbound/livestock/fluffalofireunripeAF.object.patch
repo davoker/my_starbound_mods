@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Los cuerpos de los Fluffalos de fuego son muy cálidos. Eso es todo\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Fluffalo de fuego"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_reinathiaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "reinathiaf" },
+  "shortdescription" : "Reinathi Figurine",
+  "description" : "The label reads, \"...todo?\"",
+
+  "inventoryIcon" : "superearly.png:5c_reinathi",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:5c_reinathi",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

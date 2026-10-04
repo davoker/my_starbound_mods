@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_slugfrogaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "slugfrogaf" },
+  "shortdescription" : "Slugfrog Figurine",
+  "description" : "The label reads, \"mlep. I think that's the sound it would make.\"",
+
+  "inventoryIcon" : "superearly.png:slugfrog",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:slugfrog",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Explota cada vez que conoce a alguien nuevo. Nadie sabe cómo no se han extinguido ya\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Spinemine"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "itemName" : "boosterpack",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 100,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "Use this to open it and reveal its contents. How exciting!",
+  "shortdescription" : "Booster Pack",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "boosterpack.png",
+  "animation" : "boosterpack.animation",
+  "animationCustom" : {},
+  "scripts" : ["boosterpack.lua"],
+
+  "fireTime" : 0.5,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "boosterpackTreasure",
+    "level" : 1
+  }
+}

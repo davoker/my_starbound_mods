@@ -1,0 +1,19 @@
+{
+  "objectName" : "nuggubs_fluffalopoisonaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffalopoisonaf" },
+  "shortdescription" : "Poison Fluffalo Figurine",
+  "description" : "The label reads, \"A poison Fluffalo. Its fluff is dripping wet with venom just waiting to be collected.\"",
+  "inventoryIcon" : "fluffalopoisonAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffalopoisonAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

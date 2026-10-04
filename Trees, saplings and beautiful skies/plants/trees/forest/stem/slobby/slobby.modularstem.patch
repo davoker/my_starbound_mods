@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/crown/crown4",
+    "value": {
+      "image": "crown4.png",
+      "attachment": {
+        "bx": -84,
+        "by": -20
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/crown/crown5",
+    "value": {
+      "image": "crown5.png",
+      "attachment": {
+        "bx": -84,
+        "by": -20
+      }
+    }
+  }
+]

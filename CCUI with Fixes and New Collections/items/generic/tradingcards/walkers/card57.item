@@ -1,0 +1,13 @@
+{
+  "itemName" : "card57",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card57" },
+  "inventoryIcon" : "card57.png",
+  "description" : "Sometimes when chasing its own tail it can accidentally set itself on fire.",
+  "shortdescription" : "#57 Fennix",
+  "largeImage" : "card57.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card57.png"
+}

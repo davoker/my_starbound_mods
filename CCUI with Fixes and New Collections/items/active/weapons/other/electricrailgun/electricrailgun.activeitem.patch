@@ -1,0 +1,4 @@
+[
+	{"op": "add", "path": "/collectablesOnPickup", "value": { "lex_legendary" : "electricrailgun" }},
+	{"op": "replace", "path": "/inventoryIcon", "value": "electricrailgun.png:idle.1"}
+]

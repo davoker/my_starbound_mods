@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc026",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc026" },
+  "inventoryIcon" : "mtc026.png",
+  "description" : "An unorthodox but strangely fitting name for an assault rifle.",
+  "shortdescription" : "#26 Custom 'Betsy'",
+  "largeImage" : "mtc026.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc026.png"
+}

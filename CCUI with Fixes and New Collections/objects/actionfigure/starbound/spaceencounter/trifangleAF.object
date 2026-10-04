@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_trifangleaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "trifangleaf" },
+  "shortdescription" : "Trifangle Figurine",
+  "description" : "The label reads, \"They do have individual personalities - they're just all uniquely angry.\"",
+
+  "inventoryIcon" : "trifangleAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "trifangleAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

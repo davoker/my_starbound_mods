@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_fluffalofireunripeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "fluffalofireunripeaf" },
+  "shortdescription" : "Fire Fluffalo Figurine",
+  "description" : "The label reads, \"Fire Fluffalos bodies are so warm. That is all.\"",
+
+  "inventoryIcon" : "fluffalofireunripeAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "fluffalofireunripeAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

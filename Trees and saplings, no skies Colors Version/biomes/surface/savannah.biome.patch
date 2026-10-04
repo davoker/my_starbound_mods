@@ -1,0 +1,218 @@
+[
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/11",
+    "value": {
+      "mode": "floor",
+      "priority": 1,
+      "variants": 3,
+      "distribution": "/biomes/distributions.config:rare",
+      "type": "tree",
+      "treeFoliageHueShiftMax": 180,
+      "treeStemHueShiftMax": 180,
+      "treeStemList": [
+        "savannahbleak",
+        "savannahgloomy"
+      ],
+      "treeFoliageList": [
+        "thorns",
+		"squarish"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 20
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 50
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": 70
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -10
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -20
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -30
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -40
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -50
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/-",
+    "value": -70
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundPlaceables/items/7/bushes/0/baseHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundPlaceables/items/7/bushes/0/modHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/8/bushes/0/baseHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/8/bushes/0/modHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/9/bushes/0/baseHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/9/bushes/0/modHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundPlaceables/items/4/treeFoliageHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundPlaceables/items/4/treeStemHueShiftMax",
+    "value": 60
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/10/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/10/treeFoliageHueShiftMax",
+    "value": 180
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/10/treeStemHueShiftMax",
+    "value": 60
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "baobab"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "bleak"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "gloomy"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "murky"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "savah"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "slabby"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeStemList/-",
+    "value": "spiked"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "baobab"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "bonky"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "circly"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "spikeyfoliage"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "burly"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "flat"
+  },
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "savannahbloom"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_rollypollyaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "rollypollyaf" },
+  "shortdescription" : "Rollypolly Figurine",
+  "description" : "The label reads, \"It's like a giant pill bug.\"",
+
+  "inventoryIcon" : "superearly.png:10_louse",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:10_louse",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

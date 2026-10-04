@@ -1,0 +1,8 @@
+[{
+		"op": "add",
+		"path": "/collectablesOnPickup",
+		"value": {
+			"accelerator_armor": "apextier6apants"
+		}
+	}
+]

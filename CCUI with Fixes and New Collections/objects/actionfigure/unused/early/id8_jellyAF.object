@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_jellycritteraf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "jellycritteraf" },
+  "shortdescription" : "Jelly Critter Figurine",
+  "description" : "The label reads, \"A cute little jelly critter. There's no way one could wield a gun.\"",
+
+  "inventoryIcon" : "superearly.png:8_jelly",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:8_jelly",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

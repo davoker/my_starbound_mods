@@ -1,0 +1,29 @@
+{
+  "itemName" : "sweettime",
+  "rarity" : "rare",
+  "price" : 450,
+  "category" : "preparedFood",
+  "inventoryIcon" : "sweettime.png",
+  "description" : "A sweet oculemon tart topped with diodia shavings. It's... unconventional.",
+  "shortdescription" : "Sweet Time",
+  "collectablesOnPickup" : { "cooking" : "sweettime"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 340
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 340
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

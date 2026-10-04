@@ -1,0 +1,13 @@
+{
+  "itemName" : "card09",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card09" },
+  "inventoryIcon" : "card09.png",
+  "description" : "Sells vehicles and auto chips to repair them.",
+  "shortdescription" : "#09 Penguin Pete",
+  "largeImage" : "card09.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card09.png"
+}

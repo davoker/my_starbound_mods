@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc003",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc003" },
+  "inventoryIcon" : "mtc003.png",
+  "description" : "It'll maul limbs, cars, houses, small cities...",
+  "shortdescription" : "#3 Rotik Limbmaul",
+  "largeImage" : "mtc003.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc003.png"
+}

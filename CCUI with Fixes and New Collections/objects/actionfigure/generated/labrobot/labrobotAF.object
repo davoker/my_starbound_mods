@@ -1,0 +1,23 @@
+{
+  "objectName" : "nuggubs_labrobotaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "labrobotaf" },
+  "shortdescription" : "Apex Lab Robot Figurine",
+  "description" : "The label reads, \"These robots were once used in Apex laboratories before involuntary testing was instated.\"",
+// Huh, well, as it turns out, the robot appears to be made from randomly generated parts, as there used to be randomly generated robots (or were planned to be).
+
+  "inventoryIcon" : "labrobotaf.png",
+  "orientations" : [
+    {
+      "dualImage" : "labrobotaf.png",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

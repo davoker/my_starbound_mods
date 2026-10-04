@@ -1,0 +1,13 @@
+{
+  "itemName" : "card46",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card46" },
+  "inventoryIcon" : "card46.png",
+  "description" : "It prefers warm and moist climates where it'll grow quicker.",
+  "shortdescription" : "#46 Sporgus",
+  "largeImage" : "card46.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card46.png"
+}

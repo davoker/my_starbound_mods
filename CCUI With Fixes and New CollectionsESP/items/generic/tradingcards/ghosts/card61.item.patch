@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Se sienten atraídos por el combustible de erchius. Cuanto más tienes, más te persiguen."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "#61 Fantasma de erchius"
+  }
+]

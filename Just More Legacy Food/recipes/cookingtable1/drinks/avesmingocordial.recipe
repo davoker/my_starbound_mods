@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avesmingo", "count" : 1 },
+	{ "item" : "grapes", "count" : 1 }
+  ],
+  "output" : { "item" : "avesmingocordial", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

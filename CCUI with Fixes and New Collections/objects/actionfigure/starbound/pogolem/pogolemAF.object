@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_pogolemaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "pogolemaf" },
+  "shortdescription" : "Po Golem Figurine",
+  "description" : "The label reads, \"A heaping mound of refuse, walking under its own power.\"",
+
+  "inventoryIcon" : "pogolemAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "pogolemAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "A Floran no le gussta el gran perro humeante."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de Smoglin blandito."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "En conflicto. Realmente no me gustan los Smoglin, pero este peluche es muy tierno."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Es un peluche muy abrazable..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "No le veo el sentido a esto."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Smoglin"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Supongo que los Smoglin podrían ser lindos..."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Por qué alguien crearía esto está más allá de mi comprensión."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Huelen raro. Pero este peluche es un poco lindo."
+  }
+]

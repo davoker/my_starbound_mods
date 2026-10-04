@@ -1,0 +1,19 @@
+{
+  "itemName" : "meatchunks",
+  "rarity" : "Common",
+  "price" : 20,
+  "category" : "food",
+  "inventoryIcon" : "meatchunks.png",
+  "description" : "Chunks of pulverized meat. A little overcooked.",
+  "shortdescription" : "Meat Chunks",
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.5,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "meatandmarrow", "revoltingstew" ]
+}

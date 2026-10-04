@@ -1,0 +1,120 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog",
+    "value": {
+      "crewmember": {
+        "offer": {
+          "default": {
+            "default": [
+              "¡Mi especialidad es acelerar las cosas!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te ayudará a correr realmente rápido!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Amigable. ¡Ofrezco pociones para tus aspiraciones de alcanzar largas distancias!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Sin tiempo que perder, colega! Puedo ayudarte cuando tengas prisa."
+            ]
+          }
+        },
+        "roleDescription": {
+          "default": {
+            "default": [
+              "¡Mi especialidad es acelerar las cosas!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te ayudará a correr realmente rápido!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Amigable. ¡Ofrezco pociones para tus aspiraciones de alcanzar largas distancias!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Sin tiempo que perder, colega! Puedo ayudarte cuando tengas prisa."
+            ]
+          }
+        },
+        "fieldBenefit": {
+          "default": {
+            "default": [
+              "¡Hora de correr como locos!",
+              "¡En sus marcas, listos, fuera!",
+              "Vas a ser mucho más veloz con esto.",
+              "¡Potenciador metabólico inyectado!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran te lleva muy lejosss ahora!",
+              "¡Floran tiene una inyección verde para ti!",
+              "¡Floran te ayuda a correr máss!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Entusiasta. ¡Te ayudaré a llegar muy lejos!",
+              "Emocionado. ¡Esto mejorará tu impulso de carrera!",
+              "Intrigado. ¿Te gustaría correr más rápido?",
+              "Servicial. ¡Administrando potenciador metabólico!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Corre como el viento, colega!",
+              "Parece que te vendría bien algo de... esto verde...",
+              "¡Hora de una buena carrera!",
+              "¡Con esto no necesitas caballos!"
+            ]
+          }
+        },
+        "combatBenefit": {
+          "default": {
+            "default": [
+              "¡Hora de correr como descosidos!",
+              "¡En sus marcas, listos...! ¿Quien tiene tiempo para eso? ¡a correr!",
+              "Vas a ser realmente rápido con esta cosita.",
+              "¡Potenciador metabólico administrado!"
+            ]
+          },
+          "floran": {
+            "default": [
+              "¡Floran hará que lleguesss lejoss ahora!",
+              "¡Floran tiene una aguja verde lisssta para ti!",
+              "¡Floran te ayudará a correr como nunca!"
+            ]
+          },
+          "glitch": {
+            "default": [
+              "Entusiasta. ¡Te ayudaré a llegar donde nunca antes!",
+              "Emocionado. ¡Esto mejorará tu velocidad notablemente!",
+              "Intrigado. ¿Quieres correr como nunca pensaste que lo harías?",
+              "Servicial. ¡Proporcionando potenciador metabólico!"
+            ]
+          },
+          "novakid": {
+            "default": [
+              "¡Corre a toda mecha, colega!",
+              "Parece que podría ayudarte usar esta... cosa verde...",
+              "¡Hora de un sprint rápido!",
+              "¿¡Quien necesita caballos!?"
+            ]
+          }
+        }
+      }
+    }
+  }
+]

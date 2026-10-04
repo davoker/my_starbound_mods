@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Las afiladas púas pueden penetrar cualquier bota espacial."
+  }
+]

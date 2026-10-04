@@ -1,0 +1,97 @@
+{
+  "itemName" : "commonassaultrifleamw8",
+  "price" : 900,
+  "maxStack" : 1,
+  "rarity" : "common",
+  "description" : "A fully automatic, military grade rifle.",
+  "shortdescription" : "Common Assault Rifle",
+  "tooltipKind" : "gun",
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "level" : 1,
+
+  "animation" : "/items/active/weapons/ranged/gunamw.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
+  "baseOffset" : [-1.5, 0.05],
+  "muzzleOffset" : [-0.8, 0.5],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : [0.11, 0.18],
+    "baseDps" : [9, 10],
+    "energyUsage" : [27, 30],
+    "inaccuracy" : 0.02,
+
+    "burstTime" : 0.075,
+    "burstCount" : [2,4],
+    "fireType" : ["auto", "burst"],
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "knockbackRange" : [4,8]
+    },
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "weaponOffset" : [-0.2, 0],
+        "duration" : 0,
+        "armRotation" : -4,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "weaponOffset" : [-0.2, 0],
+        "duration" : 0.11,
+        "armRotation" : -4,
+        "weaponRotation" : 8,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+  "fireSounds" : [ "/sfx/gun/ar1.ogg", "/sfx/gun/ar2.ogg", "/sfx/gun/ar3.ogg", "/sfx/gun/ar4.ogg", "/sfx/gun/ar5.ogg", "/sfx/gun/ar6.ogg" ],
+
+  "builder" : "/items/buildscripts/buildweapon.lua",
+  "builderConfig" : [{
+    "nameGenerator" : "amwassaultnames.config:nameGen",
+    "animationParts" : {
+      "middle" : {
+        "path" : "/items/active/weapons/ranged/assaultrifleamw8/middle/<variant>.png",
+        "variants" : 3,
+        "paletteSwap" : false
+      },
+      "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
+    },
+    "gunParts" : ["middle"],
+    "altAbilities" : [
+      "explosiveshot",
+      "bouncingshot",
+      "flashlight",
+      "grenadelauncher",
+      "spray"
+    ],
+    "palette" : "/items/active/weapons/ranged/colors/amwranged.weaponcolors",
+    "iconDrawables" : ["middle"]
+  }]
+}

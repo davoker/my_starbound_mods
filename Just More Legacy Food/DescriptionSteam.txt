@@ -1,0 +1,73 @@
+[h1]Description, or something like this[/h1]
+Indeed, another mod for restoring food.
+
+There's not much to say here. I did this because existing 'legacy food' mods (among others like them) are either less comprehensive or outdated and don't work properly. I wanted functional legacy food for my personal use, so I'm just sharing it because, well, why not?
+
+[h1]Content[/h1]
+- 53 new (but 'old') foods (I refuse to list them all, discover them yourself (☞ﾟヮﾟ)☞ )
+
+- Out of the 53 foods, 50 have been added to the existing [b]'Cooking' collection[/b], ranging from 151 (including that) to 200. The remaining 3 foods belong to the 'campfire' category, and these foods aren't added to the collection list, unlike the existing ones.
+
+- Some materials and consumables have been added to the [b]'Infinity Express' store[/b] as an additional option to obtain requirements for certain recipes, similar to some existing options. For instance, the store sells 'red apple', milk, etc. This follows the same pattern. The list includes:
+[list]
+[*]Green Apple
+[*]Orange
+[*]Candy (also craftable with cooking)
+[*]Lollypop (also craftable with cooking)
+[*]Meat Balls (also craftable with cooking)
+[*]Veggie Soup (also craftable with cooking)[/list]
+
+- Some recipe requirement materials have been added to procedural loot:
+[list]
+[*]Green Apple -> Sold by some NPCs or found as loot.
+[*]Orange -> Same as above.
+[*]Rawham -> Dropped by monsters (with 'hunting' weapons) that have 'four legs' (the big ones) occasionally or sold by a Floran vendor who sells meats.
+[*]Flesh Lump -> Dropped by certain types of monsters or sold by a Floran vendor who sells meats.[/list]
+
+All of this has been added (restored) to the procedural system of the game to provide an alternative way to obtain materials required for certain recipes.
+
+- Each race now knows '5 default recipes', as it used to work before. I've restored the 5 recipes for each race. The Novakid race didn't have this option, so I've introduced them to 5 somewhat "spicy" recipes, as I believe it suits them best.
+
+[h3]- Fluffalo Cupcakes:[/h3]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[img]https://i.imgur.com/W9iZo3D.png[/img][img]https://i.imgur.com/MReH9bE.png[/img][img]https://i.imgur.com/Nwsd5gn.png[/img][img]https://i.imgur.com/WCwGq6c.png[/img][img]https://i.imgur.com/ZY3K0gK.png[/img]
+
+[list][*]Out of the 53 foods, there are 5 that used to be 'Fluffalo foods,' not meant for player consumption. These were used to feed Baby Fluffalos and evolve them into specific types based on the food given. One simply matured them, while the others turned the Fluffalos into 'fire,' 'ice,' 'electric,' and 'poison' adult types.
+
+[*]Now, they're 5 cupcakes, exquisite trompe l'oeil for every palate, each with its own effects. Discover them for yourself; they're not cheap to make, crafted in sets of 3 for that reason.
+
+[*]Oh, I almost forgot to mention, to learn the recipe, you need to buy... why not guess that yourself too? Eat them, monster (╯‵□′)╯︵┻━┻[/list]
+
+- A couple of surprises.
+
+[h1]Compatibility[/h1]
+You probably already have a mod that teaches you the recipe for 'cooked tentacle' when you obtain a 'raw tentacle.' That recipe directly conflicts with another recipe in this mod, which is learned upon obtaining the 'raw tentacle.' In other words, with this mod, you'll learn two recipes involving the 'raw tentacle.' If you already have the mentioned recipe, you might not be able to learn the other due to a conflict in the loading order.
+
+To check if it works well for you, drop a 'raw tentacle' on the ground or purchase one. If you don't learn any new recipe, you have the conflict. If this is the case, you can easily fix it:
+[list]
+[*]Unpack the mod that contains the 'rawtentacle.consumable.patch' file.
+[*]Open it; you should see the code that teaches you the 'Cooked Tentacle' recipe. Delete everything and replace it with this:
+
+[code]
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "cookedtentacle",
+      "corntent"
+    ]
+  }
+][/code]
+
+[*]This patch modifies the file, allowing you to know both the previous recipe and the new one from this mod.[/list]
+
+PS: There is a better way to patch this problem in my own mod file (with the [b]test[/b] command in the code), but I'm not sure how it's done, if anyone wants to help me with that I'll stop killing fluffy kittens today in your honor.
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+- I won't give myself credits because I'm too handsome, I don't need them (☞ﾟヮﾟ)☞
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

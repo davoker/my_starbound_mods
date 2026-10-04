@@ -1,0 +1,13 @@
+{
+  "itemName" : "card37",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card37" },
+  "inventoryIcon" : "card37.png",
+  "description" : "Because of the size of its head in proportion to its body, it can't run long distances.",
+  "shortdescription" : "#37 Peblit",
+  "largeImage" : "card37.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card37.png"
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "nuggubs_fennixplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushfennix" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 110,
+
+  "shortdescription" : "Fennix Plushie",
+  "description" : "A fluffy little Fennix plushie.",
+
+  "apexDescription" : "They're cute, but I can't get over the fact they singe my hair every time I get too close.",
+  "avianDescription" : "They're pretty cute.",
+  "floranDescription" : "Floran disslikes fire fox.",
+  "glitchDescription" : "Unsettled. I don't really like Fennixes. They're notorious crop burners.",
+  "humanDescription" : "I think I'd like them a lot more if they didn't try to burn me.",
+  "hylotlDescription" : "It's so cute! I need it!",
+  "novakidDescription" : "I'm a ball o' fire, an' one o' these buggers burned ME. Don't get it. Nothin' makes sense anymore.",
+  "felinDescription" : "Nope. Not a fan at all.",
+  "nekoDescription" : "Aww, a cute little Fennix!",
+  "avaliDescription" : "I think I'm meant to say something here.",
+
+  "inventoryIcon" : "icons.png:fennix",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:fennix",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

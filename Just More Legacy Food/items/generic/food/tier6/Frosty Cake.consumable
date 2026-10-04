@@ -1,0 +1,38 @@
+{
+  "itemName" : "frostycake",
+  "rarity" : "legendary",
+  "price" : 1500,
+  "category" : "preparedFood",
+  "inventoryIcon" : "frostycake.png",
+  "description" : "Formerly food for Fluffalos, now versioned in a culinary delicacy for gourmets with the most exquisite palates.",
+  "shortdescription" : "Frosty Cake",
+  "collectablesOnPickup" : { "cooking" : "frostycake"},
+  "radioMessagesOnPickup" : [ "pickupfrostycake" ],
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "ragefood",
+        "duration" : 180
+    },
+    {
+        "effect" : "frostslow",
+        "duration" : 15
+    }
+  ] ],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/1",
+    "value": -160
+  },
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/2",
+    "value": -140
+  },
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/3",
+    "value": -120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/4",
+    "value": -100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/5",
+    "value": -80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/6",
+    "value": -60
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/7",
+    "value": -30
+  },
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/9",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/10",
+    "value": 60
+  },
+  {
+    "op": "replace",
+    "path": "/hueShiftOptions/11",
+    "value": 80
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/12",
+    "value": 100
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/13",
+    "value": 120
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/14",
+    "value": 140
+  },
+  {
+    "op": "add",
+    "path": "/hueShiftOptions/15",
+    "value": 160
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/10/variants",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/surfacePlaceables/items/10/treeStemHueShiftMax",
+    "value": 180
+  }
+]

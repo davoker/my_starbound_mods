@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Hace mucho tiempo, los gatos espaciales solían montar estas cosas por kilómetros\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Robot limpiador"
+  }
+]

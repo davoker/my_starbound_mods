@@ -1,0 +1,13 @@
+{
+  "itemName" : "card56",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card56" },
+  "inventoryIcon" : "card56.png",
+  "description" : "It's always on edge. It walks sideways and erupts at the slightest confrontation.",
+  "shortdescription" : "#56 Crabcano",
+  "largeImage" : "card56.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card56.png"
+}

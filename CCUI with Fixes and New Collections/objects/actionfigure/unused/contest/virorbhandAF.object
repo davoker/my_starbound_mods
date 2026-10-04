@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorbhandaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorbhandaf" },
+  "shortdescription" : "Hand Virorb Figurine",
+  "description" : "The label reads, \"A type of Virorb that likes to make hands useless.\"",
+
+  "inventoryIcon" : "contest.png:virorbhand",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorbhand",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

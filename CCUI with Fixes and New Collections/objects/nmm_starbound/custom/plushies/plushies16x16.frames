@@ -1,0 +1,16 @@
+{
+
+  "frameGrid" : {
+    "size" : [16, 16],
+    "dimensions" : [4, 7],
+    "names" : [
+      [ "chucklefish", "fennix", "gleap", "kasumi"],
+      [ "boncey", "slugfrog", "redpanda", "workchick"],
+      [ "glooby", "wormonch", "guardiandroid", "grimfang"],
+      [ "minoclo", "zoria", "msteddy", "smoglin" ],
+      [ "RM39", "drillbutt", "RM33", "petricub" ],
+      [ "ignome", "snuffish", "capricoat", "snaunt" ],
+      [ "snugget", "octuko", null, null ]
+    ]
+  }
+}

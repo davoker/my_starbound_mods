@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Extraño juguete de criatura pez me recuerda a hombre pez."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un peluche de un popular personaje Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Divertido. La criatura parece una bola de arroz Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "¡Yeeee! ¡Un peluche de Myao Nori! Lo admito, he querido uno durante mucho tiempo."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Una especie de juguete Hylotl raro."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Myao Nori"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "¿Es eso un dónut de mermelada?"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un peluche Hylotl novedoso. Es bastante blandito."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Es un peluche de un personaje Hylotl, y sí... vale, es bastante mono."
+  }
+]

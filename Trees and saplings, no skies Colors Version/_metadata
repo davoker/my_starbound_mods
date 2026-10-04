@@ -1,0 +1,10 @@
+{
+  "author" : "Davoker",
+  "description" : "On request, a version of my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971436218] Trees, saplings and beautiful skies[/url], in this version has been removed the part of the code that generates the random [b]sky colors[/b], nothing else, the rest is exactly the same mod, this has been done for compatibility issues with other mods that modify [b]/skyOptions[/b] in the biomes.\n\nTo know what the mod does, [b]please visit the original mod in the link here (link to top)[/b], where I explain in detail all its contents.\n\n[h1]Recommended MODs[/h1]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1487220181] Allow Parallax Transition\n[/url] -> Highly recommended to use it with this mod (although not necessary), the transition between biomes on the same planet feels better when the parallax (wallpaper) changes to a correct parallax for the new biome, the only side effect is a [b]small lag[/b] in the biome change when changing parallax, but this happens in the original game when we go down to the core and go back up, it happens in the microbiome changes that we find underground.\n\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2774848292] Corbent's Interactive Crew[/url]\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732808640&searchtext=smart+crew] Smart Crew[/url]\nNOTE: These 2 mods make a good team together, a lot of life to your crew.\n[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]\n\n[h1]Credits[/h1]\nFor me all the flowers (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧\n\n[hr][/hr]\n[b]Let what is yours be mine =)[/b] [url=https://ko-fi.com/davoker][img]https://i.imgur.com/kjAjE9t.png[/img][/url]",
+  "friendlyName" : "Trees and saplings, no skies Colors Version",
+  "link" : "steam://url/CommunityFilePage/2972929606",
+  "name" : "trees_saplings_no_skies",
+  "steamContentId" : "2972929606",
+  "tags" : "Miscellaneous|Planets and Environments|Food and Farming",
+  "version" : "1.0"
+}

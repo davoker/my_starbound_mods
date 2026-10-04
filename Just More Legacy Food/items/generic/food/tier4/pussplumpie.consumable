@@ -1,0 +1,30 @@
+{
+  "itemName" : "pussplumpie",
+  "rarity" : "rare",
+  "price" : 500,
+  "category" : "preparedFood",
+  "inventoryIcon" : "pussplumpie.png",
+  "description" : "A slice of pussplum pie. The smell is a little off-putting.",
+  "shortdescription" : "Pussplum Pie",
+  "collectablesOnPickup" : { "cooking" : "pussplumpie"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 420
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 420
+    }
+  ] ],
+  "foodValue" : 55,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "sweettime" ]
+}

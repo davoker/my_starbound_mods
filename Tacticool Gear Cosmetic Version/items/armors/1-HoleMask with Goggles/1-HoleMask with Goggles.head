@@ -1,0 +1,42 @@
+{
+  "itemName" : "artyom2maskGoggles",
+  "price" : 10000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "Maybe, some bad guys would love to use this mask.",
+  "shortdescription" : "1-Hole Mask with Goggles",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // DEFAULT
+    { "313131" : "313131", "212121" : "212121", "222222" : "222222", "4a4a4a" : "4a4a4a" },
+    // BLACK
+    { "313131" : "313131", "212121" : "212121", "222222" : "222222", "4a4a4a" : "4a4a4a" },
+    // GREY
+    { "313131" : "b5b5b5", "212121" : "808080", "222222" : "555555", "4a4a4a" : "b5b5b5" },
+    // WHITE
+    { "313131" : "e6e6e6", "212121" : "b6b6b6", "222222" : "7b7b7b", "4a4a4a" : "e6e6e6" },
+    // RED
+    { "313131" : "f4988c", "212121" : "d93a3a", "222222" : "932625", "4a4a4a" : "f4988c" },
+    // ORANGE
+    { "313131" : "ffd495", "212121" : "ea9931", "222222" : "af4e00", "4a4a4a" : "ffd495" },
+    // YELLOW
+    { "313131" : "ffffa7", "212121" : "e2c344", "222222" : "a46e06", "4a4a4a" : "ffffa7" },
+    // GREEN
+    { "313131" : "b2e89d", "212121" : "51bd3b", "222222" : "247824", "4a4a4a" : "b2e89d" },
+    // BLUE
+    { "313131" : "96cbe7", "212121" : "5588d4", "222222" : "344495", "4a4a4a" : "96cbe7" },
+    // PURPLE
+    { "313131" : "d29ce7", "212121" : "a451c4", "222222" : "6a2284", "4a4a4a" : "d29ce7" },
+    // PINK
+    { "313131" : "eab3db", "212121" : "d35eae", "222222" : "97276d", "4a4a4a" : "eab3db" },
+    // BROWN
+    { "313131" : "ccae7c", "212121" : "a47844", "222222" : "754c23", "4a4a4a" : "ccae7c" }
+  ]
+}

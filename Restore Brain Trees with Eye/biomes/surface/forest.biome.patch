@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/surfacePlaceables/items/10/treeFoliageList/-",
+    "value": "brains"
+  }
+]

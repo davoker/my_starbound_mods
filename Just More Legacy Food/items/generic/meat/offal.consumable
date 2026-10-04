@@ -1,0 +1,19 @@
+{
+  "itemName" : "offal",
+  "rarity" : "Common",
+  "price" : 80,
+  "category" : "preparedFood",
+  "inventoryIcon" : "offal.png",
+  "description" : "All the scraps that most people won't touch. Good, if you can get past the texture.",
+  "shortdescription" : "Offal",
+  "collectablesOnPickup" : { "cooking" : "offal"},
+  "foodValue" : 50,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.5,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "itemName" : "chilistew",
+  "rarity" : "Rare",
+  "price" : 320,
+  "category" : "preparedFood",
+  "inventoryIcon" : "chilistew.png",
+  "description" : "A delicious beefy chili. Spicy!",
+  "shortdescription" : "Chili Stew",
+  "collectablesOnPickup" : { "cooking" : "chilistew"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 300
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 300
+    },
+	{
+        "effect" : "nova",
+        "duration" : 120
+    },
+    {
+        "effect" : "burning",
+        "duration" : 5
+    }
+  ] ],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

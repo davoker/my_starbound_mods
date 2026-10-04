@@ -1,0 +1,33 @@
+{
+  "name" : "bun_brh",
+  "title" : "^#FFD199;Backer Reward Hats",
+  "type" : "item",
+  
+   "collectables" : {
+
+	"afrowighead" : { "order" : 1, "item" : "afrowighead", "icon": "/bun_images/brh/afrowig_head.png" },
+    	"coolshadeshead" : { "order" : 2, "item" : "coolshadeshead", "icon": "/bun_images/brh/coolshades_head.png" },
+    	"demonhornshead" : { "order" : 3, "item" : "demonhornshead", "icon": "/bun_images/brh/demonhorns_head.png" },
+    	"doghathead" : { "order" : 4, "item" : "doghathead", "icon": "/bun_images/brh/doghat_head.png" },
+    	"dreadfulskullhead" : { "order" : 5, "item" : "dreadfulskullhead", "icon": "/bun_images/brh/dreadfulskull_head.png" },
+    	"electroniumhat" : { "order" : 6, "item" : "electroniumhat", "icon": "/bun_images/brh/electroniumhat_head.png" },
+    	"fancaphead" : { "order" : 7, "item" : "fancaphead", "icon": "/bun_images/brh/fancap_head.png" },
+    	"giantbowhead" : { "order" : 8, "item" : "giantbowhead", "icon": "/bun_images/brh/giantbow_head.png" },
+    	"plaguemasterhead" : { "order" : 9, "item" : "plaguemasterhead", "icon": "/bun_images/brh/plaguemaster_head.png" },   
+    	"hottophathead" : { "order" : 10, "item" : "hottophathead", "icon": "/bun_images/brh/hothat_head.png" },
+    	"meercaphead" : { "order" : 11, "item" : "meercaphead", "icon": "/bun_images/brh/meercap_head.png" },
+    	"monitorhead" : { "order" : 12, "item" : "monitorhead", "icon": "/bun_images/brh/monitorhead_head.png" },
+    	"mughathead" : { "order" : 13, "item" : "mughathead", "icon": "/bun_images/brh/mughat_head.png" },
+    	"multicamhat" : { "order" : 14, "item" : "multicamhat", "icon": "/bun_images/brh/multicamhat_head.png" },
+    	"phoenixhat" : { "order" : 15, "item" : "phoenixhat", "icon": "/bun_images/brh/phoenixhat_head.png" },
+    	"plumeknighthead" : { "order" : 16, "item" : "plumeknighthead", "icon": "/bun_images/brh/plumeknight_head.png" },
+    	"rustyskul" : { "order" : 17, "item" : "rustyskul", "icon": "/bun_images/brh/rustyskul_head.png" },
+    	"soulguise" : { "order" : 18, "item" : "soulguise", "icon": "/bun_images/brh/soulguise_head.png" },
+    	"stargazer" : { "order" : 19, "item" : "stargazer", "icon": "/bun_images/brh/stargazer_head.png" },
+    	"thehrodgardhead" : { "order" : 20, "item" : "thehrodgardhead", "icon": "/bun_images/brh/thehrodgard_head.png" },
+    	"tricornhat" : { "order" : 21, "item" : "tricornhat", "icon": "/bun_images/brh/tricornhat_head.png" },
+    	"uncathat" : { "order" : 22, "item" : "uncathat", "icon": "/bun_images/brh/uncathat_head.png" },
+    	"valkyriehelm" : { "order" : 23, "item" : "valkyriehelm", "icon": "/bun_images/brh/valkyriehelm_head.png" }
+
+	}
+}

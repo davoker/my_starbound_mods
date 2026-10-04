@@ -1,0 +1,13 @@
+{
+  "itemName" : "card78",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card78" },
+  "inventoryIcon" : "card78.png",
+  "description" : "It has a sticky texture that allows it to climb surfaces with ease.",
+  "shortdescription" : "#78 Pulpin",
+  "largeImage" : "card78.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card78.png"
+}

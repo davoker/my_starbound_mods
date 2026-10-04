@@ -1,0 +1,35 @@
+{
+  "itemName" : "rootpopflask",
+  "rarity" : "common",
+  "price" : 30,
+  "category" : "drink",
+  "inventoryIcon" : "rootpopflask.png",
+  "description" : "A flask of dandelion root pop.",
+  "shortdescription" : "Root Pop Flask",
+  "collectablesOnPickup" : { "cooking" : "rootpopflask"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 60
+    },
+	{
+		"effect" : "runboostfood",
+		"duration" : 120
+	}
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "dandelionpopbottle" ]
+}

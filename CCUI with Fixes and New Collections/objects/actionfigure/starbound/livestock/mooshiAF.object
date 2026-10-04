@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_mooshiaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "mooshiaf" },
+  "shortdescription" : "Mooshi Figurine",
+  "description" : "The label reads, \"It's full of milk.\"",
+
+  "inventoryIcon" : "mooshiAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "mooshiAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

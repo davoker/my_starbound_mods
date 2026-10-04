@@ -1,0 +1,13 @@
+{
+  "itemName" : "card62",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card62" },
+  "inventoryIcon" : "card62.png",
+  "description" : "It stares at you expectantly with its beady eyes.",
+  "shortdescription" : "#62 petricub",
+  "largeImage" : "card62.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card62.png"
+}

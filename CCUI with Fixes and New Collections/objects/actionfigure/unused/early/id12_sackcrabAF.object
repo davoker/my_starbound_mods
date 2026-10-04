@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_krabmikazeaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "krabmikazeaf" },
+  "shortdescription" : "Krabmikaze Figurine",
+  "description" : "The label reads, \"Eyes glittering, the bulbous sac on its back pulsates dangerously.\"",
+
+  "inventoryIcon" : "superearly.png:12_sackcrab",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:12_sackcrab",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

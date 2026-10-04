@@ -1,0 +1,22 @@
+{
+  "objectName" : "nuggubs_virorblightaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "virorblightaf" },
+  "shortdescription" : "Lumo Virorb Figurine",
+  "description" : "The label reads, \"A variety of Virorb that loves to feed on energy.\"",
+
+  "inventoryIcon" : "contest.png:virorblight",
+  "orientations" : [
+    {
+      "dualImage" : "contest.png:virorblight",
+      "imagePosition" : [-2, 0],
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

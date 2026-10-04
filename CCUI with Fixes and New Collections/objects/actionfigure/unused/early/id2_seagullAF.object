@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_seagullaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "seagullaf" },
+  "shortdescription" : "Seagull Figurine",
+  "description" : "The label reads, \"Chip squanderers\"",
+
+  "inventoryIcon" : "superearly.png:2_seagull",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:2_seagull",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+[
+	/* =============== */
+	/* PARCHE DEL JUEGO BASE */
+	/* =============== */
+	[
+		//-----------
+		//NAVE PIRATA
+		//-----------
+		{
+			"op": "replace",
+			"path": "/pirateship/parameters/displayName",
+			"value": "Nave Pirata"
+		},
+		{
+			"op": "replace",
+			"path": "/pirateship/parameters/description",
+			"value": "La tripulación de esta ^red;Nave Pirata^reset; ha estado asaltando otras naves. No cederán sus riquezas robadas sin luchar."
+		},
+		{
+			"op": "replace",
+			"path": "/pirateship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_pirateship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/pirateship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_pirateship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//------------
+		//NAVE CULTISTA
+		//------------
+		{
+			"op": "replace",
+			"path": "/cultistship/parameters/displayName",
+			"value": "Nave Cultista"
+		},
+		{
+			"op": "replace",
+			"path": "/cultistship/parameters/description",
+			"value": "La tripulación en esta ^red;Nave Cultista^reset; está difundiendo propaganda peligrosa. Prepárate para una pelea si intentas abordarla."
+		},
+		{
+			"op": "replace",
+			"path": "/cultistship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_cultistship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/cultistship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_cultistship_horizonright.png"
+			}
+		},
+		
+		//-------------
+		//NAVE DE INVESTIGACIÓN
+		//-------------
+		{
+			"op": "replace",
+			"path": "/researchship/parameters/displayName",
+			"value": "Nave de Investigación"
+		},
+		{
+			"op": "replace",
+			"path": "/researchship/parameters/description",
+			"value": "El capitán de esta ^green;Nave de Investigación^reset; ha aceptado nuestras comunicaciones y nos ha invitado a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/researchship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_researchship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/researchship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_researchship_horizonright.png"
+			}
+		},
+
+		//------------------------
+		//NAVE MERCANTE INDUSTRIAL
+		//------------------------
+		{
+			"op": "replace",
+			"path": "/merchantindustrialship/parameters/displayName",
+			"value": "Nave Mercante Industrial"
+		},
+		{
+			"op": "replace",
+			"path": "/merchantindustrialship/parameters/description",
+			"value": "La tripulación de esta ^#E5BB00;Nave Mercante Industrial^reset; nos ha invitado a bordo, ofreciendo equipo industrial a la venta."
+		},
+		{
+			"op": "replace",
+			"path": "/merchantindustrialship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_merchantindustrialship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/merchantindustrialship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_merchantindustrialship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//-------------------
+		//NAVE MERCANTE ESPACIAL
+		//-------------------
+		{
+			"op": "replace",
+			"path": "/merchantastroship/parameters/displayName",
+			"value": "Nave Mercante Espacial"
+		},
+		{
+			"op": "replace",
+			"path": "/merchantastroship/parameters/description",
+			"value": "El capitán de esta ^#E5BB00;Nave Mercante Espacial^reset; se ofreció a vender algo de equipo espacial."
+		},
+		{
+			"op": "replace",
+			"path": "/merchantastroship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_merchantastroship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/merchantastroship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_merchantastroship_horizonright.png"
+			}
+		},
+		
+		//------------
+		//NAVE PINGÜINO
+		//------------
+		{
+			"op": "replace",
+			"path": "/penguinship/parameters/displayName",
+			"value": "Nave Pingüino"
+		},
+		{
+			"op": "replace",
+			"path": "/penguinship/parameters/description",
+			"value": "Esta ^green;Nave Pingüino^reset; parece estar tripulada enteramente por una tripulación de pingüinos, y el capitán nos ha invitado a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/penguinship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_penguinship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/penguinship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_penguinship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//-----------
+		//NAVE DE RECOMPENSAS
+		//-----------
+		{
+			"op": "replace",
+			"path": "/bountyship/parameters/description",
+			"value": "Si tu investigación fue correcta, esta ^red;Nave Sospechosa^reset; debería contener tu recompensa."
+		},
+		{
+			"op": "replace",
+			"path": "/bountyship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_pirateship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/bountyship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_pirateship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		}
+	],
+
+	/* ==================== */
+	/* PARCHE DE MÁS NAVES NPC */
+	/* ==================== */
+	[
+		//TEST
+		{
+			"op": "test",
+			"path": "/spacemerchant"
+		},
+		
+		//-------------
+		//NAVE MERCANTE
+		//-------------
+		{
+			"op": "replace",
+			"path": "/spacemerchant/parameters/displayName",
+			"value": "Nave Mercante"
+		},
+		{
+			"op": "replace",
+			"path": "/spacemerchant/parameters/description",
+			"value": "El capitán solitario de esta ^#E5BB00;Nave Mercante^reset; te ha invitado a bordo para comerciar."
+		},
+		{
+			"op": "replace",
+			"path": "/spacemerchant/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_merchantship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/spacemerchant/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_felinship_horizonright.png"
+			}
+		},
+		
+		//-------------
+		//NAVE CHATARRA
+		//-------------
+		{
+			"op": "replace",
+			"path": "/deadbeatship/parameters/displayName",
+			"value": "Nave Chatarra"
+		},
+		{
+			"op": "replace",
+			"path": "/deadbeatship/parameters/description",
+			"value": "A pesar de ser una vieja reliquia oxidada o chatarra recuperada, esta ^green;Nave Chatarra^reset; de alguna manera sigue operativa. Su tripulación ha enviado una invitación."
+		},
+		{
+			"op": "replace",
+			"path": "/deadbeatship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_deadbeatship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/deadbeatship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_deadbeatship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//----------
+		//NAVE RANA
+		//----------
+		{
+			"op": "replace",
+			"path": "/froggship/parameters/displayName",
+			"value": "Nave Rana"
+		},
+		{
+			"op": "replace",
+			"path": "/froggship/parameters/description",
+			"value": "La tripulación de esta ^green;Nave Rana^reset; permaneció en silencio durante las comunicaciones, pero enviaron una señal de acceso libre para abordar."
+		},
+		{
+			"op": "replace",
+			"path": "/froggship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_froggship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/froggship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_froggship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//------------
+		//NAVE ESTACIÓN
+		//------------
+		{
+			"op": "replace",
+			"path": "/stationship/parameters/displayName",
+			"value": "Nave Estación"
+		},
+		{
+			"op": "replace",
+			"path": "/stationship/parameters/description",
+			"value": "Actuando como una especie de estación espacial móvil, esta ^green;Nave Estación^reset; ha ofrecido permitirnos subir a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/stationship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_stationship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/stationship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_stationship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_stationship_horizonright.png"
+			}
+		},
+
+		//--------------
+		//NAVE ASTRONAUTA
+		//--------------
+		{
+			"op": "replace",
+			"path": "/astronautship/parameters/displayName",
+			"value": "Nave de Astronauta"
+		},
+		{
+			"op": "replace",
+			"path": "/astronautship/parameters/description",
+			"value": "La tripulación humana de este modelo anterior de ^green;Nave de Astronauta^reset; ofreció permitirnos subir a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/astronautship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_astronautship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/astronautship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_astronautship_horizonright.png"
+			}
+		},
+
+		//-------------------
+		//TREN ESPACIAL NOVAKID
+		//-------------------
+		{
+			"op": "replace",
+			"path": "/spacetrain/parameters/displayName",
+			"value": "Tren Espacial Novakid"
+		},
+		{
+			"op": "replace",
+			"path": "/spacetrain/parameters/description",
+			"value": "La tripulación de este ^green;Tren Espacial Novakid^reset; nos ha invitado alegremente a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/spacetrain/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_spacetrain_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/spacetrain/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_spacetrain_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_spacetrain_horizonright.png"
+			}
+		},
+		
+		//------------
+		//FORTALEZA OCULAR
+		//------------
+		{
+			"op": "replace",
+			"path": "/eyefortress/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/eyefortresshorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/blankhorizonright.png"
+			}
+		},
+		{
+			"op": "replace",
+			"path": "/eyefortress/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_eyefortress_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/eyefortress/parameters/displayName",
+			"value": "Fortaleza Ocular"
+		},
+		{
+			"op": "replace",
+			"path": "/eyefortress/parameters/description",
+			"value": "Esta ^red;Fortaleza Ocular^reset; parece ser una fortaleza volante llena de miembros de los cruzados que todo lo ven. La tripulación no quiere que te acerques."
+		},
+		
+		//-------------
+		//NAVE MINIKNOG
+		//-------------
+		{
+			"op": "replace",
+			"path": "/miniknogship/parameters/displayName",
+			"value": "Nave Miniknog"
+		},
+		{
+			"op": "replace",
+			"path": "/miniknogship/parameters/description",
+			"value": "Los científicos en esta ^red;Nave Miniknog^reset; no aprecian a los visitantes y afirman que cualquiera que entre sin permiso debe ser un rebelde. Prepárate para una pelea."
+		},
+		{
+			"op": "replace",
+			"path": "/miniknogship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_miniknogship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/miniknogship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_miniknogship_horizonright.png"
+			}
+		},
+		
+		//-----------
+		//NAVE ALPACA
+		//-----------
+		{
+			"op": "replace",
+			"path": "/alpacaship/parameters/displayName",
+			"value": "Nave Alpaca"
+		},
+		{
+			"op": "replace",
+			"path": "/alpacaship/parameters/description",
+			"value": "Esta tradicional ^red;Nave Alpaca^reset; alberga a algunas personas hostiles de cuatro patas. Prepárate si te acercas."
+		},
+		{
+			"op": "replace",
+			"path": "/alpacaship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_alpacaship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/alpacaship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_alpacaship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_alpacaship_horizonright.png"
+			}
+		},
+		
+		//-----------
+		//OVNI PINGÜINO
+		//-----------
+		{
+			"op": "replace",
+			"path": "/penguinufo/parameters/displayName",
+			"value": "Platillo Volador Pingüino"
+		},
+		{
+			"op": "replace",
+			"path": "/penguinufo/parameters/description",
+			"value": "Los mercenarios a bordo de este ^red;Platillo Volador Pingüino^reset; amenazan con dañar a quienes intenten abordar."
+		},
+		{
+			"op": "replace",
+			"path": "/penguinufo/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_penguinufo_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/penguinufo/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_penguinufo_horizonright.png"
+			}
+		},
+		
+		//----------------
+		//NAVE DE CULTO DE LAS SOMBRAS
+		//----------------
+		{
+			"op": "replace",
+			"path": "/fcultistship/parameters/displayName",
+			"value": "Nave de Culto de las Sombras"
+		},
+		{
+			"op": "replace",
+			"path": "/fcultistship/parameters/description",
+			"value": "Esta ^green;Nave de Culto de las Sombras^reset; inicialmente no pudo ser detectada. A pesar de su comportamiento de culto, la tripulación te ha invitado a bordo para una visita amistosa."
+		},
+		{
+			"op": "replace",
+			"path": "/fcultistship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_fcultistship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/fcultistship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_cultistship_horizonright.png"
+			}
+		},
+		
+		//----------------------
+		//NAVE PIRATA INDUSTRIAL
+		//----------------------
+		{
+			"op": "replace",
+			"path": "/industrialpirateship/parameters/displayName",
+			"value": "Nave Pirata Industrial"
+		},
+		{
+			"op": "replace",
+			"path": "/industrialpirateship/parameters/description",
+			"value": "Esta ^red;Nave Pirata Industrial^reset; parece ser un antiguo carguero de la U.S.C.M. La nueva tripulación amenaza a cualquiera que se acerque."
+		},
+		{
+			"op": "replace",
+			"path": "/industrialpirateship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_industrialpirateship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/industrialpirateship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_industrialpirateship_horizonright.png"
+			}
+		},
+		
+		//-----------------------
+		//NAVE DE INVESTIGACIÓN DE BABOSA CEREBRAL
+		//-----------------------
+		{
+			"op": "replace",
+			"path": "/brainslugresearchship/parameters/displayName",
+			"value": "Nave de Investigación de Babosa Cerebral"
+		},
+		{
+			"op": "replace",
+			"path": "/brainslugresearchship/parameters/description",
+			"value": "La tripulación de esta ^red;Nave de Investigación^reset; solo ha respondido a las comunicaciones con gruñidos y gemidos incoherentes. Su señal de socorro está activa."
+		},
+		{
+			"op": "replace",
+			"path": "/brainslugresearchship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_researchship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/brainslugresearchship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_stationship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_stationship_horizonright.png"
+			}
+		},
+		
+		//---------------------
+		//NAVE ASTRONAUTA FLORAN
+		//---------------------
+		{
+			"op": "replace",
+			"path": "/floranastronautship/parameters/displayName",
+			"value": "Nave de Astronauta Floran"
+		},
+		{
+			"op": "replace",
+			"path": "/floranastronautship/parameters/description",
+			"value": "La tripulación humana de este modelo anterior de ^red;Nave de Astronauta^reset; fue masacrada hace tiempo. Ahora la dirigen caníbales Floran."
+		},
+		{
+			"op": "replace",
+			"path": "/floranastronautship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_merchantastroship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/floranastronautship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_astronautship_horizonright.png"
+			}
+		},
+		
+		//------------
+		//MECA HYLOTL
+		//------------
+		{
+			"op": "replace",
+			"path": "/hylotlmecha/parameters/displayName",
+			"value": "Meca Hylotl"
+		},
+		{
+			"op": "replace",
+			"path": "/hylotlmecha/parameters/description",
+			"value": "El piloto aburrido de este ^red;Meca Hylotl^reset; te ha ofrecido una pelea honorable."
+		},
+		{
+			"op": "replace",
+			"path": "/hylotlmecha/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_hylotlmecha_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/hylotlmecha/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_hylotlmecha_horizonright.png"
+			}
+		}
+	],
+	
+	/* ======================================= */
+	/* PARCHE DE FRACKIN UNIVERSE Y MAZMORRAS EXTRA */
+	/* ======================================= */
+	[
+		//TEST
+		{
+			"op": "test",
+			"path": "/flyingpyramid"
+		},
+		
+		//--------------------------
+		//PIRÁMIDE ESPACIAL AVIAN
+		//--------------------------
+		{
+			"op": "replace",
+			"path": "/flyingpyramid/parameters/displayName",
+			"value": "Pirámide Espacial Avian"
+		},
+		{
+			"op": "replace",
+			"path": "/flyingpyramid/parameters/description",
+			"value": "Una ^red;Pirámide Espacial Avian^reset; llena de fanáticos asesinos. Las pirámides son un favorito tradicional."
+		},
+		{
+			"op": "replace",
+			"path": "/flyingpyramid/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_flyingpyramid_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/flyingpyramid/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_flyingpyramid_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//-----------------
+		//PAGODA MISTERIOSA
+		//-----------------
+		{
+			"op": "replace",
+			"path": "/ninjapagoda/parameters/description",
+			"value": "Una solitaria ^red;Pagoda Misteriosa^reset; flotando en el espacio. Los residentes aún creen que están en la Guerra Floran-Hylotl. Parece que nunca recibieron el mensaje."
+		},
+		{
+			"op": "replace",
+			"path": "/ninjapagoda/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_ninjapagoda_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/ninjapagoda/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_ninjapagoda_horizonright.png"
+			}
+		},
+		
+		//----------------------
+		//TERRENOS DE CRÍA IXOLING FLORAN
+		//----------------------
+		{
+			"op": "replace",
+			"path": "/ixolinggrounds/parameters/description",
+			"value": "Unos ^green;Terrenos de Cría Ixoling Floran^reset;, donde se realiza la cría de Ixoling, una profesión respetada entre los Floran. Es mejor llevarla a cabo en el espacio."
+		},
+		{
+			"op": "replace",
+			"path": "/ixolinggrounds/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_ixolinggrounds_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/ixolinggrounds/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/fu_floranright.png"
+			}
+		},
+		
+		//-----------------
+		//FLOTA DE NAVES LETHIA
+		//-----------------
+		{
+			"op": "replace",
+			"path": "/letheiafleet/parameters/displayName",
+			"value": "Flota de Naves Lethia"
+		},
+		{
+			"op": "replace",
+			"path": "/letheiafleet/parameters/description",
+			"value": "Una ^red;Flota de Naves Lethia^reset;. Bien armada y extremadamente peligrosa. Están más que dispuestos a matar para preservar los secretos corporativos."
+		},
+		{
+			"op": "replace",
+			"path": "/letheiafleet/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_letheiafleet_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/letheiafleet/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_letheiafleet_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_letheiafleet_horizonright.png"
+			}
+		},
+		
+		//-----------
+		//MINA DE FORAJIDOS
+		//-----------
+		{
+			"op": "replace",
+			"path": "/outlawmine/parameters/description",
+			"value": "Este cúmulo de asteroides ricos en minerales ha atraído a algunos forajidos Novakid a reclamarlos ilegalmente. Han establecido una ^red;Mina de Forajidos^reset;."
+		},
+		{
+			"op": "replace",
+			"path": "/outlawmine/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_outlawmine_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/outlawmine/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_outlawmine_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_blankhorizonright.png"
+			}
+		},
+		
+		//-------------------------
+		//TORRE DE TECNOMAGO GLITCH
+		//-------------------------
+		{
+			"op": "replace",
+			"path": "/wizardabode/parameters/description",
+			"value": "Esta ^green;Torre de Tecnomago Glitch^reset; es un campus de la Escuela de Tecnomancia de Hogwash. Aquí, los aspirantes a Glitch estudian las artes de domar espíritus de máquinas."
+		},
+		{
+			"op": "replace",
+			"path": "/wizardabode/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_wizardabode_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/wizardabode/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/spacestation/re_blankhorizonleft.png",
+				"right": "/celestial/system/spacestation/re_wizardabode_horizonright.png"
+			}
+		},
+		
+		//---------------------
+		//PLATAFORMA DE ARMAS APEX
+		//---------------------
+		{
+			"op": "replace",
+			"path": "/apexweaponsplatform/parameters/displayName",
+			"value": "Plataforma de Armas Apex"
+		},
+		{
+			"op": "replace",
+			"path": "/apexweaponsplatform/parameters/description",
+			"value": "Gestionada y operada íntegramente por los Miniknog, esta ^red;Plataforma de Armas Apex^reset; es una enorme instalación legalmente distinta utilizada para bombardear cuerpos celestes desde la órbita."
+		},
+		{
+			"op": "replace",
+			"path": "/apexweaponsplatform/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_apexweaponsplatform_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/apexweaponsplatform/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/spacestation/apexhorizonleft.png",
+				"right": "/celestial/system/spacestation/apexhorizonright.png"
+			}
+		}
+	],
+
+	/* ========================================== */
+	/* PARCHE DE FRACKIN UNIVERSE Y FOODIES FURNITURE */
+	/* ========================================== */
+	[
+		//TEST
+		{
+			"op": "test",
+			"path": "/fastfoodspace"
+		},
+		
+		//---------------------
+		//RESTAURANTE BURGER FOOL
+		//---------------------
+		{
+			"op": "replace",
+			"path": "/fastfoodspace/parameters/displayName",
+			"value": "Restaurante Burger Fool"
+		},
+		{
+			"op": "replace",
+			"path": "/fastfoodspace/parameters/description",
+			"value": "Este ^#E5BB00;Restaurante Burger Fool^reset; ofrece múltiples tipos de comida calórica a la venta."
+		},
+		{
+			"op": "replace",
+			"path": "/fastfoodspace/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_fastfoodspace_icon.png"
+		}
+	],
+
+	/* =========== */
+	/* PARCHE FELIN */
+	/* =========== */
+	[
+		//TEST
+		{
+			"op": "test",
+			"path": "/felinship"
+		},
+		
+		//----------
+		//NAVE FELIN
+		//----------
+		{
+			"op": "replace",
+			"path": "/felinship/parameters/description",
+			"value": "Con una tripulación llena de humanoides peludos, el capitán de esta ^green;Nave Felina^reset; te ha invitado a bordo."
+		},
+		{
+			"op": "replace",
+			"path": "/felinship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_felinship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/felinship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/blankhorizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/felinshiphorizonright.png"
+			}
+		}
+	],
+
+	/* ======================== */
+	/* PARCHE DE PROJECT REDEMPTION */
+	/* ======================== */
+	[
+		//TEST
+		{
+			"op": "test",
+			"path": "/r-USCMship"
+		},
+		
+		//--------------------------
+		//CARGUERO REMANENTE DE LA U.S.C.M.
+		//--------------------------
+		{
+			"op": "replace",
+			"path": "/r-USCMship/parameters/displayName",
+			"value": "Carguero Remanente de la U.S.C.M."
+		},
+		{
+			"op": "replace",
+			"path": "/r-USCMship/parameters/description",
+			"value": "A la tripulación de este ^red;Carguero Remanente de la U.S.C.M.^reset; no le agrada mucho el protectorado. No se recomienda entrar sin permiso."
+		},
+		{
+			"op": "replace",
+			"path": "/r-USCMship/parameters/icon",
+			"value": "/celestial/system/ships/re_icons/re_uscmship_icon.png"
+		},
+		{
+			"op": "replace",
+			"path": "/felinship/skyParameters/horizonImages/0",
+			"value": {
+				"left": "/celestial/system/ships/re_horizons/re_uscmship_horizonleft.png",
+				"right": "/celestial/system/ships/re_horizons/re_uscmship_horizonright.png"
+			}
+		}
+	]
+]

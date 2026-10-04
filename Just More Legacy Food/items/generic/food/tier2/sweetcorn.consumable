@@ -1,0 +1,29 @@
+{
+  "itemName" : "sweetcorn",
+  "rarity" : "common",
+  "price" : 40,
+  "category" : "preparedFood",
+  "inventoryIcon" : "sweetcorn.png",
+  "description" : "Sweet corn! I could eat it raw, but it's probably even better if I cook it.",
+  "shortdescription" : "Sweet Corn",
+  "collectablesOnPickup" : { "cooking" : "sweetcorn"},
+  "effects" : [ [
+	{
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 120
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

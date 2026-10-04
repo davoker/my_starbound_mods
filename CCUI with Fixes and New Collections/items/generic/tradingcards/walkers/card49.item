@@ -1,0 +1,13 @@
+{
+  "itemName" : "card49",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card49" },
+  "inventoryIcon" : "card49.png",
+  "description" : "Its poison is deadly even in small doses.",
+  "shortdescription" : "#49 Crutter",
+  "largeImage" : "card49.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card49.png"
+}

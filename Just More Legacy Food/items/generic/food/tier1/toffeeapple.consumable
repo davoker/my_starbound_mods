@@ -1,0 +1,24 @@
+{
+  "itemName" : "toffeeapple",
+  "rarity" : "Common",
+  "price" : 125,
+  "category" : "preparedFood",
+  "inventoryIcon" : "toffeeapple.png",
+  "description" : "An apple slathered in toffee.",
+  "shortdescription" : "Toffee Apple",
+  "collectablesOnPickup" : { "cooking" : "toffeeapple"},
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 120
+    }
+  ] ],
+  "foodValue" : 20,
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

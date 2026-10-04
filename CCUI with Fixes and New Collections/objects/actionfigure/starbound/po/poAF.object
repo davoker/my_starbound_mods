@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_poaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 5000,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "poaf" },
+  "shortdescription" : "Po Figurine",
+  "description" : "The label reads, \"Sickening little things.\"",
+
+  "inventoryIcon" : "poAF.png",
+  "orientations" : [
+    {
+      "dualImage" : "poAF.png",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

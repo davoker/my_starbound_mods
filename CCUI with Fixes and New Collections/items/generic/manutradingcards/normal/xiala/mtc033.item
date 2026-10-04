@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc033",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc033" },
+  "inventoryIcon" : "mtc033.png",
+  "description" : "Nothing is better than a trusty revolver. Except a BIGGER trusty revolver.",
+  "shortdescription" : "#33 Xia-La Hillsprayer",
+  "largeImage" : "mtc033.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc033.png"
+}

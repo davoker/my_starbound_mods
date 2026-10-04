@@ -1,0 +1,39 @@
+[h1]Description, or something like this[/h1]
+Not much to describe here, I saw this mod a long time ago -> [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1384094249] Animated Deco Slime Pets![/url], and I realized that they are not pets, but rather I would describe them as "animated furniture", cute and bouncy.
+
+I wanted to have pets like those but as actual pets, so I got down to work. With a few base sprites for each slime and a few hours of editing, this is the result.
+
+[h1]Content[/h1]
+[b]8 types of slimes:[/b]
+[list]
+[*]Slime King
+[*]Slime
+[*]Cat
+[*]Lava
+[*]Poisonous
+[*]Rainbow (Or something similar)
+[*]Blue
+[*]Yellow
+[/list]
+- The slimes will sleep in their pet house as long as the house is nearby or accessible to them.
+
+- You can purchase this pet's pet house at the Infinity Express store in the Outpost.
+
+- To change the type of slime, simply [b]remove the pet house and place it again[/b]; the slimes will change. This works with all default pets.
+
+[h1]Compatibility[/h1]
+It should be compatible with everything, it is only a pet to be used with Purchasable Pets.
+
+- If it wasn't clear enough, this mod requires having [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729438381] Purchasabe Pets[/url] installed, or else it will cause an error and your game won't start.
+
+[h1]Recommended MODs[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1239952506] Pets Are Useful![/url] (highly recommended)
+[url=https://steamcommunity.com/id/Davoker/myworkshopfiles/?appid=211820] My mods, of course.[/url]
+
+[h1]Credits[/h1]
+- To [url=https://steamcommunity.com/id/LolStopLookingAtThisUrl/myworkshopfiles/] Nin-Sama[/url]  for letting me use his base sprites, thanks.
+- [url=https://steamcommunity.com/id/xxswatelitexx/myworkshopfiles/?appid=211820] TheSuit[/url] for Purchasable Pets.
+- I won't give myself credits because I'm too handsome, I don't need them (☞ﾟヮﾟ)☞
+
+[hr][/hr]
+[url=https://www.buymeacoffee.com/davoker][img]https://media2.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif?cid=ecf05e475hbigh8f6svd016w1t80eojhpcu0t2e58569iq0j&ep=v1_gifs_related&rid=giphy.gif&ct=s[/img][/url]

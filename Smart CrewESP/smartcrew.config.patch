@@ -1,0 +1,452 @@
+[
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/_default/work/0/monologue/1",
+    "value": "Estoy trabajando, no hay nada que ver aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chef/work/0/monologue/1",
+    "value": "¡¿DÓNDE ESTÁ LA SALSA DE CORDERO?!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chef/work/1/monologue/1",
+    "value": "No... simplemente, no."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/0/monologue/1",
+    "value": "Interesante tipo de compuesto, ¿y si lo uso en monstruos?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/1/monologue/1",
+    "value": "Este compuesto tiene propiedades interesantes, voy a probarlo..."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/2/monologue/1",
+    "value": "¡Acabo de derramar el frasco rojo!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/3/monologue/1",
+    "value": "Creo que mi mezcla no era tan mala, ¿verdad?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/4/monologue/1",
+    "value": "¡Esto es perfecto!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/5/monologue/1",
+    "value": "Uh... ¿Boom nena?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Chemist/work/5/monologue/2",
+    "value": "¡BOOM NENA!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/0/monologue/1",
+    "value": "¡REEE!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/1/monologue/1",
+    "value": "Todos los sistemas operativos."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/2/monologue/1",
+    "value": "Yeah, nuestra nave es ahora un poco más rápida"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/2/monologue/2",
+    "value": "Dicho y hecho. Esta nave está un paso más cerca de convertirse en nuestra chica más rápida."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/3/monologue/1",
+    "value": "El motor FTL es estable"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/3/monologue/2",
+    "value": "El escudo antimateria de la nave está intacto."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/4/monologue/1",
+    "value": "Eso... no fue una buena idea."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/5/monologue/1",
+    "value": "No... no funcionó como yo esperaba."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/6/monologue/0",
+    "value": "¡Sí! ¡Funcionó!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/6/monologue/1",
+    "value": "*MÚSICA HEAVY METAL*"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Engineer/work/6/monologue/2",
+    "value": "¡Funcionó!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/0/monologue/1",
+    "value": "Ah, nave chirriantemente limpia."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/0/monologue/2",
+    "value": "Este sector ya está limpio."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/1/monologue/1",
+    "value": "¡Oye! ¡que alguien deje caer sus baratijas aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/2/monologue/1",
+    "value": "Al agujero del contenedor de basura que vas, amigo."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/2/monologue/2",
+    "value": "Estoy tirando un montón de basura, la mayoría son tus waifus."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Janitor/work/3/monologue/1",
+    "value": "¡Esto huele fatal!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/0/monologue/1",
+    "value": "¡El depósito de combustible necesita más energía."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/0/monologue/2",
+    "value": "Capitán, ¿Podría estar interesado en unos tankes de combustible nano del mercano negro?."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/1/monologue/1",
+    "value": "¡Siii! Mi tanque de combustible experimental funciona"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/1/monologue/2",
+    "value": "Este tanque de combustible experimental UC7 seguro que será útil"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/2/monologue/1",
+    "value": "Por favor, no pongas agua en la escotilla de combustible. El FTL y el agua no se mezclan."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/3/monologue/1",
+    "value": "Necesito moverme, llevo mucho tiempo de parado."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/4/monologue/1",
+    "value": "Uf, ha sido mucho de trabajo."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/4/monologue/2",
+    "value": "Hacía mucho calor dentro de la bahía."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/4/monologue/3",
+    "value": "Necesitamos un aire acondicionado mejor"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/5/monologue/1",
+    "value": "El módulo UC7 acaba de aumentar la eficiencia del combustible de esta nave."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/5/monologue/2",
+    "value": "¡Acabo de hacer que el consumo de combustible de las naves sea mucho más eficiente!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Mechanic/work/6/monologue/1",
+    "value": "¡NO PONGA AGUA EN EL DEPÓSITO DE COMBUSTIBLE!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/0/monologue/1",
+    "value": "¿Quieres unas vendas?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/0/monologue/2",
+    "value": "Esperemos que todo el mundo se mantenga sano"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/1/monologue/1",
+    "value": "Esperemos que todo el mundo esté sano"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/2/monologue/1",
+    "value": "¡Recuerda beber 8 vasos de agua al día!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/2/monologue/2",
+    "value": "¡Manteneos hidratados!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/2/monologue/3",
+    "value": "A G U A"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/3/monologue/1",
+    "value": "Ten un poco de amor <3"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/4/monologue/1",
+    "value": "Los resultados muestran que todos gozan de una salud perfecta."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/5/monologue/1",
+    "value": "Voy a hacerte un chequeo, dormilón."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/5/monologue/2",
+    "value": "Mhm, pareces estar bien."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/5/monologue/3",
+    "value": "Mhm, parece que te va bien."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/6/monologue/1",
+    "value": "No es tan doloroso, mantén la calma."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Medic/work/6/monologue/2",
+    "value": "Mhm, pareces estar bien."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/0/monologue/1",
+    "value": "¡HAHA! ¡Esto es divertido!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/0/monologue/2",
+    "value": "Le pediré al 'Capi' que busque tesoros en nuestra próxima misión."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/1/monologue/1",
+    "value": "Parece que esto no hace nada"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/2/monologue/1",
+    "value": "¿Puede alguien subir un poco la temperatura?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/2/monologue/2",
+    "value": "Hace frío aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/3/monologue/1",
+    "value": "¡HA! ¡Mira capitán, acabo de derribar una nave pirata!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/4/monologue/1",
+    "value": "Oye, ¿quieres 'vitamina' B?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/4/monologue/2",
+    "value": "Yo uh..."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/4/monologue/3",
+    "value": "¡Te perseguiré!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/5/monologue/1",
+    "value": "¡AHH! ¡Ayuda Capitán! ¡Los policías espaciales están aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Outlaw/work/5/monologue/2",
+    "value": "¡POLICÍAS ESPACIALES!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/0/monologue/1",
+    "value": "Todas las zonas están aseguradas."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/1/monologue/1",
+    "value": "No se detectan hostiles, estamos a salvo por ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/1/monologue/2",
+    "value": "No se han encontrado hostiles, pueden estar tranquilos."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/2/monologue/1",
+    "value": "¡Mantente en forma! sé agua, amigo mío"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/2/monologue/2",
+    "value": "Estoy a tope."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/3/monologue/1",
+    "value": "¡Ejercita tu mente! mantente alerta"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/3/monologue/2",
+    "value": "Voy con todo."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/4/monologue/1",
+    "value": "¡Entrenamiento a diario! hay que estar en forma"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/4/monologue/2",
+    "value": "Siempre al máximo."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/5/monologue/1",
+    "value": "¡Capitán, señor, acabamos de derribar una nave pirata!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/6/monologue/1",
+    "value": "¡Hostiles!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/7/monologue/1",
+    "value": "¡Vienen hostiles!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/7/monologue/2",
+    "value": "¡Ya vienen!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/8/monologue/1",
+    "value": "Que no cunda el pánico, todo va a salir bien."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Soldier/work/8/monologue/2",
+    "value": "No, ¡eres un buen amigo!"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/0/monologue/1",
+    "value": "Voy a diseñar una armadura, no quiero caer en un planeta loco."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/1/monologue/1",
+    "value": "Capitán, es posible que desee probar este nuevo diseño de armadura de kevlar que hice."
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/1/monologue/2",
+    "value": "Moda + Fiabilidad = Malote"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/2/monologue/1",
+    "value": "Nuevos diseños, ¿eh?"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/3/monologue/1",
+    "value": "Gracias por ayudarme a probar este traje deportivo"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/3/monologue/2",
+    "value": "Wow, esto es sorprendentemente cómodo de llevar"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/4/monologue/1",
+    "value": "Acabo de implementar un mini teletransportador en estos guantes"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/4/monologue/2",
+    "value": "Impresionantes guantes de teletransportación"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/5/monologue/1",
+    "value": "Oye, mira estos zapatos, se sienten muy ligeros"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/5/monologue/2",
+    "value": "Hey, mira estos zapatos"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/6/monologue/1",
+    "value": "La suela no se pegaba bien"
+  },
+  {
+    "op": "replace",
+    "path": "/roleTaskReactions/Tailor/work/6/monologue/2",
+    "value": "La suela necesita cinta adhesiva"
+  }
+]

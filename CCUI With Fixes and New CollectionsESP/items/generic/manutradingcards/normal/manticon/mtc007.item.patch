@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ah, el Hellblast. Haciendo estallar cosas en el infierno desde 2084."
+  }
+]

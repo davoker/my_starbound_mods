@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Cuando cierra los ojos se vuelve inmune a los ataques al entrar en un plano de existencia diferente."
+  }
+]

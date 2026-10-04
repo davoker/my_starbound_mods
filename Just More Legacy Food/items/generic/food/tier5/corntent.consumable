@@ -1,0 +1,29 @@
+{
+  "itemName" : "corntent",
+  "rarity" : "Rare",
+  "price" : 300,
+  "category" : "preparedFood",
+  "inventoryIcon" : "corntent.png",
+  "description" : "A famous Glitch chef invented Corntent, and nobody is quite sure why.",
+  "shortdescription" : "Corntent",
+  "collectablesOnPickup" : { "cooking" : "corntent"},
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 240
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 240
+    }
+  ] ],
+  "foodValue" : 45,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

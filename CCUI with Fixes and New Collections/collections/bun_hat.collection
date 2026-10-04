@@ -1,0 +1,231 @@
+{
+  "name" : "bun_hat",
+  "title" : "^#B499FF;Hat Cosmetic",
+  "type" : "item",
+  
+   "collectables" : {
+
+	"protectorateflowerhead" : { "order" : 1, "item" : "protectorateflowerhead", "icon": "/bun_images/hat/protectorateflowerhead.png" },
+	
+	//mission floran
+
+	"ethnichead" : { "order" : 2, "item" : "ethnichead", "icon": "/bun_images/hat/ethnichead.png" },
+	"vicioushead" : { "order" : 3, "item" : "vicioushead", "icon": "/bun_images/hat/vicioushead.png" },		
+	"goathead" : { "order" : 4, "item" : "goathead", "icon": "/bun_images/hat/goathead.png" },
+	
+	//mission hylotl
+
+	"snorkelhead" : { "order" : 5, "item" : "snorkelhead", "icon": "/bun_images/hat/snorkelhead.png" },
+	
+	//mission avian
+
+	"fullbunnyhead" : { "order" : 6, "item" : "fullbunnyhead", "icon": "/bun_images/hat/fullbunnyhead.png" },
+	
+	//mission apex
+
+	"visorhead" : { "order" : 7, "item" : "visorhead", "icon": "/bun_images/hat/visorhead.png" },
+	
+	//floran
+	
+	"gladiatorhead" : { "order" : 8, "item" : "gladiatorhead", "icon": "/bun_images/hat/gladiatorhead.png" },
+	"greenfingerhead" : { "order" : 9, "item" : "greenfingerhead", "icon": "/bun_images/hat/greenfingerhead.png" },
+
+	//hylotl
+	
+	"glasses3eyes" : { "order" : 10, "item" : "visorhead", "icon": "/bun_images/hat/glasses3eyes.png" },
+	
+	//avian
+
+	"eyepatchhead" : { "order" : 11, "item" : "eyepatchhead", "icon": "/bun_images/hat/eyepatchhead.png" },
+	"featherhead" : { "order" : 12, "item" : "featherhead", "icon": "/bun_images/hat/featherhead.png" },	
+	"pyramidhead" : { "order" : 13, "item" : "pyramidhead", "icon": "/bun_images/hat/pyramidhead.png" },
+
+	//apex
+	
+	"bananahead" : { "order" : 14, "item" : "bananahead", "icon": "/bun_images/hat/bananahead.png" },
+	"berethead" : { "order" : 15, "item" : "berethead", "icon": "/bun_images/hat/berethead.png" },	
+	"captainshead" : { "order" : 16, "item" : "captainshead", "icon": "/bun_images/hat/captainshead.png" },
+	"m1helmethead" : { "order" : 17, "item" : "m1helmethead", "icon": "/bun_images/hat/m1helmethead.png" },
+
+	//glitch
+
+	"herocaphead" : { "order" : 18, "item" : "herocaphead", "icon": "/bun_images/hat/herocaphead.png" },	
+	"jesterhead" : { "order" : 19, "item" : "jesterhead", "icon": "/bun_images/hat/jesterhead.png" },
+	"knighthead" : { "order" : 20, "item" : "knighthead", "icon": "/bun_images/hat/knighthead.png" },
+
+	//human
+
+	"caphead" : { "order" : 21, "item" : "caphead", "icon": "/bun_images/hat/caphead.png" },
+	"gagnosehead" : { "order" : 22, "item" : "gagnosehead", "icon": "/bun_images/hat/gagnosehead.png" },
+	"glasses1head" : { "order" : 23, "item" : "glasses1head", "icon": "/bun_images/hat/glasses1head.png" },
+	"hobohead" : { "order" : 24, "item" : "hobohead", "icon": "/bun_images/hat/hobohead.png" },
+	"winterscarfhead" : { "order" : 25, "item" : "winterscarfhead", "icon": "/bun_images/hat/winterscarfhead.png" },
+
+	//npc
+
+	"bandithat1" : { "order" : 26, "item" : "bandithat1", "icon": "/bun_images/hat/bandithat1.png" },
+	"bandithat2" : { "order" : 27, "item" : "bandithat2", "icon": "/bun_images/hat/bandithat2.png" },
+
+	//universe
+
+	"bearhead" : { "order" : 28, "item" : "bearhead", "icon": "/bun_images/hat/bearhead.png" },
+	"bevhead" : { "order" : 29, "item" : "bevhead", "icon": "/bun_images/hat/bevhead.png" },
+	"cardboardhead" : { "order" : 30, "item" : "cardboardhead", "icon": "/bun_images/hat/cardboardhead.png" },
+	"clocktophathead" : { "order" : 31, "item" : "clocktophathead", "icon": "/bun_images/hat/clocktophathead.png" },
+	"devhead" : { "order" : 32, "item" : "devhead", "icon": "/bun_images/hat/devhead.png" },
+	"dinosaurhead" : { "order" : 33, "item" : "dinosaurhead", "icon": "/bun_images/hat/dinosaurhead.png" },
+	"fedorahead" : { "order" : 34, "item" : "fedorahead", "icon": "/bun_images/hat/fedorahead.png" },
+	"floppyhathead" : { "order" : 35, "item" : "floppyhathead", "icon": "/bun_images/hat/floppyhathead.png" },
+	"gasmaskhead" : { "order" : 36, "item" : "gasmaskhead", "icon": "/bun_images/hat/gasmaskhead.png" },
+	"glasses2head" : { "order" : 37, "item" : "glasses2head", "icon": "/bun_images/hat/glasses2head.png" },
+	"glasses5head" : { "order" : 38, "item" : "glasses5head", "icon": "/bun_images/hat/glasses5head.png" },
+	"grouchohead" : { "order" : 39, "item" : "grouchohead", "icon": "/bun_images/hat/grouchohead.png" },
+	"horsehead" : { "order" : 40, "item" : "horsehead", "icon": "/bun_images/hat/horsehead.png" },
+	"ironavianhelmethead" : { "order" : 41, "item" : "ironavianhelmethead", "icon": "/bun_images/hat/ironavianhelmethead.png" },
+	"kathoodhead" : { "order" : 42, "item" : "kathoodhead", "icon": "/bun_images/hat/kathoodhead.png" },
+	"ladyhathead" : { "order" : 43, "item" : "ladyhathead", "icon": "/bun_images/hat/ladyhathead.png" },
+	"glasses4head" : { "order" : 44, "item" : "glasses4head", "icon": "/bun_images/hat/glasses4head.png" },
+	"luchadorhead" : { "order" : 45, "item" : "luchadorhead", "icon": "/bun_images/hat/luchadorhead.png" },
+	"m1helmetmedichead" : { "order" : 46, "item" : "m1helmetmedichead", "icon": "/bun_images/hat/m1helmetmedichead.png" },
+	"plainhoodhead" : { "order" : 47, "item" : "plainhoodhead", "icon": "/bun_images/hat/plainhoodhead.png" },
+	"phrygiancaphead" : { "order" : 48, "item" : "phrygiancaphead", "icon": "/bun_images/hat/phrygiancaphead.png" },
+	"pharaohhead" : { "order" : 49, "item" : "pharaohhead", "icon": "/bun_images/hat/pharaohhead.png" },
+	"sheephead" : { "order" : 50, "item" : "sheephead", "icon": "/bun_images/hat/sheephead.png" },
+	"skullmaskhead" : { "order" : 51, "item" : "skullmaskhead", "icon": "/bun_images/hat/skullmaskhead.png" },
+	"sombrerohead" : { "order" : 52, "item" : "sombrerohead", "icon": "/bun_images/hat/sombrerohead.png" },
+	"symbiotehead" : { "order" : 53, "item" : "symbiotehead", "icon": "/bun_images/hat/symbiotehead.png" },
+	"teddyhead" : { "order" : 54, "item" : "teddyhead", "icon": "/bun_images/hat/teddyhead.png" },
+	"tophathead" : { "order" : 55, "item" : "tophathead", "icon": "/bun_images/hat/tophathead.png" },
+	"toptophathead" : { "order" : 56, "item" : "toptophathead", "icon": "/bun_images/hat/toptophathead.png" },
+	"tvhelmethead" : { "order" : 57, "item" : "tvhelmethead", "icon": "/bun_images/hat/tvhelmethead.png" },
+	"ushankahead" : { "order" : 58, "item" : "ushankahead", "icon": "/bun_images/hat/ushankahead.png" },
+	"venetianmaskhead" : { "order" : 59, "item" : "venetianmaskhead", "icon": "/bun_images/hat/venetianmaskhead.png" },
+	"wighead" : { "order" : 60, "item" : "wighead", "icon": "/bun_images/hat/wighead.png" },
+
+
+	//craftable
+
+	"mininghathead" : { "order" : 61, "item" : "mininghathead", "icon": "/bun_images/hat/mininghathead.png" },
+
+   	//forest
+
+	"beehivehead" : { "order" : 62, "item" : "beehivehead", "icon": "/bun_images/hat/beehivehead.png" },
+	"safetyhelmethead" : { "order" : 63, "item" : "safetyhelmethead", "icon": "/bun_images/hat/safetyhelmethead.png" },
+	"sunglasses1head" : { "order" : 64, "item" : "sunglasses1head", "icon": "/bun_images/hat/sunglasses1head.png" },
+	"vikinghead" : { "order" : 65, "item" : "vikinghead", "icon": "/bun_images/hat/vikinghead.png" },
+
+	//Giantflower	
+
+	"berryhead" : { "order" : 66, "item" : "berryhead", "icon": "/bun_images/hat/berryhead.png" },
+	"strawberryhead" : { "order" : 67, "item" : "strawberryhead", "icon": "/bun_images/hat/strawberryhead.png" },
+
+	//MushroomPatch
+
+	"shroomdisguisehead" : { "order" : 68, "item" : "shroomdisguisehead", "icon": "/bun_images/hat/shroomdisguisehead.png" },
+
+	//Swamp
+
+	"swamphat" : { "order" : 69, "item" : "swamphat", "icon": "/bun_images/hat/swamphat.png" },
+
+	//Savannah
+
+	"coolfezhead" : { "order" : 70, "item" : "coolfezhead", "icon": "/bun_images/hat/coolfezhead.png" },
+
+	//Oasis
+
+	"reedhead" : { "order" : 71, "item" : "reedhead", "icon": "/bun_images/hat/reedhead.png" },
+
+	//Colourful
+
+	"unicornhead" : { "order" : 72, "item" : "unicornhead", "icon": "/bun_images/hat/unicornhead.png" },
+
+	//Bone
+
+	"apexskullhead" : { "order" : 73, "item" : "apexskullhead", "icon": "/bun_images/hat/apexskullhead.png" },
+	"avianskullhead" : { "order" : 74, "item" : "avianskullhead", "icon": "/bun_images/hat/avianskullhead.png" },
+	"floranskullhead" : { "order" : 75, "item" : "floranskullhead", "icon": "/bun_images/hat/floranskullhead.png" },
+	"glitchskullhead" : { "order" : 76, "item" : "glitchskullhead", "icon": "/bun_images/hat/glitchskullhead.png" },
+	"humanskullhead" : { "order" : 77, "item" : "humanskullhead", "icon": "/bun_images/hat/humanskullhead.png" },
+	"hylotlskullhead" : { "order" : 78, "item" : "hylotlskullhead", "icon": "/bun_images/hat/hylotlskullhead.png" },
+
+	//Bioluminescence
+
+	"lighthelmhead" : { "order" : 79, "item" : "lighthelmhead", "icon": "/bun_images/hat/lighthelmhead.png" },
+
+	//ocean
+
+	"deepdiverhead" : { "order" : 80, "item" : "deepdiverhead", "icon": "/bun_images/hat/deepdiverhead.png" },
+	"divingmaskhead" : { "order" : 81, "item" : "divingmaskhead", "icon": "/bun_images/hat/divingmaskhead.png" },
+	"sharkhead" : { "order" : 82, "item" : "sharkhead", "icon": "/bun_images/hat/sharkhead.png" },
+
+	//alien
+
+	"alienskullhead" : { "order" : 83, "item" : "alienskullhead", "icon": "/bun_images/hat/alienskullhead.png" },
+
+	//Eyepatch
+
+	"eyehead" : { "order" : 84, "item" : "eyehead", "icon": "/bun_images/hat/eyehead.png" },
+	"eyehead2" : { "order" : 85, "item" : "eyehead2", "icon": "/bun_images/hat/eyehead2.png" },
+
+	//toxic
+
+	"plaguedoctorhead" : { "order" : 86, "item" : "plaguedoctorhead", "icon": "/bun_images/hat/plaguedoctorhead.png" },
+
+	//Tundra
+
+	"frostcrownhead" : { "order" : 87, "item" : "frostcrownhead", "icon": "/bun_images/hat/frostcrownhead.png" },
+
+	//Foundry
+
+	"weldershelmethead" : { "order" : 88, "item" : "weldershelmethead", "icon": "/bun_images/hat/weldershelmethead.png" },
+
+	
+//underground
+
+	//StoneCaves
+
+	"rockhat" : { "order" : 89, "item" : "rockhat", "icon": "/bun_images/hat/rockhat.png" },
+
+	//IceCaves
+
+	"icecubehead" : { "order" : 90, "item" : "icecubehead", "icon": "/bun_images/hat/icecubehead.png" },
+
+	//Tarpit
+
+	"tarblob" : { "order" : 91, "item" : "tarblob", "icon": "/bun_images/hat/tarblob.png" },
+	
+	//mushroom cave
+
+	"evilmushroomhead" : { "order" : 92, "item" : "evilmushroomhead", "icon": "/bun_images/hat/evilmushroomhead.png" },
+	"mushroomhead" : { "order" : 93, "item" : "mushroomhead", "icon": "/bun_images/hat/mushroomhead.png" },
+
+	//gnome cave
+
+	"buildinghathead" : { "order" : 94, "item" : "buildinghathead", "icon": "/bun_images/hat/buildinghathead.png" },
+	"gnomecaphead" : { "order" : 95, "item" : "gnomecaphead", "icon": "/bun_images/hat/gnomecaphead.png" },
+	"gnomehead" : { "order" : 96, "item" : "gnomehead", "icon": "/bun_images/hat/gnomehead.png" },
+	"househathead" : { "order" : 97, "item" : "househathead", "icon": "/bun_images/hat/househathead.png" },
+
+	//SPACE	
+
+	"mechpilothead" : { "order" : 98, "item" : "mechpilothead", "icon": "/bun_images/hat/mechpilothead.png" },
+	"industrialcrewhead" : { "order" : 99, "item" : "industrialcrewhead", "icon": "/bun_images/hat/industrialcrewhead.png" },
+	"spacebirdhead" : { "order" : 100, "item" : "spacebirdhead", "icon": "/bun_images/hat/spacebirdhead.png" },
+
+
+	//challenge
+	
+	"bunnyhead" : { "order" : 101, "item" : "bunnyhead", "icon": "/bun_images/hat/bunnyhead.png" },
+	"kittyhead" : { "order" : 102, "item" : "kittyhead", "icon": "/bun_images/hat/kittyhead.png" },
+
+
+	//specific
+
+	"insidioushead" : { "order" : 103, "item" : "insidioushead", "icon": "/bun_images/hat/insidioushead.png" },
+	"fancyhead" : { "order" : 104, "item" : "fancyhead", "icon": "/bun_images/hat/fancyhead.png" },
+	"armoredcultisthead" : { "order" : 105, "item" : "armoredcultisthead", "icon": "/bun_images/hat/armoredcultisthead.png" },
+	"glitchroyalhead" : { "order" : 106, "item" : "glitchroyalhead", "icon": "/bun_images/hat/glitchroyalhead.png" }
+
+
+	}
+}

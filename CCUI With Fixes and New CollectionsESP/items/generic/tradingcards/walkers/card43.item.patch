@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Le encanta retozar por los bosques y praderas."
+  }
+]

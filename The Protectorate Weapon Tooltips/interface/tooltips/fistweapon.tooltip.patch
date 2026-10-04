@@ -1,0 +1,154 @@
+[
+	{
+		"op": "replace",
+		"path": "/background",
+		"value": {
+			"type" : "background",
+			"fileHeader" : "/interface/tooltips/ProtectorateHeader.png",
+			"fileBody" : "/interface/tooltips/ProtectorateBody.png",
+			"fileFooter" : "/interface/tooltips/ProtectorateFooter.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/moneyIcon",
+		"value": {
+			"type" : "image",
+			"position" : [75, 19],
+			"file" : "/interface/money.png"	}
+	},
+	{
+		"op": "replace",
+		"path": "/priceLabel",
+		"value": {
+			"type" : "label",
+			"position" : [88, 18],
+			"hAnchor" : "left",
+			"value" : "tree"	}
+	},
+	{
+		"op": "replace",
+		"path": "/rarityLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 18],
+			"hAnchor" : "left",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerShotTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [156, 124],
+			"hAnchor" : "left",
+			"value" : "DMG Per Swing:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/damagePerShotLabel",
+		"value": {
+			"type" : "label",
+			"position" : [295, 124],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/speedTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [156, 114],
+			"hAnchor" : "left",
+			"value" : "Rate of Fire:"	}
+	},
+	{
+		"op": "replace",
+		"path": "/speedLabel",
+		"value": {
+			"type" : "label",
+			"position" : [295, 114],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "replace",
+		"path": "/comboFinisherTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [156, 104],
+			"hAnchor" : "left",
+			"value" : ""	}
+	},
+	{
+		"op": "replace",
+		"path": "/comboFinisherLabel",
+		"value": {
+			"type" : "label",
+			"position" : [295, 104],
+			"hAnchor" : "right",
+			"value" : ""	}
+	},
+	{
+		"op": "add",
+		"path": "/levelTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [126, 143],
+			"hAnchor" : "left",
+			"value" : "LVL:"	}
+	},
+	{
+		"op": "add",
+		"path": "/levelLabel",
+		"value": {
+			"type" : "label",
+			"position" : [151, 143],
+			"hAnchor" : "right",
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "add",
+		"path": "/handednessLabel",
+		"value": {
+			"type" : "label",
+			"position" : [50, 143],
+			"hAnchor" : "right",
+			"centered" : true,
+			"wrapWidth" : 126	}
+	},
+	{
+		"op": "add",
+		"path": "/damageKindImage",
+		"value": {
+			"type" : "image",
+			"position" : [142, 42],
+			"file" : "",
+			"centered" : true,
+			"maxSize" : [16, 16],
+			"minSize" : [16, 16]	}
+	},
+	{
+		"op": "replace",
+		"path": "/objectImage",
+		"value": {
+			"type" : "image",
+			"position" : [82, 94],
+			"file" : "",
+			"centered" : true,
+			"maxSize" : [70, 70],
+			"minSize" : [70, 70]	}
+	},
+	{
+		"op": "replace",
+		"path": "/descriptionLabel",
+		"value": {
+			"type" : "label",
+			"position" : [168, 72],
+			"hAnchor" : "left",
+			"vAnchor" : "top",
+			"wrapWidth" : 124,
+			"lineSpacing" : 1.0,
+			"value" : ""	}
+	}
+]

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc034",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc034" },
+  "inventoryIcon" : "mtc034.png",
+  "description" : "As advertised, this gun can poke things in targets. Or you can use it as a fire poker, if you really want to.",
+  "shortdescription" : "#34 Xia-La Phasepoker",
+  "largeImage" : "mtc034.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc034.png"
+}

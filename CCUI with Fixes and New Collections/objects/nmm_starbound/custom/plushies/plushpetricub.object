@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_petricubplush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushpetricub" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 110,
+
+  "shortdescription" : "Petricub Plushie",
+  "description" : "A goofy Petricub plush.",
+
+  "apexDescription" : "A plush Petricub. I don't know how to feel about it, Petricubs tend to get on my nerves.",
+  "avianDescription" : "I've never actually realised how goofy Petricubs look... mainly because I'm always busy being pestered.",
+  "floranDescription" : "Sssilly space puppy plushie. Floran like it a little.",
+  "glitchDescription" : "Unimpressed. These creatures are always nipping at me whenever I'm around them.",
+  "humanDescription" : "They're like space dogs, but- no, they're exactly space dogs. Still cute though!",
+  "hylotlDescription" : "Heehee! These creatures may be quite the bother, but they do make for a very cute plushie!",
+  "novakidDescription" : "I ain't so sure that the point o' this is.",
+  "felinDescription" : "Hmm, stupid space dog.",
+  "nekoDescription" : "I think he looks silly, heehee!",
+  "avaliDescription" : "I'm not especially fond of Petricubs, but this is a very nice plushie.",
+  "slimepersonDescription" : "It's a plush Petricub. I guess it's pretty cute.",
+  "nekiDescription" : "Silly stupid plushie. I like it.",
+
+  "inventoryIcon" : "icons.png:petricub",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x16.png:petricub",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Peluche de Gleap molestos. Sigue ssendo lindos."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un pequeño y suave peluche de Gleap."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "En conflicto. Encuentro a los Gleaps bastante lindos, pero pueden ser muy molestos."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Encuentro que los Gleaps son bastante molestos, pero admito que siguen siendo lindos."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Son unos bichos molestos, todos ellos."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peluche de Gleap"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Siempre pensé que los Gleaps parecían bastante abrazables."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un pequeño y bonito peluche."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Supongo que los Gleaps son bastante lindos."
+  }
+]

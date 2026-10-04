@@ -1,0 +1,34 @@
+{
+  "objectName" : "nmm_symbioteplush",
+  "colonyTags" : ["hylotloceancity", "pretty", "odd"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushsymbiote" },
+  "race" : "generic",
+  "rarity" : "Common",
+  "price" : 90,
+
+  "shortdescription" : "Symbiote Plushie",
+  "description" : "A weird, but still pretty cute Symbiote plush.",
+
+  "apexDescription" : "I'm not sure why someone would make this.",
+  "avianDescription" : "A little jelly creature plush.",
+  "floranDescription" : "Floran like silly critter plush.",
+  "glitchDescription" : "Content. It's a Symbiote plushie. Pretty cute.",
+  "humanDescription" : "Aww, a little Symbiote plush.",
+  "hylotlDescription" : "Aww, a little Symbiote plush!",
+  "novakidDescription" : "Someone made a toy o' the little jelly critter.",
+  "felinDescription" : "Heh, I don't have a line for this.",
+  "nekoDescription" : "Aww, nya, A little Symbiote plush!",
+  "avaliDescription" : "I think I'm meant to say something here.",
+  "slimepersonDescription" : "I don't really know what to say about this.",
+  "nekiDescription" : "A silly critter plushie.",
+
+  "inventoryIcon" : "icons.png:symbiote",
+  "orientations" : [
+    {
+      "dualImage" : "plushsymbiote.png",
+      "imagePosition" : [0, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mtc024",
+  "rarity" : "Common",
+  "price" : 1000,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "mtc_n_s1" : "mtc024" },
+  "inventoryIcon" : "mtc024.png",
+  "description" : "The universe may never know how someone who can't even spell right managed to make a functioning rocket launcher out of scrap parts.",
+  "shortdescription" : "#24 Custom 'Tankbusta'",
+  "largeImage" : "mtc024.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "mtc024.png"
+}

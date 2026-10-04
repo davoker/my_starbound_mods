@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kiwi", "count" : 1 },
+	{ "item" : "greenapple", "count" : 1 },
+	{ "item" : "diodia", "count" : 1 }
+  ],
+  "output" : { "item" : "batteryacid", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

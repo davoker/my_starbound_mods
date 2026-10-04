@@ -1,0 +1,35 @@
+{
+  "objectName" : "nuggubs_RM78plush",
+  "colonyTags" : ["hylotloceancity","pretty"],
+  "category" : "decorative",
+  "collectablesOnPickup" : { "nuggubs_plushies" : "plushRM78" },
+  "race" : "generic",
+  "rarity" : "Uncommon",
+  "price" : 110,
+
+  "shortdescription" : "Bonzongo Plushie",
+  "description" : "A fluffy purple ape-like plush.",
+
+  "apexDescription" : "This plush toy reminds me of someone I used to know.",
+  "avianDescription" : "This purple ape plush is extremely fluffy.",
+  "floranDescription" : "Plushie hasss fur? Very sssoft fur.",
+  "glitchDescription" : "Content. It's a very soft and fluffy plush.",
+  "humanDescription" : "Heh, monkey.",
+  "hylotlDescription" : "The subject of the plushie is questionable, but it is so undeniably fluffy.",
+  "novakidDescription" : "Well ain't that one of the hairiest things I've seen in a while.",
+  "felinDescription" : "The fur on this plushie's very soft. Almost as soft as mine, but I never lose.",
+  "nekoDescription" : "SOO. FLUFFYYY.",
+  "avaliDescription" : "It's a nice, cuddly plushie. Not so sure about the, uh, apeishness though.",
+  "slimepersonDescription" : "I probably shouldn't touch it...",
+  "nekiDescription" : "This plushie is almost as fluffy as me!",
+
+  "inventoryIcon" : "icons.png:RM78",
+  "orientations" : [
+    {
+      "dualImage" : "plushies16x24.png:RM78",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

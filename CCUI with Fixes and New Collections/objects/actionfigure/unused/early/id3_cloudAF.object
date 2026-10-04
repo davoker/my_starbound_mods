@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_cloudaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "cloudaf" },
+  "shortdescription" : "Cloud Figurine",
+  "description" : "The label reads, \"A mysterious creature.\"",
+
+  "inventoryIcon" : "superearly.png:3_cloud",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:3_cloud",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

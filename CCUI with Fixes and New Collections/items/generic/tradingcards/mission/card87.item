@@ -1,0 +1,13 @@
+{
+  "itemName" : "card87",
+  "rarity" : "Uncommon",
+  "price" : 625,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card87" },
+  "inventoryIcon" : "card87.png",
+  "description" : "A stone temple guardian, animated with ancient technology.",
+  "shortdescription" : "#87 Kluex Sentry",
+  "largeImage" : "card87.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card87.png"
+}

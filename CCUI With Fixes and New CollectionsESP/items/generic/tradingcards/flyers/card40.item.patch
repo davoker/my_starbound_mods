@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Durante las tormentas se agarra a los árboles para no salir volando."
+  }
+]

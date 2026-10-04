@@ -1,0 +1,13 @@
+{
+  "itemName" : "card74",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card74" },
+  "inventoryIcon" : "card74.png",
+  "description" : "The result of a scientific experiment gone wrong.",
+  "shortdescription" : "#74 Voltip",
+  "largeImage" : "card74.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card74.png"
+}

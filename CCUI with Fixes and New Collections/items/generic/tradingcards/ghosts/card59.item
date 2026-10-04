@@ -1,0 +1,13 @@
+{
+  "itemName" : "card59",
+  "rarity" : "Common",
+  "price" : 250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card59" },
+  "inventoryIcon" : "card59.png",
+  "description" : "Its charred surface is surprisingly pleasant to touch. Just keep away from the flames!",
+  "shortdescription" : "#59 Ignome",
+  "largeImage" : "card59.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card59.png"
+}

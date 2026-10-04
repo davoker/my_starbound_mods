@@ -1,0 +1,20 @@
+{
+  "objectName" : "nuggubs_wormonchaf",
+  "colonyTags" : ["pretty"],
+  "category" : "actionFigure",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "printable" : false,
+  "collectablesOnPickup" : { "nuggubs_figurines" : "wormonchaf" },
+  "shortdescription" : "Wormonch Figurine",
+  "description" : "The label reads, \"It's in its larval state, and it needs to eat a lot to grow.\"",
+
+  "inventoryIcon" : "superearly.png:19_grubble",
+  "orientations" : [
+    {
+      "dualImage" : "superearly.png:19_grubble",
+      "imagePosition" : [-2, 0],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

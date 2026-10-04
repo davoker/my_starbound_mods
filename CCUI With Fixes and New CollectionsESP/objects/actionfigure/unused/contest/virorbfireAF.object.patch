@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La etiqueta dice: \"Estos Virorbs se encuentran en planetas cálidos y también aparecen durante las lluvias de meteoritos\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Figurita de Virorb de fuego"
+  }
+]

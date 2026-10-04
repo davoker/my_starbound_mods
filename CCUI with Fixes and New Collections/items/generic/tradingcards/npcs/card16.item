@@ -1,0 +1,13 @@
+{
+  "itemName" : "card16",
+  "rarity" : "Rare",
+  "price" : 1250,
+  "category" : "tradingCard",
+  "collectablesOnPickup" : { "tradingcards" : "card16" },
+  "inventoryIcon" : "card16.png",
+  "description" : "Exchange diamonds for dubloons to hire penguin mercenaries.",
+  "shortdescription" : "#16 Beakeasy",
+  "largeImage" : "card16.png",
+  "tooltipKind" : "tool",
+  "activeImage" : "card16.png"
+}

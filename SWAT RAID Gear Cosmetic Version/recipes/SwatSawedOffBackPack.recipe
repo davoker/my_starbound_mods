@@ -1,0 +1,11 @@
+{
+	"input" : [
+    { "item" : "fabric", "count" : 3 },
+	{ "item" : "canvas", "count" : 5 },
+    { "item" : "cottonwool", "count" : 5 },
+	{ "item" : "string", "count" : 10 },
+	{ "item" : "titaniumbar", "count" : 5 }
+	],
+	"output" : { "item" : "SwatSawedOffBackPack", "count" : 1 },
+	"groups" : [ "craftingwheel", "swatraid" ]
+}

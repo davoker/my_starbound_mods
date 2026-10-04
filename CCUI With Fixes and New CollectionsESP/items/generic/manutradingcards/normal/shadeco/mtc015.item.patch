@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Como promoción, esta arma originalmente venía con una bonita camiseta y una taza de café."
+  }
+]

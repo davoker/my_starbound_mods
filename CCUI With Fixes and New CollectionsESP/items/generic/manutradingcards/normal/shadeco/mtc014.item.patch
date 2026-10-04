@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "'NOTA: Munición venenosa no incluida.' Vaya, qué pena."
+  }
+]

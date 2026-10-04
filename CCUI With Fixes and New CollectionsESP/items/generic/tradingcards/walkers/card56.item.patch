@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Siempre está en tensión. Camina de lado y entra en erupción a la menor confrontación."
+  }
+]
