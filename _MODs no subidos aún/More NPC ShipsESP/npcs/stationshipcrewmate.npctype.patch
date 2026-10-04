@@ -1,0 +1,702 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Si alguien me cuenta otro chiste sobre cierto grupo de tripulantes coloridos, voy a gritar."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "A menos que seas un pirata, no saquees nuestras cajas. E incluso si lo eres, por favor, no lo hagas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "El espacio se vuelve bastante aburrido después de un tiempo. Siempre es agradable conocer a alguien nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Trabajar en una nave puede ser un trabajo difícil, pero esto significó que no estaba en la Tierra cuando... sucedió."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "¡Oye, ¿un visitante? No recibimos muchos visitantes por aquí! ¡Quédate un rato!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "¿Tienes tu propia nave? ¡Eso es bastante genial!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "Ten cuidado al explorar anomalías. ¡Hay mastróides y robots asesinos por todas partes!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Vaya, uh, no esperaba ver a alguien nuevo por aquí. Bienvenido, supongo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "Los viajes espaciales todavía logran emocionarme, incluso hasta el día de hoy."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "¿Viniste todo el camino hasta el espacio profundo solo para conocernos? ¡Eso es asombroso!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "¿Alguien más encuentra extraño que haya rocas con caras enojadas ahí fuera?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "¡Oh no, olvidé alimentar a mi gato antes de partir! ¡Todos, debemos volver de inmediato! ¡Es una emergencia!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/12",
+    "value": "Lo siento, ¡no hay tiempo para charlas! ¡Tenemos mucho cargamento que entregar!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/13",
+    "value": "Es sorprendente cuántas anomalías resultan ser estaciones espaciales mundanas, ¿no crees?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/14",
+    "value": "Cuando quiero dormirme, empiezo a contar estrellas. Y vaya, hay suficientes estrellas para contar."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/15",
+    "value": "No puedo entender que la Tierra se haya ido. Pero todavía estoy agradecido por estar aquí con mi tripulación."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/16",
+    "value": "Debes de ser del Protectorado Terrenal. Es un honor conocerte, y... lo siento. La pérdida de la Tierra no será olvidada."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/17",
+    "value": "Se te da la bienvenida aquí siempre y cuando no toques ningún panel o caja. Algunas personas parecen estar interesadas en eso por alguna razón."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/18",
+    "value": "¡Hola! ¡Se te da la bienvenida a bordo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/19",
+    "value": "Hay tanto material gigante en el espacio. Quiero decir, cosas realmente enormes. ¿Sabes lo grandes que son la mayoría de las estrellas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "value": "No abuses de nuestra hospitalidad. Solo porque te hayamos invitado no significa que tengas permitido saquear nuestros suministros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "value": "Los piratas espaciales son desenfrenados en estos días. ¿Dónde están los Pacificadores cuando los necesitas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "value": "Hola. No te preocupes por mí, solo estoy revisando si los mecanismos están intactos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "value": "Saludos. ¿Estás en el espacio exterior por algún propósito específico?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "value": "Los Apex pueden encontrar consuelo aquí afuera, entre las estrellas. Doy la bienvenida a una vida tranquila."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/5",
+    "value": "Uno de los pequeños beneficios de la vida en el espacio es que las pulgas no sobreviven fácilmente por aquí..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/6",
+    "value": "Mi conocimiento científico es más valioso aquí en el espacio que bajo el régimen opresivo de los Miniknog."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/7",
+    "value": "Tienes una apariencia... ¿inquieta? Una apariencia de... ¿espíritu viajero?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/8",
+    "value": "Espero que al exiliarme al espacio, los Miniknog no vengan buscándome."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/9",
+    "value": "El aspecto más aterrador del régimen de los Miniknog es que el pueblo Apex está cómodo con el ciclo de opresión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/10",
+    "value": "El Gran Simio no parece tan grande desde aquí arriba."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/11",
+    "value": "Entre las estrellas, mirando hacia mundos enteros, incluso un régimen opresivo puede parecer pequeño e insignificante."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/12",
+    "value": "Se supone que debo estar luchando contra los Miniknog junto a mis compañeros rebeldes, pero por ahora solo estoy procrastinando."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/13",
+    "value": "El primer paso para luchar contra una dictadura es aprender. El enemigo puede quitarte tus armas, pero nunca tu conocimiento."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/14",
+    "value": "Vagar por el cosmos se siente liberador, especialmente después de vivir bajo el cruel régimen del Gran Mono."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/15",
+    "value": "Trabajar a bordo de un carguero es agotador, pero aún es mejor que trabajar para los Miniknog. Te vigilan todo el día."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/16",
+    "value": "No sé por qué nuestro capitán decidió invitarte en primer lugar, pero no me interrumpas mientras estoy trabajando."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/17",
+    "value": "Sin combustible Erchius, no podríamos haber coincidido hoy. Somos afortunados de tener motores FTL, no todas las especies pueden permitirse eso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/18",
+    "value": "Para ser honesto, no me siento muy seguro alrededor de los extraterrestres. Afortunadamente, la mayoría son más o menos amables."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/19",
+    "value": "Entregar carga es difícil pero no muy estresante. Estoy mayormente contento con mi trabajo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "value": "El espacio está lleno de maravillas. Si tan solo tuviera suficiente tiempo para visitar cada planeta de la galaxia..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "value": "¡Por Kluex, quién cogió mi comida enlatada de nuevo?! Incluso puse una etiqueta con mi nombre, ¡vamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "value": "¡Te doy la bienvenida a nuestra humilde nave espacial! Siéntete libre de mirar alrededor!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/3",
+    "value": "¡Te doy la bienvenida, persona extraña! Qué amable de tu parte visitarnos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/4",
+    "value": "Creo que tengo Erchius líquido en mis plumas después de cargar la nave antes... Esto manchará."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/5",
+    "value": "Mi nombre es <selfname>. ¿Nos estás visitando por mucho tiempo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/6",
+    "value": "¿Has viajado recientemente a las profundidades del espacio?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/7",
+    "value": "Ah, sí, otro amable invitado. Encantado de conocerte. Lo siento por el Protectorado. ¿Puedo volver a trabajar ahora?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/8",
+    "value": "Nuestros escáneres han estado actuando de manera extraña últimamente. Me pregunto qué pasa."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/9",
+    "value": "Es incómodo admitirlo, pero ni siquiera sé qué tipo de carga entregamos. Tiene que ser útil... ¿Verdad?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/10",
+    "value": "Que encuentres fuerza entre las estrellas, desconocido."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/11",
+    "value": "Mi pueblo solía creer que las estrellas eran los muchos ojos de su dios, Kluex. La ciencia, bueno, dice lo contrario."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/12",
+    "value": "Echo de menos volar a bordo de dirigibles. Las naves espaciales también son geniales, pero no es lo mismo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/13",
+    "value": "Este traje es demasiado picante y ni siquiera puedo rascarme adecuadamente. Qué fastidio."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/14",
+    "value": "Trabajar a bordo de una nave espacial de carga no es fácil, pero al menos se llega a ver nuevos lugares emocionantes."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/15",
+    "value": "Las noticias sobre el despertar de la Ruina son aterradoras en el mejor de los casos. ¿Qué pasa si decide devorar otros planetas también?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/16",
+    "value": "Escuché que nuestros colegas fueron saqueados por piratas pingüinos. ¿Cuándo van a detener la violencia esos sin plumas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/17",
+    "value": "Una vez que fui al espacio, me resultó difícil seguir creyendo en Kluex. El universo es fascinante por sí solo, no tengo claro que necesitemos a ningún ^cyan;Dios inventado^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/18",
+    "value": "¿Te gusta nuestra nave espacial? Hago todo lo posible para mantenerla en forma."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/19",
+    "value": "Los planetas ^orange;Medianoche^reset; son extraños. ¿Por qué siempre son tan oscuros? ¿Es algún tipo de maldición?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "Confundido. Así que los planetas han sido esferas todo el tiempo. Y yo pensaba que no eran más que círculos planos en el cielo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "value": "Emocionado. Pasé gran parte de mi vida sin saber que el espacio existía, ¡y ahora estoy aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "value": "Determinado. Vine al espacio para encontrar un oficio profesional. ¡Algún día seré <selfname>, maestro ingeniero!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "value": "Emocionado. ¡No puedo esperar para aterrizar en otro planeta! ¡Quiero ver tantas criaturas alienígenas extrañas como pueda!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/4",
+    "value": "Melancólico. Echo de menos ver los grandes castillos de mi pueblo. Las estaciones y naves espaciales no son muy estéticas, para ser honesto."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/5",
+    "value": "Preocupado. Ahora que estoy en el espacio, me siento tan pequeño. ¿Cómo dejaré mi huella cuando importo tan poco?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/6",
+    "value": "Amistoso. ¡Te damos la bienvenida, viajante espacial! Soy <selfname>. Te deseo lo mejor en tus viajes."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/7",
+    "value": "Curioso. ¿Siempre has sabido acerca de los viajes espaciales? ¿Siempre soñaste con aventurarte a través de las estrellas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/8",
+    "value": "Alegre. ¡Hola! ¡Me alegra conocerte!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/9",
+    "value": "Molesto. Miré por una ventana durante un rato y no vi nada más que estrellas y oscuridad. El espacio no es tan diverso como dicen algunos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/10",
+    "value": "Preocupado. ¿Los gusanos cerebrales afectan también a los Glitch? No me gustaría convertirme en su huésped y perder mi libre voluntad de nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/11",
+    "value": "Escéptico. ¿Cuál es la razón detrás de la existencia de los planetas tóxicos? ¿Qué tipo de civilización fue tan irresponsable como para arruinar muchos mundos hermosos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/12",
+    "value": "Emocionado. Si nuestro universo tiene un límite en algún lugar, entonces ¿qué hay más allá? ¿Es parte de algo aún más grande? ¿Qué piensas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/13",
+    "value": "Preocupado. Ten cuidado con los Cruzados de la Vista Universal. Se han vuelto más prominentes y han construido fortalezas voladoras. Me pregunto qué están tramando."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/14",
+    "value": "Opinión. ¡Hermosa Intento! es un lío sobrevalorado. Cambia mi opinión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/15",
+    "value": "Pensativo. ¿Fue el espacio creado por seres superiores o existe por sí mismo? Quizás nunca lo descubramos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/16",
+    "value": "Preocupado. Pensé que estaría libre de monstruos peligrosos cuando llegué al espacio, ¡pero ahora escucho que también hay monstruos espaciales!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/17",
+    "value": "Ansioso. Antes de adquirir conciencia de mí mismo, cazaba monstruos para mi aldea. ¿Quizás haga lo mismo aquí en el espacio?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/18",
+    "value": "Neutral. Mientras no toques nada, aquí se te da la bienvenida."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/19",
+    "value": "Molesto. ¿Podrías por favor no abrir las cajas? Debemos entregar todo en orden y seguridad, de lo contrario nuestro jefe se pondrá furioso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "value": "Quizás comparar el espacio con un océano no es muy preciso, pero no puedo evitarlo. Para mí es igual de profundo y maravilloso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "value": "Oh, una persona extraña. Un placer conocerte. Ahora, disculpa, necesito reorganizar un par de cajas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "value": "Siempre es un placer conocer a más personas que disfrutan de la exploración en el espacio, compartir conocimientos, aprender sobre las maravillas del espacio... Pero por supuesto, estás aquí por algo más."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/3",
+    "value": "¿Alguna vez te has topado con comerciantes solitarios? Algunos de ellos no venden más que basura inútil, así que ten cuidado."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/4",
+    "value": "La oscuridad vacía del espacio es como un lienzo en blanco. Cómo desearía poder pintar sobre él de alguna manera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/5",
+    "value": "El espacio es una especie de océano. En cierto modo, me hace sentir como en casa."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/6",
+    "value": "Si el espacio es como un gran océano, ¿quizás también alberga bestias gigantescas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/7",
+    "value": "He venido al espacio para encontrar inspiración artística entre las estrellas..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/8",
+    "value": "Siempre hay nuevos conocimientos por encontrar. He venido al espacio para aprender más sobre nuestro universo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/9",
+    "value": "¿Qué secretos están ocultos entre las estrellas? Deseo mucho descubrirlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/10",
+    "value": "Puede que ya sea increíblemente inteligente, pero ¡potencialmente hay aún más por aprender aquí en el espacio!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/11",
+    "value": "Mi nombre es <selfname> - es un placer conocerte."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/12",
+    "value": "Los planetas navegan a través de la noche infinita, como peces en un gran océano."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/13",
+    "value": "Se dice que la mayoría de la gente no puede comprender la inmensidad del espacio. Afortunadamente, yo soy lo suficientemente inteligente como para hacerlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/14",
+    "value": "¿Ya te has acostumbrado a navegar por el vasto y vacío océano del espacio?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/15",
+    "value": "Ser tan pequeño en comparación con la gran escala de toda la existencia... ¿También te hace sentir insignificante el espacio?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/16",
+    "value": "Lamento mucho la pérdida de la Tierra, pero no creo que el Protectorado pudiera protegernos de desastres similares de todos modos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/17",
+    "value": "En el espacio, es importante mantenerse saludable, tanto física como mentalmente. Nunca lo olvides."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/18",
+    "value": "Algún día obtendré mi propia nave y volaré donde quiera, como tú. No quiero desperdiciar mi vida empacando esas cajas oxidadas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/19",
+    "value": "Da gracias de que nuestro capitán haya decidido dejarte entrar. Normalmente no dejamos que nadie corra por la cubierta de nuestra nave espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/0",
+    "value": "¿Qué opinas de nuestra nave espacial? ¡Este chico malo puede cargar tanto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/1",
+    "value": "No hay ley en el espacio. Eso es bastante ideal para ladrones y villanos, ¿no crees?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/2",
+    "value": "El espacio es el verdadero país salvaje, ¿verdad? Bandidos para cazar, bares para beber... ¡Es realmente la vida!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/3",
+    "value": "Las estrellas realmente me llaman. Supongo que se siente bien estar aquí arriba, más cerca de ellas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/4",
+    "value": "¡Encantado de conocerte, colega!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/5",
+    "value": "Brillar como una lámpara de aceite realmente ayuda a destacar en el espacio, ¿no estás de acuerdo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/6",
+    "value": "Recibo muchas miradas extrañas de la gente por aquí. Supongo que no están acostumbrados a ver gente como yo por estos lares."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/7",
+    "value": "¿No me vas a mirar a los ojos, compi? Solo estoy bromeando contigo - ¡no tengo ojos! ^green;salvo que uses el mod ^cyan;CuteBound^reset;, claro JAjaJajAJajAja... en serio, ¿que acabo de decir? creo que he respirado demasiadas emanaciones Erchius..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/8",
+    "value": "Ser como una estrella brillante hace que recibas muchas miradas extrañas por aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/9",
+    "value": "¡Hola! No recibimos muchos huéspedes últimamente. Siéntete libre de quedarte."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/10",
+    "value": "¡Olvidé dónde puse mi escáner de nuevo! ¿Alguien lo ve?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/11",
+    "value": "Es una lástima que esto sea solo una nave de carga. Dispararía contra algunos escombros espaciales con una torreta o algo así."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/12",
+    "value": "No es un tren espacial, pero aún así esta nave es asombrosa. Hace el trabajo muy rápido."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/13",
+    "value": "El espacio es peligroso. Nunca puedes estar seguro de lo que te espera ahí fuera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/14",
+    "value": "No eres uno de esos bandidos espaciales ni nada por el estilo, ¿No? Bueno, entonces puedes quedarte."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/15",
+    "value": "Tengo una mascota Snugget en casa. Es adorable, pero la tripulación no me permite llevarla conmigo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/16",
+    "value": "Demasiado ocupado para hablar, tengo que arreglar las ventilaciones. Algo las obstruyó."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/17",
+    "value": "¿Quieres saber cuánto entregamos cada día? No me creerías si te lo dijera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/18",
+    "value": "¡Ey, colega! Un consejo: no olvides a dónde vas, como hice yo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/19",
+    "value": "No mires dentro de nuestras cajas, compi. No hay nada emocionante para ti."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "value": "Floran preferiría morir apuñalando que vivir de rodillasss. Por eso Floran esstá aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "value": "Pronto aterrizaré en otro planeta. Esspero poder cazar un poco allí. No lo he hecho desssde hace tiempo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "value": "Floran dejó la tribu de Floran porque Floran esss pacifista. Floran lo encuentra... Difícil."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/3",
+    "value": "Los planetasss son más grandess de lo que Floran pensaba. Floran sse siente muy pequeño."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/4",
+    "value": "Me pregunto cómo esstá mi familia en mi tribu. Esspero que coman bien y apuñalen mucho."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/5",
+    "value": "El ^cyan;Dedo Verde^reset; de Floran le ensseñó sobre los viajesss espaciales. ¡Ahora Floran vive en el cielo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/6",
+    "value": "Floran sse perdió durante la caza y ahora esstá aquí. Floran no está muy sseguro de lo que sucedió."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/7",
+    "value": "Floran no tiene muchasss oportunidades de cazar en el esspacio. Triste."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/8",
+    "value": "Essta nave espacial vuela muy rápido. A Floran le gussta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/9",
+    "value": "Algunoss Floran eran miembrosss de la tribu del Protectorado también. ¿Ssiguen vivos? ¿Esstán cazando al calamar gigante ahora?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/10",
+    "value": "Floran ssentir confusión acerca del espacio. ¿Por qué esss tan grande? ¿Cuántoss soles hay? ¿Puede Floran cazar calamares espacialess?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/11",
+    "value": "El espacio ess muy grande. Hay muchas cosasss que apuñalar."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/12",
+    "value": "No me gussta ese extraño combustible rosssa. Huele raro."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/13",
+    "value": "En el esspacio, nadie puede oírte apuñalar. Floran sssabe, Floran apuñaló monstruos espacialess."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/14",
+    "value": "No disstraigas a Floran. Floran debe trabajar. Floran debe contar cajasss de nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/15",
+    "value": "No todoss toman en serio a Floran. Floran hace todo lo que sse le ordena, ¿qué passa?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/16",
+    "value": "Floran huyó de los essspeluznantes hongos humanoidess. Floran tiene que essconderse. Floran tiene que trabajar aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/17",
+    "value": "Floran no quería luchar y comer durante toda ssu vida, assí que Floran vino al espacio en sssu lugar."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/18",
+    "value": "Floran vive en el cielo. ¡Floran essstá máss arriba que todoss en su tribu!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/19",
+    "value": "¡Viajero essspacial! ¡Hola!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "¡Hola! Estoy haciendo muuuuuchas cosas importantes aquí. Nada sospechoso, así que no me prestes atención."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "No soy un espía, ¡lo juro! ¡No me mires así! ¡No estoy mintiendo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "Oh, no estoy espiando ni nada, solo que... bueno... no me dieron mi uniforme. Sí, eso es todo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Por favor, no me interrumpas, estoy recolectando datos importantes sobre... Ejem. Quiero decir, estoy ocupado."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "¿Por qué todos dicen que no puedo vestir de negro? ¡Es un escándalo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "¡Deja de mirarme! ¡No hay nada turbio en mi apariencia! ¡Pregúntale a cualquiera en esta nave!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "No te fijes en mí. No hay nada sospechoso en mí. Ocupa tu mente en otra cosa. Por favor."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Día 37. Todavía no saben que no soy su compañero de tripulación. No se lo digas, quiero ver cuanto tiempo tardan en descubrirlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "...¿Qué? ¿Hay algo malo con mi rostro completamente normal?"
+  }
+]

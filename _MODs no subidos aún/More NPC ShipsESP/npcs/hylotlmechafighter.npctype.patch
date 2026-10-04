@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "value": "Espera... ¡se supone que no debes hablar conmigo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "value": "Que... ¿Qué estoy haciendo aquí? ¡Tengo que quedarme en mi mecha!"
+  }
+]

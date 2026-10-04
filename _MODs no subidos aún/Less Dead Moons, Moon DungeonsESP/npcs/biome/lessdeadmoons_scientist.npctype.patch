@@ -1,0 +1,397 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Establecimos contacto con las minas Charlie y Delta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "La sede aún no ha respondido, pero contactamos al menos con dos minas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Somos una estación de comunicaciones, pero la comunicación es difícil cuando no puedes contactar a nadie."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Aún no he oído nada de la instalación central de la luna. ¿Se supone que debemos estar aquí todavía?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "Las comunicaciones con los puestos de avanzada uno y dos siguen fallando. Espero que estén bien."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "Las minas Charlie y Delta confirmaron nuestra pérdida de comunicación con la Sede local."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "value": "Las minas Alpha y Bravo aún no han respondido a nuestras llamadas. Me pregunto si ha sucedido algo..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "value": "El relé de comunicación está en línea, pero nuestra señal no es lo suficientemente fuerte. Necesitamos expandir nuestro alcance."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "value": "Toda la red está en línea, pero múltiples áreas parecen inalcanzables. ¿Qué está pasando?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "value": "¿Qué podría haber pasado en la Sede? ¿Abandonaron el barco?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/10",
+    "value": "La sede aún no responde. ¿Qué está pasando allí arriba?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/11",
+    "value": "Letheia nos estacionó aquí, pero me pregunto si somos los únicos en todo el planeta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/12",
+    "value": "Letheia nos estacionó aquí para mantener la comunicación con los mineros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/13",
+    "value": "Letheia me dio este puesto como gerente de comunicaciones. Espero que no me bajen el sueldo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/14",
+    "value": "Necesito un laaaaargo descanso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/15",
+    "value": "La energía sigue fluctuando. Espero que no se apague. Nuestras reservas de oxígeno no durarán mucho."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/16",
+    "value": "Si las luces se apagan una vez más, voy a perder la cabeza."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/17",
+    "value": "La minería no es nuestro trabajo, pero tenemos que coordinar entre las minas y los centros de exportación."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/18",
+    "value": "El Erchius es lo suficientemente bueno para alimentar todas las instalaciones en la luna."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/19",
+    "value": "Gran parte de nuestra producción de Erchius se destina a alimentar las bases en esta luna, por lo que suministramos menos en general."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/20",
+    "value": "La sede principal de la luna aún no ha respondido a mis llamadas. Espero que no haya pasado nada malo..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/21",
+    "value": "¿Has salido al exterior? ¿Está todo bien por ahí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/22",
+    "value": "No he salido de la estación de comunicaciones en mucho tiempo. ¿Cómo está todo por ahí fuera?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/23",
+    "value": "Hemos estado aquí abajo durante muchísimo tiempo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/24",
+    "value": "Si no empiezo a recibir noticias de la sede, me presentaré allí en persona. Aunque, hay más tranquilidad aquí desde luego."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/25",
+    "value": "Cada vez me preocupa más que algo malo haya sucedido en las otras estaciones."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/26",
+    "value": "Oí lo que pasó en una de las principales minas de Erchius de Letheia. Espero que eso no pase aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/27",
+    "value": "Sigo escuchando sonidos debajo del puesto avanzado, pero no creo que haya nada ahí abajo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/28",
+    "value": "Oí que ocurrió algo en la mayor instalación de Letheia. ¿Crees que también podría suceder aquí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/29",
+    "value": "La instalación más grande de Letheia tuvo un incidente importante. Seguramente no nos enfrentaremos a ese mismo problea aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/30",
+    "value": "¿Has venido andando hasta aquí? Hombre, yo nunca salgo de este lugar salvo que no tenga más remedio."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/31",
+    "value": "Odio salir ahí afuera. Me alegra de que nos proporcionen suficientes suministros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/32",
+    "value": "Estar ahí afuera es espeluznante, estoy bastante feliz aquí. Mientras tenga comida y agua, haré mi trabajo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/33",
+    "value": "No los extraigo, pero reconozco que los cristales de Erchius son bonitos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/34",
+    "value": "Esos cristales que extraemos, son agradables y hermosos, ¿verdad?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/35",
+    "value": "El relé de comunicación necesita mantenimiento, pero no puedo contactar con los ingenieros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/36",
+    "value": "El relé está funcionando bien, pero sigo sin recibir señal de la mayoría de las estaciones."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/37",
+    "value": "Todavía nada. ¿Por qué nadie responde? ¿Hay alguien realmente allá afuera?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "¡Aléjate, monstruo de asqueroso!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "value": "¡Toma esto, y esto otro!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "value": "¡Mantente alejado de mí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "value": "¡Nos encontraron!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "value": "¡Están aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "value": "¡Retrocede!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "value": "¡Retirada!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/7",
+    "value": "¡Échadlo de aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/8",
+    "value": "¡No les permitas acercarse!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/9",
+    "value": "¡Mantén la distancia!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/10",
+    "value": "¡No dejes que se acerque!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "value": "¡No dejarán de venir!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/1",
+    "value": "¡Han vuelto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/2",
+    "value": "¡Aquí vienen otra vez!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/3",
+    "value": "¡Hay más!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "value": "Algo me dice que estos no son los últimos..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/1",
+    "value": "Creo que estamos a salvo, por ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/2",
+    "value": "¡Vaya, prácticamente se desintegraron!."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/3",
+    "value": "¡Átomo eres, y en polvo de átomo te convertirás..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/4",
+    "value": "No voy a limpiar este desastre..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/5",
+    "value": "No sabía si lo lograríamos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/6",
+    "value": "¡Ugh! ahora toda la habitación huele a esas... cosas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/7",
+    "value": "Bueno, un horror menos en el mundo..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "value": "¿Viste a dónde fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/1",
+    "value": "Creo que se fue."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/2",
+    "value": "¿Se escapó?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/3",
+    "value": "¿Estamos a salvo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "value": "¿Viste adónde se fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/1",
+    "value": "¿Dónde se fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/2",
+    "value": "¡No puedo verlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/3",
+    "value": "¡Lo he perdido de vista!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/4",
+    "value": "¿Lo ves?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/5",
+    "value": "No puede haber desaparecido..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "value": "¡Dale duro!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/1",
+    "value": "¡Se te da muy bien esto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/2",
+    "value": "¿Has tenido entrenamiento?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/3",
+    "value": "¡Buen trabajo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "value": "¡No tengo disparo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/1",
+    "value": "¡No puedo alcanzarlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/2",
+    "value": "¡Está fuera de mi alcance!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/3",
+    "value": "¡No tengo un tiro claro desde aquí!"
+  }
+]

@@ -1,0 +1,307 @@
+[
+
+  {
+    "op": "replace",
+    "path": "/steamspringship",
+    "value": {
+
+		"warpAction" : "InstanceWorld:steamspringship",
+		"threatLevel" : 1,
+		"skyParameters" : {
+		"seed" : 0,
+		"horizonClouds" : false,
+		"horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_steampunk1.png" } ]
+		},
+
+		"moving" : true,
+		"speed" : 15.0,
+		"orbitRange" : [1, 1],
+		"lifeTime" : [1500, 2100],
+		"parameters" : {
+		"icon" : "/celestial/system/ships/npcship.png",
+		"displayName" : "Buque a vapor",
+		"description" : "El capitán de este ^cyan;museo del vapor^reset; espacial nos invita cordialmente a subir a bordo."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/gnomefleet",
+    "value": {
+
+		"warpAction" : "InstanceWorld:gnomefleet",
+		"threatLevel" : 1,
+		"skyParameters" : {
+		"seed" : 0,
+		"horizonClouds" : false,
+		"horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_gnome1.png" } ]
+		},
+
+		"moving" : true,
+		"speed" : 15.0,
+		"orbitRange" : [1, 1],
+		"lifeTime" : [1500, 2100],
+		"parameters" : {
+		"icon" : "/celestial/system/ships/npcship.png",
+		"displayName" : "Flota de Gnomos",
+		"description" : "¡Una flota de gente pequeña! literalmente la nave la maneja gente diminuta."
+		}
+
+	}
+  },
+
+ {
+    "op": "replace",
+    "path": "/sovietcosmonautship",
+    "value": {
+
+		"warpAction" : "InstanceWorld:sovietcosmonautship",
+		"threatLevel" : 1,
+		"skyParameters" : {
+		"seed" : 0,
+		"horizonClouds" : false,
+		"horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_soviet1.png" } ]
+		},
+
+		"moving" : true,
+		"speed" : 15.0,
+		"orbitRange" : [1, 1],
+		"lifeTime" : [1500, 2100],
+		"parameters" : {
+		"icon" : "/celestial/system/ships/npcship.png",
+		"displayName" : "Buque cosmonauta Soviético",
+		"description" : "Los nuevos ^red;Nazis^reset;, son amistosos y su capitán, ^orange;Putin, ^cyan;alias el ^red;Cara mierda^reset; nos invita a subir a bordo, aun que recomiendo tener un arma cerca, no son de fiar..."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/astropirateship",
+    "value": {
+
+    "warpAction" : "InstanceWorld:astropirateship",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/npcship.png",
+      "displayName" : "Nave Pirata Astro",
+      "description" : "Más ^red;piratas^reset;, nunca llevan buenas intenciones, ve preparado si tienes pensado abordarlos, el camino hasta su nave está plagado de enemigos también."
+		}
+
+	}
+  },
+
+{
+    "op": "replace",
+    "path": "/agaranpirateship",
+    "value": {
+
+    "warpAction" : "InstanceWorld:agaranpirateship",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_shroom1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/npcship.png",
+      "displayName" : "Nave pirata Agaran",
+      "description" : "¡Agarans ^red;hostiles^reset;! No todos son pacíficos y vendedores, estos saquean y asesinan, prepárate bien si tienes intención de ^cyan;visitarles^reset;."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/brainslugresearchship",
+    "value": {
+
+    "warpAction" : "InstanceWorld:brainslugresearchship",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/npcship.png",
+      "displayName" : "Buque de invest. infestado",
+      "description" : "¡Este buque tiene un grave problema con los Brain Slugs! si vas a subir a bordo, te recomiendo llevar ropa ^cyan;anti-babas^reset; y llevar buenas armas."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/floranastronautship",
+    "value": {
+
+    "warpAction" : "InstanceWorld:floranastronautship",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_shuttle1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/npcship.png",
+      "displayName" : "Nave Floran de Astronautas",
+      "description" : "Al contrario que los Floran actuales, estos siguen teniendo ^red;hambre de carne^reset;, equípate bien antes de abordar su nave.."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/hylotlmecha",
+    "value": {
+
+    "warpAction" : "InstanceWorld:hylotlmecha",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_mecha1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/npcmechafighter.png",
+      "displayName" : "Mecha de combate",
+      "description" : "Esta nave espacial es, de hecho, un ^red;robot de batalla^reset; gigante. ^orange;Su piloto quiere desafiarte^reset;."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/unique_houseinspace",
+    "value": {
+
+    "warpAction" : "InstanceWorld:unique_houseinspace",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_uhouse1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/unique_houseinspace.png",
+      "displayName" : "Casa en el espacio",
+      "description" : "Por absurdo que parezca, este objeto parece ser un edificio de dos plantas con motores adosados, otros prefieren globos, este es más avanzado."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/unique_snowmanship",
+    "value": {
+
+    "warpAction" : "InstanceWorld:unique_snowmanship",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_usnow1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/unique_snowmanship.png",
+      "displayName" : "Castillo de Nieve Gigante",
+      "description" : "Esta plataforma a la deriva alberga el mayor castillo de nieve de la galaxia. Una trampa turística perfecta."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/unique_perfection",
+    "value": {
+
+    "warpAction" : "InstanceWorld:unique_perfection",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_uperfection1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/unique_perfection.png",
+      "displayName" : "Nave Perfectamente Genérica",
+      "description" : "Esta es la nave espacial ideal. Puede que no te guste, pero esto es lo que representa el máximo rendimiento y perfección."
+		}
+
+	}
+  },
+
+  {
+    "op": "replace",
+    "path": "/unique_roguesatellite",
+    "value": {
+
+    "warpAction" : "InstanceWorld:unique_roguesatellite",
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/ships/shiphorizonleft.png", "right": "/celestial/system/ships/shiphorizonright_mnpcs_usatellite1.png" } ]
+    },
+
+    "moving" : true,
+    "speed" : 15.0,
+    "orbitRange" : [1, 1],
+    "lifeTime" : [1500, 2100],
+    "parameters" : {
+      "icon" : "/celestial/system/ships/unique_roguesatellite.png",
+      "displayName" : "Satélite Rebelde",
+      "description" : "Este satélite militar se ha salido de su órbita y ahora amenaza todo a su paso."
+		}
+
+	}
+  }
+
+
+]

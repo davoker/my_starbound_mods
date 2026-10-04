@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "¡Lo logré! ¡Lancé mi casa al espacio! ¿Quién es el loco ahora? ¿he? ¿¿heeee??"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Finalmente, ¡mi sueño se hizo realidad! Tener la inmensidad del cosmos justo en tu jardín es asombroso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "Me llamaron loco... Me dijeron que estaba perdiendo el tiempo... Pero aquí estoy. Viajando por el espacio con mi propia casa."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Al menos ya no tengo que pagar impuestos, supongo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "¡Esos asteroides enojados son una plaga! ¡Estoy tan cansado de ellos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Mi amigo construyó un dirigible usando muchos globos y su propia casa. Yo di un paso más allá."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "¡Ja, ja! ¡Sí! ¡Lancé nuestra casa al espacio! Y ella me dijo que no funcionaría."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Adivina cuánto gasté en todos estos motores y cosas. No lo creerías si te lo dijera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "Después de todos estos años, ¡logré mi objetivo! ¡Mi casa está en el espacio! Y ahora... bueno... realmente no lo pensé mucho."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "¿Cómo está el clima afuera? ¿Lluvia de meteoritos, eh?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "¡No encontrarás un vecindario más tranquilo que el nuestro! ¡Después de todo, es el espacio!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "Bueno, así está la cosa. Estaba aburrido, así que convertí nuestra casa en una nave espacial. El problema es que no tengo ni idea de cómo hacer que esto vuelva. ¿Tienes alguna idea de que podría hacer?"
+  }
+]

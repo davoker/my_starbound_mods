@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "¡El espacio es aburrido! ¡No quiero estar más en el espacio! ¡Aterricemos en algún lugar pero ya mismo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Nuestro planeta natal fue quemado por el sol... ¡Y mis amigos seguían diciéndome que el cambio climático no era real! Ahora mira dónde estamos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "¡Oh hola! Estamos buscando un nuevo planeta para establecernos porque nuestro planeta natal está un poco... demasiado ^red;caliente^reset; estos días. ¿Conoces algún buen planeta?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "No quiero hablar con nadie en esta nave. No me permitieron llevar a mi mascota Fennix con nosotros, y todavía estoy triste por eso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "No voy a mentir, ni siquiera sé cómo nuestra nave pudo despegar. No es que me importe, sin embargo, estoy feliz de que finalmente estemos lejos de esos páramos quemados."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Ayer encontré una telaraña en una esquina. Nunca supe que las arañas pueden sobrevivir en entornos de baja gravedad. Pero ahora sé que ahora necesito un lanzallamas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "¿Por qué todos nos llaman holgazanes? Quiero decir, sí, a veces podemos ser perezosos, pero al menos pusimos el suficiente esfuerzo en construir esta nave, y tal..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "¡Oh, hola, un invitado del espacio! Lo siento, no nos queda té para ti. Ni galletas. De hecho, nos estamos quedando sin comida y esto es muy, muy malo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "^cyan;Soy azul da ba dee da ba die^reset;... Oh, lo siento, no te vi acercándote."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "¡Hace demasiado frío! No me importaría una taza de chocolate caliente. Y un pastel. Y galletas dulces también... Bien, genial, ahora tengo frío y hambre."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "A juzgar por esa cosa de materia en tu mano, eres uno de esos tipos del Protectorado, ¿verdad? ¿Proporcionas algún tipo de ayuda a los refugiados? Definitivamente podríamos necesitar alguna cosa."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "¡Chicos, en serio, les digo que tenemos que dar media vuelta! ¡Olvidé apagar mi horno antes de partir!"
+  }
+]

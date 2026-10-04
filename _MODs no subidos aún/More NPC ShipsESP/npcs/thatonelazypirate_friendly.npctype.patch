@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Entonces estás saqueando nuestra nave espacial, ¿verdad? Sabes, lo que sea, esos tipos de allá abajo son unos tontos de todas formas. Solo te pido que no destroces esta habitación, ¿de acuerdo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Oye, espera, ¡no dispares! ¡Soy amigable! Solo estoy aquí porque mi hermana también es una pirata espacial."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "Entonces... ¿eres del Protectorado? ¿No se comió su sede una calamar gigante o algo así?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Oh, hola. No te preocupes por mí, solo estoy relajándome. Ni siquiera estoy armado. Puedes tomar algunos bocadillos de la nevera si quieres."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "Espera, espera, ¡no soy ^red;ESE^reset; tipo de pirata! ¡Todo lo que hice fue ^red;DESCARGAR LEGALMENTE^reset; algunos videojuegos! ¡No me hagas daño!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Vamos, acabo de terminar de reparar esas sillas. ¡Ve a saquear a otras partes de la nave!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "Bueno, eh... no tengo armas conmigo, así que tal vez puedas... ya sabes... ¿perdonarme? ¿Por favor?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "No, no voy a pelear contigo. Sí, en serio. Estoy en huelga porque mi jefe no me paga suficientes píxeles."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "¿Realmente tenemos que pelear? Preferiría no hacerlo."
+  }
+]

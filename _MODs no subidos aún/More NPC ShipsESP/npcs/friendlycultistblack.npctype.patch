@@ -1,0 +1,192 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "No hay necesidad de estar nerviosos, visitante. Nuestros objetivos van más allá de tu comprensión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "¿Ocassus? Eh, no tenemos nada que ver con esos cretinos xenófobos, te lo juro."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "La Ruina no es nada. Si supieras que hay algo mucho más fuerte allá afuera..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Los planetas ^orange;Medianoche^reset; guardan muchos secretos oscuros sobre este universo, créeme."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "Te juro por las fuerzas oscuras que ayer vi de pasada una casa con un montón de propulsores. Quiero decir, hay literalmente fantasmas y rocas vivientes en el espacio, ¿¡^red;y nadie se quiere creer ESO^reset;!? pero que coj..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "A veces esas personas, las Sombras, me dan escalofríos. Nunca dicen nada. En absoluto."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "¿Cuántas veces tengo que explicar que no es un escenario? No intentamos ser unos ^orange;Edgelords^reset; solo para parecer geniales, ¡es lo que demandan los seres arcanos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "No temas, somos perfectamente inofensivos. Generalmente vaya."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "¿Por qué todos tenemos que llevar estas ridículas capuchas?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "No te preocupes, solo estamos de paso. Nada que sea sospechoso."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "¿Alguna vez has pensado en unirte a un culto? Podríamos usar a algunos recién llegados para los trabajos pesados."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "Entonces eres del Protectorado, ¿eh? ¿Qué tiene de especial? ¿Puedes comer tantos calamares gratis como quieras?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/12",
+    "value": "Los terrores que acechan en la noche... Si no puedes vencerlos, ¿por qué no unirte a ellos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "value": "Perdí mi fe en Kluex hace mucho tiempo. Ahora sirvo a nuevos maestros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "value": "No nos temas, extraño, somos perfectamente inofensivos. Por ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "value": "No recibimos visitantes muy a menudo. Y honestamente, no necesitamos muchos de ellos. Los forasteros tienden a interferir en nuestros rituales."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/3",
+    "value": "Los del Protectorado son una una especie de secta a su manera. Oh, lo siento, ^cyan;ERAN^reset; una secta a su manera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/4",
+    "value": "Si no planeas unirte a nosotros pronto, no deberías preocuparte realmente por nuestras metas. Están más allá de tu comprensión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/5",
+    "value": "Dudo que puedas imaginar todos los terrores que acechan en la oscuridad. Algunos de ellos son casi incomprensibles."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/6",
+    "value": "No asumas que no somos más que fanáticos maliciosos. Nuestras acciones pueden ser buenas, malas y en cualquier punto intermedio. Aunque estoy de acuerdo en que a menudo son sospechosas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/7",
+    "value": "Saludos. Estamos de camino al planeta ^orange;Medianoche^reset; más cercano."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/8",
+    "value": "Me gustan las capuchas y túnicas oscuras. Ocultan las manchas muy bien."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/9",
+    "value": "Espero que algún día mis hermanos emplumados entiendan que siguen a un dios equivocado. Si solo supieran la verdad..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/10",
+    "value": "¿Alguna vez has pensado en unirte a una secta? Podríamos usar algunos recién llegados para ciertos trabajitos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/11",
+    "value": "A diferencia de muchos otros Avians, estoy libre de ilusiones. Kluex no es digno de ser seguido por nadie."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/12",
+    "value": "Los terrores que acechan en la noche... Si no puedes vencerlos, ¿por qué no mejor unirte a ellos?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "value": "A Floran le gussta la oscuridad. Es lo opuesssto al fuego."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "value": "Floran ha visto cosasss. Cosas aterradorass."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "value": "Me uní a essta secta recientemente y aún no entiendo lo que estos tiposss hacen."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/3",
+    "value": "Dissfruto siendo miembro de esta ssecta aterradora. ¡Puedo apuñalar mucho!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/4",
+    "value": "Únete a nosotrosss. Ssiempre estarás a salvo de los horroress en la ossscuridad."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/5",
+    "value": "Los planetass oscuros ssson muy extraños. Ess mejor llevar una lanza larga cuando vayass allí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/6",
+    "value": "Floran no ve máss que oscuridad. Está en todas partesss."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/7",
+    "value": "Ssolo estamos de paso, no te preocupess por nosotros. No te haremosss daño a menos que tengamoss que hacerlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/8",
+    "value": "Cuidado con aquelloss que tienen ojos verdess. Cuidado con aquelloss cuyos cuerposs son máss oscurosss que la noche."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/9",
+    "value": "Essta túnica ess muy incómoda. Floran quiere quitársela, pero loss demás sectariosss se enojarían."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/10",
+    "value": "Nuesstra secta no esss peligrosa para ti. No todavía, al menoss."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/11",
+    "value": "¿Quieresss unirte a nosotross? Nuestra ssecta necesita más amigoss."
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "Complacido. Esta tecnología de latón no es muy avanzada, ¡pero cumple su función! Quizás tú también puedas usar algo así."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "value": "Sarcástico. La tecnología de vapor está totalmente actualizada. No es para nada inutil e impráctica. Sin ninguna desventaja..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "value": "Triste. En mi planeta, la gente no quería adoptar la tecnología de vapor y querían quemarme por gustarme. Así que tuve que dejarlos atrás."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "value": "Orgulloso. ¿Te gusta nuestra nave espacial? ¿No es impresionante?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/4",
+    "value": "Educado. Buen día... Espera, ¿hay días y noches en el espacio? Lo olvidé de nuevo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/5",
+    "value": "Molesto. Todas esas tuberías recogen tanto polvo. Tienes que limpiarlas todos los días."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/6",
+    "value": "Melancólico. ¡Quizás con esta avanzada tecnología de vapor, podría construir una máquina del tiempo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/7",
+    "value": "Alegre. ¿No te encantan las intrincadas mecánicas de vapor?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/8",
+    "value": "Preocupado. No estoy del todo seguro de que sea seguro volar en una nave hecha de tuberías, engranajes y latón. Sin embargo, me gusta la estética."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/9",
+    "value": "Inspirado. Hay tantas personas por ahí a las que podemos mostrar nuestra tecnología de latón... ¿Quizás deberíamos comenzar con los Floran?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/10",
+    "value": "Feliz. ¡Los Pipkins son realmente adorables! Algún día adoptaré uno."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/11",
+    "value": "Pensativo. Me pregunto por qué le gusta tanto a todo el mundo el estilo ciberpunk. El steampunk puede ser antiguo, pero es mucho más acogedor y no tiene esas prótesis antiestéticas..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/12",
+    "value": "Perplejo. No tengo el coraje de preguntarle a nuestro capitán, pero tengo una pregunta. ¿Qué hacen realmente todas esas tuberías? Hay tantas de ellas."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/0",
+    "value": "Esta nave no tiene ningún sentido con tantos tubos. ¿Para qué son?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/1",
+    "value": "¡Cómo va, compi! ¿Te gusta nuestra nave de latón? ¿Estilosa, eh?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/2",
+    "value": "Me olvidé de dónde puse mi llave inglesa otra vez. Necesito arreglar algunos tubos en la cubierta inferior."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/3",
+    "value": "Quiero llevar un poco de esta tecnología de vapor a mi pueblo. La gente se alegrará de verlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/4",
+    "value": "¡Buen día, compi! ¿Quieres ver algunos milagros de la buena y vieja ingeniería steampunk? Tenemos mucho, confía en mí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/5",
+    "value": "Esos tipos, los Glitch, pueden ser divertidos a veces, pero realmente saben cómo hacer que engranajes y latón se conviertan en algo hermoso. Son robots, así que tiene sentido, ¿verdad?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/6",
+    "value": "En el pasado era un ^cyan;Pacificador^reset;, pero ya me retiré de todo eso. Las cosas hechas de latón son mi nueva pasión."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/7",
+    "value": "¿Qué opinas de obtener algo de nuestra tecnología de relojería en tu nave espacial? Puede parecer anticuado, pero hace su trabajo muy bien."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/8",
+    "value": "No pareces uno de esos bandidos espaciales, así que puedes quedarte aquí por ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/9",
+    "value": "Esas luces no brillan más que mi propio cuerpo. ¡Tengo que arreglarlas rápido!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/10",
+    "value": "Si esta nave se vuelve a infestar de Lumoths, ¡me voy! Esos pequeños murciélagos brillantes me molestan cada vez que vienen."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/11",
+    "value": "Cuidado por donde pisas, compi, ¡el suelo está un poco viejo y oxidado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/12",
+    "value": "Nuestro capitán es un tipo sabio. Sabe mucho sobre todo esto del steampunk. Mejor que la mayoría de nosotros, ¡solo digo!"
+  }
+]

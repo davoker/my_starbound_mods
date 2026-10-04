@@ -1,0 +1,15 @@
+[
+	//More Planet Info Patch
+	{
+		"op": "test",
+		"path": "/displayDungeons"
+	},
+	{
+		"op": "replace",
+		"path": "/displayDungeons/moonheadquarters",
+		"value": {
+			"description": "Un cuartel general lunar perteneciente a la corporación Letheia. No responde a los intentos de comunicación.",
+			"icon": "/interface/cockpit/dungeons/moonheadquarters.png"
+		}
+	}
+]

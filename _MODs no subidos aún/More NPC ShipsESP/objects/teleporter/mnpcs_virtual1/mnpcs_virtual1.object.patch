@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Este dispositivo crea mapas virtuales que imitan el interior de las naves espaciales."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Sim. naves espac."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Esta computadora crea modelos digitales de naves espaciales. Me pregunto para qué sirven."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "¿Es algún tipo de dispositivo de realidad virtual? ¡Apúntame!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ve navess espaciales divertidasss en la pantalla."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Neutral. Esta máquina ejecuta un software de simulación de naves espaciales."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Esta computadora crea naves espaciales virtuales. ¿O debería decir ciber-naves espaciales?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Esta computadora parece ejecutar simulaciones de varias naves espaciales."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "¿Naves espaciales digitales? oh chico, ¿pero no son mejores las reales?"
+  }
+]

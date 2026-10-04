@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "En el cosmos, usted explora planetas. ¡En el cosmos soviético, los planetas lo exploran a usted!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "¡Buen día, camarada! ¡Nos alegra verte a bordo de nuestra nave! ¡Siéntete como en casa!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "¡Otro camarada del espacio! ¡Increíble!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "¡Las ideas del Protectorado suenan maravillosas! ¡Exploración, cooperación, unidad! Es una lástima que su capital haya sido destruida."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "¿Por qué todos hablan inglés? Pensé que habría más idiomas extraños en el cosmos. Además, ¿por qué no ruso?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "¡Ghbdtn! ... ¡Lo siento, quería decir hola!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "¡Esos piratas pingüinos son muy molestos! No puedes atraparlos, ¡siempre se te escapan!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Unos extraños aliens verdes nos dijeron que las cosas rojas van más rápido, por eso pintamos todo de rojo. Oh, y porque es el color de la revolución, por supuesto."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "¿A eso lo llamas un ^cyan;paquete de protección^reset;? Nah, dámelo y lo convertiré en un ^green;verdadero paquete de protección^reset;. ¡Confía en mí, soy el ingeniero!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "Un día encontraremos un buen planeta y construiremos una nueva colonia para los humanos. ¡Y para los extraterrestres también!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "¡Estamos escapando a ^orange;UN LUGAR^reset; que no ha sido corrompido por el capitalismo! ¡¡¡^cyan;EL ESPACIO^reset;!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "No, no tenemos vodka, deja ya de preguntar, ¿vale?"
+  }
+]

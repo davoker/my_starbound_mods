@@ -1,0 +1,397 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "No hemos tenido contacto con las minas Alpha y Bravo. Espero que todos estén bien..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Nuestra mina es bastante básica por ahora, pero en unos días habrá valido la pena."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Si me quedo aquí estaré bien, así que me quedaré aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Aún no he oído nada de la instalación central de la luna. ¿Todavía tenemos que seguir aquí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "Juro que sigo sintiendo que me están observando."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "Los Puestos Cinco y Siete informaron de una pérdida de comunicación con la central."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "value": "Minar aquí puede ser tranquilo... siempre y cuando ignores el constante y profundo retumbo de la luna."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "value": "El Erchius es fácil de encontrar, pero la falta de equipo hace que sea lento extraer."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "value": "¿Eso es un Manipulador de Materia? Uno de esos haría que este trabajo sea mucho más fácil."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "value": "La instalación central todavía no ha respondido, pero el Puesto Cinco respondió a nuestras comunicaciones."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/10",
+    "value": "Trabajar para Letheia es realmente una mierda, pero pagan bastante bien asi que..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/11",
+    "value": "Letheia nos asignó aquí, pero me pregunto si somos los únicos en todo el planeta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/12",
+    "value": "Letheia distribuyó mineros por toda la galaxia. Parece que somos los únicos que acabamos en este planeta."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/13",
+    "value": "Letheia me contrató como minero freelance. Oye, el dinero es dinero. Recibo buen pago."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/14",
+    "value": "El Erchius es bastante volátil, pero no parece demasiado peligroso de extraer."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/15",
+    "value": "¿Por qué el único lugar donde podemos encontrar Erchius es en estas lunas? ¿Por qué no en una playa tropical?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/16",
+    "value": "El Erchius no es difícil de encontrar, pero hay tanta demanda que no nos falta trabajo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/17",
+    "value": "Minar Erchius es fácil, pero no con este equipo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/18",
+    "value": "El Erchius es lo suficientemente bueno para alimentar todas las instalaciones de la luna, pero ralentiza nuestra producción."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/19",
+    "value": "Gran parte de nuestra producción de Erchius se destina a alimentar las bases en esta luna, por lo que suministramos menos en general."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/20",
+    "value": "La sede principal de la luna todavía no ha respondido a mis llamados. Espero que no haya sucedido nada malo..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/21",
+    "value": "¿Has estado ahí afuera? ¿Está todo bien por allí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/22",
+    "value": "No he salido de la mina en una semana. ¿Todo está bien por ahí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/23",
+    "value": "Todavía no he salido al exterior para descansar. Da miedo estar ahí fuera."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/24",
+    "value": "Si no empiezo a tener noticias de la central, puede que vaya allí en persona. Pero, por otro lado, hay más tranquilidad aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/25",
+    "value": "Cada vez me preocupa más que algo malo haya pasado en las otras estaciones."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/26",
+    "value": "Oí lo que pasó en una de las principales minas de Erchius de Letheia. Espero que no pase aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/27",
+    "value": "Sigo oyendo ruidos, como si algo estuviera a mucha profundidad en la mina..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/28",
+    "value": "Oí que algo ocurrió en la mayor instalación de Letheia. ¿Crees que podría pasar aquí?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/29",
+    "value": "La mayor instalación de Letheia tuvo un gran incidente. Seguro que no nos enfrentaremos con ese mismo problema aquí."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/30",
+    "value": "¿Viniste andando hasta aquí? Yo nunca salgo de este lugar a menos que tenga que hacerlo."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/31",
+    "value": "Odio caminar por ahí fuera. Me alegra de que nos proporcionen suficientes suministros."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/32",
+    "value": "Da miedo el exterior, estoy feliz de estar aquí. Mientras tenga comida y agua, voy a extraer sus cristales."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/33",
+    "value": "Los cristales en la caverna son realmente bonitos de ver, hasta me hace sentirme mal por extraerlos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/34",
+    "value": "Esos cristales, Erchius, son muy bonitos de ver. Lástima que tengamos que extraerlos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/35",
+    "value": "Los cristales de Erchius son hermosos a la vista."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/36",
+    "value": "Estos cristales Erchius son realmente brillantes."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/37",
+    "value": "Estos cristales de Erchius brillan de manera sorprendentemente brillante. Puede que tenga que ver con su alto rendimiento energético."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "¡Aléjate, maldito engendro carnoso!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "value": "¡Toma esto, y esto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "value": "¡Mantente alejado de mí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "value": "¡Nos han encontrado!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "value": "¡Están aquí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "value": "¡Retrocede!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "value": "¡Retirada!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/7",
+    "value": "¡Devuélvelo al infierno!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/8",
+    "value": "¡No dejes que se acerque a ti!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/9",
+    "value": "¡Mantén la distancia!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/10",
+    "value": "¡No permitas que se acerque!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "value": "¡No paran de venir!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/1",
+    "value": "¡Han vuelto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/2",
+    "value": "¡Ahí vienen de nuevo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/3",
+    "value": "¡Hay más!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "value": "Algo me dice que esto no es lo último que veremos de ellos..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/1",
+    "value": "Creo que estamos a salvo, por ahora."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/2",
+    "value": "¡Wow! prácticamente se desintegraron."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/3",
+    "value": "^red;¡Yipi ka yei hijo de puta!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/4",
+    "value": "No voy a limpiar este desastre..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/5",
+    "value": "No tenía claro si lo lograríamos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/6",
+    "value": "¡Ugh, ahora toda la habitación huele a esa mierda!."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/7",
+    "value": "Uno menos de esos horrores en el mundo..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "value": "¿Viste hacia dónde se fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/1",
+    "value": "Creo que se fue."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/2",
+    "value": "¿Se escapó?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/3",
+    "value": "¿Estamos a salvo?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "value": "¿Viste a dónde fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/1",
+    "value": "¿Dónde se fue?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/2",
+    "value": "¡No puedo verlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/3",
+    "value": "¡Lo perdí de vista!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/4",
+    "value": "¿Lo ves?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/5",
+    "value": "No puede haber desaparecido..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "value": "¡Derrótalo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/1",
+    "value": "¡Se te da bastante bien esto!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/2",
+    "value": "¿Has recibido entrenamiento?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/3",
+    "value": "¡Buen trabajo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "value": "¡No lo tengo a tiro!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/1",
+    "value": "¡No puedo alcanzarlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/2",
+    "value": "¡Está fuera de mi alcance!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/3",
+    "value": "¡No tengo un tiro claro desde aquí!"
+  }
+]

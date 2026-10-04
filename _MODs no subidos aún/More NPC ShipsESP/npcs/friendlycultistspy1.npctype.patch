@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "No te preocupes por mí. No hay nada sospechoso en mí. Ocúpate de tus asuntos. Por favor."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "No soy un espía, lo juro... ¡No me mires así! ¡No estoy mintiendo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "¿Qué miras? ¿Nunca has visto a un Agaran antes?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Soy un hongo diminuto. Un hongo diminuto y adorable. Por favor, vete."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "Es muy difícil concentrarse con esos sucios Froggs por alrededor... ¡Oh, hey! ¡No te había visto! ¡No soy un espía!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Hoom hoom! Hoom... Me pregunto qué significa en realidad... AHEM. Hoom."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "Uh... ¡Croac! ¡Quiero decir hoom! Quiero decir... lo que digan esos tipos hongos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Oye, ¿qué quieres? Uh, quiero decir hoom hoom!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "...¿qué? ¿Hay algo malo en mi cara completamente normal de Agaran?"
+  }
+]

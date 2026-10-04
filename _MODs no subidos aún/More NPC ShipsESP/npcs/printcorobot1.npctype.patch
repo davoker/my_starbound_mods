@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "¡Bienvenido a Print Co., el fabricante de impresoras de píxeles más grande de la galaxia! ¿En qué puedo ayudarte, PC_SUPPORT_UNIT?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "value": "¡Le doy la bienvenida a Print Co.! ¡Nuestras impresoras de píxeles son las mejores de GALAXY_NAME! ¡No dudes, CLIENT_NAME, intenta imprimir algo! ¡Cualquier cosa que se te ocurra!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "value": "Pase lo que pase en la galaxia, Print Co. siempre da prioridad a sus clientes. Nos aseguramos de que nuestro servicio de atención al cliente esté a la altura de tus expectativas. Print Co. - imprimiendo nuestro futuro juntos."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "value": "¡Echa un vistazo a nuestra nueva impresora de píxeles XD! Ahora PRODUCT_NAME puede aceptar hasta un 10% más de píxeles y tiene una carcasa externa mejorada, ¡así que no hay forma de que puedas destruirla accidentalmente mientras imprimes objetos peligrosos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/4",
+    "value": "ERROR. PC_SUPPORT_UNIT SE QUEDÓ SIN MEMORIA. POR FAVOR, PÓNGASE EN CONTACTO CON... - ERROR."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/5",
+    "value": "¡Saludos, CLIENT_NAME, le doy la bienvenida a Print Co., donde todas las cosas imaginables se pueden imprimir fácilmente usando nada más que tus píxeles!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/6",
+    "value": "Por supuesto, Letheia Corp ofrece muchos productos increíbles. ¿Pero qué saben ellos sobre impresoras de píxeles? Más importante aún, ¿pueden siquiera producir una? Bueno, ¡Print Co. seguro que sí!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/7",
+    "value": "No dejes que COMPETITOR_NAME te engañe. Lo que sea que afirmen, Print Co. no apoya el trabajo esclavo y respeta los derechos de sus empleados."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/8",
+    "value": "¿Por qué desperdiciar tu precioso dinero comprando algunos materiales para imprimir cuando puedes imprimir cualquier cosa usando nada más que los píxeles mismos? ¡Print Co. sabe cómo hacerlo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/9",
+    "value": "¡Print Co.! ¡La tecnología de impresión tridimensional más barata de todo el cosmos! La calidad ha sido verificada por- ERROR. ANUNCIO NO ENCONTRADO."
+  }
+]

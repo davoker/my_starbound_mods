@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/0",
+    "value": "¡Contempla, persona extraña! ¡El poder infinito de objetos perfectamente genéricos! ¡Todo en mi armadura perfecta! ¡Y es ^green;VERDE^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/1",
+    "value": "¿Realmente piensas que algún otro recurso en este universo puede competir con objetos perfectamente genéricos? ¡No seas idiota!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/2",
+    "value": "Células estáticas, muestras de veneno... ¡No puedo creer que algunas personas vendan objetos perfectamente genéricos a un precio tan bajo! ¡No comprenden el verdadero valor de los preciosos cubos verdes!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/3",
+    "value": "La gente nunca entiende la idea detrás de mi buena y vieja nave espacial. ¡No es simplista, es perfecta! ¡Al igual que los cubos! ¿Por qué tengo que explicar esto cada dos por tres?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/4",
+    "value": "¡Saludos! Soy aquel que busca objetos perfectamente genéricos por toda la galaxia... ¡Porque deben ser míos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/5",
+    "value": "¿La Ruina? ¿A quién le importa algún monstruo de tentáculos cuando hay objetos perfectamente genéricos por ahí tirados? ¡^cyan;ESA^reset; es la verdadera fuerza, ni ^orange;midicrodianos^reset; ni ostias, persona extraña!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/6",
+    "value": "Quizás puedas recolectar suficientes objetos perfectamente genéricos, pero ¡no olvides que de todas formas me pertenecen! ¡Algún día me convertiré en el dueño de todos los cubos perfectos!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/7",
+    "value": "Sabes, un Frogg me dijo que no es fácil ser verde. Bueno, ¡sólo quiero decirte que eso es una tontería! ¡El verde es el color más poderoso de la galaxia!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/8",
+    "value": "¡Abraza la perfección de los cubos verdes, persona extraña! ¡No seas un ser patético e ignorante como los demás!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/9",
+    "value": "¿^cyan;Podrías por favor instalar ^orange;algunos mods^cyan; y luego desactivarlos^reset;? Así aparecerán más cubos perfectamente genéricos por toda la galaxia, me gustaría recolectar más."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/10",
+    "value": "Algun tonto comparó los objetos perfectamente genéricos con estatuas de ángeles. ¿Qué se supone que significa eso?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/novakid/default/11",
+    "value": "Necesito más objetos perfectamente genéricos... ¡Más... MUCHOS MÁS!... JAjajaJAjaJAja"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "¡Convirtió nuestra casa en una nave espacial! ¿Qué tipo de loco haría eso?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Le dije que olvidara sus ideas locas sobre el espacio, pero no me escuchó. ¡Típico de Carl! ¡Ahora estamos atrapados aquí afuera!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "¿Dónde está nuestro perro? ¡No me digas que lo dejamos atrás!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Debería haberme casado con Paco, ^cyan;el de los cementos^reset..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "¿Cómo se supone que vamos a recoger a nuestra hija del campamento de verano ahora?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Por supuesto que se negó a llevar a mi madre con nosotros. ¡Los hombres siempre son así!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "¡Esto es vergonzoso!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "¡No puedo creer que esto esté sucediendo! Vendió nuestro coche para terminar esto... ¡Esto... solo mira a nuestro alrededor! ¡Estamos en el espacio!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "¿POR QUÉ ALGUIEN QUERRÍA SU CASA EN EL ESPACIO EXTERIOR, CARL?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "¡Mi esposo está loco! ¡Mira lo que hizo con nuestra encantadora casa! ¡Esto es una locura!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "¿Tienes algún suministro de alimentos en tu nave? Nos estamos quedando sin leche y verduras."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "¿Podrías aterrizar de alguna manera nuestra casa de nuevo en nuestro planeta? No estoy segura de en qué dirección está, sin embargo... ¡Todo es culpa de Carl!"
+  }
+]
